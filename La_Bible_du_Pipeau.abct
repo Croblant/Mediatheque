@@ -719,55 +719,6 @@ w: R/~Buf- fa- lo gals, will you|come out to- night,|come out to- night,|come ou
 w: come out to- night, and|dance by the light of the|moon.|
 
 X:30
-T:Ça va, ça va
-T:Album Claudio Capeo (2016)
-C:Claudio Capeo
-Z:G=F
-L:1/8
-Q:1/4=100
-M:4/4
-I:linebreak $
-K:G
-V:1 clef=
-V:1
-^"Em" z4 z2 EA/B/ |^"Am" c2 B/BA/^"B7" A2 G/AB/ |^"Em" B2 B4 E/GB/ |:^"Am" A2 A/AG/^"B7" F2 E/FG/ |^"Em" G2 G4 E/GB/ |$ %5
-w: 1.A toi la|fille qui me rend si dur et si|ten- dre Qui sait m'par-|ler Quand j'suis bar- ré Qu'j'veux rien en|ten- dre Quand j'ai l'coeur|
-w: |||jours J'men fai- sais pour mes len- de-|main _ Toi dont je|
-^"Am" c2 B/BA/^"B7" A2 A/dc/ |^"Em" B2 B/BA/^"C" G2 G/cB/ |^"D" A2 A/AG/^"B7" F A3/2GF/ |^"Em" G E4 z GA |$ %9
-w: sourd Quand j'ai l'coeur lourd Des pluies de|peines La lame trem- pée dans de l'a-|cier Quand j'suis pau- mé que tout- m'en-|chaî- ne J'ai par-|
-w: sais que même bles- sé t'es tou- jours|là pour me por- ter pour a- bré-|ger ma peine jus- qu'à c'que j'sois lé-|ger _ J'ai par-|
-^"G" B4 c3 d |^"D" d A4 d d2 | c^"Em" B4 BAG |^"D" B>A- A4 GA |^"G" B4 c3 e |^"D" d A4 d d>B |^"C" c4^"B7" z B2 A/G/ | F^"Em" E4 B Be |$ %17
-w: fois l'â- me|pri- se Dans des|fi- lets qui me tour-|men- tent * J'ai par-|fois l'â- me|gri- se Et si ce|soir tu me de-|man- des Com- ment ça|
-w: fois l'âme en|cri- se Ma joie|de vivre qu'on me la|ren- de * Mon bon-|heur me mé-|pri- se * * *|||
-^"C" ed/d/ c^"D"c BB A/d/c/B/- |^"G" B2 B3 GAB |^"Am" cB/B/ A^"B7"A GG B/BA/ |^"Em" G2 E3 B Be&x4^"D"x4 |$ %21
-w: va, ça va, ça va, ça va sur ma pla- nè-|* te J'te ré- pon-|drai ça va, ça va, ça va comme- ci comme-|ça * Les bières, les|
-w: ||||
-^"C" ed/d/ c^"D"c BB A/d/c/B/- |^"G" B2 B3 G AB&x4^"Bm/F#"x4 |^"Am" cB/B/ A^"B7"A G/GF/ GF |$ %24
-w: vins que j'bois en vain n'ont pas l'goût de la fê-|* te Mais tant qu'on|a le coeur qui bat, qui bat ça va, ça|
-w: |||
-|1^"Em" E6 EA/B/ ||^"Am" c2 B/BA/^"B7" A2 A/G/A/B/ |^"Em" B6 E/GB/ :|$ %27
-w: va. A toi l'a-|mi Le seul homme qui m'a te- nu la|main Quand tous les|
-w: |||
-|2 E4- EEGB ||^"Am" A2 A/A/A/G/^"B7" F2 F/E/F/G/ |^"C" c B4 z E/E/G/B/ |^"Am" A2 A/A/A/G/^"B7" F2 F/A/G/F/ |^"Em" G E4 EGB |$ %32
-w: va. * A ceux que|j'ai par- fois né- gli- gés Peut- être un peu|li- bre Pour pas dé- ran-|ger Moi le nau- fra- gé sur mon ba- teau|î- vre J'ai pas d'bou-|
-w: |||||
-^"Am" cBBA^"B7" A2 A/dc/ |^"Em" B>B BA^"C" G2 G/cB/ |^"D" A2 A/AG/^"B7" F A3/2GF/ |^"Em" G E4 BBe |$ %36
-w: ée pas d'feu dé- tresse Je suis pas|doué pour les ca- resses Mais si ja-|mais vous m'de- man- dez quand tout me|ble- sse com- ment ça|
-w: ||||
-^"C" ed/d/ c^"D"c BB A/d/c/B/- |^"G" B2 B3 GAB |^"Am" cB/B/ A^"B7"A GG B/BA/ |^"Em" G2 E3 B Be&x4^"D"x4 |$ %40
-w: va, ça va, ça va, Ca va sur ma pla- nè-|* te J'te ré- pon-|drai ça va, ça va, ça va Comme- ci comme-|ça _ Les bières, les|
-w: ||||
-^"C" ed/d/ c^"D"c BB A/d/c/B/- |^"G" B2 B3 G AB&x4^"Bm/F#"x4 |^"Am" cB/B/ e^"B7"e e/e^d/ de |^"Em" e4- eeeg |^"C" ge/g/ e^"D"g eg e/g/a/g/- |$ %45
-w: vins que j'bois en vain n'ont pas l'goût de la fê-|* te Mais tant qu'on|a le coeur qui bat, qui bat ça va, ça|va * Com- ment ça|va, ça va, ça va, ça va sur ma pla- nè-|
-w: |||||
-^"G" g2 d3 GAB |^"Am" cB/B/ A^"B7"A GG B/BA/ |^"Em" G2 E3 BBe&x4^"D"x4 |^"C" ed/d/ c^"D"c BB A/d/c/B/- |^"G" B2 B3 f ff&x4^"Bm/F#"x4 |$ %50
-w: * te J'te ré- pon-|drai ça va, ça va, ça va comme- ci comme-|ça _ Les bières, les|vins que j'bois en vain N'ont pas l'goût de la fê-|* te Mais tant qu'on|
-w: |||||
-^"Am" ge/g/ e^"B7"g e/ge/ ge |^"Em" g>f e2 z4 |] %52
-w: a le coeur qui bat, qui bat, ça va, ça|va * *|
-w: ||
-
-X:31
 T:Cadet Rousselle
 T:Chanson écrite en 1792 sur des airs antérieurs.
 T:Version paillarde avec Bali Balo.
@@ -793,7 +744,7 @@ w: ||||
 w: ||||
 w: ||||
 
-X:32
+X:31
 T:Calypso Queen
 T:Album "Far From Home" (2016)
 C:Calypso Rose
@@ -834,7 +785,7 @@ w: ||||||||
  ffee dd ^c2 | d2 z6 | fegf ed ^c2 | z8 | BABA G2 F2 | z8 | GFEF d4 |] %71
 w: |||||||
 
-X:33
+X:32
 T:Canon : Dans la forêt lointaine
 L:1/8
 M:4/4
@@ -851,7 +802,7 @@ w: cou, hi- bou, cou- cou, hi- bou, cou-|cou, hi- bou, cou- cou! Cou-|
 ^"F" AA A c AAAc |^"C" B>A BG F z :| %9
 w: cou, hi- bou, cou- cou, hi- bou, cou-|cou, hi- bou, cou- cou!|
 
-X:34
+X:33
 T:Canon : Le Petit Cireur D'Harlem
 T:"Les canons qui balançent" (1995)
 C:Jean Yves LE DUC
@@ -866,7 +817,7 @@ w: Le pe- tit ci-|reur d'Har- lem _|s'en va dans le|ma- tin blème _|Il ar- pent
  _B2 A G3 A2 | G2 =B2 d2 B2 | F2 Ac- c4 | C2 E2 F2 ^F2 | G2 A G3 z2 |] %12
 w: Man- hat- tan _|des sou- cis il|n'en a cure _|Il ne met pas|de chaus- sures|
 
-X:35
+X:34
 T:Canon : Le Port de Lorient (Au gré du vent)
 L:1/8
 M:4/4
@@ -883,7 +834,7 @@ w: de grands voi- liers tout blancs|at- ten- dent en rê- vant|au gré du vent|p
  c2 B2 A2 B2 | z8 | F2 G2 A2 G2 | z8 | E2 D2 E2 C2- | C2 E4 D2 | z8 | C2 C2 =B,2 C2 :| %21
 w: pour l'O- ri- ent||au gré du vent||puis ils s'en vont|_ _ _||au gré du vent|
 
-X:36
+X:35
 T:Canon : Vent frais
 T:Version française (1965) de "Hey, Ho Nobody Home" de Thomas Ravenscroft (1609)
 L:1/8
@@ -899,7 +850,7 @@ w: Vent frais,|Vent du ma- tin,~|Vent qui souffle~ au|som- met des grands pins,|
 w: ||
 w: Joie du vent qui|souffle Al- lons dans le grand|
 
-X:37
+X:36
 T:Cayenne
 L:1/8
 M:12/8
@@ -924,7 +875,7 @@ w: Mort * aux vaches, Mort|aux con- dés. Vive|les en- fants d'Ca- yenne A bas c
 w: ||||
 w: ||||
 
-X:38
+X:37
 T:Auld lang syne / Ce n'est qu'un au revoir
 L:1/8
 M:4/4
@@ -941,7 +892,7 @@ w: n'est qu'un au re-|voir mes frères. Ce|n'est qu'un au re-|voir Oui|
 ^"G" d3 B B2 G2 |^"Am" A3 G^"D" A2^"B7" B2 |^"Em" G3 E^"C" E2^"D7" D2 |^"G" G6 |] %17
 w: nous nous re- ver-|rons mes frères Ce|n'est qu'un au re-|voir.|
 
-X:39
+X:38
 T:Chanson pour l'auvergnat
 T:Album "Les Sabots d'Hélène" (1954)
 C:Georges Brassens
@@ -984,7 +935,7 @@ w: qu'il te con-|duise|à tra- vers|ciel|au père|é- ter- nel.|_|
 w: qu'il te con-|duise|à tra- vers|ciel|au père|é- ter- nel.|_|
 w: qu'il te con-|duise|à tra- vers|ciel|au pére|é- ter- nel.|_|
 
-X:40
+X:39
 T:Chant du bataillon des Glières
 T:Le maquis des Glières est un mouvement résistant français ayant opéré entre le 31 janvier et le 26 mars 1944,
 T:durant l'occupation allemande, sur le plateau des Glières, en Haute-Savoie.
@@ -1001,7 +952,7 @@ w: ou à mou-|rir|* Pour chas-|ser l'en- ne-|mi san- gui-|nai-|re Nous vain-|
  A2 A>A | G2 G>G | c4- | c2 d>d | c4- | c2 G>A | F4- | F2 z2 |] %21
 w: crons ba- tail-|lon nous vain-|crons|* Nous vain-|crons|* Nous vain-|crons||
 
-X:41
+X:40
 T:Chinois : Chanson d'amour Kangding / 康定情歌
 T:Chanson folklorique du Sichuan
 L:1/8
@@ -1013,7 +964,7 @@ V:1
  B, E3 | A F3 | E/D/ B,3 | AF E/F/E/D/ | E B,3 |: FA BB/A/ | B>F E2 | FA BB/A/ | B F3 |$ %9
  FA BB/A/ | B>F E2 | AF E/F/E/D/ | E B,3 | B, E3 | A F3 | E/D/ B,3 | AF E/F/E/D/ | E B,3 :| %18
 
-X:42
+X:41
 T:Chinois : Fille allant chercher l'eau / 打水姑娘
 T:Chanson folklorique Dai
 C:傣族民歌
@@ -1035,7 +986,7 @@ V:1
  A>c D2 | F3 G | D2 FG |{/G} A4 | G>A GF | G2 D2 |$ %40
 {/d} F2 GF | D3 F | G>A GF | G2 D2 | F>A GD | F4 | F4 |] %47
 
-X:43
+X:42
 T:Chinois : Le paon doré danse doucement / 金孔雀轻轻跳
 T:Chanson folklorique Dai
 C:任民曲
@@ -1049,7 +1000,7 @@ V:1
  ec eg |{/e} !breath!g4 | eA cd |{/c} d4 | ec eg | cA{/G} A2 | dc Ac |{/A} !breath!c4 | ge ga |{/g} !breath!a4 |$ %10
  e2 c2 |{/e} !breath!g4 | cA e{/d}e | cd{/c} d2 | cA cd |{/c} !breath!d4 | cA e{/d}e | cd{/c} d2 | ec Ac |{/B} c4 |] %20
 
-X:44
+X:43
 T:Chinois : Tante Wang répare la faïence / 王大娘钉缸
 T:Chanson folklorique du Henan
 L:1/8
@@ -1061,7 +1012,7 @@ V:1
  c>c cc | dA c2 | c>A Gc | A/G/F G2 | Gc Gc | A/G/F G2 |$ %6
  A>A AA | AD F2 | F>D F2 | G/F/D C2 | C/D/F C/D/F | D/C/D/F/ C2 |] %12
 
-X:45
+X:44
 T:Clandestino
 T:Album Clandestino (1998)
 C:Manu Chao
@@ -1090,7 +1041,7 @@ w: Ma- ri- jua- na i- le- gal *|Ar- ge- li- no clan- des- ti- no|Ni- ge- ria- no
 ^"C#7" cc<B B ^ee<^"F#m"fc |^"C#7" cc<B B ^ee/^"F#m"f/- f2 |] %24
 w: Bo- li- via- no clan- des- ti- no|Ma- no Ne- gra i- le- gal *|
 
-X:46
+X:45
 T:Coeurdonnier
 T:Album "L'Everest" (2016)
 C:Soprano
@@ -1147,7 +1098,7 @@ w: |||||
 w: |||||
 w: |||||
 
-X:47
+X:46
 T:Como Un Animal
 T:Album  "Jaula De Grillos" (2006)
 C:The Locos
@@ -1192,7 +1143,7 @@ w: ||||||||||Sus mi- se- rias|
 w: |||||||
 w: |||||||
 
-X:48
+X:47
 T:Complainte de Mandrin
 T:Traditionnel dauphinois
 L:1/8
@@ -1206,7 +1157,7 @@ w: 1.Nous|é- tions vingt ou|tren- te, bri-|gands dans u- ne|ban- de Tous|ha- bi
 ^"A7" G>A BG |^"D" A2 z D |^"G" G>A Be | d>c BA |^"D7" B2 A2 |^"G" G4 |] %13
 w: des vous m'en- ten-|dez Tous|ha- bil- lés de|blanc A la mode|des mar-|chands|
 
-X:49
+X:48
 T:Cotton Eye Joe
 T:Chanson traditionnelle américaine
 T:Reprise notamment par Rednex dans leur album "Sex and Violins" (1995)
@@ -1236,7 +1187,7 @@ w: hearts of the girls was to|hell bro- ken sent They|all ran a- way so no-|
 w: smile was his gun But|all he had co- me for was|ha- ving some fun|
 w: bo- dy would know and|left on- ly men cau- se of|Cot- ton Eye Joe|
 
-X:50
+X:49
 T:Dans les prisons de Nantes
 T:Chanson traditionnelle bretonne
 L:1/8
@@ -1250,7 +1201,7 @@ w: 1.Dans les pri- sons de|Nan- tes Lan di du di dou|dan Di du di lan di lan|di 
 ^"Dm" d2 Ad de |^"Dm" d2 ce ed |^"C" c2 d2 A>A |^"C" cd ef e^"Dm"d- | d4 z2!D.C.! |] %9
 w: Dans les pri- sons de|Nan- tes y'a- vait un|pris- on- nier, y'a-|vait un pri- son- nier. _|_|
 
-X:51
+X:50
 T:Danser encore
 T:Hymne engagé face aux mesures liées à l'épidémie de Covid-19  (2020)
 C:HK et les Saltimbanks
@@ -1279,7 +1230,7 @@ w: lé, ve- nu an- non- cer la sen-|ten- ce.|Nous fai- sons preuve d'ir- ré- v�
  z ddd ddcB |^"D7" d4 A4 |^"C" z2 de dcBA :| %32
 w: mais tou- jours a- vec é- lé-|gan- ce|Oh, non, non, non, non, non,|
 
-X:52
+X:51
 T:Darla dirladada / Ντιρλαντά
 T:Mélodie du folklore grec
 T:Interprétée notamment par Dalida en 1970
@@ -1297,7 +1248,7 @@ w: nas Dar- la dir- la- da-|da On va s'en four- rer jus- que|là Dar- la dir- la
  d eee ddec |^"C" c2 c2 ccde | c2 z6 |] %9
 w: da Pousse la ba- nane et mousse l'ca-|wa Dar- la dir- la- da-|da|
 
-X:53
+X:52
 T:Debout les gars
 T:EP "Debout les gars" (1964)
 C:Hugues Aufray
@@ -1316,7 +1267,7 @@ w: 1.Cet- te mon- ta- gne que tu vois.|On en vien- dra à bout mon gars.|
 ^"Am" (3AAA A>G A>B c3/2 c/ |^"G" B>c d>B^"Am" A2 A2 :| %8
 w: Un bull- do- zer et deux cent bras, on|pas- se- ra la rou- te.|
 
-X:54
+X:53
 T:Deirdre’s Fancy
 T:Slip Jig
 L:1/8
@@ -1328,7 +1279,7 @@ V:1
 |: E2 F G2 A BGE | D2 E F2 G AFD | E2 F G2 A BGE | BcB AGF PE3 :|$ %4
 |: eBe e2 f gfe | dAd d2 e fed | eBe e2 f gfe | dcB AGF PE3 :| %8
 
-X:55
+X:54
 T:Dès que le vent soufflera
 T:Album "Morgane de toi" (1983)
 C:Renaud
@@ -1397,7 +1348,7 @@ w: |||||
 w: |||||
 w: |||||
 
-X:56
+X:55
 T:Dónde estás, Yolanda?
 T:Pink Martini - Album "Sympathique" (1997)
 T:Sonora Santanera - Single (1968)
@@ -1437,7 +1388,7 @@ w: |||||
 w: lan- da Y no~es-|tas, y no~es- tas Yo-|lan- da|||||
 w: |||||||
 
-X:57
+X:56
 T:Dragostea Din Tei
 T:(2003)
 C:O-Zone
@@ -1452,7 +1403,7 @@ w: Ma- i- a- hii _|Ma- i- a- huu _|Ma- i- a- hoo _|Ma- i- a ha ha|
 |: c2 B c3 A2 | ABAG E4 | cedc G4 | GdcB cBA z | c2 B c3 A2 | ABAG E4 | c2 e d3 Bd- | dcBc BA z2 :| %12
 w: ||||||||
 
-X:58
+X:57
 T:Drunken Sailor
 T:or What shall we do with the drunken sailor ?
 T:Chant de marin (Sea shanty)
@@ -1475,7 +1426,7 @@ w: ||
 w: Hoo- ray and up she ri- ses,|Ear- ly in the mor- ning.|
 w: ||
 
-X:59
+X:58
 T:Du rhum des femmes
 T:Album "Première Bordée" (1988)
 C:Soldat louis
@@ -1522,7 +1473,7 @@ w: J'lui dé- monte la passe- relle|la cale, la dunette arr- ière|
 w: Tant qu'y au- ra des comptoir|on au- ra des hé- ros|
 w: Pas au bat- eau qui craque|en- tre deux dé- fer- lantes|
 
-X:60
+X:59
 T:EDERLEZI
 T:Chant tzigane des balkans pour la fête de la St Georges
 T:B.O. "Le Temps des Gitans" (1988)
@@ -1558,7 +1509,7 @@ w: e- der- le- zi|sa o ro- ma|da- je _|
 w: |||
 w: |||
 
-X:61
+X:60
 T:El pueblo unido jamás será vencido
 T:"Le peuple uni ne sera jamais vaincu" (1970)
 T:Mouvement "Nueva cancion chilena" (nouvelle chanson chilienne)
@@ -1601,7 +1552,7 @@ w: ||||
 w: ||||
 w: ||||
 
-X:62
+X:61
 T:Emmenez-moi
 T:Album "Entre deux rêves" (1967)
 C:Charles Aznavour
@@ -1665,7 +1616,7 @@ V:2
  e2 d2 c2 | c2 z4 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 |$ %66
  x6 | x6 | x6 | x6 | x6 | x6 :| %72
 
-X:63
+X:62
 T:En Chantant
 T:Album "Je vole" (1978)
 C:Arr M.Colin
@@ -1713,7 +1664,7 @@ w: Le monde est plus|mar- rant C'est moins|dé- ses- pé- rant * en chan-|tant|
 w: ||||
 w: La mort c'est plus|mar- rant C'est moins|dé- ses- pé- rant * en chan-|tant|
 
-X:64
+X:63
 T:Envole moi
 T:Album «Positif» (1984)
 C:Jean-Jacques Goldman
@@ -1745,7 +1696,7 @@ w: ||||
 w: tê- te d'au- tres hori- zons d'au- tres|mots * * * En- vo- le|moi|_|
 w: ||||
 
-X:65
+X:64
 T:Espéranza
 T:Scottish (1987)
 C:Marc Perrone
@@ -1761,7 +1712,7 @@ V:1
 [K:C]|:[P:B]^"Dm" ffff e2 df- | fAdf AdfA |^"Am" eeee d2 ce- | eAce AceA |^"E7" dddd c2 Bd- | d B2 ^G E4 |$ %18
 |1 edcB A2 Bc- |^"Am" cABc^"A7" d2 e2 :||2 edcB A2 ^GA- |^"Am" A[Ace][Ace][Ace] [Ace]4 |] %22
 
-X:66
+X:65
 T:Evenou Shalom Alechem / הבאנו שלום עליכם
 T:Traditionnel Hébreu
 %%score { 1 | 2 }
@@ -1780,7 +1731,7 @@ V:2
 |: A, DF | AAAA FFFF | G2 F2 z DFA | dddd BBBB | c2 B2 z GAB |$ %5
  A2 ^c2 AG z2 | F3 z2 A GF | ^c2 c2 c2 c2 | ^cBAG F :| %9
 
-X:67
+X:66
 T:Fanchon
 T:Chanson à boire traditionnelle française
 T:(Chant déjà présent dans un recueil de 1726)
@@ -1803,7 +1754,7 @@ w: boire, elle aime à chan- ter com- me|nous. Elle aime à|rire, elle aime à b
 ^"A7" g>f e>f^"D" d2 A2 | F2 A2 d2 A2 |^"D" f4^"A7" e4 |^"D" d4 A/F/A/d/ z2 :| %22
 w: chan- ter com- me nous. Oui|com- me nous! Oui|com- me|nous! Oui com- me nous!|
 
-X:68
+X:67
 T:Far Away
 T:Valse
 C:Trad Irlandais
@@ -1824,7 +1775,7 @@ V:2
 |: z2 z | B,,2 [D,F,B,] z [D,F,B,]/ z3/2 | A,,2 [E,A,C] z [E,A,C]/ z3/2 | G,,2 [D,G,B,] z [D,G,B,]/ z3/2 | A,,2 [E,A,C] z [E,A,C]/ z3/2 | B,,2 [D,F,B,] z [D,F,B,]/ z3/2 | A,,2 [E,A,C] z [E,A,C]/ z3/2 | G,,3 A,,3 | B,,2 [D,F,B,] :|$ %9
 |: B,,2 [D,F,B,] | D,,2 [D,F,A,] z [D,F,A,]/ z3/2 | A,,2 [E,A,C] z [E,A,C]/ z3/2 | D,,2 [D,F,A,] z [D,F,A,]/ z3/2 | A,,2 [E,A,C] z [E,A,C]/ z3/2 | B,,3 A,,3 | G,,2 [D,G,B,] z [D,G,B,]/ z3/2 | F,,2 [F,A,C] z [F,A,C]/ z3/2 | B,,2 [D,F,B,] :| %18
 
-X:69
+X:68
 T:Farandole de l'olivier
 T:Traditionnel provençal
 L:1/8
@@ -1840,7 +1791,7 @@ V:1
 |: GBd GBd | G2 D B2 D | c2 c cBA | B2 D G2 D |$ %19
  GBd GBd | G2 D d2 D | c2 c cBA | G6 :| %23
 
-X:70
+X:69
 T:Felicità
 T:Interprété par Al Bano & Romina Power
 T:Album Felicità (1982)
@@ -1884,7 +1835,7 @@ w: ||||||
 w: ||||||
 w: ||||||
 
-X:71
+X:70
 T:Femme libérée
 T:Single (1984)
 C:Coockie Dingler
@@ -1927,7 +1878,7 @@ w: lui ron- ron- ne * * * des|tonnes de "Je t'aime" Ne la laisse|
 w: me dans Elle ils di- sent qu'il faut|faire un ef- fort Ne la laisse|
 w: goû- te mê- me un pe- tit joint|de temps en temps Ne la laisse|
 
-X:72
+X:71
 T:Fort Boyard
 C:Paul Koulak
 L:1/8
@@ -1938,7 +1889,7 @@ V:1 clef=
 V:1
  z4 z3 C |^"Fm" F6 F2 | A3 G3 E2- | E F3 FAcA |^"Eb" B8 |^"Fm" c2 c B3 A2 |^"Cm" G3 E3 G2 |^"Fm" F2 FA cA F2- | F2 z6 |] %9
 
-X:73
+X:72
 T:Framboise
 T:B.O. "Tirez sur le pianiste" (1960)
 C:Boby Lapointe
@@ -1962,7 +1913,7 @@ w: tion. De lui pren- dre le men-|ton. D'ail- leurs elle é- tait d'An-|tibes! Q
 ^"Em" E E/F/G F/E/ |^"Am6" E2^"B7" ^D^"Am6" z |^"B7" z/ B/B/c/B/A/G/F/ |^"Em" E2 z2 |] %21
 w: nie! A- va- nie et Fram-|boi- se|Sont les ma- mel- les du des-|tin!|
 
-X:74
+X:73
 T:Game of Thrones
 T:(2011)
 C:Ramin Djawadi
@@ -1975,7 +1926,7 @@ V:1
  c2 F2 AB | c2 F2 AB :: c2 F2 =AB | c2 F2 =AB :|$ %4
 |: c6 | F6 | AB c4 | F4 AB | G6 | G6 | B6 | E6 | AG B4 | E6 | AG F4- | F6 :| %16
 
-X:75
+X:74
 T:Djelem, Djelem / Gelem, Gelem
 T:Hymne rom
 C:Žarko Jovanović
@@ -1999,7 +1950,7 @@ w: ||||
 w: Haj _ _ _|sa- va- *|* le _ _ _ _|_||
 w: |||||
 
-X:76
+X:75
 T:Ging Gang Gooli
 T:Traditionnel Scout
 C:Robert Baden Powell
@@ -2021,7 +1972,7 @@ w: Shal- ly wal- ly Shal- ly wal- ly|Shal- ly wal- ly Shal- ly wal- ly|
 ^"F" FA CA | FA CA |] %18
 w: Oom- pah Oom- pah|Oom- pah Oom- pah|
 
-X:77
+X:76
 T:Go Down Moses / Armstrong
 T:Negro spiritual
 T:Repris par Louis Armstrong sur l'album "Louis and the Good Booken" (1958)
@@ -2048,7 +1999,7 @@ w: tell old Pha- ra- oh|* To let my|peo- ple go.|
 w: |||
 w: |||
 
-X:78
+X:77
 T:Guinness Waltz
 C:Trad. Irlande
 %%score [ 1 ]
@@ -2068,7 +2019,7 @@ V:1
 ^"D" A3 g f2 |^"Em" e3 f g2 |^"Bm" f3 d Bd |^"C" e2 d2 c2 |$ %29
 ^"G" B4 GA |^"Em" B3 c (3BcB |^"D7" A3 B AF |^"G" G3 [Bdg] [Bdg]2 |^"G" [Bdg]3 :| %34
 
-X:79
+X:78
 T:Chants et Rythmes d'Asie : N°9
 C:Gurdjieff / De Hartmann
 %%score 1 2
@@ -2091,7 +2042,7 @@ V:2
  E2 EE E2 E2 | E4 E4 | E2 EE E2 E2 | E4 E4 | E2 EE E2 E2 | E4 E4 | E2 EE E2 E2 | E4 E4 | E2 EE E2 E2 | E4 E4 |$ %26
  E2 EE E2 E2 | E4 E4 | E2 EE E2 E2 | E4 E4 | E2 EE E2 E2 | E4 E4 | E2 EE E2 E2 | E4 E4 | E2 EE E2 E2 | E4 E4 |] %36
 
-X:80
+X:79
 T:Hallelujah
 T:Album "Various Positions" (1984)
 C:Leonard Cohen
@@ -2117,7 +2068,7 @@ w: cut your hair and|from your lips she|drew the hal- le-|lu- jah|hal- le-|lu- j
 w: lu- jah|hal- le-|lu- jah|hal- le-|lu- hu- hu-|hu- hu- hu-|jah||
 w: ||||||||
 
-X:81
+X:80
 T:Hans im Schnockeloch
 T:Traditionnel Alsacien
 L:1/8
@@ -2133,7 +2084,7 @@ w: Le|Hans de|Schno- cke- loch, tout|ce qu'il veut il|l'a Mais|ce qu'il a il|n'e
 w: was er will dess|het er nitt De|Hans im|Schno- cke- loch het|al- les was er|will|
 w: ce qu'il veut il|ne l'a pas Le|Hans de|Schno- cke- loch, tout|ce qu'il veut il|l'a|
 
-X:82
+X:81
 T:Hava Nagila / הבה נגילה
 T:Traditionnel hébreu : « Réjouissons-nous »
 T:Paroles en français de la version de Dalida (1959)
@@ -2168,7 +2119,7 @@ w: u- ru a- chim u- ru a- chim|b' lev sa me- e- e- e-|ach|
 w: Ser- * re moi jus- * qu'au jour|danse danse danse mon _ _ a-|mour|
 w: |||
 
-X:83
+X:82
 T:Havanaise
 C:Trad Cuba 1830
 L:1/8
@@ -2182,7 +2133,7 @@ V:1
 ^"Am" efed c2 e2 |^"G" dedc B2 G2 |^"F" A3 B cABc |^"G" d B2 c dBcd |^"Am" efed c2 e2 |$ %13
 ^"G" dedc B2 G2 |^"F" f f2 f d2 f2 |^"E7" e e2 d^"C" c2^"C" B2 |^"Am" A4^"E" z4&x6^"G"x2 |] %17
 
-X:84
+X:83
 T:Hocu babo da se zenim
 T:Traditionnel Serbe - "Je veux me marier, grand-mère"
 T:Interprété notamment par Dusan Kostic en 1979
@@ -2222,7 +2173,7 @@ w: nek' od- je- ku|vi- o- li- ne|nek' se i- gra,|nek' se peva|nek' se cu- je|src
 w: |||||||
 w: |||||||
 
-X:85
+X:84
 T:Les Allobroges
 T:Chant national savoisien
 C:J. Desaix
@@ -2247,7 +2198,7 @@ w: jours a-|sile * et sû- re-|té. Car|j'aime * à res- pi-|rer. L'air|
  c4- cB c>^c |^"G7" d2 d z z2 G2 | g4- gf e>d |^"C" c4 z2 G2 | e4^"G7" d4 |^"C" c4 z4 |] %34
 w: pur * de vos mon-|ta- gnes. Je|suis * la Li- ber-|té, la|Li- ber-|té.|
 
-X:86
+X:85
 T:Ievan Polkka
 T:Traditionnel Finlandais (La musique du poireau)
 C:Eino Kettunen (ca.1930)
@@ -2264,7 +2215,7 @@ V:1
 ^"Dm" a>f fa |^"C" ge ef |^"A7" ga/g/ fe |^"Dm" de fg |$ %23
  a>f fa |^"C" ge ef |^"A7" ga/g/ fe |^"Dm" fd d2 |] %27
 
-X:87
+X:86
 T:If you're happy and you know it
 T:Chanson traditionnelle anglaise
 L:1/8
@@ -2280,7 +2231,7 @@ w: hap- py and you know it, clap your|hands (clap) (clap) If you're|hap- py and 
 ^"F" AAAG FF AA |^"C7" GGGF EE DE |^"F" F2 f2 f2 :| %9
 w: real- ly want to show it If you're|hap- py and you know it, clap your|hands. (clap) (clap)|
 
-X:88
+X:87
 T:De Frontibus ( Il est des nôtres )
 T:Chanson à boire
 L:1/8
@@ -2314,7 +2265,7 @@ w: ||||
 w: ||||
 w: ||||
 
-X:89
+X:88
 T:Il tempo se ne va
 T:Interprété par Adriano Celentano
 T:Album "Un po' artista un po' no" (1980)
@@ -2359,7 +2310,7 @@ w: ta No|me ne so- no~a- cor- to pri-|* ma _||||
 w: |||ta il|pos- to dei cal- * ze- to-|* ni *|
 w: ||||||
 
-X:90
+X:89
 T:Il changeait la vie
 T:Album "Entre gris clair et gris foncé" (1987)
 C:Jean Jacques Goldman
@@ -2391,7 +2342,7 @@ w: |||
 w: vait di- re de lui|* Il chan-|geait la vie _|_|
 w: ||||
 
-X:91
+X:90
 T:Il en faut peu pour être heureux
 T:B.O. du Livre de la jungle (1967)
 C:Terry Gylkinson
@@ -2434,7 +2385,7 @@ w: pour être heur-|eux|pour être heur-|eux||
 w: |||||
 w: |||||
 
-X:92
+X:91
 T:Il pleut, il pleut, bergère
 T:Chanson traditionnelle française tirée de l'opéra-comique
 T:en un acte Laure et Pétrarque, écrit en 1780 par Fabre d'Églantine.
@@ -2452,7 +2403,7 @@ w: Ber- gè- re vite al-|lons|J'en- tends sous le feuil-|la- ge|L'eau qui tombe 
 ^"F" c2 A c2 A |^"Bb" B3 d3 |^"F" cdc^"C7" G2 A |^"F" F6 |] %17
 w: ci ve- nir l'o-|ra- ge|voi- ci l'é- clair qui|luit|
 
-X:93
+X:92
 T:Imagine
 T:Album Imagine (1971)
 C:John Lennon
@@ -2483,7 +2434,7 @@ w: I hope some day _ _ you will|join us _ _|And the world _ _ _ will|be as one|
 w: |||live as one|
 w: ||||
 
-X:94
+X:93
 T:In The Death Car
 T:B.O. "Arizona Dream" (1993)
 C:Iggy Pop / Goran Bregovic
@@ -2501,7 +2452,7 @@ V:1
  G2 GA BA G2 | c2 c2 _e2 z2 | d2 z2 d2 z2 | GGGG G2 z2 | G2 z6 |$ %25
  G2 GA BA G2 | c2 c2 _e4 | GABA d2 cB | B2 AB G4 |] %29
 
-X:95
+X:94
 T:Indiana Jones
 T:Les Aventuriers de l'arche perdue (1981)
 C:John Williams
@@ -2514,7 +2465,7 @@ V:1
  z4 z2 F>G |: Ad- d4 E>F | G6 A>B | cg- g4 B>c | d2 e2 f2 F>G |$ %5
  Ad- d4 e>f | g6 A>A | f2 e>A f2 e>A ||1 f2 e>A fe F>G :||2 f2 e>A g2 f>e || d6 z2 |] %11
 
-X:96
+X:95
 T:Ionel, Ionelule
 T:Traditionnel roumain
 C:Claude Romano
@@ -2543,7 +2494,7 @@ w: ||||
 w: Io- nel, Io-|ne- lu- le|Fiind- că te râd fe- te-|le.|
 w: ||||
 
-X:97
+X:96
 T:J'ai
 T:Album "De Charybde en Scylla" (2008)
 C:Debout Sur le Zinc
@@ -2594,7 +2545,7 @@ w: J'ai|_ pour te|re- te- nir *||trois fois rien|trois fois rien _ _|
 w: ||||||
 w: ||||||
 
-X:98
+X:97
 T:J'ai perdu le Do de ma Clarinette
 T:Comptine française
 L:1/8
@@ -2619,7 +2570,7 @@ w: ||||
 w: pas ca- ma- rade Au pas ca- ma- rade Au|pas, au pas, au pas, au|pas, au pas|
 w: |||
 
-X:99
+X:98
 T:J'veux du Soleil
 T:Album "Mal de vivre" (1992)
 C:Au petit bonheur
@@ -2673,7 +2624,7 @@ w: |||||
  x8 | x8 | x8 | x8 |] %39
 w: ||||
 
-X:100
+X:99
 T:J'ai demandé à la lune
 T:Album Paradize (2002)
 C:Mickaël Furnon - Indochine
@@ -2702,7 +2653,7 @@ w: ||||
 w: carj'i- * ma- gine tou- * jours le|pi- * re|et le meil- leur _ me fait souf-|frir|
 w: ||||
 
-X:101
+X:100
 T:James
 T:Mixer (1997)
 C:Philippe Plard
@@ -2719,7 +2670,7 @@ V:1
 |: E2 G |^"Am" AAA ABc |^"G" B2 G EFG |^"Am" AAA ABc |^"G" d3 F2 G |$ %14
 ^"Am" AAA ABc |^"G" B2 G E2 F |^"C" GFE^"Bm" FED |^"Em" E3 :| %18
 
-X:102
+X:101
 T:Je cherche fortune
 C:Aristide Bruant
 L:1/8
@@ -2747,7 +2698,7 @@ w: |* * au _|tour du Chat|Noir et du Chat noir|
 w: Et au clair|de la lu-|ne A Mont- mar-|tre le Soir.|
 w: ||||
 
-X:103
+X:102
 T:J't'emmène au vent
 T:Album "Louise Attaque" (1997)
 C:Louise Attaque
@@ -2809,7 +2760,7 @@ V:2
  x4 | x4 | x4 | x4 | x4 | x4 |$ %45
  x4 | x4 | x4 | x4 | x4 | x4 :| x4 |] %52
 
-X:104
+X:103
 T:Je te donne
 T:Album "Non homologué" (1985)
 C:Michael Jones / Jean Jacques Goldman
@@ -2847,7 +2798,7 @@ w: you can climb on une é-|pau- le gra- gile et forte à|* la fois * *|||||
 w: vaux ce que je suis mes|dons mes dé- fauts mes|plus bel- les chan- ces mes dif-|* fé- rences je te|
 w: ||||
 
-X:105
+X:104
 T:Jeunes et Cons
 T:Album "Jours étranges" (1999)
 C:Damien SAEZ
@@ -2876,7 +2827,7 @@ w: _ _ de- ve- nir|fous _|_ _||
 O^"Em" z3/2 B/ BB^"C" cG^"G" G2 |^"D" z8 ||^"Em" GGGG F4 |] %33
 w: Qu'on est quel- ques mil- liards||A cher- cher l'a- mour|
 
-X:106
+X:105
 T:Joshua fit the battle of Jericho
 T:Negro spiritual
 L:1/8
@@ -2894,7 +2845,7 @@ w: talk a- bout the kings of|Gi- de- on, you may|talk a- bout the men of|Saul, t
  A2 A4 FG |^"A7" AA G2 F2 =E2 |^"Dm" D6 z2 |] %16
 w: Josh- ua, in the|bat- tle of Je- ri-|cho|
 
-X:107
+X:106
 T:Joyeux Anniversaire
 L:1/8
 M:6/4
@@ -2909,7 +2860,7 @@ w: Hap- py birth- day to you|Hap- py birth- day to you|
 w: Jo- yeux an- ni- ver- saire un- tel|Jo- yeux an- ni- ver- saire|
 w: Hap- py birth- day to you some- body|Hap- py birth- day to you|
 
-X:108
+X:107
 T:Kalinka / Калинка
 T:Traditionnel Russe
 L:1/8
@@ -2923,7 +2874,7 @@ V:1
 ^"F" A2 AB |^"D7" dc BA |^"G" G2 G2 |^"G7" G2 !fermata!g2 ||^"C" eg^"G7" de |^"C" c2 G2 |$ %21
  eg^"G7" de |^"C" c2^"G7" G2 |^"F" A2 AB |^"G7" dc BA |^"G" g2^"Dm" f2 |^"E7" !fermata!e4 |] %27
 
-X:109
+X:108
 T:Katioucha / Катюша
 T:Folklore russe
 L:1/8
@@ -2951,7 +2902,7 @@ w: lui l'a-|mour de Ka- tiou-|cha|mour de Ka- tiou-|cha|
 w: niè- re|let- tre du sol-|dat|let- tre du sol-|dat|
 w: qui ja-|mais ne l'ou- bli-|a|mais ne l'ou- bli-|a|
 
-X:110
+X:109
 T:Kerry Polka
 Z:G=G
 L:1/8
@@ -2963,7 +2914,7 @@ V:1
 |: BD ED | BD ED | G2 A>B | AG ED | BD ED | BD ED | G2 A>B | AG G2 :|$ %8
 |: Bd BA | AG ED | G2 A>B | AG ED | Bd BA | AG ED | G2 A>B | AG G2 :| %16
 
-X:111
+X:110
 T:Kiz Neman
 T:Chant d'amour arménien
 C:Sayat Nova
@@ -2977,7 +2928,7 @@ V:1
 |:^"Bbm" B2{/c} B=A GF |^"F7" =AB c2-"^2ème fois" c/d/c/B/ | =Ac BA GA |^"Bbm"{/G2=A2} GF F4 :|$ %4
 ^"Bbm" d2 d3 c |{/e} dc d4 | df f3 =e |^"C7" =g/f/=e/d/ c4 |^"F7" dc B=A GF | =AB c2- c/d/c/B/ | =Ac BA GA |^"Bbm" GF F4 |] %12
 
-X:112
+X:111
 T:Kumbaya
 T:Gospel
 L:1/8
@@ -2991,7 +2942,7 @@ w: Kum- ba- yah, my|Lord, Kum- ba-|yah!|Kum- ba- yah, my|Lord, Kum- ba-|yah!|
  DF^"D" A>A | A2^"G" BB |^"D" A4 |^"Em" G2^"D/A" FD- | D2^"Em/A" EE |^"D" D4 |] %12
 w: Kum- ba- yah, my|Lord, Kum- ba|yah!|Oh, Lord, *|* Kum- ba-|yah!|
 
-X:113
+X:112
 T:Kyriale
 T:Album Crucifixus (1970)
 C:Gurdjieff / De Hartmann
@@ -3005,7 +2956,7 @@ V:1
  A6 Gc | F3 A/G/ G3 d/c/ | c4- c f2 d | B4- B(3c/B/A/BG | ge cB !trill(!TB3!trill)! A |$ %5
  A6 z c | d2- d(3g/f/e/ fagf | g4- gg/a/bg | c'2 (3afc d2 e2 | f6 z2 |] %10
 
-X:114
+X:113
 T:L' Aventurier
 T:Album "L’Aventurier" (1982)
 C:Indochine
@@ -3048,7 +2999,7 @@ w: Et sou- dain _ sur- git face au vent _ le|vrai hé- ros _ _ de tous les temps
 w: Bob Mo- rane _ con- tre tout cha- cal _ l'a-|ven- tu- rier _ con- tre tout guer- rier _|
 w: ||
 
-X:115
+X:114
 T:L'Aigle Noir
 T:Album "L’Aigle noir" (1970)
 C:Barbara
@@ -3085,7 +3036,7 @@ w: ||||
 w: ||||
 w: ||||
 
-X:116
+X:115
 T:L'Élan
 T:Polka
 C:Philippe Plard
@@ -3119,7 +3070,7 @@ V:3
 |:^"F" .F,, .[F,A,C] z .[F,A,C] |^"G" .G,, .[G,B,D] z .[G,B,D] |^"C" .C,, .[G,CE] z .[G,CE] |^"Em" .E,, .[E,G,B,] z .[E,G,B,] |$ %20
 ^"F" .F,, .[F,A,C] z .[F,A,C] |^"G" .G,, .[G,B,] z .[G,B,D] |^"C" .C,, .[E,G,C] z .[E,G,C] |^"E7" .E,, .[D,E,G,B,] z .[D,E,G,B,] :| %24
 
-X:117
+X:116
 T:L'estaca (Le pieu)
 T:Chant de résistance anti-franquiste de 1968
 C:Lluís Llach
@@ -3142,7 +3093,7 @@ w: Si * *|tu|l'es-|ti- res|fort per|(a)qui|I jo l'es-|ti- ro|fort per|alla|
 w: Se- gur que|tom- ba,|* tom- ba,|tom- ba,|ben cor- ca-|da, de-|u ser|ja|
 w: Se- gur que|tom- ba,|* tom- ba,|tom- ba,|I ens po-|drem al-|li- be-|rar|
 
-X:118
+X:117
 T:L'Oiseau et l'Enfant
 T:Chanson gagnante du Concours Eurovision de la chanson 1977 pour la France
 T:Chantée par Marie Myriam
@@ -3181,7 +3132,7 @@ w: Comme l'oi- seau~ bleu sur-|vo- lant la ter- re|Nous trou- ve- rons ce|monde 
 w: L'a- mour|c'est toi|l'a- mour|c'est moi|l'oi- seau|c'est toi|l'en- fant|c'est * moi|
 w: ||||||||
 
-X:119
+X:118
 T:La Cançon que tu Cantas
 T:Valse
 C:Trad. Quercy
@@ -3196,7 +3147,7 @@ V:1
  E2 |^"Am" A4 A2 |^"G" B4 B2 |^"F" c6 |^"E7" B6 |^"F" A2 B2 c2 |^"Dm" A4 ^G2 |^"Am" A6- |^"Am" !breath!A4 E2 |^"Am" A4 A2 |^"G" B4 B2 |^"F" c6 |^"E7" B6 |^"F" A2 B2 c2 |^"Dm" A4 ^G2 |^"Am" A6- |^"Am" A6 ||$ %17
 ^"Am" A2 c2 d2 |^"Am" e4 e2 |^"F" e2 d2 c2 |^"E7" B4 c2 |^"Dm" d6 |^"E7" B6 |^"Am" A2 c2 d2 |^"Am" e4^"G" e2 |^"F" e6 |^"Dm" =f2 e2 d2 |^"E7" c4 B2 |^"Am" A6- | A4 |] %30
 
-X:120
+X:119
 T:La fiancée hongroise
 T:Valse à 5 temps traditionnelle d'Alsace
 L:1/8
@@ -3208,7 +3159,7 @@ V:1
 |:^"Am" A2 A2 B2^"Am" A4 |^"G" G2 A2 B2^"Am" c4 |^"E7" B2 c2 d2^"Am" e4 |^"Dm" f2 e2 d2^"Am" e4 |^"G" d2 c2 B2^"Am" c4 |^"G" d2 c2 B2^"Am" A4 :|$ %6
 |:^"Am" A2 A2 A2^"Am" e4 |^"Am" e2 f2 e2^"G" d4 |^"E7" B2 c2 d2^"Am" e4 |^"Dm" fe d2 c2^"E7" B4 |^"Am" e2 e2 e2^"Am" A4 |^"G" G2 c2 d2^"Am" e4 |^"Am" c2 d2 e2^"G" d4 |^"E7" B2 c2 B2^"Am" A4 :| %14
 
-X:121
+X:120
 T:La Marion et le Bossu
 T:Traditionnel arpitan (francoprovencal / Savoie)
 L:1/8
@@ -3234,7 +3185,7 @@ w: |||||||
 w: |||||||
 w: |||||||
 
-X:122
+X:121
 T:La Principese - Principessa
 T:Mazurka
 C:Maurizio Martinotti
@@ -3250,7 +3201,7 @@ V:1
 |:^"Gm" d2 B G2 d B2 G | d2 B G2 d B2 G |^"Cm" e2 B G2 e B2 G | e2 B G2 e B2 G |^"Eb" d2 c A2 d c2 A |$ %15
 |1 d2 c A2 d c2 A | d2 c B2 A B2 c | A3 d3 d3 :||2 d3 B3 G3 | c3 B3 A3 |^"Gm" G6- G3 |] %21
 
-X:123
+X:122
 T:La Rirette
 T:Jeanneton prend sa faucille
 C:Nicolas Dalayrac
@@ -3265,7 +3216,7 @@ w: Jean- ne- ton prend sa fau- cil- le.|La- ri- ret- te la- ri- ret- * te|Jean- 
  cA^"D7" F2 D2 EF^"G" G3/2 d/ d2 | cA^"D7" F2 D2 EF^"G" G2 z2 |] %5
 w: Pour al- ler cou- per les joncs, (à poil)|pour al- ler cou- per les joncs|
 
-X:124
+X:123
 T:La Goffa Lolita
 T:(2022)
 C:La Petite Culotte
@@ -3298,7 +3249,7 @@ w: Laï- la- la-|la, laï- la laï- la la-|la, laï- la laï- la la-|la, laï- l
  D4 F/FF/ GF |^"C" E C3 F/FF/ GF | E C3 E/EE/ FE |^"B" ^D4 E3/2F3/2E | ^D4 :| %53
 w: la, Laï- la laï- la la-|la- la, Laï- la laï- la la-|la- la, laï- la laï- la la-|ta a- a- a-|a|
 
-X:125
+X:124
 T:La Ballade Des Gens Heureux
 T:Single de 1975
 C:Gérard Lenorman
@@ -3345,7 +3296,7 @@ w: La bal- la- * de * des|gens heu- reux *|||
 w: La bal- la- * de * des|gens heu- reux *|||
 w: ~ ~ ~ * ~ * ~|~ ~ ~ *|La bal- la- de des|gens heu- reux|
 
-X:126
+X:125
 T:La Ballade Nord Irlandaise
 T:Album "Marchand de cailloux" (1991)
 T:Adaptation du traditionnel irlandais " Water is deep"
@@ -3382,7 +3333,7 @@ w: Et la mu-|sique|nous feront chan- ter|_||||
 w: Qui font pous-|ser|les o- ran- gers|_||||
 w: Les fruits su-||||crés de la|li- ber-|té|
 
-X:127
+X:126
 T:La Bamba
 T:Traditionnel mexicain, originaire de l'État de Veracruz
 T:Ce chant aurait été composé à la fin du XVIIème par « El Guaruso »
@@ -3406,7 +3357,7 @@ w: * soy ca- pi- tan|* soy ca- pi- tan||Bam- ba bam-|* ba|bam- ba bam-|
 ^"G7" d d3 z4 |^"C" e4^"F" c3 d- |^"G7" d d3 z2 B2 |^"C" c2 z6&x4^"F"x4 |] %28
 w: * ba|bam- ba- bam-|* ba bam-|ba|
 
-X:128
+X:127
 T:La Blanche Hermine
 T:Album "La Blanche Hermine" (1971)
 C:Gilles Servat
@@ -3439,7 +3390,7 @@ w: |||
 w: là la Blan- che Her- mine! Vi- vent|Fou- gères et Clis- son.|
 w: ||
 
-X:129
+X:128
 T:La Chenille
 T:Tube de la Bande à Basile de 1977
 C:Paroles : Franck Harvel & Gérard Layani / Musique : Raymond Jeannot
@@ -3501,7 +3452,7 @@ w: On va être en re- tard|_ Voi- là le chef de gare|_ Qui nous fait signe pour
 w: A la pro- chaine sta- tion|_ Res- tez dans le wa- gon|_ Et n'es- say- ez~pas d'en|pro- fi- ter _|
 w: ||||
 
-X:130
+X:129
 T:La Cucaracha
 L:1/8
 M:4/4
@@ -3538,7 +3489,7 @@ w: Y~a~dar- lé vue- la~a la~hi-|la- cha|_ Va- mo- nos de va- ci-|lan|
 w: Y~los hi- jo- tos sa-|lie- ron|_ Del co- lor del a- ze-|rin|
 w: ||||
 
-X:131
+X:130
 T:La Déclaration
 T:Album "Les promesses" (2006)
 C:Debout Sur Le Zinc
@@ -3581,7 +3532,7 @@ w: Mon pre- mier et mon se- cond|choix la la la la la la|mon rêve d'ab- so- lu 
 w: ||||
 w: ||||
 
-X:132
+X:131
 T:La jument de Michao
 L:1/8
 M:4/4
@@ -3605,7 +3556,7 @@ w: |||
 w: L'hi- ver vien- dra,|les gars, l'hi- ver vien- dra, la ju- ment de Mi-|chao, elle s'en re- pen- ti- ra.|
 w: |||
 
-X:133
+X:132
 T:Llorando se fué / La Lambada
 C:Los Kjarkas (1981) - Kaoma
 %%score ( 1 2 )
@@ -3630,7 +3581,7 @@ V:2
  x8 | x8 | x8 | x8 ||$ %18
 |: x8 | x8 | x8 | x8 :| %22
 
-X:134
+X:133
 T:La légende de Jesse James
 T:Chanson traditionnelle américaine
 L:1/8
@@ -3668,7 +3619,7 @@ w: ré. La lé-|gende de Jes-|sie é- tait|née.|_|
 w: |||||
 w: |||||
 
-X:135
+X:134
 T:La Marseillaise
 T:Hymne national Français
 T:écrit en 1792 et adopté en 1795 puis défintivement en 1879
@@ -3693,7 +3644,7 @@ w: ar- * mes ci- to-|yens! * For-|mez _ vos ba- tail-|lons! Mar-|chons, mar-|cho
 "_2. Que veut cette horde d'esclaves / De traîtres, de rois conjurés? / Pour qui ces ignobles entraves\nCes fers dès longtemps préparés? / Français, pour nous, ah! quel outrage\nQuels transports il doit exciter? / C'est nous qu'on ose méditer / De rendre à l'antique esclavage!\n\n3. Quoi ces cohortes étrangères! / Feraient la loi dans nos foyers! / Quoi! ces phalanges mercenaires\nTerrasseraient nos fils guerriers! / Grand Dieu! par des mains enchaînées\nNos fronts sous le joug se ploieraient / De vils despotes deviendraient / Les maîtres des destinées.\n\n4. Tremblez, tyrans et vous perfides / L'opprobre de tous les partis / Tremblez! vos projets parricides\nVont enfin recevoir leurs prix! / Tout est soldat pour vous combattre\nS'ils tombent, nos jeunes héros / La France en produit de nouveaux, / Contre vous tout prêts à se battre.\n\n5. Français, en guerriers magnanimes / Portez ou retenez vos coups! / Épargnez ces tristes victimes\nÀ regret s'armant contre nous / Mais ces despotes sanguinaires\nMais ces complices de Bouillé / Tous ces tigres qui, sans pitié / Déchirent le sein de leur mère!\n\n6. Nous entrerons dans la carrière / Quand nos aînés n'y seront plus / Nous y trouverons leur poussière\nEt la trace de leurs vertus / Bien moins jaloux de leur survivre\nQue de partager leur cercueil / Nous aurons le sublime orgueil / De les venger ou de les suivre!\n\n7. Amour sacré de la Patrie / Conduis, soutiens nos bras vengeurs / Liberté, Liberté chérie\nCombats avec tes défenseurs! / Sous nos drapeaux, que la victoire\nAccoure à tes mâles accents / Que tes ennemis expirants / Voient ton triomphe et notre gloire!"^"C" c4 d2 e2 |^"D" A6 e2 |^"G/D" d4- d>B^"D7" c>A |^"G" G2 G>G G2 z2 |] %29
 w: Qu'un sang im-|pur a-|breu- * ve nos sil-|lons! * * *|
 
-X:136
+X:135
 T:La Mauvaise Réputation
 T:Album "La Mauvaise Réputation" (1952)
 C:Georges Brassens
@@ -3739,7 +3690,7 @@ w: ça va de|soi.|||
 w: ça va de|soi.|||
 w: ||||
 
-X:137
+X:136
 T:La Nonchalante
 T:Valse - Album "La Nonchalante" (2005)
 C:Emmanuel Pariselle
@@ -3779,7 +3730,7 @@ w: ||||
 w: ||||
 w: ||||
 
-X:138
+X:137
 T:La Tendresse
 T:Interprété notamment par Bourvil  (1963)
 C:Hubert Giraux
@@ -3826,7 +3777,7 @@ w: on a les larmes aux|yeux, * mon|dieu, * mon|dieu, * mon|dieu|Jus- qu'à la fi
 w: ||||||||
 w: ||||||||
 
-X:139
+X:138
 T:La Vie En Rose
 T:Single de 1947
 C:Edith Piaf
@@ -3858,7 +3809,7 @@ w: ||C'est toi pour moi Moi pour|toi Dans la vie||
 w: ré pour la vi- e|Et dès que je l'a- per|çois A- lors je sens en|moi Mon coeur qui|bat....|
 w: |||||
 
-X:140
+X:139
 T:Lambé an Dro
 T:Album " La Ouache" (1998)
 C:Matmatah
@@ -3917,7 +3868,7 @@ w: |||Viens|
 w: ||||
 w: ||||
 
-X:141
+X:140
 T:Lamma Bada Yatathanna
 T:لما بدى يتثنى
 C:Abdelrahim Al Masoloub
@@ -3943,7 +3894,7 @@ V:2
  A,,2 B,, A,,2 A,, _B,, B,2 z | C,2 B,, C,2 C, G,, C,2 z | A,,2 B,, C,2 B,, ^D, E,2 z |$ %14
  B,,2 B,, A,,2 B,, ^D, B,,2 z |!<(! A,2 B, C2 B, ^D E2!<)! |] %16
 
-X:142
+X:141
 T:Le Bon, la Brute et le Truand
 T:(1966)
 C:Ennio Morricone
@@ -3955,7 +3906,7 @@ V:1 clef=
 V:1
  B/e/B/e/ B4 | G2 A2 E2- | E4 B/e/B/e/ | B4 G2 | A2 d4- | d2 B/e/B/e/ B2- | B2 G2 ^FE | D6 | B/e/B/e/ B4 | AE E- E3- | E z z4 |] %11
 
-X:143
+X:142
 T:Le Branle de l'Ours
 T:Branle Médiéval, XIVème Siècle environ
 L:1/8
@@ -3971,7 +3922,7 @@ V:1
 |:[P:C]^"Am" efed cBAB | cdef e2 ee |^"G" g2 d2 B2 d2 | g2 d2 B2 d2 |$ %20
 ^"Am" efed cBAB | cdef e2 ee |^"G" g2 d2 B2 G2 |^"Am" A2 A2 A4 :| %24
 
-X:144
+X:143
 T:Le Bon Roi Dagobert
 T:Chanson traditionnelle française (fin du XVIIIe)
 L:1/8
@@ -3985,7 +3936,7 @@ w: 1.Le|bon roi Da- go-|bert a|mis sa cu- lotte à l'en-|vers. Le bon|saint E- l
 ^"G" B2 B Bcd |^"D" A2 A !fermata!A2 B |^"G" B2 A^"D" A2 G |^"Em" G3^"Am" A3 |^"G" BcB^"D7" AGA |^"G" G4 z2 |] %13
 w: Ma- jes- té est mal|cu- lot- tée. C'est|vrai, lui dit le|roi. Je|vais la re- mettre à l'en-|droit.|
 
-X:145
+X:144
 T:Le Baiser du Vampire
 T:Chanson de colo issue de l'album
 T:"Les chansons qui balançent vol. 1 & 2"
@@ -4022,7 +3973,7 @@ w: ces bai- sers dans vo- tre|cou et vous voi-|là tout sans des- sus des-|sous|
 w: ||||
 w: ||||
 
-X:146
+X:145
 T:Le chant des Marais
 T:Chant des déportés
 L:1/8
@@ -4040,7 +3991,7 @@ w: secs et creux|Oh! Ter- re de|dé- tres- se|où nous de- vons|sans ces- se|
  D2^"Gm" G4 z2 | D2^"Gm" G2 z4 |^"F7" F2^"Bb" d3 d d2 | B2^"Cm" c4 c2 | A2^"Gm" B3 B B2 | G2^"D" A4 A2 | D2^"Gm" G6 :| %21
 w: pio- cher|pio- cher||||||
 
-X:147
+X:146
 T:Le chant des Partisants
 T:Hymne de la Résistance Française (1941)
 C:Anna Marly
@@ -4061,7 +4012,7 @@ w: soir l'en- ne- mi con- naî-|tra le prix du sang, et des|lar- mes!|_ Mon|
 |2^"C" e2 ef g2 gf || edef g2 ed | g8- | g6 z2 | E4 F4 | G4 A4 | c4 d4 | e8 | e8 |] %28
 w: |||||||||
 
-X:148
+X:147
 T:Le Chanteur
 T:Album "Le Chanteur" (1978)
 C:Daniel Balavoine
@@ -4131,7 +4082,7 @@ w: ||||
 w: ||||||
 w: ||||||
 
-X:149
+X:148
 T:Le Grand Coureur
 T:Chant de marin traditionnel français
 T:Repris notamment par Luc Arbogast dans son album Odysseus (2013)
@@ -4163,7 +4114,7 @@ w: |||||
 w: |||||
 w: |||||
 
-X:150
+X:149
 T:Le Petit Âne Gris
 T:Album "Adieu monsieur le professeur" (1968)
 C:Hugues Aufray
@@ -4202,7 +4153,7 @@ w: se ren- dait u-|tile Au- près du|can- to-|nier * Ce-||
 w: ban- do- nné des|hommes, Il est mort|sans a-|dieux. * *||
 w: ra- con- tait l'his-|toire d'un pe- tit|â- ne||gris... *|
 
-X:151
+X:150
 T:Le Poinçonneur des Lilas
 T:Album "Du chant à la une !" (1958)
 C:Serge Gainsbourg
@@ -4253,7 +4204,7 @@ w: |||
 w: |||
 w: |||
 
-X:152
+X:151
 T:Le Temps des Cerises
 T:Cette chanson de 1866, bien qu'antérieure, est fortement associée à la Commune de Paris de 1871,
 T:l'auteur étant lui-même un communard ayant combattu pendant la Semaine sanglante.
@@ -4300,7 +4251,7 @@ V:2
  [dfa]3 | [GBdf]3- | [GBdf]3 | [ceg]3 | [Ace]3 | [dfa]3 | [GBdf]3 |$ %26
  [ceg]3 | [Ace]3 | [GBdf]3 | [ceg]3 |] %30
 
-X:153
+X:152
 T:Le Temps des Fleurs / Дорогой длинною
 T:Vieille chanson du folklore tzigane russe : "Par la longue route"
 T:Interprétée notamment par Dalida en 1968
@@ -4336,7 +4287,7 @@ w: |||||
 w: |||||
 w: |||||
 
-X:154
+X:153
 T:Au trente et un du mois d'août
 L:1/8
 M:6/8
@@ -4357,7 +4308,7 @@ w: |||||
 w: roi de Fran-|ce. et merde pour le|roi d'An- gle- terre|qui nous a dé-|cla- ré la guerre!|
 w: |||||
 
-X:155
+X:154
 T:Le vent nous portera
 T:Album "Des visages des figures" (2001)
 C:Noir Desir
@@ -4398,7 +4349,7 @@ w: ||||
 w: Le vent les por- te- ra,|_|Tout dis- pa- rai-|tra, mais...|Le vent nous por- te- ra.|
 w: |||||
 
-X:156
+X:155
 T:Les chariots de feu
 T:(1981)
 C:Vangelis
@@ -4410,7 +4361,7 @@ V:1 clef=
 V:1
 |: D2 (3GAB A2 F2 | z D (3GAB A4 | z D (3GAB A2 F2 | z F (3GFD D4 :| %4
 
-X:157
+X:156
 T:Les Copains D'abord
 T:Album "Les Copains d'abord" (1964)
 C:Georges Brassens
@@ -4433,7 +4384,7 @@ w: * sur la grand ma- re des ca- nards,|* et s'app'- lait les co- pains d'a- bor
 w: * N'é- taient pas des en- fants d'sa- lauds|* Mais des a- mis fran- co de port,|* Des co- pains d'a- bord *|
 w: * Par Mon- taigne et la Bo- é- tie,|* Sur le ventre ils se ta- paient fort,|* Les co- pains d'a- bord *|
 
-X:158
+X:157
 T:Dans les yeux d'Emilie
 T:Interprété par Joe Dassin
 T:Album "Les Femmes de ma vie" (1978)
@@ -4485,7 +4436,7 @@ V:2
 |: x8 | x8 | x8 | x8 | z3 C/C/ C/ z/ E/E/ E/ z/ G/G/ | G2 x6 ||$ %51
 |1 x8 | x8 :||2 x8 | x8 || x8 | x8 | x8 || x8 || x8 |] %60
 
-X:159
+X:158
 T:Les Yeux Noirs / Очи чёрные
 T:Otchi Tchornye - Tradionnel tzigane russe du XIXème
 T:Paroles de la version de Pomplamoose
@@ -4526,7 +4477,7 @@ w: ||||||||
 w: ||||||||
 w: ||||||||
 
-X:160
+X:159
 T:Les Champs Elysées
 T:Version française de "Waterloo Road" (Avenue de Florence en Alabama) (1968)
 T:Chanté par Joe Dassin
@@ -4571,7 +4522,7 @@ w: |||||||Champs- Él- y- séees||
 w: |||||||||
 w: |||||||||
 
-X:161
+X:160
 T:Les Corons
 T:Album "Les Corons" (1982)
 C:Pierre Bachelet
@@ -4610,7 +4561,7 @@ w: fond Le|ciel c'é- tait l'ho- ri-|zon Les|hommes des mi- neurs de|fond|
 w: |||||
 w: |||||
 
-X:162
+X:161
 T:Les Démons de Minuit
 T:Album "L'Album d'Images" (1986)
 C:Images
@@ -4645,7 +4596,7 @@ w: |||||
 w: trainent jus- qu'à l'in- som-|nie Qui ça, qui ça?|Les fan- tômes de l'en-|nui|
 w: ||||
 
-X:163
+X:162
 T:Les Filles de Camaret
 L:1/8
 M:6/8
@@ -4657,7 +4608,7 @@ V:1
 ^"Dm" f2 e d2 e |^"G7" f2 e d3 |^"C" e2 d c2 d |^"Am" e2 d c2 A |$ %8
 ^"F" c6 |^"E" B3 z2 A |^"Dm" f6 |^"Am" e3 z2 A |^"F" c6 |^"E" B6 |^"Am" A6!D.C.! |] %15
 
-X:164
+X:163
 T:Elle a les yeux revolver
 T:Album "Marc Lavoine" (1985)
 C:Marc Lavoine - Fabrice Aboulker
@@ -4684,7 +4635,7 @@ w: Elle a les yeux * re- vol-|ver elle a le re- gard qui|tue Elle a ti- ré la p
 w: |||||
 w: |||||
 
-X:165
+X:164
 T:Let It Be
 T:Album "Let It Be" (1970)
 C:The Beatles : John Lennon & Paul McCartney
@@ -4716,7 +4667,7 @@ w: ||||||
 w: Whis- per words of wis-|* dom, _ let it|be. _|_|be. _|_|
 w: There will be an an-|* swer, _ let it|be. _|_|||
 
-X:166
+X:165
 T:L'histoire d'un amour
 T:Boléro - Interprété par Dalida en 1957
 C:Carlos Almaran
@@ -4764,7 +4715,7 @@ V:2
  D,2 [DFA]/ z/ [DFA]/ z/ D, [DFA]/ z/ A, [DFA]/ z/ | C,2 [CEG]/ z/ [CEG]/ z/ C, [CEG]/ z/ G, [CEG]/ z/ | B,2 [DFB]/ z/ [DFB]/ z/ A, [^CEGA]/ z/ E, [CEGA]/ z/ | D,2 [DFA]/ z/ [DFA]/ z/ D, [DFA]/ z/ A, [DFA]/ z/ ||$ %30
  D,2 [DFA]/ z/ [DFA]/ z/ D, [DFA]/ z/ A, [DFA]/ z/ | A,2 [^CEGA]/ z/ [CEGA]/ z/ A, [CEGA]/ z/ E, [CEGA]/ z/ | A,2 [^CEGA]/ z/ [CEGA]/ z/ A, [CEGA]/ z/ E, [CEGA]/ z/ | D,2 [DFA]/ z/ [DFA]/ z/ D, [DFA]/ z/ A, [DFA]/ z/ | [D,DFA]4 z4 |] %35
 
-X:167
+X:166
 T:Ma Liberté
 T:Enregistré par Serge Reggiani en 1967
 C:George Moustaki
@@ -4783,7 +4734,7 @@ w: Pour al- ler * n'im- porte|où, pour al- ler jus- qu'au|bout des che- mins de
 ^"F" c2 cc- cd^"C" c2 | G2 GG GE G2 |^"E7" ^G2 GG GE G2 |^"Am" A2 A6 |] %16
 w: Pour cueil- lir * en rê-|vant un- e ro- se des|vents sur un ray- on de|lu- ne|
 
-X:168
+X:167
 T:Ma Philosophie
 T:Album "Un Jour d'été" (2004)
 C:DIAM'S & Amel BENT & Blair MACKICHAN
@@ -4814,7 +4765,7 @@ w: vé Vi- ser la|vé humm humm|oh oh oh|oh _ _ _ _|oh _ Hey _|
 ^"B" a/g/e/g/ a3 b2 z |^"Em" z2 b2 e2 b2 ::|2^"Em" e4 f4 ||^"Am" g8 | e4 f4 |^"B" f8 :| %44
 w: _ _ _ _ _ hey|Vi- ser la|vé _|humm|humm _|humm|
 
-X:169
+X:168
 T:Marches lorraines
 T:Traditionnel - Album "Tanz Maidla Tanz" (1978) de Geranium
 T:Petrus & Pilatus + Der Essigkrug
@@ -4829,7 +4780,7 @@ V:1
 [M:2/4]|: d |^"Dm" aa ag |^"F" a2 f2 |^"Gm" a2 gf |^"A7" e2 z :|$ %16
  f/e/ |^"Dm" df^"Am" ee |^"Dm" d/d/f^"Am" ee |^"Gm" df^"A7" ee |^"Bb" df^"C" ee |^"Dm" d2^"F" a2 |^"Gm" g2^"A7" e2 |^"Dm" d3 |] %24
 
-X:170
+X:169
 T:Marilou
 T:Bourrée à 2 temps
 C:Delicq Stéphane
@@ -4843,7 +4794,7 @@ V:1
 |: [Ac]e ||^"D" d>c Bc^"Am" A>E Gc |^"Em7" B>A^"G" Bc^"Am" A2 ce |^"D" d>c Bc^"Am" A>E Gc |^"F" dc^"G" cB^"Am" A2 :|$ %10
 [M:1/2]|:^"Am" e<e e^"G"f- | fedc |^"Em7" B4 ||1^"Em7" B<B B^"G"d- | defe |^"Am" e4 :||2^"Em7" [Be]<[Be] [Be]^"G"f- | fede |^"Am" a4 |] %19
 
-X:171
+X:170
 T:Marusia + Sobuta
 C:Trad Ukraine
 L:1/8
@@ -4861,7 +4812,7 @@ V:1
 |:^"Em" g3 f e2 B2 |^"Em" e2 eB e2 B2 |^"Em" efgf^"E7" edcB |^"Am" cccB A4 |$ %46
 ^"Am" ABcd^"D" f3 e |^"D7/F#" d2 c2^"G" B2 BA |^"G" GFGA^"D" BAGF ||1^"Em" E2 GF E2 g2 :||2^"Em" E2 GF E2!D.C.! |] %51
 
-X:172
+X:171
 T:Mazurka des Murs à Pêche
 C:Philippe Plard
 C:Olivier Philippson
@@ -4877,7 +4828,7 @@ V:1
 ^"Am/E" cBA e3- e2 c |^"Dm" def- f3- fed ||1^"Em" ega e3- e3 :||2^"Em" ega b3- b3!D.C.! ||$ %19
 ^"Dm" def- f3- fed |^"Em" ega e3- e3 |^"Dm" def- f3- fed |^"Em" ega b3- b3 |^"Am" [c-e-b]6 !fermata![cea]3 |] %24
 
-X:173
+X:172
 T:Mo' Momo!
 T:Album Lucky Chops (2019)
 C:Lucky Chops
@@ -4898,7 +4849,7 @@ V:1
  AAAA A z DB- | BcBA- ABAG || z2 c2 c2 BA- | A2 F2 G2 A2 | B2 B2 B2 AG- | G4 z4 | z2 E2 F2 G2 |$ %44
  F z F z F z EE- || E8- | E8- |!<(! E8- | E6!<)! z2!D.S.! |] %49
 
-X:174
+X:173
 T:Mon Amant de Saint-Jean
 T:Chantée par Lucienne Delyle (1942)
 C:Emile Carrara
@@ -4937,7 +4888,7 @@ w: Je|res- tais gri-|sée|Sans vo- lon-|té|Sous ses bai-|sers|_|
 w: |||||* * bai-|sers|_|
 w: Il|ne m'ai- me|plus|C'est du pas-|sé|N'en par- lons|plus|_|
 
-X:175
+X:174
 T:Mon Amour, Mon Ami
 T:Chantée par Marie Laforêt en 1967
 T:Repris en version metal par Therion en 2012
@@ -4989,7 +4940,7 @@ w: à d'au- tres que toi|Un peu moins bien cha- que|fois|
 w: |||
 w: |||
 
-X:176
+X:175
 T:Moondance
 T:Album Oceanborn (1998)
 C:Nighwish
@@ -5010,7 +4961,7 @@ V:1
 |: E(3B/G/F/ EE E(3B/G/F/ EF | cA B2 z B c>c | dc B/c/B/A/ BEGA |$ %69
 [M:2/4]|1 FD E .c | .c(3B/G/F/ EE :|[M:6/4]|2 FD z !>!E/!>!E/ !>!!fermata!E8 |] %72
 
-X:177
+X:176
 T:Moonlight Shadow
 T:Album Crises (1983)
 C:Mike Oldfield
@@ -5041,7 +4992,7 @@ w: I stay|I pray See _|you in hea- ven||one day|
 w: |||||
 w: |||||
 
-X:178
+X:177
 T:Morrison's Jig
 L:1/8
 M:12/8
@@ -5056,7 +5007,7 @@ V:1
  Bee fee aee fed | Bee fee gag fed |$ %10
  g2 g gfe def g2 d | edB A2 A BAG FED!D.C.! || !fermata!E8 |] %13
 
-X:179
+X:178
 T:Nagawika
 C:Jacky Galou
 %%score ( 1 2 )
@@ -5105,7 +5056,7 @@ w: ||
 w: ||
 w: ||
 
-X:180
+X:179
 T:Nel blu dipinto di blu (Volare)
 T:3ème de l'eurovision 1958
 C:Domenico Modugno
@@ -5145,7 +5096,7 @@ w: su men- tre~il|mon- do pian pia- no scom-|pa- re ne- gli occhi tuoi|blu|
 w: * U- na|mu- si- ca dol- ce suo-|na- va sol- tan- to per|me||
 w: * La tua|vo- ce~è~u- na mu- si- ca|dol- ce che suo- na per|me||
 
-X:181
+X:180
 T:Nihavent Longa
 T:Danse traditionnelle turque dans la gamme Nihavend (maqam).
 T:Les longas proviennent de Thrace (Turquie européenne)
@@ -5174,7 +5125,7 @@ V:2
 |: x4 | x4 | x4 | x4 | x4 |$ %25
  x4 | x4 | x4 :| %28
 
-X:182
+X:181
 T:Nina
 T:Album "La belle étoile" (2009)
 C:Babylon Circus
@@ -5213,7 +5164,7 @@ w: One|day|_ I heard your voice tal- king to|me|* Re- mem- ber all the words you
 w: way|* The last time just be- fore you|go||For- e- ver and e- ver|
 w: say|* There's some- thing that will al- ways|be|||
 
-X:183
+X:182
 T:Non, je ne regrette rien
 T:Enregistrée par Edith Piaf en 1960
 C:Charles Dumont
@@ -5238,7 +5189,7 @@ w: rien. * Ni le|bien * qu'on m'a|fait, * ni le|mal; * tout ça m'est bien é-|g
 ^"G7" G6- G^"E7"BA GGF |^"C" E8 z2 F<G |^"F" A8- A2 BA |^"Dm" A8- A2 cB |^"G7" B6- B z z4 | z2 B2 c2 d3 c B2 |^"A" !fermata!c12 |] %43
 w: non, * je ne reg- ret- te|rien. Car ma|vie, * car mes|joies, * au- jourd'|hui, *|ça com- mence a- vec|toi!|
 
-X:184
+X:183
 T:Ode à la joie
 T:Finale du 4ème et dernier mouvement de la 9ème Symphonie en ré mineur (1824)
 T:Hymne à l’universelle humanité (Version française)
@@ -5259,7 +5210,7 @@ w: Plus de hai- ne|sur la _ ter- re,|que re _ nais- se|le bon- heur. Tous|
  A2 A2 B2 c2 |^"C" c2 B2 A2 G2 |^"F" F2 F2 G2 A2 |^"C" G3 F^"F" F4 :| %16
 w: _ les hom- mes|sont des frè- res|quand la joie u-|nit les coeurs.|
 
-X:185
+X:184
 T:Off She Goes Jig
 Z:G=G
 L:1/8
@@ -5273,7 +5224,7 @@ V:1
 |: e | faf def | gbg efg | faf def | eAA A2 d/e/ |$ %14
  faf def | gbg efg | fed g2 f | edc d2 :| %18
 
-X:186
+X:185
 T:Oh My Darling Clementine
 T:Traditionnel américain (1884)
 C:Percy Montrose
@@ -5290,7 +5241,7 @@ w: daugh- ter Cle- men-|tine. R/~Oh, my|dar- ling. Oh my|dar- ling. Oh my|dar- l
 ^"Am" A4 AB |^"D7" c2 c2 B>A |^"G" B2 G2 GB |^"D7" A3 D ^FA |^"G" G4 |] %17
 w: tine. Thou art|lost and gone for-|e- ver, dread- ful|sor- ry Cle- men-|tine.|
 
-X:187
+X:186
 T:Oh! Happy day!
 T:Arrangement Gospel (1967)
 T:provenant d'un hymne du XVIIIe siècle
@@ -5313,7 +5264,7 @@ w: He taugh me how|_|* to watch|_|* fight and pray|_|fight and pray.||
 ^"Bb/C" B2 B2 B2^"F" A2- | A8- | A4 A2^"Bb" B2- | B8- | B2 B B2^"F" A3- | A6 z2 | z2 B B2 c z2 |] %29
 w: and live re- joi-||* cing ev|_|* ev'- ry- day||ev'- ry- day|
 
-X:188
+X:187
 T:Oh! Susanna
 T:Chanson traditionnelle américaine (1848)
 C:Stephen Foster (1826-1864)
@@ -5333,7 +5284,7 @@ w: so hot _ I|froze to death Su-|san- na don't you|cry|||
 w: don't you cry for|me For I|come from _ A-|la- ba- ma with/a|ban- jo on my|knee|
 w: ||||||
 
-X:189
+X:188
 T:Oh Mary Don't You Weep
 T:African-American spiritual
 Z:Roud No. 5027 and 11823
@@ -5352,7 +5303,7 @@ w: If I could I|sure- ly would _|Stand on the rock where|Mo- ses stood|
 "_God gave Noah the rainbow sign,\nNo more water, but fire next time, etc.""_Brothers and sisters, don’t you cry,\nThere’ll be good times by and by, etc.""_Moses stood on the Red Sea shore,\nSmote the water with a two-by-four, etc.""_Mary wore three links of chain,\nOn every link was Jesus’ [or freedom’s] name, etc.""_One of these nights ‘bout twelve o’clock\nThis ol' world gonna reel and rock, etc.""_If I could I surely would\nStand on the rock where Moses stood.\nPharaoh’s army got drownded,\nOh Mary don’t you weep."^"C" E G2 A2 G E2 |^"G" D G2 G- G4 |^"D7" B3 B2 AAG |^"G" G8!D.C.! || %16
 w: Pha- raoh's ar- my got|drown- * ded, _|Oh Ma- ry don't you|weep.|
 
-X:190
+X:189
 T:OLA / En er mundo
 C:Juan Quintero Muñoz & Jesús Fernández Lorenzo
 L:1/8
@@ -5364,7 +5315,7 @@ V:1
  (3efg (3fed e(3f/g/f/ e2 | (3EEE .E2 (3efg (3fed | e(3f/g/f/ e2 (3EEE .E2 |$ %3
  (3cde (3dcB d(3c/B/A/ B2- | BB/c/ B/A/G/F/ E4 || %5
 
-X:191
+X:190
 T:Old MacDonald Had a Farm
 T:Comptine anglophone
 Z:Roud No. 745
@@ -5381,7 +5332,7 @@ w: E I E I|O With a|chick- chick here and a|chick- chick there.|Here a chick, th
  GGGG G2 G2 | G2 G2 D2 D2 |^"C" E2 E2^"G" D4 | B2 B2^"D7" A2 A2 |^"G" G6 z2 |] %16
 w: ev- ry- where a chick- chick|Old Mac Do- nald|had a farm|E I E I|O|
 
-X:192
+X:191
 T:On écrit sur les murs
 T:Interprété par Demis Roussos en 1989
 C:Romano Musumara / Jean-Marie Moreau
@@ -5416,7 +5367,7 @@ w: ||||
 w: * On é-|crits sur les murs pour que l'a-|mour se * lève un beau|jour sur le monde en- dor-|mi.|
 w: |||||
 
-X:193
+X:192
 T:Palma del Bandonéon
 T:Tango typique
 C:D. Margelli
@@ -5439,7 +5390,7 @@ O^"Am" A z/ A/ B/^c/c/A/ ||[K:C]^"A" ^G>G A/B/B/G/ |^"A" ^F>E F/^G/G/E/ |^"Bm" d
 ^"E7" E>E ^F/^G/G/E/ |^"A" ^c4- |^"A" c z/ ^c/ d/e/e/c/ |^"A7" B>^c d/e/e/c/ |^"A7" B>A B/^c/B/A/ |^"D" ^f4-&x2^"F#7"x2 |^"Bm" f z/ ^F/ ^G/.A/A/G/ |$ %53
 ^"Bm" ^F>^G A/.B/B/A/ |^"E7" ^G>B ^c/.d/d/c/ |^"A" A4- | A^"E7".E^"A" A/ z/ z!D.C.! || %57
 
-X:194
+X:193
 T:Par Dessus les Alpes
 T:Mazurka
 C:Freddy Dusaillant
@@ -5454,7 +5405,7 @@ V:1
 |:^"Am" c2 A .A2 c A2 A |^"F" c2 A .A2 c A2 c |^"Dm" d2 e .d2 c2 Bc |^"G" d2 G .B2 d G2 B |$ %14
 ^"F" A2 g .e2 d2 cB |^"Dm" ABc d3 Bcd |^"C" e2 e .g2 e2 dc ||1^"E7" B3 z2 A A2 A :||2^"E7" B3 z2!D.C.! |] %19
 
-X:195
+X:194
 T:Partenaire Particulier
 T:Album "Jeux Interdits" (1986)
 C:Partenaire Particulier
@@ -5498,7 +5449,7 @@ w: ||||
 w: Dé- blo- quée, pas|trop ti- mide et|une bonne dose de|sa- voir- faire _|_ sa- voir-|faire|_|
 w: |||||||
 
-X:196
+X:195
 T:Pauvres Diables
 T:Version française de la chanson "Pobre Diablo"
 T:Album Emociones (1978)
@@ -5534,7 +5485,7 @@ w: ||||
 w: |||* * Dès qu'un|
 w: ||||
 
-X:197
+X:196
 T:Pedro est au brésil
 T:Comptine de colo
 L:1/8
@@ -5556,7 +5507,7 @@ w: |||
 w: vil- le _ ap-|prendre * un nou- veau|pas, un nou- veau pas|
 w: |||
 
-X:198
+X:197
 T:Pelot d'Hennebont
 T:Album "Suite gallaise" (1974)
 C:Tri Yann
@@ -5577,7 +5528,7 @@ w: |||||
 ^"Fm" !breath!f3 f f2 f2 |^"Cm" g3 g e2 g2 |^"Fm" f3 f f2 f2 |^"Eb" e3 e c2 e2 |^"Fm" f8 |] %26
 w: |||||
 
-X:199
+X:198
 T:Petite Marie
 T:Album "Les Murs de poussière" (1977)
 C:Francis Cabrel
@@ -5612,7 +5563,7 @@ w: ||||
 w: * plus * que toi * pour par- tir|* Dans la|* plus * que toi * pour par- tir|* je viens du ciel||
 w: |||||
 
-X:200
+X:199
 T:Pirouette, Cacahuète
 T:Comptine française (1953)
 C:Gabrielle Grandière
@@ -5627,7 +5578,7 @@ w: Il é-|tait un pe- tit|homme, pi-|rouet- te ca- ca-|huè- te, il é-|tait un 
  G3 G GG |^"F" A3 F AA |^"C" G3 E EE |^"G7" G2 F2 E2 | D2^"C" C4 :| %11
 w: homme qui a- vait|une drôle de mai-|son, qui a- vait|une drôle de|mai- son|
 
-X:201
+X:200
 T:Porque te vas
 T:Chantée par Jeanette
 T:Album "Porque te vas" (1976)
@@ -5663,7 +5614,7 @@ w: ||||
 w: vas, por- que te|vas, por- que te|vas, por- que te|vas.|
 w: ||||
 
-X:202
+X:201
 T:Prendre un enfant
 T:Album "Yves Duteil" (1977)
 C:Yves Duteil
@@ -5707,7 +5658,7 @@ w: en re- gar- dant tout au|bout du che- min|prendr' un en- fant pour le|sien|
 w: ||||
 w: ||||
 
-X:203
+X:202
 T:Qui peut faire de la voile sans vent ?
 T:Version française de la chanson traditionnelle de
 T:Finlande suédoise : "Vem kan segla förutan vind"
@@ -5724,7 +5675,7 @@ w: Je peux faire de la|voile sans vent|Je peux ra- mer sans|ra _ mes|
 w: Et qui peut qui- tter|son a- mi(e)|sans ver- ser de|lar- me|
 w: Mais ne peux quit- ter|mon a- mi(e)|sans ver- ser de|lar- me|
 
-X:204
+X:203
 T:Rakes of Mallow
 L:1/8
 M:4/4
@@ -5735,7 +5686,7 @@ V:1
 |: GBGB GB c/B/A/G/ | FAFA FA d/c/B/A/ | GBGB GB d>B | c/B/A/G/ F/G/A/c/ BG G2 :|$ %4
 |: g/f/e dc Bc d2 | g/f/e dc Bc A2 | g/f/e dc Bc d>B | c/B/A/G/ F/G/A/c/ BG G2 :| %8
 
-X:205
+X:204
 T:Rampi Rampi / Çadirimin Üstüne
 T:Traditionnel turc : "La pluie a coulé sur ma tente"
 L:1/8
@@ -5769,7 +5720,7 @@ w: Ram- pi _ _ _ _ _ _ _ _|Ge- liyo- ra bak- di _|Ge- liyo- ra bak- di _|
 w: |||
 w: |||
 
-X:206
+X:205
 T:Rasputin
 T:Album "Nightflight to Venus" (1978)
 T:Adaptation du traditionnel turque  : "Üsküdar'a gideriken"
@@ -5823,7 +5774,7 @@ w: Ra- rs ras- pu- tin|Rus- sia's great- est love ma- chine|he drank it all and|
 w: Ra- rs ras- pu- tin|lo- ver of the Rus- sian queen|they di- dn't quit him|want- ed his head _|
 w: Ra- rs ras- pu- tin|Rus- sia's great- est love ma- chine|and so they shot him|till he was dead _|
 
-X:207
+X:206
 T:RED RIVER VALLEY
 T:Chanson traditionnelle américaine (1890s)
 Z:Roud No. 756
@@ -5840,7 +5791,7 @@ w: O sei-|gneur la roue tourne en- tre|tes mains _ Où je|vais au- jour- d'hui j
 w: dieu. But re-|mem- ber that Red Ri ver|Val- ley _ and the|cow boy that loved * you so|true.|
 w: sais O sei-|gneur la roue tourne en- tre|tes mains _ Mais je|veux re- trou- ver * les pion-|niers|
 
-X:208
+X:207
 T:Rigodon de Charance
 T:Le Coucou / Traditionnel dauphinois
 L:1/8
@@ -5853,7 +5804,7 @@ V:1
 |: C2 E2 |^"C" G3 G |^"F" AB cA |^"C" G2 G2 | C2 E2 |^"G7" G3 A | GF ED ||1^"C" E4 :||2^"C" C4 ||$ %9
 |: CE CE |^"G7" E2 D2 | DF DF |^"C" F2 E2 |^"F" AB cA |^"C" G3 A |^"G7" GF ED ||1^"C" E2 C2 :||2^"C" C4 |] %18
 
-X:209
+X:208
 T:Rue de Panam
 T:Album "Rue du Temps" (1997)
 C:Les Ogres de Barback
@@ -5900,7 +5851,7 @@ w: joie et l'a- nar-|chie. la|joie et l'a- nar-|chie la|joie dans Pa-|ris.|
 w: ||||||
 w: ||||||
 
-X:210
+X:209
 T:Samba Lelê
 T:Comptine brésilienne
 L:1/8
@@ -5916,7 +5867,7 @@ w: Sam- ba Le- lê pre- ci-|sa- va|de.u- mas de- zoi- to lam-|ba- das.|
 w: Sam- ba, sam- ba,|sam- ba Le- lê|Pi- sa na bar- ra da|sa- ia la- la|
 w: ||||
 
-X:211
+X:210
 T:Samuel scottish
 T:Scottish
 C:Eric Thézé
@@ -5934,7 +5885,7 @@ V:1
 |:[P:C]^"Dm" A2 z d- d2 e2 |^"E" f3 e- e2 d2 |^"A" ^c3 e-^"A/G" e2 A2 |^"A/F" A3 B-^"A/E" B2 A2 |$ %22
 ^"Dm" F4 DE F2 |^"Gm" G4 F4 |||1^"A" E2 .AA- AA .A2 |^"A7" A2 A2 B2 .A2 :||2^"A" E2 .A.A z .A.A.A | z8 |] %28
 
-X:212
+X:211
 T:San Francisco
 T:Album "Mon frère" (1972)
 C:Maxime Le Forestier
@@ -5960,7 +5911,7 @@ w: San Fran- cis-|co|
 w: ||||
 w: Où ê- tes vous?|_ Liz- zard et Luc|_ Psyl- via|_ at- ten- dez moi!|
 
-X:213
+X:212
 T:Sanie Cu Zurgulai / Johnny tu n'es pas un ange
 T:Traditionnel roumain
 C:Richard Stein
@@ -6001,7 +5952,7 @@ w: John- ny|_|John- ny|_|Je t'ai- me- rai|tout au-|* tant|_|
 w: ||||||||
 w: John- ny|_|John- ny|_|Il faut tout vous|par- don-|* ner|_|
 
-X:214
+X:213
 T:Santiano
 C:Hugues Aufrey
 %%score 1 { 2 | ( 3 4 ) } 5 ( 6 7 )
@@ -6079,7 +6030,7 @@ V:7
  D,,4 | E,,4 | E,,4 | D,,4 | D,,4 |$ %25
  A,,,4 | A,,,4 | D,,4 | D,,4 | E,,4 | B,,,4 | E,,4 | x4 |] %33
 
-X:215
+X:214
 T:Sarà perchè ti amo
 T:Album "E Penso A Te" (1981)
 C:Ricchi e Poveri
@@ -6136,7 +6087,7 @@ w: ||||||||
 w: ||||||||
 w: ||||||||
 
-X:216
+X:215
 T:Scarborough fair
 T:Chanson traditionnelle anglaise
 L:1/8
@@ -6150,7 +6101,7 @@ w: 1.Are you go- ing|to Scar- bo- rough Fair?|Pars- ley, sage,|rose- mar- y and 
 ^"Bb" dd d^"Am" c2 A |^"F" AG F^"C"E C2- | C2 C^"Dm" D2 A |^"G" G2 F^"C"E DC |^"Dm" D6 |] %10
 w: Re- mem- ber me to|one who lives there _|_ For once she|was a true love of|mine|
 
-X:217
+X:216
 T:Schottische à Bethanie
 L:1/8
 M:2/2
@@ -6163,7 +6114,7 @@ V:1
 |:^"Dm" d2 =ef^"Gm" e2 d2 |^"C" cdcB^"F" A4 |^"Bb" Bcdc B2 AG |$ %8
 |1 F2^"A" G2 A4 :||2^"A" F2 f=e^"Dm" d4 :| %10
 
-X:218
+X:217
 T:Scottish à Émilie
 C:Jean-Michel Bencetti
 %%score [ 1 ( 2 3 ) ]
@@ -6188,7 +6139,7 @@ V:3
 |: B,,4 x4 | ^A,,4 x4 | A,,4 x4 | ^G,,4 x4 |$ %12
  G,,4 x4 | F,,4 x4 | E,,4 x4 | ^A,,4 x4 :| %16
 
-X:219
+X:218
 T:Septembre
 T:Mazurka
 C:Stéphane Delicq
@@ -6201,7 +6152,7 @@ V:1
 "^Swing" Ac |:^"Am" e3 z^"F" af |^"Am" e3 z A2 |^"Em7" B2 z d cB |^"Am" c2 .A2 Ac |^"Am" e2 z a^"F" fa |^"Am" e3 z A2 |^"Em7" B2 z d cB ||1^"Am" A3 z Ac :||2^"Am" A3 z A2 ||$ %10
 |:^"Em7" B2 z d cB |^"Am" c2 .A2 c2 |^"Dm7" a4^"E" gf |^"Am" e3 z A2 |^"Em7" B2 z d cB |^"Am" c2 .A2 e2 |^"Dm7" fe .dc^"E" B2 ||1^"Am" A3 z A2 :||2^"Am" A4 |] %19
 
-X:220
+X:219
 T:Shostakovich : Valse N°2
 T:Suite pour orchestre de variété n° 1 opus 50b (1956)
 C:Dmitri Shostakovich
@@ -6215,7 +6166,7 @@ V:1
  e6 | d4 c2 |^"Fm" B4 A2 | F6 |^"Bb" d6 | c4 B2 |^"Eb" B6 |: z2 E2 F2 |^"Cm" G2 GF GA |^"Fm" F2 FE FG |^"Cm" E2 z2 G2 :|$ %27
  z2 c2 d2 | e2 ed ef |^"G" d2 dc de |^"Cm" c6- | c2 z4 |] %32
 
-X:221
+X:220
 T:Siffler sur la Colline
 T:Chanté par Joe Dassin sur l'Album "Joe Dassin" (1968)
 T:Reprise de la chanson italienne "Uno tranquillo" (1967)
@@ -6264,7 +6215,7 @@ V:2
  x8 | x8 | x8 | x8 :|$ %30
 |: x8 | x2 AA ^ce g2 | x8 | x2 AA df a2 :| %34
 
-X:222
+X:221
 T:Ska yiddish
 C:Eugène Gaumeton
 %%score [ 1 ]
@@ -6280,7 +6231,7 @@ V:1
 ^"Bm" F6 cB |^"Am" A3 B c2 Bc |^"Bm7" d3 c A2 Bc |^"Am7" B2 A2 G2 F2 |^"Em" E2 z2 z2 EG :|$ %18
 O^"Em" E4 z2 EG |^"Am7" B2 A2 G2 F2 | B2 A2 G2 F2 |^"Esus4" !fermata!f4 e2 z2 |] %22
 
-X:223
+X:222
 T:Société, Tu m'auras pas !
 T:Album "Amoureux de Paname" (1975)
 C:Renaud Séchan
@@ -6312,7 +6263,7 @@ w: |||
 w: |||
 w: |||
 
-X:224
+X:223
 T:Song of the Fisherwomen
 T:Chants et Rythmes d'Asie : Le chant des pêcheuses
 C:Gurdjieff / De Hartmann
@@ -6339,7 +6290,7 @@ V:2
 [M:4/4] E2 EE E2 E2 | E2 EE E2 E2 | E2 EE E2 E2 | E2 EE E2 E2 | E2 EE E2 E2 | E2 EE E2 E2 |$ %24
  E2 EE E2 E2 | E2 EE E2 E2 | E2 EE E2 E2 | E2 EE E2 E2 | E2 EE E2 E2 | E2 EE E2 E2 :| E4 z4 |] %31
 
-X:225
+X:224
 T:Sous le Ciel de Paris
 T:B.O. "Sous le ciel de Paris" (1951)
 C:Hubert Giraud
@@ -6391,7 +6342,7 @@ w: mants * *|il fait gron- der sur nous son ton- nerr' é- cla-||tant.|
 w: ||||
 w: ||||
 
-X:226
+X:225
 T:Speedy Gonzales / J'ai deux passions
 T:Kanter - Kro
 C:Monkey Circus (2001) / David Dante (1961)
@@ -6415,7 +6366,7 @@ V:2
 |: x6 | z2 B2 B2 AB- | B x7 | z2 G2 G2 AG- |$ %4
  G x7 | z2 E2 E2 DE- | E x7 | x2 A2 c2 AF- | F2 :| %9
 
-X:227
+X:226
 T:Les Quatre Saisons - Le Printemps (1725)
 T:Concerto n°1 en Mi Majeur, op. 8, RV 269, « La primavera »
 T:Version simplifiée pour Tin Whistle
@@ -6433,7 +6384,7 @@ V:1
  z2 f2 f/b/f/g/ f2 | f/b/f/g/ f/b/f/g/ f/b/f/g/ f/b/f/g/ | f/b/f/g/ fB Td3 z |$ %19
  Td3 z Td3 z | Td3 z a2 b2 | Tb4 a2 b2 | !>!b8 |] %23
 
-X:228
+X:227
 T:Star Wars
 T:Star Wars : Un nouvel espoir (1977)
 C:John Williams
@@ -6447,7 +6398,7 @@ V:1
  (3GAB (3:2:2A2 E F2 (3:2:2D2 D | E3 E cBAG | d2 A4 (3:2:2z2 D | E3 E cBAG | (3GAB (3:2:2A2 E F2 (3:2:2D2 D |$ %15
  (3:2:2g2 ^e (3:2:2^d2 =d (3:2:2c2 ^A (3:2:2=A2 G | d2 (3DDD D2 DD/D/ | E3 G c2 A2- | A6 :||2 G8- || G2 (3GGG G2 z2 |] %21
 
-X:229
+X:228
 T:Talijanska
 T:Traditionnel Italien
 T:B.O. "Le temps des gitans" (1989)
@@ -6472,7 +6423,7 @@ V:2
 [K:F] x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 |$ %36
  x6 | x6 | x6 | x6 | x2 [Ac]2 [Ac]2 | [Ac]2 z4 |] %42
 
-X:230
+X:229
 T:Tamo Daleko / Тамо Далеко
 T:Traditionnel serbe sur la première guerre mondiale : "Là bas, au loin"
 L:1/8
@@ -6527,7 +6478,7 @@ w: |||||||
 w: |||||||
 w: |||||||
 
-X:231
+X:230
 T:Tarantella Napoletana
 T:Tarentelle
 C:Trad. Italien & Diederich/Schumeck
@@ -6547,7 +6498,7 @@ V:1
 |:[P:C]^"G" !courtesy!=GAB |^"C" cBc ece | g2 g gag |^"G7" g2 f fgf |^"C" f2 e^"G7" GAB |^"C" cBc ece | g2 g g^fg |^"G7" bag !courtesy!=fed |^"C" c3 :|$ %63
 |:[P:D] e2 f |^"C" gec gec | g2 g gag |^"G7" fef def |^"C" gec ceg | gec gec | g2 g gag |^"G7" bag fed |^"C" c3!D.C.! :| %72
 
-X:232
+X:231
 T:Tes Yeux Noirs
 T:Album "3" (1986)
 C:Indochine
@@ -6590,7 +6541,7 @@ w: Où vas tu|Les yeux noirs|Quand tu vas|vers nulle part 2.Al- lez|
 w: Où vas tu|Quand tu pars|Dans la rue|vers nulle part 3.Al- lez|
 w: ||||
 
-X:233
+X:232
 T:Tetris / Korobushka / Коробейники
 L:1/8
 M:4/4
@@ -6600,7 +6551,7 @@ V:1 clef=
 V:1
 |: E2 EG B2 AG | F3 G A2 B2 | G2 E2 E2 z2 | z A2 c e2 dc | B3 G B2 AG | F2 FG A2 B2 | G2 E2 E2 z2 :| %7
 
-X:234
+X:233
 T:The Butterfly
 T:Slip Jig
 L:1/8
@@ -6613,7 +6564,7 @@ V:1
 |:^"Em" B2 d e2 f^"G" g3 | GB{/f}g- g2 e^"D" dBA |^"Em" B2 d e2 f^"Cmaj7" g2 a |^"G" b2 a g2 e^"D" dBA :|$ %8
 |:^"Em" B3{/c} B2 A G2 A | B3{/c} BAB^"D" dBA |^"Cmaj7" B3{/c} B2 A G2 A |^"G" B2 d g2 e^"D" dBA :| %12
 
-X:235
+X:234
 T:The Galway Belle Polka
 Z:G=G
 L:1/8
@@ -6625,7 +6576,7 @@ V:1
 |: E>F GA | Be B2 | AF DF | EF DF | E>F GA | Be B2 | AF DF | E2 E2 :|$ %8
 |: ee B2 | ee B2 | A>F DF | EF DF | ee B2 | ee B2 | AF DF | E2 E2 :| %16
 
-X:236
+X:235
 T:The King of the Færies (an rí daoine sidhe)
 T:Traditional Irish Hornpipe
 L:1/8
@@ -6641,7 +6592,7 @@ V:1
  e>^f e>d B2 B2 | e>^f e>d B2 B2 | d>c B>A c>B A>G | ^F>G A>F D2 E>F |$ %22
  G>^F G>A B>A B>d | e>d e>^f g2 e2 | d>c B>A B>A G>^F ||1 E4 E2 B,2!D.S.! :||2 !fermata!E8 |] %27
 
-X:237
+X:236
 T:The Wellerman
 T:Chant de marins de chasse à la baleine des années 1860-70 originaire de Nouvelle-Zélande,
 T:The Wellerman fait référence aux navires ravitailleurs des Frères Weller.
@@ -6662,7 +6613,7 @@ w: R/~Soon may the|Wel- ler- man come to|bring us su- gar and|tea and rum.|
 ^"Ab" c4 c2 AA |^"Eb" B[GB] G2 !breath!G2 G2 |^"G7" G2 F2 E2 D2 |^"Cm" C4 z2 |] %17
 w: One day, when the|ton- guing is done, we'll|take our leave and|go.|
 
-X:238
+X:237
 T:Ti Amo
 T:Album "Ti amo" (1977)
 C:Umberto Tozzi
@@ -6703,7 +6654,7 @@ w: |||
 w: che~hai fat- to * * *|quan- do non c'e- ro E le len- zuo- la di li-|no|
 w: |||
 
-X:239
+X:238
 T:Ton Invitation
 T:Album "Louise Attaque" (1998)
 C:Louise Attaque
@@ -6738,7 +6689,7 @@ w: un trait un point dans notre es- pace|T'sais j'ai pas toute ma rai- son|T'sai
 ^"Bm" z2 z B,/B,/ F D2 D |^"F#" CC/C/ z C CC CC/B,/ |^"Bm" z2 z B,/B,/ (3F2 E2 D2 |^"F#" CC/C/ z C CC CC/B,/ |] %55
 w: T'sais j'ai tou- jours rai-|son tu sais j'ai pas toute ma rai- son|T'sais j'ai tou- jours rai-|son Tu sais j'ai pas toute ma rai- son|
 
-X:240
+X:239
 T:Tournent les Violons
 T:Album "Chansons pour les pieds" (2001)
 C:Jean Jacques Goldman
@@ -6805,7 +6756,7 @@ w: ||||
 w: ||||
 w: ||||
 
-X:241
+X:240
 T:Tous les Cris, les SOS
 T:Album "Sauver l'amour" (1985)
 C:Daniel Balavoine
@@ -6852,7 +6803,7 @@ w: pierres d'é- toi- * les sur les ro- chers|_||* ouh- * * *|ouh|ouh|
 w: ||||||
 w: ||||||
 
-X:242
+X:241
 T:Tout le Bonheur du Monde
 T:Album "Debout, les yeux ouverts" (2005)
 C:Sinsemilia
@@ -6899,7 +6850,7 @@ w: On vous souhaite tout le bon-|heur du monde *|oh oui tout le bon-|heur du mon
 w: ||||
 w: ||||
 
-X:243
+X:242
 T:Chevaliers de la table ronde
 T:Chanson à boire traditionnelle française
 Z:G=G
@@ -6914,7 +6865,7 @@ w: 1.Che- va- liers de la ta- ble|ron- de, goû- tons voir|si le vin est bon.|
 |:^"G7" dd^"C" e2 cc c2 | ee^"G" d2 BB B2 | dd^"D7" c2 Ad dd ||1^"G" B2 c2 d2 :||2^"G" G4 z4 |] %8
 w: goû- tons voir, oui, oui, oui,|goû- tons voir non, non, non,|goû- tons voir si le vin est|bon _ _|bon.|
 
-X:244
+X:243
 T:Tri Martolod / La tribu de Dana
 T:Manau - Album "Panique celtique" (1998)
 C:Traditionnel breton
@@ -6935,7 +6886,7 @@ w: oh Les chants|de guerre près des|tom- beaux|
 |:"^Solo" E^"Am"A GA | B^"C"c cB | c^"D"d cB | A^"F" c2^"Em" B :| %22
 w: ||||
 
-X:245
+X:244
 T:Un éléphant qui se balançait
 T:Comptine française
 L:1/8
@@ -6951,7 +6902,7 @@ w: Deux * * * * *||||
 w: jeu tel- le- ment telle|_ ment a- mu- sant. Qu'il ap- pe-|la un deu- xième|é- lé- phant.|
 w: ||* * troi- sième||
 
-X:246
+X:245
 T:Valse des bougies
 T:valse à 5 temps
 C:Eric Thézé
@@ -6965,7 +6916,7 @@ V:1
 |:^"Am" A2 !tenuto!.e2 !tenuto!.e2 f3 e |^"Dm" d8 z2 |^"E7" d2 !tenuto!.B2 !tenuto!.B2 c3 d |^"Am" c8 z2 |^"F6" A2 !tenuto!.c2 !tenuto!.c2 d3 c |^"Dm" B8 z2 ||1^"E7" B2 !tenuto!.B2 !tenuto!.B2 c3 d |^"Am" e8 z2 :||2^"E7" B2 !tenuto!.^G2 !tenuto!.G2 A3 B |^"Am" A8 z2 :|$ %10
 ^"Am" a6 e4 |^"Dm" f6 g2 a2 |^"Am" c'6 e4 |^"Dm" d6 e2 f2 |^"Am" a6 e4 |^"Dm" f6 g2 a2 |^"Am" c'6 c'4 |^"E7" b8 z2 |] %18
 
-X:247
+X:246
 T:Valsesia
 T:Hymne partisan de la "Division Valsesia", sur l'air de la chanson "Dalmazia, Dalmazia".
 L:1/8
@@ -6996,7 +6947,7 @@ w: |||||
 w: gri- do del va-|lo- re par- ti-|gia- no vin- ce-|rà * * *|
 w: ||||
 
-X:248
+X:247
 T:Veinte años
 T:Habanera de 1935
 C:María Teresa VERA
@@ -7034,7 +6985,7 @@ V:2
  E,3 E,2 A, B,2 | C4 z2 z G,- | (3G,2 F,2 G,2 A,2 B, A, | G,2 E,2 z2 B,, B,, | ^A,,3 B,, ^D,3 B,, |$ %35
  G,,4 z4 | z [F,A,] [F,A,] [G,A,] A,2 G, F, | G,3 E,- E, z [B,,G,] [B,,G,] | [^A,,B,]3 [B,,G,] [^D,A,]3 [D,F,] | [E,G,]4 z4 |] %40
 
-X:249
+X:248
 T:Walking in the Air
 T:B.O. "The Snowman" (1982)
 T:Repris par Nightwish en 1999
@@ -7070,7 +7021,7 @@ w: _ And|e- very- one who sees us|greets us as we fly|_|
 w: |||||||
 w: |||||||
 
-X:250
+X:249
 T:Warriors
 T:Jig
 L:1/8
@@ -7084,7 +7035,7 @@ V:1
 {/c} G2 B E2 B |{/c} G2 B E2 B | GFE B2 E | c2 E{/c} B3 |$ %12
 |1 cBA{/c} B2 G |{/c} A2 B c2 d | e2 f e2 d |{/A} B6 :||2 edc d2 B | c2 B c2 d | e2 g fed |{/f} e6 |] %20
 
-X:251
+X:250
 T:When the saints go marching in
 T:Gospel
 L:1/8
@@ -7099,7 +7050,7 @@ w: 1.Oh when the|saints|Oh when the|saints|Oh when the|saints go|mar- ching|in|
  z2 F2 F2 E2 |^"D" D6 D2 |^"D7" F4 A4 |^"G" A2 G6 | z2 G2 F2 G2 |^"D" A4 F4 | D4^"A7" E4 |^"D" D8 |] %16
 w: I want to|be a-|mong the|num- ber|Oh when the|saints go|mar- ching|in|
 
-X:252
+X:251
 T:Whiskey in the Jar
 T:aka Kilgary Mountain
 Z:Roud No. 533
@@ -7120,7 +7071,7 @@ w: are a bold de- ceiv- er" Mu- sha|ring dum- ma do dum- ma da|
 ^"C""^Chorus" DE E>DE<F G2- |^"F" GA A>GA<B c C |^"C" EE^"G"DD^"C" C4 |] %13
 w: _ Whack fol de dad- dy O|_ Whack fol de dad- dy O There's|whis- key in the jar.|
 
-X:253
+X:252
 T:Wonderwall
 T:Album "(What's the Story) Morning Glory?" (1995)
 C:Oasis
@@ -7158,7 +7109,7 @@ w: ||||
 w: * youre my won- der- wa-|* * ll *||
 w: |||
 
-X:254
+X:253
 T:Yellow Submarine
 T:Album Revolver (1966)
 C:The Beatles
@@ -7194,7 +7145,7 @@ w: need Sky of|blue _ and sea of|green in our|yel- * low sub- mar-|ine|
 w: |||||
 w: |||||
 
-X:255
+X:254
 T:Yesterday
 T:Album Help! (1965)
 C:The Beatles
@@ -7224,7 +7175,7 @@ w: ||||
 w: I be- lieve _ in|yes- ter- day, _|mm mm mm mm|mm. _ _ _|
 w: ||||
 
-X:256
+X:255
 T:YMCA
 T:Album Cruisin' (1978)
 T:YMCA signifie Young Men's Christian Association
@@ -7278,7 +7229,7 @@ w: ||||
 w: ||||
 w: ||||
 
-X:257
+X:256
 T:Zombie
 T:Album "No Need to Argue" (1994)
 C:The Cranberries
@@ -7313,7 +7264,7 @@ w: ||||||
 w: * Hey, _ hey, _ hey, _ oh,|_ oh, _ oh, _ oh, _ oh,|_ oh, _ oh, _ hey, _ oh,|_ ya, ya.|_ _ _|
 w: |||||
 
-X:258
+X:257
 T:Ça va, ça va
 T:Album Claudio Capeo (2016)
 C:Claudio Capeo
