@@ -5139,10 +5139,10 @@ I:linebreak $
 K:C
 V:1 clef=
 V:1
-^"Am""^A" c3 (3B/A/^G/ c3 (3B/A/=G/ |^"Dm" D8 |^"G" B3 (3c/B/A/ B3 (3c/B/A/ |^"E" c/B/c/B/ c/B/-B- B4- |[Q:1/4=140] B2 z2 z4 ||$ %5
+[P:A]^"Am" c3 (3B/A/^G/ c3 (3B/A/=G/ |^"Dm" D8 |^"G" B3 (3c/B/A/ B3 (3c/B/A/ |^"E" c/B/c/B/ c/B/-B- B4- |[Q:1/4=140] B2 z2 z4 ||$ %5
 w: |||||
 w: |||||
-^"Am""^B" A2 EA A2 EA | A2 E/E/A AAcA |^"E" B2 EB B2 EB |$ %8
+[P:B]^"Am" A2 EA A2 EA | A2 E/E/A AAcA |^"E" B2 EB B2 EB |$ %8
 w: Je t'at- ten- drai comme a-|vant Sans faire de bruit sans faire sem-|blant Juste parce que tu es|
 w: Je gar- de- rai sur mes|lèvres, le goût su- cré de tes bai-|sers La dou- ceur de ton|
  B2 E/E/B BB d>c |^"Am" A2 EA AA EA |$ %10
@@ -5154,13 +5154,13 @@ w: moi l'étoile de ton re- gard de|braise Et _ _ tous ces pe- tits|mots, que tu
 ^"F" A4 (3A2 B2 c2 |^"Dm" A4 (3A2 B2 c2 |^"G" B8 |^"E" !>!e2 !>!d2 !>!B2 !>!c2 |$ %17
 w: vie. Ni- na Ni-|na, Ni- na Ni-|na?|I'm still wai- ting.|
 w: bas * * *||||
-|:^"Am""^C" z c2 c BcBA | z ccc dcBA |^"Dm" =F6- F.B | !>!e2 !>!d2 !>!c2 !>!B2 |^"G" z B2 B ABAB |$ %22
+|:[P:C]^"Am" z c2 c BcBA | z ccc dcBA |^"Dm" =F6- F.B | !>!e2 !>!d2 !>!c2 !>!B2 |^"G" z B2 B ABAB |$ %22
 w: Ni- na Ni- na Ni- na|Je sais que tu ne vien- dras|pas * And|I'm still wai- ting|Ni- na Ni- na Ni- na|
 w: |||||
  z B2 B cBAB |||1^"E" B6- B.B | !>!e2 !>!d2 !>!c2 !>!B2!dacoda! :||2^"E" B8- | B4!fine! ||$ %27
 w: Mais je t'at- ten- drai là-|bas * So|far a- way from...|bas||
 w: |||||
-|:^"E""^D" z2 B2 |^"Am" A8- | AAAA AAcA |^"E" B8- | BBBc dBdB |$ %32
+|:[P:D]^"E" z2 B2 |^"Am" A8- | AAAA AAcA |^"E" B8- | BBBc dBdB |$ %32
 w: One|day|_ I've been back to that town you|know|* In this place where you came my|
 w: One|day|_ I heard your voice tal- king to|me|* Re- mem- ber all the words you|
 ^"F" c8- | cccc =fcfc |^"Dm" d8- ||1^"G" d z z2 :||2 d=f f2 df f2!dacoda! |] %37
