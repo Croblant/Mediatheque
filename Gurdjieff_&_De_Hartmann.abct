@@ -1,0 +1,1671 @@
+X:1
+T:Mélodie grecque - N°01
+C:Gurdjieff & De Hartmann
+Z:27.VI.1924
+%%score ( 1 2 )
+L:1/8
+M:3/4
+I:linebreak $
+K:C
+V:1 clef=
+V:2 clef=
+V:1
+"^Andantino" [Cc]2 [EB]2{AB} [DA]2 | [CG]4 !tenuto![CF]2 | [CE]7/2 G/ F/4G/4F/4G/4F | [B,D]6 | [DA]2{GA} [CG]2 [A,F]2 | [CE]4 c2 | [Ad]4{/c} e>d | c6 | z2!<(! [Gc]2 [Ad]2 | [ce]4{/d} !tenuto!f2 | [Ad]4 !tenuto!e2!<)! |$ %11
+ d/e/d/e/ c4 |!p! z2 [Ec]2 [Ad]2 | [CG]4 [Ad]2 | [ce]4{/d} (3fed |!>(! c6!>)! | z2 !tenuto!cd !tenuto!ed |!<(! [Ec]4 !tenuto![Ad]2!<)! | [Ge]4 [cg]2 | [Gd]6 |$ %20
+"_cresc." ef gf | [Ae]4 [cf]2 | [Gg]4 [ca]2 | [Ae]6 | z2"_dim." [Gc]2 [Ad]2 | [ce]6 | G4!>(! ed | c6!>)!!D.C.! || [cgc']6 |] %29
+V:2
+ x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 |$ %11
+ x6 | x6 | x6 | x6 | x6 | x2 G2 A2 | x6 | x6 | x6 |$ %20
+ GA G2 | x6 | x6 | x6 | x6 | x6 | F6 | E4 F2 || x6 |] %29
+
+X:2
+T:Atarnakh, chant kurde - N°07
+C:Gurdjieff & De Hartmann
+Z:31.VII.1925
+L:1/8
+Q:1/4=80
+M:2/4
+I:linebreak $
+K:Bb
+V:1 clef=
+V:1
+ z4 |: z d ed ^cd | b2 a2 g2 ^fg | a6 | d/ z/ !>!d ed ^cd |$ %5
+ c'2 b2 a2 | b(3a/b/a/ g6 | d2 [Ac][GB] AG | g2 f2 e2 | d2 B2 [Ac][Bd] e2 | g2 f2 e2 |$ %11
+ d2 [Ac][Bd] | e4 d2 | d4 | c4 c2 | d4 | B4 c2 | [Bd]4 | [Ac]2 [Ac]2 [Bd]2 |$ %19
+ [GB]3 z | g^f g2 e2 |{/e} d2{/e} d^c |{/^c} d2 d>B | d2 b2 a2 g2 d2 B2 | d2 d3 B |$ %25
+ d2 B2 |{/B} AB/A/ G^F G2 | GAB^c d2 ga | !>!b4 !>!b4 | ag ^fg/f/ a2 | !>!g4 |$ %31
+ g2 f2 e2 | [Bd][A^c] [Bd][=ce] [Bd]2 | !>!d z c4 | !>!d z B4 | !>!dcBA BAG^F | G{GA}B G3 z :| [Gdg] z z2 z2 |] %38
+
+X:3
+T:Chants et Rythmes d'Asie : N°9
+C:Gurdjieff / De Hartmann
+Z:14.III.1926
+%%score [ 1 2 ]
+L:1/8
+M:2/2
+I:linebreak $
+K:F
+V:1 clef=
+V:2 clef=perc stafflines=1
+K:none
+I:percmap E B 45 normal
+V:1
+^"Dm""^Marche alerte"!p! F6 F2 |^"A7" G2^"Dm" F2^"A7" E2^"Dm" D2 |^"A7" ^C2^"Dm" D2^"A7" E4- | E6 .E2 |^"A7" !tenuto!G6 G2 |^"A7"!<(! B2^"Dm" A2^"A7" G2^"Dm" F2!<)! |^"A7" !tenuto!G4^"F"!f! !>!A4- |$ %7
+ A4^"A7" A4 |^"Gm" d4^"C7" c2^"Gm" B2 |^"C7" A2^"Gm" G2^"C7" B4 |^"F" !>!A4^"A7" !>!A4 |^"Gm" !>!A4^"A7" !>!G4- | G4^"Dm" .A2^"A7" .G2 |^"Dm"!>(! .F2^"A7" .E2^"Dm" !tenuto!D4!>)! |^"A7"!p! E6 E2 |^"F" F8 |$ %16
+^"F"!f! A6 !>!A2 |^"C" G6 !>!G2 |^"A7" E6 !>!E2 |^"Dm" F6 !>!G2 |^"F" A6!p! A2 |^"A7" !tenuto!c8 |^"F" c4^"Gm"!<(! d2 c2!<)! | B2 A2^"F" c4 |^"Gm"!f! B8- | B2 B2^"Dm" c4- |$ %26
+ c2^"Gm" B2 A2 G2 |^"C7" B4^"F" A4 |^"A7"!<(! !tenuto!A4^"Dm" !tenuto!A4!<)! |^"Gm" !>!A4^"A7" G4- | G4^"F" !>!A2 G2 | F2 E2^"Dm" F4 |^"Gm" E8 |^"Dm" D4 D4 |^"Dm" !>!d6 z2 |^"Dsus4" D6 z2!D.C.! |] %36
+V:2
+[K:C] E2 E E E2 E2 | E4 E4 | E2 E E E2 E2 | E4 E4 | E2 E E E2 E2 | E4 E4 | E2 E E E2 E2 |$ %7
+ E4 E4 | E2 E E E2 E2 | E4 E4 | E2 E E E2 E2 | E4 E4 | E2 E E E2 E2 | E4 E4 | E2 E E E2 E2 | E4 E4 |$ %16
+ E2 E E E2 E2 | E4 E4 | E2 E E E2 E2 | E4 E4 | E2 E E E2 E2 | E4 E4 | E2 E E E2 E2 | E4 E4 | E2 E E E2 E2 | E4 E4 |$ %26
+ E2 E E E2 E2 | E4 E4 | E2 E E E2 E2 | E4 E4 | E2 E E E2 E2 | E4 E4 | E2 E E E2 E2 | E4 E4 | E2 E E E2 E2 | E4 E4 |] %36
+
+X:4
+T:Chants et Rythmes d'Asie n°10
+C:Gurdjieff & De Hartmann
+Z:1.VII.1923
+L:1/8
+M:2/2
+I:linebreak $
+K:Db
+V:1 clef=
+V:1
+"^Lento, quasi recitativo" z8 | c6 c2 | e2 d2 e2 c2 d2 B2 | c8 | !fermata!e4 c2 | d2 c2 B2 c2 B2 =A2 B2 A2 |$ %6
+ F6 E2 F3 E | F8 E4 |{FGA} B6 A2 B3 A | B4 e4 ||$ %10
+[K:Gb]S =D2 E2 |: F4 E2 | F4 G2 | E2 F4- ||1 F2 =D2 E2 :||2 F6 |: A2 B>A B2- | B2 A2{/A} B2- | B2 A2 A2 |{/A} B6 :|$ %20
+ e2 e2{/d} e2- | e2 !>!e2 e2 | d2 e4 | e4!<(! e2 e2 d2!<)! | !-(!!>!d4 !-)!B2!<(! B2 A2!<)! | !>!A4!<(! G2 G2 A2!<)! | !>!B4 B2 B2 A2 | !>!A4 G2 G2 A2 |$ %28
+ !>!B4 A2{/A} d2 A2 | !>!A4 G2 G2 TG2 | G4 F2 PE2 =D>F | E3 =D E2!D.S.! |] %32
+
+X:5
+T:Chants et Rythmes d'Asie n°12
+C:Gurdjieff & De Hartmann
+Z:15.XII.1925
+L:1/8
+Q:1/4=44
+M:3/8
+I:linebreak $
+K:C
+V:1 clef=
+V:1
+ EF |{/E} [EG]2 !tenuto!F- | FGF | G/F/EF | G2 F | GF/4G/4F/4G/4E- | E3- | EEF | GFE | cBc/B/ | A2 c/d/ |$ %11
+ [ce]{/e}d{/d}c |{/c} B2 f | e{/e} d2 |{/d} c2 B | c [Bd]2 |{/d} c{/c}B{/B}A- | A c2 |{/c} B{cB}AE | GF>G |$ %20
+ E2 G | AG3/2A/4G/4 | F2 F | G [FA]2 | ccc- | cB/c/B/A/ | G2 B | c [Bd]2 | [ce]2 !tenuto!f- | f{/f}e{/e}d |$ %30
+ e/f/ g2 | f/e/ d2 | c/d/ e2 | d/c/ B2 | AB[Ac]- | [Ac]2 B/4A/4G/4F/4 | E3- | [EBe] z z |] %38
+
+X:6
+T:Chants et Rythmes d'Asie n°14
+C:Gurdjieff & De Hartmann
+Z:13.X.1926
+%%score [ 1 ( 2 3 ) ] 4
+L:1/8
+Q:1/4=60
+M:4/4
+I:linebreak $
+K:Eb
+V:1 clef=
+V:2 clef=bass
+V:3 clef=bass
+V:4 clef=perc stafflines=1
+K:none
+I:percmap =E B 45 normal
+I:percmap E B 45 normal
+V:1
+ G3 G G4 |{/G} FG B(3A/B/A/ G4 | DE [DF]E/F/ [EG]4 | [DF][EG][DF][=B,D] !breath![CE]4 | [EG]3 [EG] [FA]3 [EG] | B(3A/B/A/GF [EG]3 E/F/ [EG][FA] [EG]2 |$ %6
+ B3 B/A/ [EG][DF] [CE][DF]/[EG]/ | DE [DF]2 [=B,EG]2 [DF]2 | [CEc]4 [FB][FA][EG][FA] | [EG]8 | [DF][CE] [=B,D][CE]/[DF]/ [EG]4 | [DF][EG][DF] [CE][DF] [EG][Dd] |$ %12
+ !breath!c2 BA B2 BA | B2 BA GF G2 | GFEF EDCD | C z =B, z C4 | [EG]3 [EG] [DF]4 | [DF]3 [DF] [CE]4 | [CE]2 [CE]2 [DF]4 | [CEGc]8 |] %20
+V:2
+ [C,G,E]4 [C,G,E]4 | B,2 F2 [E,B,E]4 | [F,A,C]2 [A,CD]2 G,2 E2 | D C =B, G, [C,G,C]2 G,2 | C2 B,2 A,2 G,2 | [D,B,]2 B,2 [E,B,]2 [A,C]2 [E,B,]4 |$ %6
+ [D,,D,]2 [B,,,B,,]2 [E,,E,]2 [A,,A,]2 | [F,,F,]2 [D,,D,]2 [G,,G,]4 | [C,,C,]4 D,2 E, F, | G,8 | [F,,A,]2 [A,,F,]2 G,2 E,2 | F,2 A,2 (2:3:2G, F, |$ %12
+ [E,G,]2 [E,C]4 [F,D]2 | [G,E]2 G F G A G2 | C2 =B,2 C2 A,2 | [G,,G,] z G,, z [C,,G,,C,]4 | [G,E]4 [F,A,D]2 F,,2 | C2 =B,2 C2 E,2 | [G,,G,]2 [A,,A,]2 [F,,C,A,]4 | [C,,G,,E,]8 |] %20
+V:3
+ x8 | [D,B,]4 x4 | x4 G,4 | G,,4 x4 | C,8 | x2 E, B,, x8 |$ %6
+ x8 | x8 | x4 C,4 | C,2 D,2 E,2 C,2 | x4 G,,4- | G,,4- G,,3 |$ %12
+ C,,2 C,6- | C,2 [C,A,]2 [D,B,]2 [E,B,]2 | F,6 A,,2 | x8 | C,2 E,2 x4 | G,,4 A,,4 | x8 | x8 |] %20
+V:4
+ =E E/ E/ E E E2 E2 | =E E/ E/ E E E2 E2 | =E E/ E/ E E E2 E2 | =E E/ E/ E E E2 E2 | =E E/ E/ E E E2 E2 | =E E/ E/ E E E2 E2 E E E2 |$ %6
+ =E E/ E/ E E E2 E2 | =E E/ E/ E E E2 E2 | =E E/ E/ E E E2 E2 | =E E/ E/ E E E2 E2 | =E E/ E/ E E E2 E2 | =E E/ E/ E E E E E |$ %12
+ =E E/ E/ E E E2 E2 | =E E/ E/ E E E2 E2 | =E E/ E/ E E E2 E2 | =E E/ E/ E E E2 E2 | =E E/ E/ E E E2 E2 | =E E/ E/ E E E2 E2 | =E E/ E/ E E E2 E2 | =E2 z2 z4 |] %20
+
+X:7
+T:Mélodie arménienne - N°15
+C:Gurdjieff & De Hartmann
+Z:19.III.1927
+%%score [ 1 2 ( 3 4 ) ]
+L:1/8
+Q:1/4=100
+M:3/4
+I:linebreak $
+K:C
+V:1 clef=
+V:2 clef=
+V:3 clef=bass
+V:4 clef=bass
+V:1
+"^Allegretto grazioso"!p! .c.d .e{/e}.d .c z | .c.d .e{/e}.d .c z | .B.c .B.c .B z | .A.B .c.B .A z | .B.c .B.c .B z | .B.c .B.c .B z | B4 c2 | !tenuto!A6 |$ %8
+ B4 !>!c2 | A6 |!f! !>![cf]6- | [cf]4- [cf]3/2 z/ |!p! .c.d .e{/e}.d .c z | .c.d .e{/e}.d .c z | .B.c .B.c .B z | .A.B .c.B .A z |$ %16
+ .B.c .B.c .B z | .B.c .B.c .B z | BcBA GABA G2 B2 | A6- | A6 | B/c/B/A/ G z z2 | !tenuto!A z !tenuto!F z z2 |$ %23
+ B/c/B/A/ G z z2 | !tenuto!A z !tenuto!F z z2 | !tenuto!c6 | !tenuto!c6- | c6- | c6 | A6 | G6 | E6 | F6 |$ %33
+ .c.d .e.d .c z | .c.d .e.d .c z | .B.c .B.c .B z | .A.B .c.B .A z | B4 !tenuto!c2 | A6 | B4 !tenuto!c2 | A6 | !>!f6- | f6 |$ %43
+!p! .c.d .e.d .c z | .c.d .e.d .c z | .B.c .B.c .B z | .B.c .B.c .B z | Bc BA GA | BA G2 B2 | A6- | A6 |!pp! .[Aea] z z2 z2 |] %52
+V:2
+ z6 | z6 | z6 | z6 | z6 | z6 | z6 | z6 |$ %8
+ z6 | z6 | z6 | z6 | z6 | z6 | z6 | z6 |$ %16
+ z6 | z6 | z12 | z6 | z6 | z6 | z6 |$ %23
+ z6 | z6 | z6 | z6 | z6 | z6 | z6 | z6 | z6 | z6 |$ %33
+!pp! .[CD] .[CD] .[DE] .[DE] .[CD] .[CD] | .[CD] .[CD] .[DE] .[DE] .[CD] .[CD] | .[B,C] .[B,C] .[B,C] .[B,C] .[B,C] .[B,C] | .[A,B,] .[B,C] .[B,C] .[B,C] .[A,B,] .[A,B,] | .[B,C] .[B,C] .[B,C] .[B,C] .[B,C] .[B,C] | .[A,B,] .[A,B,] .[A,B,] .[A,B,] .[A,B,] .[A,B,] | .[B,C] .[B,C] .[B,C] .[B,C] .[B,C] .[B,C] | .[A,B,] .[A,B,] .[A,B,] .[A,B,] .[A,B,] .[A,B,] |!f! .[FGc] .[FGc] .[FGc] .[FGc] .[FGc] .[FGc] | .[FGc] .[FGc] .[FGc] .[FGc] .[FGc] .[FGc] |$ %43
+!pp! [CD]/ G/ [CD]/ G/ [CD]/ G/ [CD]/ G/ [CD]/ G/ [CD]/ G/ | [CD]/ G/ [CD]/ G/ [CD]/ G/ [CD]/ G/ [CD]/ G/ [CD]/ G/ | [B,C]/ G/ [B,C]/ G/ [B,C]/ G/ [B,C]/ G/ [B,C]/ G/ [B,C]/ G/ | [A,B,]/ E/ [A,B,]/ E/ [A,B,]/ E/ [A,B,]/ E/ [A,B,]/ E/ [A,B,]/ E/ | [B,C]/ E/ [B,C]/ E/ [B,C]/ E/ [B,C]/ E/ [B,C]/ E/ [B,C]/ E/ | [B,C]/ E/ [B,C]/ E/ [B,C]/ E/ [B,C]/ E/ [B,C]/ E/ [B,C]/ E/ | [A,B,]/ E/ [A,B,]/ E/ [A,B,]/ E/ [A,B,]/ E/ [A,B,]/ E/ [A,B,]/ E/ | [A,B,]/ E/ [A,B,]/ E/ [A,B,]/ E/ [A,B,]/ E/ [A,B,]/ E/ .[A,B,] | z6 |] %52
+V:3
+ .[C,,G,,] z2 !>!.[C,G,] z2 | .[C,,G,,] z2 !>!.[C,G,] z2 |[K:treble] .[G,,D,] z2 !>!.[G,D] z2 | .[A,,E,] z2 !>!.[A,E] z2 | .[E,,B,,] z2 !>!.[E,B,] z2 | .[A,,E,] z2 !>!.[A,E] z2 | !tenuto!B, C z B, !>!C z | !tenuto!B, A, z B, A,3/2 z/ |$ %8
+ !tenuto!B, C z B, C z | !tenuto!E, D, z E, D,3/2 z/ |[K:bass]"_un poco marcato" .[F,,C,] .D, .E, !>!.[D,E,] !tenuto!C,3/2 z/ | .[F,,C,] .D, .E, !>!.[D,E,] !tenuto!C,3/2 z/ | .[C,,G,,] z2 !>!.[C,G,] z2 | .[C,,G,,] z2 !>!.[C,G,] z2 | .[G,,,D,,] z2 !>!.[G,,D,] z2 | .[A,,,E,,] z2 !>!.[A,,E,] z2 |$ %16
+ .[E,,B,,] z2[K:treble] !>!.[E,B,] z2 | .[A,,E,] z2 !>!.[A,E] z2 |[K:bass] .[E,,B,,] z2[K:treble] !>!.[E,B,] z2[K:bass] .[E,,B,,] z2[K:treble] !>!.[E,B,] z2 | !tenuto![A,,F,] E, z [A,,F,] E, z | !tenuto![A,,F,] E, z [A,,F,] E, z | [G,,D,] z z [E,-B,] !tenuto![E,C]3/2 z/ | !tenuto!B, .C z G, A,3/2 z/ |$ %23
+ [G,,D,] z z [E,-B,] !tenuto![E,C]3/2 z/ | !tenuto!B, .C z G, A,3/2 z/ | E, F, E, D, !>!C,2 | E, F, E, D, !>!C,2 | E, F, E, D, !>!C,2 | E, F, E, D, !>!C,2 |[K:bass] E,, F,, E,, .D,, !tenuto!E,,2 | E,, F,, E,, .D,, !tenuto!E,,2 | E,, B,, E,, .D,, !tenuto!E,,2 | F,, C, F,, .E,, !tenuto!F,,2 |$ %33
+ .[C,,G,,] z2 !>!.[C,G,] z2 | .[C,,G,,] z2 !>!.[C,G,] z2 | .[G,,,D,,] z2 !>!.[G,,D,] z2 | .[A,,,E,,] z2 !>!.[A,,E,] z2 | [E,,B,,] .C, z [E,,B,,] C,3/2 z/ | .[A,,,E,,] z2 !>!.[A,,E,] z2 | [E,,B,,] .C, z [E,,B,,] C,3/2 z/ | .[A,,,E,,] z2 !>!.[A,,E,] z2 | !>!.[F,,,C,,G,,A,,] !>!.[G,,A,,] z [A,,G,] !>!.C, z | !>!.[F,,,C,,G,,A,,] !>!.[G,,A,,] z [A,,G,] !>!.C, z |$ %43
+ .[C,,,G,,,] .D,, z .G,, !>!C, z | [C,,,G,,,] .D,, z .G,, !>!C, z | .[G,,,,D,,,] .G,,, .D,, .G,, .D, z | [A,,,,E,,,] .A,,, z .A,, !>![A,,,E,,] z | [E,,,B,,,] .E,, z .B,, !>!E,, z | [E,,,B,,,] .E,, z .B,, !>!E,, z | [A,,,,E,,,] .A,,, z .A,, !>!E,, z | [A,,,,E,,,] .A,,, z .A,, !>![A,,,E,,] z |!ped! .[A,,,E,,A,,B,,] z z2 z2!ped-up! |] %52
+V:4
+ x6 | x6 |[K:treble] x6 | x6 | x6 | x6 | E,2 x E,2 x | D,2 x D,- D,3/2 x/ |$ %8
+ E,2 x E,2 x | A,,2 x A,,- A,,3/2 x/ |[K:bass] x6 | x6 | x6 | x6 | x6 | x6 |$ %16
+ x3[K:treble] x3 | x6 |[K:bass] x3[K:treble] x3[K:bass] x3[K:treble] x3 | x6 | x6 | x6 | F,2 x D,- D,3/2 x/ |$ %23
+ x6 | F,2 x D,- D,3/2 x/ | A,,3 G,,3 | A,,3 G,,3 | A,,3 G,,3 | A,,3 G,,3 |[K:bass] [A,,,E,,] z2 [A,,,E,,] z2 | [A,,,E,,] z2 [A,,,E,,] z2 | [A,,,E,,] z2 [A,,,E,,] z2 | [A,,,F,,] z2 [A,,,F,,] z2 |$ %33
+ x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 |$ %43
+ x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 |] %52
+
+X:8
+T:Mélodie de bergers kurdes - N°17
+C:Gurdjieff & De Hartmann
+Z:25.IX.1926
+%%score ( 1 2 )
+L:1/8
+M:3/2
+I:linebreak $
+K:F
+V:1 clef=
+V:2 clef=
+V:1
+"^Alla breve, lento e liberamente" z4 A4 (7:4:7GAGAGAF | !fermata!G4 G4 | (7:4:7FGFGFGE F8 | !fermata!F4 (6:4:6GFGFGF |"^un peu plus vite" TE4 D8 |[Q:1/4=80] z2 z/ |[Q:1/4=52] !>!f4 (6:4:8efegf(3e/f/e/ !fermata!d4 |$ %7
+ efgf (3ed^c de | !arpeggio![df]8 d2 e2 | !arpeggio!!fermata![df]8{/e} (7:4:7gfed^cde | f4 (7:4:6efed^c d2 |$ %11
+ ^c4 (11:4:11B[Ac]B[Ac]"^accelerando"B[Ac][Q:1/4=70]B[Ac]B[Ac]B (3c2 d2 e2 |[Q:1/4=52] !fermata!f4 Te4 !fermata!d4 | (7:4:7efgfefe{ef} e2 d2 | ^c8 |{^c2} B8 | A8 | G8 |$ %18
+ A8 | (3G2 A2 F2 (3G2 E2 F2 | !fermata!D6 z2 D2 E2 | !arpeggio![DF]8{/E} (6:4:6GFED^CD | [DF]4 [EG]4 | !fermata![DA]8 |$ %24
+ (3A2 B2 A2 (3G2 F2 G2 | [FA]8 | (3F2 G2 F2 (3E2 D2 E2 | [DF]8 | (5:4:5E2 F2 E2 D2 ^C2 | !fermata![A,D]8 |] %30
+V:2
+ x11 | x8 | x11 | x8 | x12 | x5/2 | x11 |$ %7
+ x8 | x8 d4 | x11 | x8 |$ %11
+ A12 | !arpeggio!d12- | d8 | x8 | x8 | AB- B6 | x8 |$ %18
+ x8 | x8 | x12 | x12 | x8 | x8 |$ %24
+ x8 | x8 | x8 | x8 | x8 | x8 |] %30
+
+X:9
+T:Chant Aïssor - N°18
+C:Gurdjieff & De Hartmann
+Z:G=Ab
+2.I.1926
+L:1/8
+Q:1/8=118
+M:3/4
+I:linebreak $
+K:Ab
+V:1 clef=
+V:1
+"^Andante con moto"!p! z6 | z6 |:"_sempre molto cantabile" c>B cA/B/ c2 | BA BA/G/ FE | F6- | F4- F3/2!<(!(5:4:5E/8F/8G/8A/8B/8!<)! | c2 f2 Bc | f>c ed cA | B2 A/G/F/E/ F2- |$ %9
+ F6 | c!tenuto!c- c(6:4:6c/4B/4A/4G/4A/4B/4 [Gc]2 | c2 f4 | e/d/c/B/ d2 c2- | c3 A c2- | c2 (5:4:5B/A/G/F/E/ F2- | F4- F!pp!E | F4!mp!"^più espressivo" !tenuto!F2 | B2 A/B/A/G/ FE |$ %18
+ F4- FF |"_poco a poco crescendo e più cantando" c3 B c2 | ce- e>c e/d/c/B/ | A/B/c c4 | z/ !tenuto!e3/2 !tenuto!e>c e2 | B/c/d c(3B/A/G/ FE | F6 |!p! .!tenuto!FF E B3 |$ %26
+ .!tenuto!BB A B3 | Ac/B/ AG A2 |!p! .!tenuto!BB A B3 | .!tenuto!AB/A/ GA F2 | .!tenuto!AA G A3 | .!tenuto!AA/G/ FE F2- | F6- :| F6- | F6- |!ppp! !fermata!F6 |] %36
+
+X:10
+T:Song of the Fisherwomen
+T:Chants et Rythmes d'Asie n°20 : Le chant des pêcheuses
+C:Georges Ivanovitch Gurdjieff
+C:Gurdjieff / De Hartmann
+Z:Vibhas Kendzia - www.vibhas-music.com
+Z:26.III.1926
+%%score [ 1 2 ]
+L:1/8
+M:2/2
+I:linebreak $
+K:F
+V:1 clef=
+V:2 clef=perc stafflines=1
+K:none
+I:percmap E B 45 normal
+V:1
+"^Andantino"!p! z8 | z2 D2 F2 G2 |{/F} A4 G/A/G/A/(3GFG | A2 G2 F2 E2 | F2 D6- |$ %5
+ D2 D2 F2 G2 | !arpeggio![FA]4{/A} B2 A2 | G2 F2 E2 F2 || D4 D2!mp! c2 B2{AB} A2 || G2 F2 E2 F2 |{/D} d8- |$ %11
+ d2!p! D2 F2 G2 |!mf! !arpeggio![FA]4 GAFG | A4 G3 A/G/ | F2 E2 F2{/E} G2 | D4 D2 c2 || Bc BA B2 A4!f! !tenuto!A2 ||$ %17
+ !tenuto!d4 !arpeggio![Adf]4 ed ^cd e2 || d4 B3 B/B/ | A4 GAFG | A2 F2 E2 F2 |{D} d8 | d4 GA B2 |$ %23
+ d !>!A3- A4 |{A} G4 EF G2 | A !>!F3- F4- | FzDE F2 G2 | E2 F2- F3 E | D8 | [Dd]8- :|!pp! [Dd]4 z4 |] %31
+V:2
+[K:C] E2 E E E2 E2 | E2 E E E2 E2 | E2 E E E2 E2 | E2 E E E2 E2 | E2 E E E2 E2 |$ %5
+ E2 E E E2 E2 | E2 E E E2 E2 | E2 E E E2 E2 || E2 E E E2 E2 E2 E2 || E2 E E E2 E2 | E2 E E E2 E2 |$ %11
+ E2 E E E2 E2 | E2 E E E2 E2 | E2 E E E2 E2 | E2 E E E2 E2 | E2 E E E2 E2 || E2 E E E2 E2 E2 E2 ||$ %17
+ E2 E E E2 E2 E2 E E E2 || E2 E E E2 E2 | E2 E E E2 E2 | E2 E E E2 E2 | E2 E E E2 E2 | E2 E E E2 E2 |$ %23
+ E2 E E E2 E2 | E2 E E E2 E2 | E2 E E E2 E2 | E2 E E E2 E2 | E2 E E E2 E2 | E2 E E E2 E2 | E2 E E E2 E2 :| E4 z4 |] %31
+
+X:11
+T:Mamacha - N°23
+C:Gurdjieff & De Hartmann
+Z:26.XII.1925
+%%score ( 1 2 )
+L:1/8
+M:3/4
+I:linebreak $
+K:Bb
+V:1 clef=
+V:2 clef=
+V:1
+"^Comme une valse ancienne" de d^c d2 | ba g2 ba | g2{/G} BA G2 | de d^c d2 | cB A2 c'b | a2{/a} c'b a2 | AB cB d2 | ^fg a2 fg |$ %8
+ a z{/g} b3 a | g6 | d^c d2 (5:4:5A/B/=c/d/e/ | d2 (5:4:5A/B/c/d/e/ d2 | d>^c d4 | g^f ga c'>b | a4 ab | [ac']2 ab [ac'] z |$ %16
+ z2 [gb][^fa] [gb]2 | ag{/g} ^fe d2 | [eg]6- | [eg]A B^c de | [Bd]4 .[Bd]2 | .[A^c]2 .[A=c]2 .[GB]2 | z ^F GA BA | c2 ^FG AB |$ %24
+ G4 D/4E/4=E/4^F/4G/4A/4B/4c/4 | .[Bd]2 .[A^c]2 .[Bd]2 |{/d} [A=c]2 [GB]2{/B} AB | G6 | [GBdg]2 z2 z2 |] %29
+V:2
+ x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 |$ %8
+ x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 |$ %16
+ x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 |$ %24
+ x6 | x6 | x4 ^F2 | x6 | x6 |] %29
+
+X:12
+T:Danse persane - N°24
+C:Gurdjieff & De Hartmann
+Z:22.XI.1925
+%%score [ 1 2 ]
+L:1/8
+Q:1/4=80
+M:3/4
+I:linebreak $
+K:Eb
+V:1 clef=
+V:2 clef=bass
+V:1
+ z2 |: !-(!G2 !-)!E4 | z2 EF !^!GE | D2 F4 | F2 D4 | E2 F2 G2 | B6 | F2 G4 | G2 B4 | G2 c4 |$ %10
+ !wedge!c2 !wedge!B2 !wedge!A2 |{/c} !wedge!B2 !wedge!B2{/G} !wedge!F2 | G2 E2- E(6:4:6G/4F/4E/4D/4C/4=B,/4 | !^!C6 :| [CEGc] z z2 z2 |] %15
+V:2
+{/G,,,} C,, G,,, |: [C,,,G,,,C,,]2 C,,2{/G,,,} C,, G,,, | [C,,,G,,,C,,]2 C,,2{/G,,,} C,, G,,, | [C,,,G,,,D,,]2 D,,2{/G,,,} D,, G,,, | [C,,,G,,,D,,]2 D,,2{/G,,,} D,, G,,, | [C,,,G,,,C,,]2 D,,2 E,,2 | [E,,,B,,,E,,]2 E,,2{/B,,,} E,, B,,, | [F,,,A,,,C,,F,,]2 [G,,,B,,,D,,G,,]2 G,, D,, | [G,,,B,,,D,,G,,]2 [B,,,D,,F,,B,,]2{/F,,} B,, F,, | [G,,,B,,,D,,G,,]2 [C,,E,,G,,C,]2{/G,,} C, G,, |$ %10
+ [C,,E,,G,,C,]2 [B,,,D,,F,,B,,]2 [A,,,C,,E,,A,,]2 | [B,,,D,,F,,B,,]2 [A,,,C,,E,,A,,]2 [G,,,B,,,D,,G,,]2 | [F,,,A,,,C,,F,,]2 [E,,,G,,,B,,,E,,]2 [G,,,D,,G,,]2 | [C,,,G,,,C,,]2 C,,2{/G,,,} C,, G,,, :| [C,,,G,,,C,,] z z2 z2 |] %15
+
+X:13
+T:Asian Songs and Rhytms n°26
+C:Gurdjieff & De Hartmann
+Z:7.XII.1925
+%%score [ 1 ( 2 3 ) ] 4
+L:1/8
+Q:1/4=60
+M:3/4
+I:linebreak $
+K:Eb
+V:1 clef=
+V:2 clef=bass
+V:3 clef=bass
+V:4 clef=perc stafflines=1
+K:none
+I:percmap =E B 45 normal
+I:percmap E B 45 normal
+V:1
+ G2 A=B [Gc]2 | de/d/ c=B c2- | c3 D E[CF] | [CG]2 GA/G/ F=E | F4 GA/G/ F_E | G/F/E D/E/F DE |$ %6
+ D<G C2 | CD E3/2D/4E/4 C2 | [CG]2 c4 | ed c2 =Bc | d3 c/d/ e2- | ed c4 | cd e3/2e/4d/4 c2 | DE F>E D2 | de f3 e |$ %15
+ d4 CD | [CE]4 [EG]2- | [EG]2 [GB]2 [FA]2 | [EG]4 G2 | ED C4 | =B,C [B,D]4 | EF ED C2- | C2 c3 G | c3 =B/A/ G2- | [CG]2 e3 d | e2 dc A2- |$ %26
+ A2 F2 G2 | A4 c2- | c2 D4 | G4 ED | C6- | [CGc] z z4 |] %32
+V:2
+ [C,G,]2 [G,-D]2 [G,C] G,- | [C,G,]2 [G,D]2 [G,C] G,- | [C,G,]2 [G,C]2 B, F, | [C,G,]2 C,2 F, C, | F,, C, F,2 G,2 F, E, | G, F, E,2{/D,} E,2 |$ %6
+ [G,,D,G,]2 [C,,G,,C,]2 | [C,,G,,C,]2 D,2 E, D, | C,2 [C,,G,,C,]2{/G,,} C, G,, | [C,,G,,C,]2 D, E, A, F, | [F,G,]4 A,2 | [A,,E,]2 [C,G,] G,, [F,,C,F,]2 | [C,,G,,C,]2 C, D, E, F,/ E,/ | D,2 [C,,G,,D,]2 D,- G,,- | [C,,G,,D,]2 D, E, F, G,/ A,/ |$ %15
+ G,2 D,2 [G,,G,]2 | [C,G,]2 C,2{/C,} E, C, | E, C, E, C, F, D, | G, F, [E,,B,,E,]2{/E,} G, E, | G,2 [A,,E,]2 A, E, | D,2 G,2{/D,} G, D, | G,2 C G, E, D, | E,2 A,2 E,2- | [E,A,]2 F,2 [D,G,]2 | [A,,E,]2{/E,} A, E, A, E, | [F,,C,]2 F, G, A,2 |$ %26
+ C2{/F,} C F, C F, | A,2 [F,,C,F,]2 A, G, | F, E, D,2 [F,,C,F,]2 | [E,-F,]2 [E,G,]2{/D,} [D,G,]2 | C, G,, [C,,G,,C,]2{/G,,} C, G,, | [C,,G,,C,] z z2 z2 |] %32
+V:3
+ x6 | x6 | x6 | x6 | x8 | x6 |$ %6
+ x4 | x6 | x6 | x6 | F,2 [F,,C,]2 A, E,- | x6 | x6 | x6 | x6 |$ %15
+ x6 | x6 | x6 | x6 | x6 | G,,6 | C,6 | A,,6- | A,,2 [F,,A,,]2 G,,2 | x6 | x6 |$ %26
+ x6 | x6 | x6 | G,,6 | x6 | x6 |] %32
+V:4
+ =E2 E2 E E | =E2 E2 E E | =E2 E2 E E | =E2 E2 E E | =E2 E2 E2 E E | =E2 E2 E E |$ %6
+ =E2 E2 | =E2 E2 E E | =E2 E2 E E | =E2 E2 E E | =E2 E2 E E | =E2 E2 E E | =E2 E2 E E | =E2 E2 E E | =E2 E2 E E |$ %15
+ =E2 E2 E E | =E2 E2 E E | =E2 E2 E E | =E2 E2 E E | =E2 E2 E E | =E2 E2 E E | =E2 E2 E E | =E2 E2 E E | =E2 E2 E E | =E2 E2 E E | =E2 E2 E E |$ %26
+ =E2 E2 E E | =E2 E2 E E | =E2 E2 E E | =E2 E2 E E | =E2 E2 E E | =E z z4 |] %32
+
+X:14
+T:Chant arménien - N°27
+C:Gurdjieff & De Hartmann
+Z:6.IV.1926
+%%score [ 1 ( 2 3 ) ]
+L:1/8
+M:3/8
+I:linebreak $
+K:Db
+V:1 clef=
+V:2 clef=bass
+V:3 clef=bass
+V:1
+"^Andantino""_Cantabile" FG=A | B3 | c{/c}dc | B3 | c!<(! !tenuto!d2!<)! | c !tenuto!d2 | d/!>(!c/.B.=A!>)! | B3 | FG=A |!<(! B3!<)! |{/B} c3 | B!<(!=AB/A/!<)! |$ %12
+ G{/F} E2 | !tenuto!E/F/ G2 | B=AG | =A G2 | CDE | F3 |!p!{/=A} B2 A |{/=A} B3- | B/F/G/=A/G/>G/ | F3 |$ %22
+ c!<(!{/c}d/B/c!<)! | (3c/d/e/dc |!p! (3c/d/e/d{/e}c | dc/B/{cB}=A |!<(! (3G/F/E/ B2!<)! |{/B} cB=A | (3B/=A/B/!>(!G>G!>)! | F3- | F3!D.C.! ||$ %31
+!p! .[Fcf] z z!fine! |] %32
+V:2
+"_con ped." z"_staccato" E/ D/ C | [B,,F,] [F,D] [F,D] | [B,,G,]{/G,} =A,/ G,/ F, | B,, !arpeggio![F,B,] F, | G, D/ C/ B, | E, B,/ A,/ G, | [B,,E,] [D,F,] [C,F,] | [B,,,F,,B,,] [F,B,] [F,B,] | z E/ D/ C | [B,,F,] [F,D] [F,B,] | z E/ D/ C | [B,,G,] [G,-E] [G,C] |$ %12
+ z G,/ B,/ G, | E,, [B,,G,] [B,,G,] | E D/ C/ B, | E,, [B,,G,] [B,,G,] | [G,,E,] B,/ C/ D | [F,,C,] [C,F,] [C,F,] | z{/B,} E/ D/ C | [B,,F,] [F,B,] [F,B,] | B, D/ C/ B, | [F,,C,] [C,F,] [C,F,] |$ %22
+ F, B,/ D/ C | [F,,C,F,] [G,,B,,E,] [F,,C,F,] | C D/ B,/ C | D, D, D | B,, B,/ G,/ B, | E D C | D C/ B,/ =A, | [F,,C,] [F,C] [F,C] | [F,,C,]{/F,} C/ F,/ C ||$ %31
+ .[F,,,C,,F,,] z z |] %32
+V:3
+ [B,,F,]{/F,} F,2 | x3 | x3 | x3 | B,, F,2 | G,, D,2 | E,, F,,2 | x3 | [B,,,F,,]{/F,} F,2 | x3 | [B,,F,]{/F,} F,2 | x3 |$ %12
+ E,, B,,2 | x3 | [E,G,]3 | x3 | x3 | x3 | [B,,F,] G,2 | x3 | E,3 | x3 |$ %22
+ [F,,C,] F,2 | x3 | F,3 | G,, G,2 | E,, B,,2 | [E,G,]3 | G,3 | x3 | x3 ||$ %31
+ x3 |] %32
+
+X:15
+T:Mélodie orientale - N°31
+C:Gurdjieff & De Hartmann
+Z:18.III.1926
+L:1/8
+Q:1/4=132
+M:none
+I:linebreak $
+K:F
+V:1 clef=
+V:1
+"^Allegro assai" .c2 .=B2 .A2 (3:2:4G^G=G/ z/ | A8 | .A2 .G2 .F2 .G2 | .A2{/A} !tenuto!G6 | .G2 .F2 .E2 .F2 | .[EG]2 !tenuto![FA]6 | F2 E2 G2 F2 | !>!E7/2 D/ D4 | A2 F4 GA | B2 c2 A4 |$ %10
+ !tenuto!c2 A6 | .c.d .c2 .B2 .A2 | c>B A6 | .c.d .c2 .B2 .c2 | d8 | .c.d .c2 .B2 .c2 | !tenuto!A8 | .B.c .B2 .A2 .B2 | !arpeggio!!tenuto![Ac]8 |!<(! .c.d .c2 .B2 .A2 | .B2 !tenuto!A6!<)! |$ %21
+!f!{/A} B2 A2 G2 A2 | B2 !tenuto![Ac]6 |!p! .B.A .G2 .A2 .B2 |{/A} .c2 !tenuto!A4!f! !wedge!A2 | !>![Ac]4 FGAB |{/A} [Ac]6 !tenuto![Ac]2 | !tenuto![Bd]6 cB AB c2 [Bd]4 [Ac]2 | [c_e]6 .d.e .d2 .c2 .d2 |$ %29
+ [Ac]4 [Bd][Ac] [GB]2 [Ac]2 [Bd]4 |"_dim." [Ac][Bd] [Ac]2 [GB]2 [Bd]2 [Ac]4 | .[Ac].[GB] .[FA]2 .[GB]2 !tenuto![Ac]4 |!p! .[Ac].[Bd] .[Ac]2 .[GB]2 .[Ac]2 !tenuto![FA]4!D.C.! || !tenuto![EA]8!p!{Ae} .a2 z2!fine! |] %34
+
+X:16
+T:Mélodie indienne - N°34
+C:Gurdjieff & De Hartmann
+Z:22.II.1926
+%%score ( 1 2 )
+L:1/8
+Q:1/8=140
+M:3/8
+I:linebreak $
+K:F
+V:1 clef=
+V:2 clef=
+V:1
+!p!"_La melodia sempre staccato ma espressivo""^Allegro ma non troppo" fed | ^cd>e | f d2 | gfe | def | g e2 | gfe | fed | BAG | ^cde | f d2 | aba | agf |$ %13
+ gfe | fed | A^ce | f d2 | d/e/ !arpeggio![df]2 | a g2 | e/f/ !arpeggio![eg]2 | b a2 | a{/a}b/a/g/f/ | a e2 |$ %23
+ g{/g}a/g/f/e/ | g d2 | f{/f}g/f/e/d/ | f A2 | A^ce | f d2 |: !arpeggio!!>![d-a]3 |!p! a/b/a/b/a/b/ | aga | g3 | !arpeggio!!>![d-g]3 |$ %34
+!p! g/a/g/a/g/a/ | gfg | f3 | f3 | e/f/e/f/(3e/f/e/ | d3 | A3 | f2 e | d3!D.C.! :| [dad'] z z |] %44
+V:2
+ x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | d3 | d3 |$ %13
+ c3 | B3 | x3 | x3 | d3- | d3 | e3- | e3 | d3- | d3 |$ %23
+ c3- | c3 | B3- | B3 | x3 | x3 |: x3 | d3- | d3- | d3 | x3 |$ %34
+ d3- | d3- | d3 | x3 | x3 | x3 | x3 | x3 | x3 :| x3 |] %44
+
+X:17
+T:Mélodie afghane - N°38
+C:Gurdjieff & De Hartmann
+Z:19.I.1926
+%%score [ 1 ( 2 3 ) ] 4
+L:1/8
+Q:1/4=100
+M:7/4
+I:linebreak $
+K:G
+V:1 clef=
+V:2 clef=bass
+V:3 clef=bass
+V:4 clef=perc stafflines=1
+K:none
+I:percmap E B 45 normal
+V:1
+"^Allegretto" z2 .[EFA].[EFA] .[EFA].[EFA].[EFA] z z2 .[EFA]2 .[EFA]2 | z2 .[EFA].[EFA] .[EFA].[EFA].[EFA] z z2 .[EFA]2 .[EFA]2 | z2 GF EF G2 FE D2 E2- | E2 GF E2 FG A2 B4 |$ %4
+ [Ac]4 cB A2{/B} AG F2 E2 | D2 E6- E4 z2 | EF G2 GPF E2 ED D2 E2- | E2 GA [GB]2 [GB](3A/B/A/ G2 GA [GB]2 | [GB](3A/B/A/ G2 GA [GB]2 !tenuto!e2 B2 .B.B |$ %9
+ AB/A/ G2 GA [GB]2 .A.A AB/A/ G2 | G(3F/G/F/ E2 FD{/F} E6 z2 | EF G2 A2 dc B2 B2 A2 | G2 A2 [GB]4 Bc [Bd]2 (3dcB |$ %13
+ A>B G2 BA G2 F2 E2 D2 | E8 z2 !tenuto!B3 A | B8 Bc [Bd]3 c | edcB [Bd]4!f! !wedge![Bd]2 !wedge![ce]2 !wedge![Bd]2 | z2 edcB A2 z2 |$ %18
+ !wedge![Ac]2 !wedge![Bd]2 !wedge![Ac]2 z2 |!p! [GB]2 [Bd]2 .[Bd]2 ed | (3cBA GF E2 D2 | E8 z4 z2 | [ebe'] z z4 z2 z4 z2 |] %23
+V:2
+"_con pedale" .[E,,B,,E,]2 .[F,A,] .[F,A,] .[F,A,] .[F,A,] .[F,A,] z .[E,,B,,E,]2 .[F,A,]2 .[F,A,]2 | .[E,,B,,E,]2 .[F,A,] .[F,A,] .[F,A,] .[F,A,] .[F,A,] z .[E,,B,,E,]2 .[F,A,]2 .[F,A,]2 | [E,,B,,E,]2 [B,,E,] [B,,E,] [B,,E,] [B,,E,] [B,,E,] z [E,,B,,]2 [B,,F,]2 [B,,G,]2 | [E,,B,,]2 [E,B,] [E,B,] [E,B,] [E,B,] [E,B,] z [D,F,D]2 [D,G,]2 [D,G,]2 |$ %4
+ [A,,E,A,]2 [E,A,] [E,A,] [E,A,] [E,A,] [E,A,] z [B,,D,B,]2 [D,B,]2 [E,B,]2 | [E,,B,,]2 [E,F,A,] [E,F,A,] [E,F,A,] [E,F,A,] [E,F,A,] z [E,,B,,]2 [E,F,A,]2 [E,F,A,]2 | [E,,B,,]2 [B,,E,] [B,,E,] [B,,E,] [B,,E,] [B,,E,] z [E,,B,,]2 [F,A,]2 [G,B,]2 | [E,,B,,]2 [E,B,] [E,B,] [E,B,] [E,B,] [E,B,] z [G,,D,]2 [D,B,]2 [E,B,]2 | [G,,D,]2 [D,B,] [D,B,] [D,B,] [D,B,] [D,B,] z G,,2 [E,B,]2 [E,B,]2 |$ %9
+ [A,,E,]2 [E,C] [E,C] [E,C] [E,C] [E,C] z [D,B,]2 [E,C]2 [E,C]2 | [G,,D,]2 [D,B,] [D,B,] [B,,F,B,] [B,,F,B,] [E,B,] z [E,,B,,]2 [E,F,A,]2 [E,F,A,]2 | [E,,B,,]2 [E,G,B,E] [E,G,B,E] [E,F,A,E] [E,F,A,E] [E,F,A,E] z [G,,D,]2 [E,C]2 [E,C]2 | G,,2 [D,C] [D,C] [D,B,] [D,B,] [D,B,] z [F,B,]2 [G,B,]2 [F,B,]2 |$ %13
+ [C,E,C]2 [E,C] [E,C] [E,C] [E,C] [E,C] z [E,A,]2 [F,B,]2 [G,B,]2 | [E,,B,,]2 [E,F,A,] [E,F,A,] [E,F,A,] [E,F,A,] [E,F,A,] z [E,,B,,]2 E4 | [G,,D,]2 [G,D] [G,D] [G,D] [G,D] [G,D] z [G,,D,]2 E4 | [G,,D,]2 [G,D] [G,D] [G,D] [G,D] [G,D] z [G,,D,]2 [E,C]2 [G,D]2 | A,,2 [E,B,] [E,B,] [E,B,] [E,B,] [E,C] z !tenuto!A,2 |$ %18
+ !wedge![A,,E,A,]2 !wedge!B,2 !wedge!A,2 !wedge![A,,E,]2 | .[G,,D,]2 .[D,B,]2 .[D,B,]2 C B, | (3A, G, F, G, F, E,2 .[B,,D,]2 |!ped! .[E,,B,,E,]2!ped-up! .[F,A,] .[F,A,] .[F,A,] .[F,A,] .[F,A,] z!ped! .[E,,B,,E,]2 .[F,A,]2!ped-up! .[F,A,]2 |!ped! [E,,B,,E,] z z4!ped-up! z2 z4 z2 |] %23
+V:3
+ x14 | x14 | x14 | x2 z8 G,,4 |$ %4
+ x14 | x14 | x14 | x14 | x14 |$ %9
+ x8 B,,2 C,4 | x14 | x14 | x8 B,,6 |$ %13
+ x8 A,,2 B,,4 | x10 [G,B,]2 [F,A,]2 | x10 [E,G,]2 [F,A,]2 | x14 | x10 |$ %18
+ x8 | x8 | x8 | x14 | x14 |] %23
+V:4
+[K:C] E2 E E E E E2 E2 E2 E2 | E2 E E E E E2 E2 E2 E2 | E2 E E E E E2 E2 E2 E2 | E2 E E E E E2 E2 E2 E2 |$ %4
+ E2 E E E E E2 E2 E2 E2 | E2 E E E E E2 E2 E2 E2 | E2 E E E E E2 E2 E2 E2 | E2 E E E E E2 E2 E2 E2 | E2 E E E E E2 E2 E2 E2 |$ %9
+ E2 E E E E E2 E2 E2 E2 | E2 E E E E E2 E2 E2 E2 | E2 E E E E E2 E2 E2 E2 | E2 E E E E E2 E2 E2 E2 |$ %13
+ E2 E E E E E2 E2 E2 E2 | E2 E E E E E2 E2 E2 E2 | E2 E E E E E2 E2 E2 E2 | E2 E E E E E2 E2 E2 E2 | E2 E E E E E2 E2 |$ %18
+ E2 E2 E2 E2 | E2 E2 E2 E2 | E2 E2 E2 E2 | E2 E E E E E2 E2 E2 E2 | E2 z4 z2 z4 z2 |] %23
+
+X:18
+T:Asian Songs and Rhytms n°39
+C:Gurdjieff & De Hartmann
+Z:23.VI.1924
+L:1/8
+M:3/4
+I:linebreak $
+K:Eb
+V:1 clef=
+V:1
+!p!"^Moderato" C2 D2 |: !tenuto!E6 | !tenuto!F6 | !tenuto!G6- | G2 A2 G2 | !tenuto!F6 | !tenuto!E4 c2 | !tenuto!c6- | c2 B2 (3ABA | G6 | !tenuto!F6 | !tenuto!E6- | E2 C2 D2 | E6 | F4 ED |$ %15
+ C6- ||1 C2 C2 D2 :||2 C2 c2 A2 || !tenuto!G6 |{/A} F4 A2 | G6- |!<(! G2 c2 A2!<)! | G6 | F4 A2 | G6- | G2!f! e2 d2 | c6 | F6 | G6 | z2!p!!<(! C2 D2 |$ %30
+{CD} E6 |{DE} F6 |{EF} G6!<)! | z2!<(! C2 D2!<)! | E4 D2 |!>(! F4 E/D/E/D/!>)! | C6 | z2 !tenuto!.C2 !tenuto!.D2 |$ %38
+|:"_poco a poco cresc." E3 D/E/ C2- | C2 !tenuto!D2 !tenuto!E2 | F3 E/F/ D2- | D2 !tenuto!.F2 !tenuto!.G2 | A3 G/A/ F2 | c3 A B/A/B/A/ | G6- | G2 !tenuto!.e2 !tenuto!.d2 | c3 e/d/ c2- | c2 !tenuto!.B2 !tenuto!.A2 |$ %48
+!f! G3 c/A/ G2- | G2 C2 D2 | E3 D CE | G4 !tenuto!.e2 ||1 C6- | C2!p! C2 D2 :||2 C6 | c2 z2 z2 |] %56
+
+X:19
+T:Asian Songs and Rhytms n°40
+C:Gurdjieff & De Hartmann
+Z:circa 1923/1924
+L:1/8
+M:3/8
+I:linebreak $
+K:Ab
+V:1 clef=
+V:1
+|:!p!"^dolce" C2 D | =E F2 | G/B/AG | F G2 | =E2 G | F=EF | =EDC/B,/ | C3 ||$ %8
+!<(! c2 B | A G2 | A/B/cA/B/!<)! | A/B/ G2 |"_dim." FGF | =EDC | !tenuto!D/C/!tenuto!D/C/B, | !fermata!C3 :| %16
+
+X:20
+T:Mélodie kurde - N°41
+C:Gurdjieff & De Hartmann
+Z:8.V.1926
+%%score [ ( 1 2 ) ( 3 4 ) ]
+L:1/8
+Q:1/4=116
+M:10/4
+I:linebreak $
+K:C
+V:1 clef=
+V:2 clef=
+V:3 clef=bass
+V:4 clef=bass
+V:1
+"^Allegretto""_espressivo" !tenuto!.d2 !tenuto!d4 c/d/c/d/ c2 B2 A2 G2 A4 | c2 d2 e4 d/e/d/e/{/e} d2 c2 d2 e4 | de d2{ed} !tenuto!c2{/c} !tenuto!B2{/B} !tenuto!A2 !tenuto!G2 !tenuto!A4 | !tenuto!.e2 !tenuto!e4 de d2{ed} c2 d2 e4 |$ %4
+ dc B2 cd e2 de{de} !tenuto!d2{/d} !tenuto!c2{/c} !tenuto!B2{/B} !tenuto!A2 !tenuto!G2 !tenuto!A4 | G2 A4 G2 A2 d4 | cdcd c2 edcd c2 | e2 e4 g2 f/g/f e2 d2 e4 |!<(! !tenuto!g2 !tenuto!g2!<)! |$ %9
+ [ca]4 gafg efde c2 d6- d6 | de f2 g2 a4 ga fgef d2 e2 f2 g2 a2 g4 | ga g2{/g} f2 e2 g2 f3 z |$ %12
+ fg f2{/!tenuto!f} e2 d2 f2 e3 z | Bc d2 !tenuto!d2 !tenuto!e4 | decd BcAB G2 A4- | !tenuto!!fermata![Aea]8 |] %16
+V:2
+ x20 | x20 | x16 | x18 |$ %4
+ x24 | x14 | x12 | x18 | x4 |$ %9
+ x14 z4 !>!G2 A6 | x30 | x14 |$ %12
+ x14 | x10 | x14 | x8 |] %16
+V:3
+ D2 [DG]4 E2 A2 G2 E2 E2 E2 E2 | E2 G2 G2 G2 G2 G2 E2 G2 G2 G2 | G2 F2 E2 D2 E2 E2 E2 E2 | G2 [G-c]4 G2 G2 E2 G2 G2 G2 |$ %4
+ G2 G2 E2 E2 G2 G2 E2 D2 E2 B,2 E2 E2 | D2 E2 E2 D2 E2 G2 G2 | z2 G2 C2 z2 G2 C2 | [C,G,]2 C2 G2-{/d} d2 d2 c2 G2 c2 G2 | d4 |$ %9
+ A,,2 E,2 [B,d]2 [DA]2 G2 D2 A,2 D,2 A,2 E2 D2 A,2 D,2 | !tenuto!A,2 D,2 !tenuto!A, E A2 d2 e2 A2 E2 A,2 E,2 A,2 E2 A2 !tenuto!c2 G2 | C2 G,2 C,2 G,2 C2 !tenuto![DA]2 A,2 |$ %12
+ D,2 A,2 E2 A2 D2 !tenuto![EA]2 A,2- | A2 G2 F2 E2 C2 | B,2 E2 G2 E2 D2 E4 | !fermata![A,,E,]8 |] %16
+V:4
+ G,4 G,2 [A,E]4 [G,D]2 A,2 [E,B,]2 A,4 | A,2 G,2 C4 G,4 A,2 G,2 C4 | G,4 G,2 G,2 A,2 [E,B,]2 A,4 | C4 C2 G,4 A,2 G,2 C4 |$ %4
+ G,4 A,4 G,4 A,2 G,2 A,2 E,2 A,4 | B,2 A,4 B,2 A,2 G,4 | [C,G,C]6 [C,G,C]6 | x6 [CG]8 x4 | B,2 E,2 |$ %9
+ x26 | x30 | x14 |$ %12
+ x14 | A,6- A,4 | A,6- A,4- A,2 E,2- | x8 |] %16
+
+X:21
+T:Danse d'Arabie - N°45
+C:Gurdjieff & De Hartmann
+Z:22.XI.1925
+%%score [ 1 2 ]
+L:1/8
+Q:1/4=60
+M:2/4
+I:linebreak $
+K:F
+V:1 clef=
+V:2 clef=bass
+V:1
+ z4 | DF{/E} D2 | DF{/E} D2 | EG{/F} E2 | EG{/G} E2 | EF/G/ A2 | FE/D/ ^C2 | !>!E!>!E D/E/F |$ %8
+ !^!F/!^!F/(6:4:6G/4F/4E/4D/4^C/4D/4 E/E/{/E}D/E/ F2 | !^!F!^!F E3/2{FE}D/ | !^!G-G/4F/4E/4D/4 F-F/4F/4E/4D/4 | !^!A-A/4G/4F/4E/4 D-D/4E/4F/4G/4 | E/F/G/F/ E/F/A/G/ |$ %13
+ F/G/B/A/ G2 | cB/4A/4G/4F/4 E2 | (3GAB A2 | D(3D/4D/4D/4(3D/4D/4D/4 D2!D.C.! || [DFAd] z z2 |] %18
+V:2
+ [D,,,A,,,] [A,,,D,,]/ [A,,,D,,]/ [D,,,A,,,] [A,,,D,,]/ [A,,,D,,]/ | [D,,,A,,,] [A,,,D,,]/ [A,,,D,,]/ [D,,,A,,,] [A,,,D,,]/ [A,,,D,,]/ | [D,,,A,,,] [A,,,D,,]/ [A,,,D,,]/ [D,,,A,,,] [A,,,D,,]/ [A,,,D,,]/ | [D,,,A,,,] [A,,,E,,]/ [A,,,E,,]/ [D,,,A,,,] [A,,,E,,]/ [A,,,E,,]/ | [D,,,A,,,] [A,,,E,,]/ [A,,,E,,]/ [D,,,A,,,] [A,,,E,,]/ [A,,,E,,]/ | [D,,,A,,,] [A,,,E,,]/ [A,,,E,,]/ [D,,,A,,,] [A,,,F,,]/ [A,,,F,,]/ | [D,,,A,,,] [A,,,D,,]/ [A,,,D,,]/ [D,,,A,,,] [A,,,E,,]/ [A,,,E,,]/ | [D,,,A,,,] [A,,,E,,]/ [A,,,E,,]/ [D,,,A,,,] [A,,,D,,]/ [A,,,D,,]/ |$ %8
+ [D,,,A,,,] [A,,,D,,]/ [A,,,D,,]/ [D,,,A,,,] [A,,,E,,]/ [A,,,E,,]/ [D,,,A,,,] [A,,,D,,]/ [A,,,D,,]/ | [D,,,A,,,] [A,,,D,,]/ [A,,,D,,]/ [D,,,B,,,] [B,,,D,,]/ [B,,,D,,]/ | [D,,,B,,,] [B,,,D,,]/ [B,,,D,,]/ [D,,,A,,,] [A,,,D,,]/ [A,,,D,,]/ | [D,,,A,,,] [A,,,E,,]/ [A,,,E,,]/ [D,,,B,,,] [B,,,D,,]/ [B,,,D,,]/ | [D,,,C,,] [C,,D,,]/ [C,,D,,]/ [D,,,B,,,] [B,,,D,,]/ [B,,,D,,]/ |$ %13
+ [F,,,C,,] [C,,F,,]/ [C,,F,,]/ [F,,,D,,] [D,,G,,]/ [D,,G,,]/ | [A,,,C,,F,,] [C,,F,,C,]/ [C,,F,,C,]/ [C,,E,,G,,] [E,,G,,C,]/ [E,,G,,C,]/ | [G,,,D,,] [D,,G,,]/ [D,,G,,]/ [A,,,E,,] [E,,A,,]/ [E,,A,,]/ | [D,,,A,,,] [A,,,D,,]/ [A,,,D,,]/ [D,,,A,,,] [A,,,D,,]/ [A,,,D,,]/ || [D,,,,A,,,,D,,,] z z2 |] %18
+
+X:22
+T:Chant et danse sayyid - N°01
+C:Gurdjieff & De Hartmann
+Z:17.III.1926
+L:1/8
+Q:1/4=92
+M:4/4
+I:linebreak $
+K:Ab
+V:1 clef=
+V:1
+^"C7sus4""^Poco rubato" !tenuto!c3 B^"Fm" c A3 |^"Bbdim" BcBAGA^"C" G6 |^"Bbm"!p! B2 AB^"Ab" c4 |^"Fsus4"!<(! Bc^"Bbm" d2 f2 ed!<)! |^"Ab"!mf! c2 e2 B2 AB c2 |!>(! BcBA!>)!^"C"!p! G2^"Fm" !fermata!A2 |$ %6
+!mf! !tenuto!c2 Bc^"Db" A4 |^"Bbm" !tenuto!d2 cd^"Eb" B4 |!p!"^meno mosso"!<(! !tenuto!B!tenuto!c!tenuto!d!tenuto!f^"Ab" !tenuto!e2^"Bbm" !tenuto!f2!<)! |^"Db"!f! !>!!fermata!a2^"Cm" !tenuto!ga/g/^"Bbm" f2^"Cm""^ritenuto" !tenuto!g2^"Fm" !tenuto!a4 ||$ %10
+^"Csus4"[Q:1/4=104]"^Andantino"!p! z2 (3cfg a2 (3gab ag a2 | z2 (3cfg a2 (3gf=e (3fgf^"Bbm7""^sans se presser" (3:2:2d2 d c2 |^"Ab" !wedge!c!wedge!B !wedge!A2 !wedge!B2 !tenuto!c4 | !wedge!B!wedge!c !wedge!B2 !wedge!A2 !wedge!G2 !wedge!B2^"Fm" !tenuto!A4 |$ %14
+^"Ab" !tenuto!c3 B A2 c4 |^"Gm7" !tenuto!B3 d c2 B4 |^"C7" !tenuto!B3 A G2 B4 |^"Gm7" !tenuto!B3 c B2^"Db" A4 |^"C" !tenuto!c3 B A2^"Bbm9" c4 |^"C7sus4" !tenuto!B3 c B2^"Fm" A4 |!p! !fermata!f6 z4!D.C.! |] %21
+
+X:23
+T:Pour le professeur Skridlov - N°02
+C:Gurdjieff & De Hartmann
+Z:10.X.1925
+%%score [ 1 ]
+L:1/8
+Q:1/4=130
+M:12/4
+I:linebreak $
+K:F
+V:1 clef=
+V:1
+ z4 A4 d2 ^c4{Bc} B>c A>B G2 A4 | Ad/e/ f2 e3/2d/4e/4 ^cd e>G B2 A8 | A2 d2 c2 (3BAG F>FG>G A2 d2 |$ %3
+ c>c B>c A>B G>G"^rallentando" !tenuto!F>F !tenuto!E>F !fermata!D8 | D4 d>c d2 c>B | A>B G>A F>G E>F D2 | d4 (3def g4 |$ %7
+ f2{ef} ef/e/ ^cd/e/ f(3e/f/e/ d2 | (3:2:2G2 A B2{/c} d6 | d2 _e2 d2 c2 B2 | AB G2 ^F2 G2 D2- | D2 GA B2{/c} d4 |$ %12
+ d2{/d} _e2 B2{/B} d2 A>B | c2 BA/G/ ^F/G/A D2{/D} _E2 | d_e/d/ c2 B2 d2 cd/c/ | B2 A2 c2 Bc/B/ A2 | c2 d2 _e2 d2 c2 | B2 A2 G2 B2 AB/A/ |$ %18
+ G2- G^FGA BA G2 | ABcdcB- B2 cd | _efed- d2 c4 | g8- g2 | c2 d2 f2 _e2 d2 | c2 B2 c2 d2 c2 | B2 A2 A2 B2 c2 |$ %25
+ B2 AB G2{/G} ^F2 G2- | G2 D4 D_ED^C | D2 G2 GB AG A2 | c2 c_edc B2{/B} d2 | c2 d2 cB AG A2- |$ %30
+ A2 B2 c2 c2 BA | G^F G8 |{/G} ^F4{/F} _E4{/E} D2- | D2{/D} C4{/D} d4 | !fermata![DAd] z z4 z4 |] %35
+
+X:24
+T:Chant et danse sayyid - N°03
+C:Gurdjieff & De Hartmann
+Z:30.XII.1926
+%%score [ 1 ]
+L:1/8
+Q:1/4=100
+M:6/4
+I:linebreak $
+K:F
+V:1 clef=
+V:1
+^"Asus4" !fermata!d4 ^c2^"Bb" B2 (3A2 B2 G2 |^"Asus4" A8 d2 e2 |^"Bb" f8 |^"A" ^c2 d2 e2^"Asus4" d2 f2 e2 |^"Asus4"{fe} d8- |^"Bb" d4 ^c2 B2 |^"Dsus4" A2 B2 G2^"Esus4" A8 |^"Asus4" d4 A2 |^"Bb" d4 ^c2 |$ %9
+^"Dsus4" d4 B2 |^"Asus4" d4 A2 |^"Bb" d8 | e2 f2^"Dsus4" !fermata!g4 |^"Bb" a2 g2 f2 e2 f2 g2 |^"F" [fa]8 |"^poco" !fermata!a6 b2 |^"Dsus4" g8 |^"Esus4" e8 a4 |^"Gm" g2 a2 g2 |^"Bb" f8 |^"Gm7" f4 !fermata!a4 |$ %21
+^"Gm" g2 f2 (3efe d2 |^"Esus4" e4^"A" ^c2 d2 |^"Esus4" e2 f2 e2 f2 |^"Gm" g4^"F" a8^"C7sus4" g4 a2 |^"Fsus4" b4 a2 g2 |^"Fsus4" f2 g2 e2^"F" [fa]8 |^"Em7" e2 f2 g2 (3efe d4 |$ %28
+^"Edim" e2 f2 g2 e/f/e^"Dm" d4 |^"Esus4" !fermata!A4^"Dm" !fermata!d4^"Gm" !fermata!B4 |^"Asus4"{/!fermata!D} !fermata!d4^"Gm"{!fermata!B,!fermata!D} !fermata!G4 |{/E} A8 |^"Edim" e8 |^"Gm7" fe f6 |^"Em" !fermata!e2^"C#" fe^"Dm" d8 |^"Gm" b8 |$ %36
+ (5:4:5b2 a2 g2 f2 g2 |^"Dm" !fermata![fa]6 a2 |^"Gm/D" g8 |^"Bbmaj7/D" (6:4:6a2 g2 f2 e2 d2 e2 |^"Bb/D" [df]8 | e8 | fe f4^"Bb/D""^lunga" !fermata!e2^"Dm" fe |^"Asus4/D" !fermata!d8 || z2 d2 e2 |^"Dm" f2 z2 (3fef |$ %46
+^"Gm" g2 z2 (3fef |^"Asus4" d2 z2 z2 | z2 B2 AB | G2 z2 F2 |^"Esus4" E2 z2 F2 | D2 z2 z2 | z2 D2 ^C2 |^"Asus4" D2 z2^"A" ^C2 |^"Bb" D2 z2 E2 |^"Asus4" D2 z2 z2 |^"Dm" z2 D2 E2 |$ %57
+^"Dm" F2 z2 z2 |^"Esus4" z2 E2 F2 |^"C" G2 z2 z2 |^"Em7" G2 z2 B2 |^"Dm" A2 z2 z2 | z2 A2 A2 |^"Em7" G2 z2 z2 |^"Gsus4" z2 AG AG |^"F" F2 z2 z2 |^"Bb" z2 GF GF |^"Esus4" E2 z2 z2 | z2 D2 E2 |$ %69
+^"Dm" [DF]2 z2 EF |^"Gm" G2 F2 E2 |^"Asus4" D2 z2 z2 | z2 A2 B2 |^"Asus4" d2 z2 z2 | z2 B2{/A} c2 | G2 z2^"Bb"{/D} F2 G2 |^"F"{/F} A2 z2 z2^"Fsus4" B2 (3ABA | G2 z2 z2 |$ %78
+^"Bbm" z2 A2 (3GAG |^"Fsus4" F2 z2 z2 | z2 G2 (3FGF |^"Edim" E2 z2 z2 |^"Gdim" z2 D2 E2 |^"Dm" F2 z2 EF |^"Gm" G2 F2 EF |^"Asus4" D2 z2 z2 |^"Asus4" [dad']2 z2 z2 |] %87
+
+X:25
+T:Musique des Sayyids et des Derviches - N°04
+C:Gurdjieff & De Hartmann
+Z:10.IX.1925
+%%score [ 1 ]
+L:1/8
+Q:1/4=85
+M:4/4
+I:linebreak $
+K:Bb
+V:1 clef=
+V:1
+^"Eb" !>!G!>!E^"D" !arpeggio![D^F]4^"Eb" (3GEG |^"D" !arpeggio![D^F]6 !>!G!>!A |^"Gm" !arpeggio![GB]4^"Cm" (7:4:7cBABG^FG^"D" A3 A |^"Cm" c4 cd c4 |$ %4
+^"Am7" z2{/d} (8:6:13c=BcBABA_A=AB c2 !>!B2{AB} !>!A2^"Cdim7"{/G} ^F2^"Ebm7" E2^"Asus4"{!fermata!F!fermata!E} !fermata!D4 | !>!E z !>!^F z z2 D/E/F/G/ |$ %6
+^"Asus4" !arpeggio![DA]4"^accelerando" AB AG^"Dsus4"G^F |^"Eb" G4 G2 A2^"Eb" B2 A3/2B/4A/4 G2^"Cm" EG/E/ |^"Asus4"{GE} D7/2 c/ |^"Cm" (3:2:2d2 B^"D" (3:2:2d2 A^"D7sus4" d2 GA |$ %10
+^"Gm"{/G} B3/2A/4B/4 GA^"Eb""^rallentando" [GB]2 ^FE |^"D"{!fermata!^F!fermata!E} !fermata!D8 ||^"Dsus4""^a tempo" .D.ED z{/^C} D.DGDAD^"Gm" !arpeggio![DB]4 | BcBA^"Bb" B2^"Am"{/B} A2^"Gm"{/A} G2^"D" ^FG/F/^"F#m" A2 |$ %14
+^"D" ABcA^"Gm" B(3PA/B/A/^"Cm" G^FGA^"Gm" B2 |^"Cm" !>!c/B/A/G/^"Gm" G2 |^"Cm" C2^"Gm"{/D} CB,^"Cm" CD{/C} E2^"Bb"{/D} !>!FE/D/^"Cm" C2 |$ %17
+^"G7sus4"{/D} F>E DE^"Bb"{/D} F2{/E} !>!G/F/E/D/{/D} F2 |{/D} FE/D/ CB,{/B,} D3 E F2 | FG_A{/G}F^"Eb" EF{/E}GE |$ %20
+^"Bb" DE{/D}FD^"Cm" E(3D/E/D/ C2 |{/D} F>F ED C2 | Cc Cc Cc |!8va(! [gc']4 [ec']2 |^"Cm" !fermata![gc']6!8va)! |] %25
+
+X:26
+T:Derviche persan - N°06
+C:Gurdjieff & De Hartmann
+Z:04.VI.1926
+%%score [ 1 ]
+L:1/8
+Q:1/8=126
+M:9/8
+I:linebreak $
+K:Eb
+V:1 clef=
+V:1
+"^Pesante""^poco martellato e forte al fine"!f! !wedge!G,!wedge!=B,!wedge!C{/B,} !wedge!D/!wedge!C/ !wedge!D2 !>!DE(5:4:5D/4E/4D/4E/4D/4 | C=B,/C<DC/4D/4ED/(3E/4D/4E/4 GF{/F}E/4F/4E/4F/4 | E2 C =B, C2- C3 |$ %3
+ D/E/F/E/ !>!F2 !>!E !>!F2 F2 | F2 GG/F/ (3G/F/G/ FED | E2 E FE/F/E/F/ E!>!!wedge!D!>!!wedge!C | D3 C/D/E/F/E/D/ E2 !>!!wedge!D |$ %7
+ !>!E3 D2 D E/D/E/D/E/D/ |!>(! C=B, z!>)! D2 D C/4D/4C/4D/4CB, | E2 E F/4E/4F/4E/4DC D2 D |$ %10
+{/D} E/4D/4E/4D/4C=B, C2 CB,/4C/4B,/4C/4B,- B,2 | =B,/C/{/G,} D2 C/D/ E2{/D} E2{/D} E2 | D/E/ (3D/E/D/ C=B, D/E/!>!!wedge!F z{/E} G/F/E/D/F |$ %13
+{/F} E/F/ E2 C/D/ E2{/D} F/E/D/C/E |{/E} !>!D/4E/4D/- D2- DC=B, C3- | C2 D C2 C/D/ EC!>!!wedge!F/!>!!wedge!G/ |$ %16
+ !>!!wedge!A!>!!wedge!FA/G/ F{/F}E ED/4E/4D/4E/4 | C2 !wedge!=B, C z{/B,} D C3 !>![cgc'] z2 |] %18
+
+X:27
+T:Chant et danse derviche - N°07
+C:Gurdjieff & De Hartmann
+Z:05.VI.1926
+%%score [ 1 ]
+L:1/8
+Q:1/4=96
+M:4/4
+I:linebreak $
+K:Eb
+V:1 clef=
+V:1
+^"Am7""^Andante con moto"!p! z8 |!mf! G2 A2 c2 =B2 |^"F" A6 .G3/2 z/ |^"Am" CDEF G2 c2- | c2 A2^"Dm7" =B3 A/B/ |^"F7" A3 =B A2^"Gsus4" G6^"Ab"{/d} e2 d/(3e/d/e/d/ c2 |$ %6
+^"Am7" =Bc [Bd]2^"F" f2{/f} (3:2:5e/f/e/f/e- |^"Am7" e2 d2^"F" c2{/d} e2 |^"D7sus4" !arpeggio![=Bd]4^"Am" c4 B/c/B/c/ |^"F" !tenuto!=B2 !tenuto!A2 !tenuto!G2 !tenuto!B2 |^"Am7" !tenuto!G8 |^"Am""^pressez" (3.D.E.F .E z^"Am7" !tenuto!G4 |$ %12
+^"F" (3.F.G.A .G z^"Adim" !tenuto!c4 |^"Ab" !wedge!c2{/c} !>!B/4c/4B3/2 A4 |^"F" GA=BA^"Dsus4" G3 z |^"F" !wedge!!tenuto!F2 z2^"Dsus4" !tenuto!G4 |^"Ab""^cédez" c2{/c} !>!B/4c/4B3/2^"F" A4 |^"Dsus4" GA=BA^"Eb" G2 z2 |^"F" !tenuto!F4^"Dsus4"!>(! !fermata!G8!>)! ||$ %19
+^"Am"[Q:1/4=138]"^Allegro con moto"!mf! !>!C2 D2 !>!E2 (3DED |^"F" !>!G4 !>!F2 (3EFE |^"Am7" G8 | B2 (5:4:5=A/B/A/B/A/ G4 |^"Am7" G2 =A2 B2 (3ABA | c2 Bc d4 | e2 f2 e2 (3ded |{ed} c2 =B2 c4 |$ %27
+^"F" A2 G/A/G/A/ F2 E2 |{/F} G4 D2 E2 |^"F7" F2 EF^"D7sus4" !arpeggio![DG]2 F2 | d2 ed^"Ab" c4 |^"Am"{/G} !wedge!c2{/c} !wedge!=B2^"F" !wedge!A2 !wedge!G2^"Abm" !wedge!B!wedge!A z2 |^"Dsus4" !wedge!d2{/d} !wedge!c2 !wedge!=B2^"Ab" !wedge!c2 |^"F7" !wedge!e2{/e} !wedge!d2 !wedge!c2 !wedge!=B2 |$ %34
+^"Eb" !wedge!g!wedge!f z2 !wedge!f2 !wedge!g2^"F" !tenuto![fa]4 |^"Dsus4" G=BAG AG A2 | G2 A2"^poco ritardando" G4 |^"Dsus4" !fermata![Gd]8 |] %38
+
+X:28
+T:Chant et danse sayyid - N°8
+C:Gurdjieff & De Hartmann
+Z:18.IV.1927
+%%score [ ( 1 2 ) ]
+L:1/8
+Q:1/4=55
+M:7/8
+I:linebreak $
+K:C
+V:1 clef=
+V:2 clef=
+V:1
+"^Rubato"!f! z z/4 (7:4:7c/d/[Q:1/4=70]e/f/e/d/[Q:1/4=40]c/ e3 !tenuto!e3/4- |[Q:1/4=55] e/4 z (7:4:7c/d/[Q:1/4=70]e/f/e/d/[Q:1/4=40]c/ e3 !tenuto!e3/4- | e/4 z3/4 !>!g4 (7:4:7f/g/[Q:1/4=70]f/e/d/c/[Q:1/4=40]d/ |$ %3
+ e4 !tenuto!e2 |[Q:1/4=55] !>!g4 !tenuto!g2 | !>!a3 !tenuto!g"^più mosso, rubato" (7:4:7!tenuto!a!tenuto!g[Q:1/4=70]!tenuto!f!tenuto!e!tenuto!d!tenuto!c[Q:1/4=40]!tenuto!d | !tenuto!e8[Q:1/4=60][Q:1/4=70] |[Q:1/4=60] !tenuto!d8[Q:1/4=70] |[Q:1/4=60] c8 |!p! e6 |$ %10
+!pp!!8va(! !breath!!fermata![a'e'']6!8va)! ||[Q:1/4=76]"^Molto ritmico"!p! !tenuto!.[Gg]2 !tenuto!.[Gg]2 | .[Gg].[Ff] .[Ee].[Ff] !tenuto!e2 |{/e} .c.d e4 |{/d} .d.e d4- | d4 a2 ga gf efg !tenuto!a- | a6 | g.a f4 | f.g e4 |$ %19
+ f.g d4 | cd e4 |{/d} de d4 | !tenuto!.[Gg]2 !tenuto!.[Ff]2 !tenuto!.[Ee]2 !breath!c4 | cd e4 |{/d} de d4 | !tenuto!.[Gg]2 !tenuto!.[Ff]2 !tenuto!.[Ee]2 c4 | cdef edcd e4 |$ %27
+ !tenuto!.g2 !tenuto!.f2 !tenuto!e4 | gfedcd !tenuto!e4 | g2 f2 e4 !tenuto!e2 | !tenuto![Aa]8 | ga g4 | .B.c .d.e f2 | f2 !>!a4 | [Gg]2 [Ff]2 [Ee]4 | !tenuto![Ff]8 | !tenuto![Ee]8 |!8va(! !fermata![aa']8!8va)! |] %38
+V:2
+ (5:4:5A,/4D/4E/4F/4E/4 A6 | (5:4:5A,/4D/4E/4F/4E/4 A6 | (5:4:5A,/4D/4E/4F/4E/4 A6- |$ %3
+ A6 |{A,D} E6- | E8- | E6 (7:4:7A,/D/E/F/D/E/A/ | A6 (6:4:6A,/D/E/F/D/E/ | E6 A,/D/E/A/ | A6- |$ %10
+!8va(! a6!8va)! || x4 | x6 | x6 | x2 z2{/!>!D} DE | D2 x12 | x6 | x6 | x6 |$ %19
+ x6 | x6 | x6 | x10 | x6 | x6 | x10 | x12 |$ %27
+ x8 | x10 | x10 | x8 | x6 | x6 | x6 | x8 | x8 | x8 |!8va(! x8!8va)! |] %38
+
+X:29
+T:Chant et danse derviche - N°10
+C:Gurdjieff & De Hartmann
+Z:05.VI.1926
+%%score [ 1 ]
+L:1/8
+Q:1/8=106
+M:6/8
+I:linebreak $
+K:Bb
+V:1 clef=
+V:1
+!p!"^Andantino. \nMolto cantabile ed espressivo \n" z3{/A} B3 | TA2-"^poco rit." A/!tenuto!G/!tenuto!^F/!tenuto!G/"^a tempo"{/F} !tenuto!A2- (3AGA | B2 TA3 | G4 z2 !tenuto!c2- |$ %4
+ cAB c3 | (5:4:5c/A/c/B/A/ B2 TA2 | G3 G{/D} !tenuto!d2- dAB | c2- c BA !tenuto!B2 TA2 | B>!tenuto!A!tenuto!B/!tenuto!A/ !tenuto!G3!<(! !tenuto!G |$ %9
+ !tenuto!D2 !tenuto!G d2!<)! e{de}d c2 A/B/ |!<(! !arpeggio!!tenuto![Ac]2 B/c/ !arpeggio!!tenuto![Ad]2 c/d/ !arpeggio!!tenuto![ce]3!<)! |"^poco rit." d/e/{de}d/c/B/c/"^a tempo"{/B} d2 c/{Bc}B/ c>BTA |$ %12
+ B2"^rallentando" A/4c/4B/4A/4!>(! B2 TA2 | !tenuto!G/!tenuto!^F/!>)! !tenuto!G3- !fermata!G2"_dolciss." D ||$ %14
+[Q:1/8=120]"^Allegretto"!pp! !arpeggio![DB]3- | [DB]2 G | !arpeggio![Gc]2{/c} d | B2 d | c2{/c} B |{/B} A2{/A} B | !tenuto!G3- | G2 G | E2 E |{/E} D2 A/B/ | c2 A | d2 e |$ %26
+ !tenuto!e2 (3e/f/e/ | d2 d |{ed} c2 (3e/d/c/ | d2 A/B/ |{/A} c>cd/c/ | G3- | G3- | !fermata!G2 z!D.C.! |] %34
+
+X:30
+T:Musique des Sayyids et des Derviches - N°11
+C:Gurdjieff & De Hartmann
+Z:13.X.1926
+%%score [ 1 ]
+L:1/8
+Q:1/4=100
+M:5/4
+I:linebreak $
+K:Eb
+V:1 clef=
+V:1
+^"Gsus4" !wedge!C!wedge!D^"Cm" !wedge!E2^"Dsus4"{/E} DC^"Cm" G4 |^"Gsus4" DE^"Dm" F2^"Cm"{/F} ED^"Bb7" A4 |^"Bb7sus4" AGFE^"Eb" G4 |^"Ddim" .F.G.F.E .D2 .F2 |^"Cm" E8 ||$ %5
+ .G.A^"Eb" .B2 (3.B.A.G^"Fm7" .F2 .G.A^"Eb" G4 |^"Dm7" .D.E^"G7" .F2^"Eb"{/F} .E.D^"Cm" E2^"Bb" F2^"Eb" G4 |^"Ab" .C.D .E2 .E.D .C2^"Eb" G4 |^"Ddim" DF E2{/F} DC^"G" =B,2^"Cm" E4 |$ %9
+^"Ab""^rall." C3 C^"Dsus4" D4 |^"Fm" F4 G4 |^"Eb" B6^"Fm" A2 |^"Eb" G2^"Dm" F2^"Ab" E4 |^"Fm" C2 C2^"Dsus4" D8 |^"Gm" D4^"Ab" C2 C2 |^"Eb" !fermata!B4^"Ab" !fermata!c4^"Fm" !fermata!A4 | !fermata!G8 |$ %17
+^"Eb" G6 G2 |^"Dm" F6 F2 |^"Cm" E6 E2 |^"G7" G8 |^"Cm" !fermata!E8 |] %22
+
+X:31
+T:Musique des Sayyids et des Derviches - N°13
+C:Gurdjieff & De Hartmann
+Z:29.IX.1925
+%%score [ 1 ]
+L:1/8
+Q:1/4=90
+M:3/4
+I:linebreak $
+K:F
+V:1 clef=
+V:1
+^"Esus4" AB ^cd{/c} ec |^"Asus4" d2 d2 e2 |^"Dm" f2{/e} [ef]2 |^"Em7"{ef} (5:4:5g2 f2 e2{/e} d2 ^c2 | d4 ^c4 B4 |^"Esus4" A4 !fermata!a6- (3:2:2a2 f |$ %6
+^"Asus4" (3:2:2a2 g^"Bbmaj7" (3:2:2a2 g^"Bbm" (3agf^"Asus4" (3:2:2e f2 |^"Fsus4" (3fed (3^cde{/e} f2 |^"Gm" d4- [dd']4^"Esus4" !fermata!A4 | AB^cB A4 G>G A2 |$ %10
+^"Dm" (3:2:2d2 d (3:2:2e2 e{/e} (3f3/2e/{/e}f^"Gm"{/f} (3:2:2g2 f (3:2:2e2 e^"Dm" (3:2:2d2 d ^c2 |^"Dm" !fermata!d2- (3:2:2d2 A |^"Asus4" (3:2:2a2 g^"Bbm" (3:2:2a2 f^"Em" (3:2:2g a2^"Asus4""^più mosso" !tenuto!a2 |$ %13
+^"Bbm" b2 ^c'2{/b} d'2 c'2 b2 a2{/a} g2 |^"A" a8 | fg |:^"F"{fg} a>ga |^"Csus4"{ab} c'2 b |^"F" abg/a/ fg |$ %19
+{/f} aa{/a} c'2 b | a/b/g a2 |^"Am" c'c' c'2 |^"Gm" bc'/b/a/b/ |^"A7sus4" gac'c' |^"Gm" b2 ag |^"Bb" d'd' d'2 |$ %26
+^"F" c'd'/c'/b/a/4b/4g |^"F" ab{/a}c' |^"Bb" d'c'b/a/g |^"Dm" a2 a/b/c' |^"Bb"{/b} d'/c'/b/a/g fg |^"F"{fg} a2{/g} a |$ %32
+^"Gm" b/a/g/f/e |^"Dm" f2^"Csus4"!f!{/c} f2 _d | .c/._d/.c/.d/.=B/.d/ c2 | c_d{/c} ed |{/c} f2 fg |^"F"{/f} a2 |$ %38
+^"Gdim" gfe |^"Bbm"{/e} _dcB ||1^"Gsus4" c2 fg :||2^"Gsus4" !fermata!c3 z |] %42
+
+X:32
+T:Danse derviche - N°14
+C:Gurdjieff & De Hartmann
+Z:23.V.1926
+%%score [ ( 1 2 ) ]
+L:1/8
+Q:1/4=90
+M:4/4
+I:linebreak $
+K:Ab
+V:1 clef=
+V:2 clef=
+V:1
+"^Andante con moto. Poco marciale\n"!f! C | F>E F2-!<(! F4-!<)! | F4- F3 F | A>G A2-!<(! A4-!<)! | A4!f! B,C/>B,/ A,2- | A,2 B,2 C3 z | F2 BG/>B/ c4 |$ %7
+"_cantabile" c2 f2 e2 de/d/ | c4 B3/2c/4B/4 A2 |{/A} G2 c6 |!<(! !tenuto!C2 !tenuto!A2 !tenuto!GA/G/ F2!<)! |{/f} (3:2:2e2{/e} d c2!>(! B2{/B} A2 | G2 F2-!>)! F3 z |!p! CB,/C/ D2 C2 F2 |$ %14
+!<(!{/G} A2 (3:2:6!tenuto!GA !tenuto!BA !tenuto!GF!<)! !tenuto!c2- |!mf! c2 !>!c!>!c !>!f2{/f} !>!e2 |{/e} !>!de/d/ c2{/A} !tenuto!B2{/A} !tenuto!c2 |!<(! !>!c2{/c} !>!f2{/f} !>!e2{/e} !>!d3/2e/4d/4!<)! |!f! c2 AB c7/4B/4 A2 |$ %19
+!f! cB A.B/>.B/ G2 B/A/G/A/ | F2 C2 F2-!p! .[FAcf] z |] %21
+V:2
+ x | x4 !>!A,2 !>!B,2 | !>!C4- C3 z | x4 !>!B,2 !>!D3/2E/4D/4 | !>!C4 x4 | x8 | x8 |$ %7
+ x8 | x8 | x8 | x8 | x8 | x8 | x8 |$ %14
+ x8 | x8 | x8 | x8 | x8 |$ %19
+ x8 | x8 |] %21
+
+X:33
+T:Chant sayyid - N°15
+C:Gurdjieff & De Hartmann
+Z:23.I.1927
+%%score [ ( 1 2 ) ]
+L:1/8
+Q:1/4=52
+M:3/4
+I:linebreak $
+K:C
+V:1 clef=
+V:2 clef=
+V:1
+^"Esus4" z6 | (3:2:7A/B/c/d/(3c/B/A/ c4 |^"Dm" A/B/(3c/d/c/ !fermata!B4 |^"Am" A/^G/A/B/ !fermata!c4 |^"Am7" !fermata!G6 |^"Bbmaj9" !fermata!^G6 |^"Am" !fermata!A6 |$ %7
+^"Esus4" (3:2:6A/B/c/d/c/B/ !fermata!c4 |^"Am" e4 e2 |^"Em" g4 f2 |^"Am" e6 |^"F" !fermata!a6 | (3:2:6A/B/c/d/c/B/ c4 |^"Em" B4 B2 |^"F" c6 |^"Dm" d6 |^"Esus4" e6 |^"Am" c6 |$ %18
+ (3:2:6A/B/c/d/c/B/ !fermata!c4 |^"Am7" (3:2:6c/d/e/f/e/d/ !fermata!e4 |^"Em" g4 f2 |^"Am7" e4 e2 |^"G" d6 |^"Em" e6 |^"G" g6 |^"G7" f6 |^"C" !fermata!e6 |$ %27
+^"F" (3:2:6A/B/c/d/c/B/ c4 |^"Em" (3:2:6A/B/c/d/c/B/ c4 |^"Ddim7" B6 |^"C" c4 c2 |^"Bb" d4 d2 |^"Am" e6 |^"C" g4 f2 |^"C" e2 d4 |^"Dm7" c6 |^"Ddim" d6 |^"Am" c6 |$ %38
+^"F" z3 c c2 c2 |^"Bm7" d4 e4 |^"Em" g4 f4 |^"Em" e4 c4 |^"Am" e4 e2 |^"Dm" f4 e2 |^"Fmaj7" g3 f^"C" !breath!g4 |^"Am" c8- | c2 z2 z4 |] %47
+V:2
+ x6 | x6 | x6 | x6 | x6 | x6 | x6 |$ %7
+ x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 |$ %18
+ x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 |$ %27
+ x2 z3/2 ^G/ A2 | x2 z3/2 ^G/ A2 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 |$ %38
+ x8 | x8 | x8 | x8 | x6 | x6 | x8 | x8 | x8 |] %47
+
+X:34
+T:Derviche persan - N°16
+C:Gurdjieff & De Hartmann
+Z:18.IV.1926
+%%score [ ( 1 2 ) ]
+L:1/8
+Q:1/4=80
+M:8/4
+I:linebreak $
+K:F
+V:1 clef=
+V:2 clef=
+V:1
+"^Moderato. Poco rubato"!f! z2 !>!!wedge!A/!>!!wedge!B/!>!!wedge!^c/!>!!wedge!d/ z2 !>!e4 !wedge!e z{/e} !>!f7/2 e/ | !tenuto!g/f/e/d/ ef{/f} !>!e4 |"^retenez"{/e} !>!!wedge!g!wedge!f !wedge!e!wedge!d"^pressez" !wedge!f!wedge!e | !wedge!d!wedge!^c !wedge!e!wedge!d (3!wedge!c!wedge!d!wedge!e |$ %4
+ !arpeggio!!tenuto![df]6 | !tenuto!A6 |!f!"^poco più mosso"[Q:1/4=80] !>!d6 | !wedge!d2{/d} !>!e4 | !wedge!e2{/e} !>!f4 |{/f} gf ed ef |{/f} e6 | ed ^cB Ac | A6 |$ %13
+!p!"^meno mosso"[Q:1/4=70] (5:4:5^CDEFG A2 | !tenuto!B2 B2 d2 | d^c (3Bcd e2 | e2 f4 |"^poco più mosso"[Q:1/4=80] (6:4:6GAB^cde f4 |{/f} e2 !tenuto!g4 | g2 ag fe | .g2 !tenuto!f4 |$ %21
+ e2{/e} fe d^c | .e2 !tenuto!d4 |"^poco allargando"!>(!{/^c} B4 cBA!fermata!B!>)! |!p! A2 B2 A4 |"^più mosso"!f! z !wedge!^C !wedge!D!wedge!E !wedge!F!wedge!G | !>![FA]6 | !wedge!F!wedge!G !wedge!A!wedge!B !wedge!^c!wedge!d | !wedge!e z !>!f4 |$ %29
+{/e} !>!!wedge!g!wedge!f!wedge!e!wedge!d !tenuto!f4 |"^poco più largo" ef/e/ gf/e/ f4 |"^a tempo" fe{/e} d^c e2 | de f(3e/f/e/ d2 |$ %33
+[Q:1/4=90]"^allargando" d^cBA[Q:1/4=95] !tenuto!G2 !tenuto!A2 !tenuto!B2 |[Q:1/4=100] !tenuto!d2 !tenuto!^c2{/c} !tenuto!B2 |{/^c} !tenuto!A6- |!pp! !fermata![Aea]6 ||$ %37
+[Q:1/4=132]"^Allegretto rigoroso"!p! .B2 .A2 .G2 | !tenuto!D6 | .E2 .F2 .G2 | !tenuto!D6 | .F2 .G2 .A2 | !tenuto!c6 | .B2 .A2 .G2 | !tenuto!G6 | .G2 .A2 .B2 | !tenuto!A6 |{/G} .B2 .A2 .G2 | .F.G .A2 .G2 | .G2 .F2 .E2 |$ %50
+ .E.F .G2 .F2 | .F2 !tenuto!E2 D2 | .D.E F2 E z | E2 D2 C2 | !tenuto!.E z !>!C4 | C z !tenuto!G4 | AG F2 E2 | G2 F4 | F z [FA]4 |{/A} BA G2 F2 | A2 G4 |$ %61
+!p! .A.G .F2 .E2 | .G2 .F2!f! z2 |!p! .F.E .D2 .C2 | .E2 .C2 z2 | z2 !>!E2 !>!F2 | !>!G2 z2 z2 |{/G} .A.G .F2 .E2 | .G2{/G} .F2 z2 |!p! .F.E .D2 .C2 | .E2 .C2 z2 |$ %71
+"_poco a poco cresc." !tenuto!E2 !tenuto!G4 | !>!CD EF G2 | E6 | !tenuto!.F2 !>!A4 | GA BA c2 |!<(! A4 !tenuto!G2 | !tenuto!c4"^cantando" !tenuto!A2!<)! |!f! !tenuto!d6 | !tenuto!Bc dc d2- | d4 G2 | c4 dc | B2 A2 c2 | G6 |$ %84
+!p! B2 c4 | BA GA B2 | A6 | A2 GF EF | G2 F2 z2 |!p! .F2 .E.D .C.D | .E2 .C2!f! z2 | !wedge!C2 !wedge!C2 z2 |] %92
+V:2
+ x16 | x8 | x6 | x6 |$ %4
+ z4"^rallentando"!p! (3!tenuto!B!tenuto!A!tenuto!G | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 |$ %13
+ x6 | x6 | x6 | x6 | x8 | x6 | x6 | x6 |$ %21
+ x6 | x6 | x8 | x8 | x6 | x6 | x6 | x6 |$ %29
+ x8 | x8 | x6 | x6 |$ %33
+ x10 | x6 | x6 | x6 ||$ %37
+ x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 |$ %50
+ x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 |$ %61
+ x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 |$ %71
+ x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 |$ %84
+ x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 |] %92
+
+X:35
+T:Danse derviche - N°17
+C:Gurdjieff & De Hartmann
+Z:20.V.1926
+%%score [ 1 ]
+L:1/8
+Q:1/2=68
+M:6/4
+I:linebreak $
+K:F
+V:1 clef=
+V:1
+|:"^Pesante" z12 |!f!"^cantando" !>!A4 d2 f2 | eded a4 | g4 a2{/a} baba g2 f2 | a6 efgf !wedge!!tenuto!e2 !wedge!!tenuto!d2 | !tenuto!e4 !tenuto!a3 z |$ %6
+ g2 ag !wedge!!tenuto!f2 !wedge!!tenuto!e2 | g4 de f2 |{/e} gfed B4 !tenuto!B2 | A6- A12 :|$ %10
+ !tenuto!d8 |{cd} c2 B2 A2 G2 | A8 | !tenuto!e6{de} d2 | c2 B2 A2 G2 | A8 |$ %16
+ d2 e2 f4 |{/e} g/f/e/f/e/f/e/d/ ^c2 d2 e2 f2 g2 | !>!a6 !wedge!!tenuto!a2 | b4 !wedge!!tenuto!f2 !wedge!!tenuto!g2 | a8 !tenuto!.a2 |$ %21
+ b4 !>!Ta2 | g2 f2 g2 | g4 a2 | !>!Tg2 f2 e2 | g2 f2 e/4f/4e/4f/4e d2 | B4 B2 | d4 e2 e2 f2 | g2 f/g/f/g/ f2 | e2 d2 e2 | f2 !>!Te2 e2 |$ %31
+ d6 | c2 c/d/c/d/ c2 B2 c2 | d6 | c2 d7/2 c/4d/4 | B2 c4 |{Bc} A2 B4 | A2 G4 !>!A8- | !fermata!A12 z2 |] %39
+
+X:36
+T:Chant et danse sayyid - N°19
+C:Gurdjieff & De Hartmann
+Z:7.I.1926
+%%score [ 1 ]
+L:1/8
+Q:1/4=116
+M:15/4
+I:linebreak $
+K:C
+V:1 clef=
+V:1
+"^Librement"!mf! z4"_espressivo" (9:6:9EDEDEDEDE D4 C2 D8 !tenuto!G4 D2 | E8 !>!c2 _B4 (9:4:9ABABABABA G2 !tenuto!!fermata!A4 |$ %2
+ A2 !>!d4 c_B A4 (10:4:8GAGAGAG!>(! !tenuto!A3 F4!>)!!p! G2 E2 (9:4:9EFEFEF"^ritenuto"!>(!EFE!>)! !fermata!D4 ||$ %3
+[K:F]!f![Q:1/4=132]"^Allegro risoluto" !>!D- | D2 FG A2 | c2 !>!D2 FG | A4 !>!d2- | dc d2 cB | AG- G3/2 z/ !wedge!F2 | !>!G4 !>!D4 | DEFGA z !>!d4 | FG AB d2 |$ %12
+ !>!c4 ABAB | AB (3ABA | !tenuto!G4 !tenuto!A4 !tenuto!D4 | D2 !>!A4 |{/A} !wedge!B2 !wedge!A2 !wedge!G2 | !>!d4 |{/d} ._e.d !tenuto!c4 | !tenuto!d6 |{/B} .c.B .A2 .G2 | !>!F4 .F2 |$ %22
+ !>!G6 |{/A} !wedge!B2 !wedge!A2 !wedge!G2 | !tenuto!D6 | .D.E{/D} F3 z | EF{/E} G3 z | FG{/F} A3 z |"_saccadé" !wedge!A2 !wedge!d2 z2 | !wedge!c!wedge!B{/B} !wedge!A2 z2 |{/A} !wedge!G2!>(! z2 z2!>)! |!p! .B.A .G2 z2 |$ %32
+{/G} .F2 z2 z2 | .A.G .F2 z2 |{/F} .E2 z2 z2 | .G.F .E2 z2 |{/E} .D2 z2 z2 |!p! .D.E .A2 .F2 | .F.E .D2 .D2 | z2 .D2 .E2 | .E2 .E2 .D2 | !>!F3 (3E/F/E/ D2 |$ %42
+ z2"_cresc." .E2 .F2 | .G2 .F2 .E2 | !>!B2 (3ABA G2 | z2!<(! .A2 .B2!<)! |!f! !tenuto!c6 |!f!{/d} !wedge!_e2 !wedge!d2 !wedge!c2 | !wedge!B2 !wedge!A2 !wedge!B2 | !>!d6 |!f! .d2 .c2 .B2 | .A2 .G2 .A2 | !>!B4 G2 |$ %53
+!p! .c2 .B2 .A2 | .G2 .G2 .B2 |{/B} !>!A6 |!<(!{/A} .B2 .A2 .G2 | !wedge!F2 !wedge!E2 !wedge!F2!<)! |!f! !>!D6- | D6 | !>!.[DAd]2 z2 z2 |] %61
+
+X:37
+T:Danse sayyide - N°22
+T:Dédié à la femme de Monsieur Gurdjieff
+C:Gurdjieff & De Hartmann
+Z:30.I.1926
+%%score [ ( 1 2 ) ]
+L:1/8
+Q:1/4=66
+M:2/4
+I:linebreak $
+K:G
+V:1 clef=
+V:2 clef=
+V:1
+!p!"^Andantino. Poco marciale" z3/2 .[DF]/ .[DF].[DF] | z3/2 .[DF]/ .[DF].[DF] |"_sempre cantando"{/B} =cB AG | A2 GF | G2 GD/>E/ | F4 |$ %6
+{/F} GF ED | E2 D^C | D2 ^CB, | B,4 |!<(! FG AG/F/ | GA !arpeggio![GB]2!<)! |!mf! AB [A=c]2 |{/A} B2 (3AGF | G2 (3FED | E4 |$ %16
+!p! z2 ED | ^CD E2 | DE F2 | EF A2 |!<(! FG A2 GF!<)! |!mf! !arpeggio![GB]2 AG | A2!<(! AB!<)! |!f! !tenuto!=c2 !tenuto!B2 | (3!tenuto!ABA G2 | FD E2- | E4 |$ %27
+!p! GA B2 | A(3G/A/G/ F2 | ED E2 |{/E} D^C D2 |!<(! (3FGF EF | FG [FA]2!<)! |!mf! (3ABA!<(! GA |{/E} FE DE!<)! |!f!{/D} !>!F4 |$ %36
+{/E} FE ^CD!>(! E2 | F4!>)! |!<(! ^CD"^poco\nrall."{/C} (3!tenuto!E!tenuto!D!tenuto!C!<)! |"^a tempo"!>(! !tenuto!B,4 | [FB]4- | [FB]4!>)! |!pp! .[Bfb] z z2 |] %43
+V:2
+ [B,D]3/2 z/ z2 | [B,D]3/2 z/ z2 | x4 | x4 | x4 | x4 |$ %6
+ x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 |$ %16
+ x4 | x4 | x4 | x4 | x6 | x4 | x4 | x4 | x4 | x4 | x4 |$ %27
+ x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 |$ %36
+ x6 | x4 | x4 | x4 | x4 | x4 | x4 |] %43
+
+X:38
+T:Chant et danse sayyid - N°23
+C:Gurdjieff & De Hartmann
+Z:30.V.1926
+%%score [ ( 1 2 ) ]
+L:1/8
+Q:3/8=58
+M:12/8
+I:linebreak $
+K:Bb
+V:1 clef=
+V:2 clef=
+V:1
+!p!"^Liberamente" d3- (2:3:3d/d/c d2 B c2 A | B3 G3 !>!^F3{EF} !tenuto!_E!tenuto!D!tenuto!C | !tenuto!D3 D/E/^F/G/A !>!d3{/d} !tenuto!c d2 | (2:3:2Bc{/B} d3 g3 ^f3 |$ %4
+{e^f} e3{fe} d3 !tenuto!B d2 c3 |"^poco più mosso" !tenuto!d!tenuto!c!tenuto!B !tenuto!c!tenuto!B!tenuto!c !tenuto!B!tenuto!A!tenuto!G !tenuto!D3 | !tenuto!G3"^poco meno mosso"!p! G^FE D3 | G3- G^FG A3 |"^più mosso" !tenuto!^F3- F!tenuto!F!tenuto!G !tenuto!A!tenuto!G!tenuto!F |$ %9
+ !tenuto!E2{/^F} E D3 !>!C D2- D3 |"^incalzando e crescendo" !>!C/D/E/^F/A G3 !>!B/A/G/F/A G3 | !>!c/B/A/B/c B3 !>!d/c/B/c/d c3 |$ %12
+!f!"^più pesante e poco meno mosso" c/d/e/^f/!>!g !>!f{ef}!>!e{/f}!>!d!>(! !tenuto!c/d/B/c/A/B/ G3!>)! |"^allargando"[Q:3/8=48]!>(! D2 D[Q:3/8=38] G3-"_morendo" !fermata!G6-!>)! | G z2 z3 ||$ %15
+[Q:1/4=106]"^Allegretto"!p! !wedge!d!wedge!^c !wedge!e2 !wedge!d2 | !wedge!B!wedge!=c !tenuto!d4 | !wedge!=f!wedge!f{/f} !wedge!e2{fe} !wedge!d2 | !wedge!B!wedge!c{/B} !tenuto!d4 | !wedge!f!wedge!f{/f} !tenuto!g2 f/g/f/e/ | fg f4 |!mf! !wedge!_a!wedge!a{/a} !>!g2 d2 | !wedge!g!wedge!g{/g} !>!f2 d2 |$ %23
+!p! cd e>d e/d/f | Te2{de} c2 .g.g |{/f} !///-!e f d2!<(! ^fg!<)! | a>g ^f/g/a!f! g z |$ %27
+{/G} !>!c2 (5:4:5!tenuto!=B/c/B/c/B/ _A2 !wedge!B!wedge!c | !wedge!d2!<(! !///-!d e g^f!<)!{ef} !>!e2!>(!{/f} !>!d2 !tenuto!c!>)!d e2 |$ %29
+!p! (3:2:7d/e/d/e/(3d/e/d/ g^f Tee d2 |!<(! (3:2:2!tenuto!c d2 (3:2:2!tenuto!B c2 (3:2:2!tenuto!A B2 G2!<)! |!f! ^F2{EF} !>!E2!>(!{/F} !>!E2!>)! |$ %32
+{^FE} (3:2:2!tenuto!D2 C D4-[Q:1/4=96][Q:1/4=90] D4[Q:1/4=84] |!p![Q:1/4=78]!>(! [_A,E]4!>)! !fermata![=A,D]4 |] %34
+V:2
+ x12 | x12 | x12 | x12 |$ %4
+ x12 | x12 | x9 | x9 | x9 |$ %9
+ x12 | x12 | x12 |$ %12
+ x5 d x6 | x12 | x6 ||$ %15
+ x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 |$ %23
+ x6 | x6 | x6 | x4 !>!G!>!_A |$ %27
+ x8 | x14 |$ %29
+ x8 | x8 | x6 |$ %32
+ x4"^poco marcato ed allargando" (3:2:2!>!_A2 !>!A (3:2:2!>!G2 !>!^F !>!G2 | x8 |] %34
+
+X:39
+T:Musique des Sayyids et des Derviches - N°24
+C:Gurdjieff & De Hartmann
+Z:1.V.1927
+%%score [ 1 ]
+L:1/8
+Q:1/4=112
+M:9/4
+I:linebreak $
+K:F
+V:1 clef=
+V:1
+"^circa"{FAd} f6 (3efe fed^c{DEA} d6 | e2 d^c B2 A2 B2 c2 B2 c2 B2 | A2 G2 A6 |$ %3
+{EAd} f4 ef{/A} ef{/A} gf{/B} ef (3efe d4 | ef gf !tenuto!ef- f6- (5:4:5fed^cB | ^cB A4- A6 |{/D} (3BAG (3BAG d4 |$ %7
+{/A} (3ed^c (3edc{/B} f4 | (5:4:5gabag fg ef | fg a4 | a2 b4 | d'2 a4 | ga fg ef{/e} g2{/f} a4 |$ %13
+ gf ed ^cd e2 B4 c2[Q:1/4=92] B4 |!pp!"^poco meno mossso"!<(!{EA} d4!<)! ^c2 d2{/c} e4 |[Q:1/4=112]"^più mosso [a tempo]"!mf! ABAGFG A6 | e4 g4 ag f4 d4 d2 | e4 e2 g2 f2 e2 | f4 g4 a4 |$ %19
+ A2 B2 A2 G2 F2 G2 A6 |{EA} d4{EF} B6 d4 | e6- e2 | g2 f2 e2 f2 g2 a4 | d2 ^c2 d2 e4 e2 | g2 f2 e2 f2 g2 | a8 |$ %26
+ a4 ga fg/f/ a4 | b4 g4 b2 a8 | d'4 c'4 b2 a6 | e2 f2 g4 | ef g4 ^cd e4 | B6 d4 B2 | A12 | z6!>(! z6!>)! |!pp! z12 |] %35
+
+X:40
+T:Danse derviche - N°27
+C:Gurdjieff & De Hartmann
+Z:27.V.1926
+%%score [ 1 ]
+L:1/8
+Q:1/4=116
+M:3/4
+I:linebreak $
+K:Bb
+V:1 clef=
+V:1
+"^Con moto. Il ritmo marcato assai\n" G/A/B Gd !tenuto!B2 | Ac BA G^F | G2 e/d/c Bd- |!f! d A2 B cB | AG ^F G2 z |$ %5
+ G/A/B G A2 ^F | D/E/^F E F2 D | C/D/E ^F G2 D/E/ | ^FG A2 F/G/A | B d2 A/B/ cd |$ %10
+ e3 f/e/ d/c/{/e}d | G/A/B c d2 c/B/ | Ac G2- G !fermata!z ||$ %13
+[K:Bb][Q:1/4=88]"^Andantino marciale"!p! !tenuto!.d2{/d} !tenuto!e4 Bc d2- | d2 AB c4 AB | G6 !tenuto!d2 !tenuto!g2- | g2 fe d4 AB | c4 BA G4 | D2 G4{/A} B2 G2- | G4 !tenuto!d2 !tenuto!d4 |$ %20
+ Bc d4 ga b2- | b2 ab g6- | g2 fe d6 | AB c6 Bc | d4 AB G4!D.C.! || .[Gdg]2 z4 z4!fine! |] %26
+
+X:41
+T:Danse mauresque (derviche) - N°28
+C:Gurdjieff & De Hartmann
+Z:29.V.1926
+%%score [ 1 ]
+L:1/8
+Q:1/4=106
+M:2/4
+I:linebreak $
+K:Ab
+V:1 clef=
+V:1
+"^Allegro con brio\n" z .c/.c/ .d.c | z .c/.c/ .d.c |: z"_la mélodie toujours très en dehors" !>!.c !>!.d!>!.c | z !>!.c !>!.d!>!.c | .A.B !>!c2- | c/B/A/G/ F2 | z !>!!wedge!f !>!!wedge!e!>!!wedge!f | z !>!!wedge!f !>!!wedge!e!>!!wedge!f | z !>!!wedge!f !>!!wedge!g!>!!wedge!f |$ %9
+ !wedge!f!wedge!e !wedge!d!wedge!c | !wedge!e!wedge!d !wedge!c!wedge!B | c4- | c3 z |"_cantando" !>!c2 Bc/B/ | !tenuto!A2- A/!>!B/ z | cB A/B/4A/4G | !>!A !>!G3 | B2 AB |{AB} c2 !>!Bc/B/ |$ %19
+ AB AG | (3BAG F=E | F4- | F3 z | c2 B/c/B | A2 d2 | cd B2 | cd ed | ef ga | !tenuto!a2 ga/g/ fe |$ %29
+ f!>!e !>!d!>!c | !>!=B/ c7/2 | !tenuto!g2 fg/f/ | ef ed | cB c2 | .G/.A/.B .c.d |!<(! !wedge!B/!wedge!c/!wedge!d/!wedge!e/ !wedge!g2 | !>!!wedge!f!>!!wedge!g !>!!wedge!a!>!!wedge!c'!<)! | b4 | c'/b/a/b/ a2- |$ %39
+ a4 | b/a/g/b/{/b} a2 | !>!f/g/ a3 | =ef [eg]2 |{/f} ag fg |"_ben cantando e marcato"{/g} !>!f3 =e/f/ | !>!g3 f/g/ | !>!a3 g/a/ | !>!b3 !tenuto!a/b/ | !>!c'3 !>!c' |$ %49
+ !>!f4- | f3 !>!!wedge!a | !>!!wedge!g{/g}!>!!wedge!f !>!!wedge!e z | !>!d3 (3d/e/d/ | !>!c4 |{/c} !>!B4 | !>!!wedge!a{ba}!>!!wedge!g{/a} !>!!wedge!f!>!!wedge!=e | (3:2:2!>!f2 c f2 | !>!=e/f/ g3 | !>!f/g/ a3 |$ %59
+"^martellato" (3!>!!wedge!b!>!!wedge!a!>!!wedge!g !>!!wedge!b!>!!wedge!f | (3!>!!wedge!a!>!!wedge!g!>!!wedge!f !>!!wedge!a!>!!wedge!=e | (3!>!!wedge!g!>!!wedge!f!>!!wedge!=e !>!!wedge!f!>!!wedge!d | (3!>!!wedge!f!>!!wedge!=e!>!!wedge!d !>!!wedge!f!>!!wedge!c | (3!>!!wedge!e!>!!wedge!d!>!!wedge!c"^marcato" !>!eA/B/ | !>!c2 (3cBA | !>!B4 |$ %66
+{/B} !>!A2{BA} !>!G2 |{AG} !>!F2{/F} !>!=E2 | !>!F3 !>!C | !>!F4 :|!ff! !>![Fcf] z z2 |] %71
+
+X:42
+T:Chant et danse sayyid - N°29
+C:Gurdjieff & De Hartmann
+Z:A partir d'un enregistrement sonore de T. De Hartmann
+%%score [ ( 1 2 ) ]
+L:1/8
+Q:1/4=80
+M:6/4
+I:linebreak $
+K:C
+V:1 clef=
+V:2 clef=
+V:1
+ z4[Q:1/4=90] (9:8:9A/B/c/d/c/d/[Q:1/4=50]c/B/A/ c4 |[Q:1/4=90] (11:8:11A/B/c/d/c/d/c/B/[Q:1/4=50]c/B/A/ c4 | A/B/c/d/ c/B/c/d/ e3/2d/4e/4 f>f |$ %3
+ e>e{ef} ed d/{/d}e/{/e}d/c/{/d} Tc4{Bc} |"^poco accelerando"[Q:1/4=60] !fermata!d{/e}d{/e}d{/e}d[Q:1/4=80]{/e}d{/e}d{/e}d{/e}d"_ad libitum""^rit."[Q:1/4=70]{/e}d{/e}d[Q:1/4=40]{/e}d{/e}d{!fermata!c!fermata!d} !fermata!c2[Q:1/4=80] B2{cB} A4 |$ %5
+ (9:8:9G/4A/4B/4c/4d/4c/4[Q:1/4=40]B/4A/4B/4 A4[Q:1/4=80] (11:8:11G/4A/4B/4c/4d/4c/4B/4A/4[Q:1/4=40]B/4A/4B/4 A2 |[Q:1/4=80] G/4A/4B/4c/4d/4c/4B/4A/4 d/4c/4B/4A/4d/4c/4B/4A/4 |"_répéter ad libitum" d/4c/4B/4A/4d/4c/4B/4A/4"^rit."[Q:1/4=70] d/4c/4B/4A/4d/4c/4B/4A/4 |$ %8
+[Q:1/4=60] d/4c/4B/4A/4!>(!d/4c/4B/4!>)!!pp!!fermata!A/4{GABc} B2 |{!fermata!c!fermata!B} !fermata!A8 ||!pp![Q:1/4=110]{/A} .e2 .A2{/A} cd .e2 |{/A} e2 .g2 g.a g.a g.a | g.f{/g} .f.e .e.f{/f} .e.d .d2 |$ %13
+{de} d2 .c2{/c} d2 cd{/c} e4 |{/f} ed d2{de} dccd{/c} edcd |{/d} c.B{/c} B.A{/B} A.G A4 | G2 .d2 d2{/e} d2 dc |$ %17
+ defg{fg} e2 e/4f/4e3/2 d2 | dc d2{/e} d2 c>c d4 | ef{/e} g4{/f} gf g2{/f} gfga |{/a} gffg{/g}fe e2{/f} ed d2 c2 |$ %21
+ d4{/d} c2{/c} d4 c2 |!mf! !>!d/4e/4d3/2- d2 !>!d/4e/4d/4e/4 d3 !>!d/4e/4d/4e/4 d3 | .e.d.e.f{/f}.e.d{/e}.d.c c2{/c} BA A2 G2 |{/E} A4{/E} A4{/!fermata!E} !fermata!A4 ||$ %25
+[Q:1/4=80] (9:8:9A/4B/4c/4d/4c/4B/4[Q:1/4=40]c/4B/4A/4 c2[Q:1/4=80] (9:8:9A/4B/4c/4d/4c/4B/4[Q:1/4=40]c/4B/4A/4 c2[Q:1/4=80] (11:8:11A/4B/4c/4d/4c/4B/4c/4B/4[Q:1/4=40]c/4B/4A/4 c2 |[Q:1/4=80]{AB} c2 d2 cd e2 de f2 ef !fermata!Tg2- |$ %27
+ g2 g>fg>fg>f"_répéter ad libitum"g>fg>fg>fg>f- | f2 (7:4:7f/g/f/e/d/e/f/ ed | (10:8:10e/4f/4g/4f/4e/4d/4e/4d/4e/4f/4 ed (9:8:9c/d/e/f/e/d/c/B/c/ |$ %30
+ d3 (3d/e/d/ (9:8:9c/B/c/d/e/d/c/B/c/ d2 (5:4:5c/d/c/B/A/ (3B/c/A/(3B/c/A/ (9:4:9(1:1:3B/c/A/ (1:1:3B/c/A/ (1:1:3B/c/A/ | Bc TB4 c>B c>Bc>B"^rallentando" c>BcB !fermata!A2 ||$ %32
+[Q:1/4=110]{/e} a2 A2 cd e2 |{/e} a2 A2 cd e2 |{/e} g2 ga{/a} gf{/g} fe |{/f} ed d4{/e} dc | d4{/d} c2 .B2{/B} A4 |{/e} a2 A2 cd{/c} e4 ef |$ %38
+{/e} g.f g.f{/f} g.f |{/e} g.f g.f{/f} g.f g.a | (3g/4a/4g/4f3/2{/g} fe{/f} ed d2 |{/e} d2 c2{/c} d2- d>d e2 A4 |$ %42
+ d2 d2{/e} dc d4 |{/e} dcde ef{/e}fg | fe{/f}eddc d4 d2 |{/d} e2 edef{/f} ed d4 |$ %46
+ defg fe{/f}ed | d2{/e} dc d2 | !>!d/4e/4d3/2!>!c/4d/4c3/2!>!B/4c/4B3/2 A2 .G2 A4 | aefgfeefed d2 c2{/c} d2{/d} c2 |$ %50
+ d2 e2 f2 d2 e4{/e} d2 c2 B2 | A6 |[Q:1/4=80] (9:8:9a/b/c'/d'/c'/b/[Q:1/4=60]c'/b/a/ c'2[Q:1/4=80] (7:4:7abc'd'[Q:1/4=60]c'ba c'2[Q:1/4=80] b>c'b>c' | b>c'"_morendo" Tb4- !fermata!b2 a4 !fermata!a4 |] %54
+V:2
+ x12 | x511/64 | x8 |$ %3
+ x10 | x20 |$ %5
+ x10 | x4 | x4 |$ %8
+ x4 | x8 || x8 | x10 | x10 |$ %13
+ x12 | x12 | x10 | x10 |$ %17
+ x10 | x12 | x14 | x14 |$ %21
+ x12 | x12 | x16 | x12 ||$ %25
+ x11 | x16 |$ %27
+ x16 | x6 | x8 |$ %30
+ x16 | x18 ||$ %32
+ x8 | x8 | x8 | x8 | x12 | x12 |$ %38
+ x6 | x8 | x8 | x14 |$ %42
+ x10 | x8 | x12 | x12 |$ %46
+ x8 | x6 | d2 c2 B2 x8 | x18 |$ %50
+ x18 | x6 | x16 | x16 |] %54
+
+X:43
+T:Chant katzapsky - N°32
+C:Gurdjieff & De Hartmann
+Z:8.II.1926
+%%score [ 1 ]
+L:1/8
+Q:1/4=96
+M:4/4
+I:linebreak $
+K:C
+V:1 clef=
+V:1
+!mf!"^Andante marciale" c3 (3B/c/B/ A2 G2 | ^F2 G2 A2 B2 | c3 (3B/c/B/ A2 B2 |!<(! c2 d2 e4!<)! |!f! e4 =f(3e/f/e/ d2 | e(3d/e/d/ c2 d2 f2 | e4 f(3e/f/e/ d2 | g(3f/g/f/ e2 d2 fd |$ %8
+ e4 c(3B/c/B/ A2 | dcBc B4 |!p! B!<(!cdc!<)! d4 |!<(! cded!<)! e4 |!f! !>!e2 !>!f2 !>!g4 |$ %13
+ fefe d4 |!f! eded c4 |!p! dcdc B4 |!<(! !>!c2 !>!d2 !>!e4!<)! |!f! dedc d4 |"^allargando" !>!c2 !>!!fermata!d4 !breath!z2 ||$ %19
+"^a tempo"!p! c2 (3B/c/B/A B4 |!mf! d2 (3c/d/c/B!<(! de- e2!<)! |!f! ef g2 z f/e/ d2 gf e2 |!p! Ac e2- ed/c/ B2 | cc/B/ A2!f!"^poco allargando" z !tenuto!A2 !tenuto!A- |!p! !tenuto![Acea]8 |] %25
+
+X:44
+T:Danse sayyide - N°33
+C:Gurdjieff & De Hartmann
+Z:12.II.1927
+%%score [ 1 ]
+L:1/8
+Q:1/4=74
+M:3/4
+I:linebreak $
+K:Ab
+V:1 clef=
+V:1
+ .c2 .A.B .c2 |{BAG} G6 |{/G} B2 GA B2 |{BA} F4 c2 | .d2 .c.B .A.B | c4 c2 |{/c} a2{/a} gf =ef | g2 !tenuto!c3 .c | !tenuto!d2 G/A/B/c/ d2 |$ %9
+ c4 .c2 | f6 | a6 |{/a} gf =ef .g2 | c4 c2 | d6 | GA Bc d2 | c6 | FG AG B2 | F6 | =EF GF A2 | G6 |$ %21
+ cB AG F2 | .=E2 z2 .E2 | .F2 z2 .c2 | F6 || A4 G/A/G | F4 G2 | A4 c2 | G6 | B4 A2 | G4 A2 | c4 B2 | A6 | c4 B2 | A4 B2 |$ %35
+ c4 _e2 | d6 | c4 B2 | A4 G2 | A4 B2 | d6 | d4 c2 | d4 c2 | d4 f2 | e4 e2 | !fermata!g6 |$ %46
+ c6 | [cfa]6 | g2 d2 c2 B2 | A6 | c6 | !fermata!f6 |] %52
+
+X:45
+T:Chant et danse sayyid - N°34
+C:Gurdjieff & De Hartmann
+Z:28.IX.1925
+%%score [ 1 ]
+L:1/8
+M:7/4
+I:linebreak $
+K:C
+V:1 clef=
+V:1
+"^Quasi recitativo. Con moto"!f! A2 ^G2 F2 GF E2 A2 B2 | c>A d2 B2 c2 B2{/B} A2 B2 A2{/A} ^G2 | A2 ^G2 F2{/A} G2 F2 | E2 !fermata!e4- !fermata!e6 ||$ %4
+ !fermata!A4 (3ABc(3dcB{/A} c2 (3def g/f/e/d/ !arpeggio![df]2 | f2 f3 d f2 e2 e2 | f/e/d/^c/ d>A d>F d2 | (3!tenuto!A!tenuto!d!tenuto!e (3!tenuto!f!tenuto!e!tenuto!d ^c !fermata!d3 |$ %8
+ (3d^c_B A>G A>F A>E | A4 D4 || (3DEF G/F/E/D/ F4 | F/^G/A/=B/ (3cBA{/F} c3 c | dcBA c3 c |$ %13
+ BA^GA B4!pp!"^meno mosso" !tenuto!B!tenuto!A!tenuto!G!>(!!tenuto!F!tenuto!A!tenuto!G!tenuto!F!tenuto!E!>)! !fermata!e4 |!p!"^accelerando"[Q:1/4=108] e>c e>A[Q:1/4=113]"_cresc." e>F e>A[Q:1/4=118] e>c e4 |[Q:1/4=123] e>d e>c d>B c>A B>^G |$ %16
+!mf! !tenuto!A!tenuto!B"^rallentando"[Q:1/4=118]!tenuto!c!tenuto!B!tenuto!A[Q:1/4=103] ^G>B !fermata!A4 |!p!"^molto meno mosso" !tenuto!E2 !tenuto!F2 !tenuto!^G2 !tenuto!B2 |!p! A>^G !fermata!A6 ||$ %19
+|:"^Allegretto"!mf! .A2 .B2 .c2 | .d2 .c3 .B | !tenuto!c6 | .c2 .d2 .e2 | .c2 .B2 .c2 | .d2 .^G2 .F2 | .^G2 .B2 .A2 | .^G2 .F2 .E2 | D6 | .E2 .E2 .E2 | e6 :| .[ebe']2 z2 z2 |] %31
+
+X:46
+T:Bayaty - N°35
+C:Gurdjieff & De Hartmann
+Z:7.X.1926
+%%score [ ( 1 2 ) ]
+L:1/8
+Q:1/4=120
+M:10/4
+I:linebreak $
+K:C
+V:1 clef=
+V:2 clef=
+V:1
+^"Esus4""^lunga" !arpeggio!!fermata![EA]2 !arpeggio!!fermata![EA]2"^poco" (16:12:15!fermata!ABcdcBA^GABAGFG F2 !breath!!fermata!E4 | (5:4:5EF^GAB^"Esus4" A4 (6:4:6c{Bc}BAGAB^"Esus4" A4 |$ %2
+^"F" (21:12:21ABcdcBcBABA^GAGFGFEEFG F4 |^"Esus4"{!fermata!^G!fermata!F} !fermata!E4 !fermata!e3 e^"F"{/e} (20:8:20fededcdcBcBABAGAGFED |$ %4
+^"Esus4" !fermata!E4 !fermata!A3 ^GAB !fermata!A6 |^"Dm"[Q:1/4=100] (17:8:35.d.d .c.c .B.B .A.A .c.c .B.B .A.A .^G.G .B.B .A.A .G.G .F.F .A.A .G.G .F.F .E.E"^rallentando"[Q:1/4=80] (3EFG^"Dm" F4^"Esus4" !fermata!E4 |$ %6
+^"Fmaj7"[Q:1/4=120] (17:8:17efededcdcBcBABAB^G^"Esus4" !fermata!A4 !fermata!A4 |^"Am" cBA^GAB !fermata!A6 |$ %8
+^"Dm" (21:16:20dcBcBABA^GAGFGFEEFG F2 F^"Esus4" E3- !fermata!e6 |^"F" (18:16:18fededcdcBcBABA^GGAB^"Esus4" A6 |$ %10
+^"F" A^GFGFEFEDDEFG F2^"Esus4" E3 (5:4:5EFGAB^"Esus4" A4 |$ %11
+ (5:4:5^GABcd^"Am" c4 (5:4:5Bcdef^"Fmaj7" e4 |^"F" fededcdcB"^rallentando"[Q:1/4=80]cBA^GAB^"Esus4" !fermata!A6 ||$ %13
+|:^"Esus4""^Allegretto"!p! EF^G | AB>A | B/A<BA/ | c A2 | ABc | de>d | e/d<ed/ | f^"Asus4" d2 |^"Esus4" ABc | d^"C" e2 | g^"Dm"{fg} f2 | e^"G" d2 |$ %25
+^"Gsus4" gg{/g}f- |^"Csus4" f3 | g/f/ e2 | f d2- | dc{Bc}B |^"F" A2{^GA} G |^"Dm" F2{/^G} F | E3- | Ecc |^"Bsus4"{/c} B2 c/B/ |^"F" A2 ^G/F/ |^"Bsus4" E3- |$ %37
+ Ecc |^"Bsus4"{/c} B2 c/B/ |^"F" A>Bc |^"Esus4" A3- ||1 A3 :||2 A2 ^G/F/ |^"Bsus4" E3 |] %44
+V:2
+ x20 | x16 |$ %2
+ x15 | x16 |$ %4
+ x16 | x24 |$ %6
+ x16 | x12 |$ %8
+ x19 E z4 z | x879/40 |$ %10
+ x26 |$ %11
+ x16 | x21 ||$ %13
+|: x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 |$ %25
+ x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 |$ %37
+ x3 | x3 | x3 | x3 ||1 x3 :||2 x3 | x3 |] %44
+
+X:47
+T:Danse derviche - N°36
+C:Gurdjieff & De Hartmann
+Z:21.VI.1924
+%%score [ 1 ]
+L:1/8
+M:4/4
+I:linebreak $
+K:F
+V:1 clef=
+V:1
+"^Moderato. Pesante"!f! z4 |: z !tenuto!A!tenuto!B!tenuto!^c | d2 e2 z !tenuto!f e3/2f/4e/4 | d4 z !tenuto!d!tenuto!e!tenuto!f | g2 a2 z !tenuto!b a3/2b/4a/4 | g4 | a/b/c'/b/ a2{/a} !>!b4 |$ %7
+ e/f/g/f/ e2{/e} !>!f4 | fe d^c e4 |{/f} !>!g3 f e2{fe} !>!d2- | d4 | AB A2{/B} !>!d4 | fe d2{/^c} !>!e4 |$ %13
+ !tenuto!e!tenuto!f !tenuto!g2{/g} !>!b4 | !tenuto!e!tenuto!f !tenuto!g2{/g} !>!a4 | fe d2{/d} !tenuto!B4 | A2 !>!g3 !tenuto!f e3/2f/4e/4 |!<(! d8!<)! :| !fermata![dad']8 |] %19
+
+X:48
+T:Mélodie kurdo-grecque - N°39
+C:Gurdjieff & De Hartmann
+Z:9.V.1926
+%%score [ 1 ]
+L:1/8
+Q:1/4=108
+M:2/4
+I:linebreak $
+K:C
+V:1 clef=
+V:1
+|:"^Allegro ma non troppo"!pp!"^sempre pianissimo e molto leggiero" .e.g/.f/ .e{/e}.d | .c.c .B.B | !tenuto!A2 .E.E |{/E} A2!<(! !>!B !tenuto!c3!<)! |!pp! Bd/c/ .B.A | G.F .E.D | .E z!p! !>!E2 | A !>!A3- | A4 |$ %9
+ !>!c/!>!c/!>!c!>!c !>!c2 | Bc dc | B(3c/B/c/ BA | GF .E.D |!f! E3 E | !>!E4 |!pp!"^m.d. molto secco" B,C DE | FE DE | EF GA | DE DE |$ %19
+ cB AF | AB dc |!<(! de fe | cd ed!<)! |!f! Bd cB | dc BA | EF GA |$ %26
+ GA FA | GF ED | .C z !>!E2 | !>!G2 !tenuto!GF | !>!E2 z2 | !tenuto!EF GA | !tenuto!G2 z2 |{/G} F3 E | E3 D | D4 |$ %36
+ !>!F2 !>!F!>!E | !>!D2 z2 | !>!E2 !>!G2 |{/F} !>!A!>(!G FE!>)! | D2 E2 | G4 |!f! !>!d2 !>!e2 | !>!g4 ||1 z3!pp! g/f/ :||2!p! !tenuto!!fermata!G4 |] %46
+
+X:49
+T:Chant kurde (sayyid) - N°40
+C:Gurdjieff & De Hartmann
+Z:25.IV.1926
+%%score [ 1 ]
+L:1/8
+Q:3/4=46
+M:3/4
+I:linebreak $
+K:Gb
+V:1 clef=
+V:1
+!mf!"^Allegretto con moto" b2 c'2 b2 |{ab} a>g a4 | a2 b2 a2 |{ga} g>f g4 | g2 a2 g2 |{fg} f>e f4 | .a.g .f.e{/e} .d.c | !wedge!c2 !>!B4 |!pp! .A2 !tenuto!B4 |$ %9
+!mf! Bc de d2 |!p!"^rit."[Q:1/4=120] !tenuto!c2- !tenuto!c2 !fermata!B3"^assez lent"[Q:1/4=100] !tenuto!B |!>(! .b2!>)! !tenuto!.c'2 !tenuto!.b2 |"^a tempo"[Q:3/4=46] a/b/a/b/ a>g a2 | fg a4 | a2 b2 a2 |{ga} g>f g2 ef | g6 |$ %17
+!<(! .c'.b .a.g .f.e!<)! |"^poco rit."[Q:3/4=40] d6 |"^a tempo"[Q:3/4=46] !tenuto!B6- | B2 !>!c2 !>!d2 |"^meno mosso" !>!e2 !>!d/e/d !>!c2- !tenuto!c2 | !tenuto!B6- | B2 c2 d2 | !>!e2 !>!d/e/d !>!c2- !tenuto!c2 | !tenuto!B6[Q:3/4=40] |!p!"^rallentando" z6 |$ %27
+[Q:3/4=30] z6 |"^lunga" !fermata!B6- |!p!"^a tempo"[Q:3/4=46] B.A .c2 .B2 | .A.B .c2 .B2 | FG A(3G/A/G/ B2 | AB A4 |{/A} !tenuto!G4{/G} !tenuto!A2- | A2{/A} !tenuto!B4 | Bc d(3c/d/c/ B2 | cd e4 |$ %37
+ d2 e2 _f2- | f2 e_f g2 | ._f.e !tenuto!f4 | .g._f{/f} .e{/e}.d .c.B | !>!A2 Bc d2 | !tenuto!Bc d4 |{/c} .e.d .c.B .A2 |{/A} .G2 !>!A4 | .G2 !>!A4 |$ %46
+ .d2 !>!d4 |{/d} .c.B .c2{/c} .d2 |{cd} !tenuto!e4 | .d.e .d2 |{ed} .c2 .B2 | .c2 .d2 | !tenuto!B4 | .A.B .c2{/c} .d2 |{/c} !tenuto!B4 | .d.c .B2 |{/B} .c2 .d2 |$ %57
+ !tenuto!B4 | .G.A .B2{/A} .c2 |{/c} !tenuto!B6 | .c'.b .a2 .g2 .b2{/b} !tenuto!a4 | .b.a .g2{ag} .f2 .a2{/a} !tenuto!g4 | .b.a .g2 .f2 .g2 .a2 | !tenuto!b4 |$ %64
+ .a.b .c'.a | .g.a .b.g | .b.a .g2 .f2 | .a.g .f2 .e2 |"^rallentando"[Q:3/4=36] .d2{/d} !>!c2- cd |[Q:3/4=26] !tenuto!.B2 !tenuto!.A2 |[Q:3/4=20] !tenuto!B4- |!pp! !fermata![Bb]4 |] %72
+
+X:50
+T:Chant et danse sayyid - N°42
+C:Gurdjieff & De Hartmann
+Z:22.V.1926
+%%score [ 1 ]
+L:1/8
+Q:1/4=84
+M:3/2
+I:linebreak $
+K:Eb
+V:1 clef=
+V:1
+"^Moderato" !fermata!z4!mf!"^librement" !tenuto!c4{/c} =B2 c2 |{/=B} d4"^toujours très chanté" (5:4:5GFEDE C4 | !tenuto!c4 A2 A>F G4 | DE F2 EG{/E} G2 A3 A |{/A} G4 DE{/E} F2{/F} E2 D2 |!>(! C8!>)!!p! !tenuto!c4 |$ %6
+{/c} =B2 c2{/B} d4"_poco marcato" GABc d4 |"^poco più mosso" d2 e4 c4 A4 A2 | G4 DE F2 G4 (3G2 A2 =B2 |$ %9
+ c4 (5:4:5e2 d2 c2 =B2 c2{/B} d4 | c4 (5:4:5A2 G2 F2 E2 F2 A4 |{/A} G6!>(! E4 D4 C8!>)! |!<(! !tenuto!c4 c2{/c} d6 d2!<)!!f! e4 !tenuto!c4 | A4 A2{/A} G4 DE{/F} G8 |$ %14
+ !>!_B4 !tenuto!B2{/B} A4 E2 F2 !tenuto!G6 |!p!"^incalzando" G4 c4{/c} =Bc{/B} d4 |!<(! cd{/c} e2 !tenuto!g4 f2{/f} d4 | !>!d2!<)!!f! !>![fa]4 !tenuto!e2 !tenuto!f2 !tenuto!g8 =Bc{/B} !tenuto!d2 |$ %18
+{/!fermata!c} !fermata!f2 ee/d/"^calmando"!>(! c4 A3!>)! A{AG} F4 |!p!"^poco meno mosso" DE F2 G4{/F} E3 D !fermata!C8 ||$ %20
+!p![Q:1/4=114]"^Allegretto" !wedge!C2 !wedge!D2 |: E4 (3DED | E4{/D} F2 | G6- | G2 F2 G2 | A3 G AG | c4 B/A/B/A/ | G6- | G2 !tenuto!e2 !tenuto!e2 |{/e} !tenuto!d4 ed | c6- | c2 !tenuto!A2 !tenuto!A2 |$ %32
+ !tenuto!G4 AG | F6- | F2 D2 E2 | F3 E{/D} FE | G3 F E{/D}F | C6 ||1 z2!pp! C2 D2 :||2!pp! .[cgc']2 z2 z2 |] %40
+
+X:51
+T:Prière
+T:Hymns, Prayers and Rituals - N°1
+C:Gurjeff & De Hartmann
+C:Gurdjieff & De Hartmann
+Z:29.VII.1925
+L:1/8
+Q:1/2=44
+M:3/2
+I:linebreak $
+K:Ab
+V:1 clef=
+V:1
+^"Fm"!p! c4 B2 c2^"Bbm" d4 |^"Gm7" B2 c2^"Bbm" d2 c2 | !tenuto!c4^"Gdim"!<(! B4 !tenuto!c2!<)!^"Fm"!mp!!>(! A4^"C" G8!>)! |^"Gm"!pp! B4^"Ab" c4^"Gm" B2 A2^"Em" G2!<(! A2 B2^"Ab" c4!<)! |!<(! c4^"Gm" B2 c2!<)!^"Bbm" !tenuto!d4 |^"Bbm""_cresc." !tenuto!d2 !tenuto!d2 !tenuto!d2 !tenuto!c2 !tenuto!d2 !tenuto!e2 |$ %6
+^"Ab" e2 e2 e2^"Bbm" dcde |^"Db"!f!!>(! f4^"Ab" e4^"Bbm" d4!>)! |!pp! d4^"Ab" c4^"Eb"!<(! !tenuto!B2 !tenuto!c2!<)! |^"Bbm" d4 !>!d2^"Db"!f! !>!f4 |^"Ab"!p! e2 d2 c2 d2 c4 |^"Eb" B4^"Fm" A4^"C"!>(! !>!c4- | c4^"Fm" A8!>)! |!p! c4^"Gm" B2 c2^"Bbm" d4 |$ %14
+ d4^"Ab" c2 d2 e4 | !>!e2 !>!e2^"Db"!f! !>!f4^"Bbm"!p! !tenuto!d4 | !tenuto!d4^"Ab"!pp! c2 B2 A2 B2 | !tenuto!c8!mf! e2 d2 | c2 B2 A2!<(! G2 !tenuto!A2!<)! |^"Fm"!>(! !-(!F8 |!pp! !-)!f8!>)! |] %21
+
+X:52
+T:Hymns, Prayers and Rituals - N°2
+C:Gurdjieff & De Hartmann
+Z:31.X.1926
+L:1/8
+Q:1/4=66
+M:4/4
+I:linebreak $
+K:Bb
+V:1 clef=
+V:1
+^"D" z4{/A} B4 |^"D7" ^F3 A^"Gm" G4 |^"Bb" F8 D2 E2 F2^"Eb"{/E} G8 |^"Gm" B4 G4 |^"D7" ^F3 A^"Gm" G4 |^"Eb" G4^"Gm" D2 E2 ^F2 |^"Eb" G3 A^"Cm" G3 A |$ %7
+^"Eb" G4 (3:2:2B,2 ^C |^"Gm" D4^"Cm" G4 |^"Bb" F4^"D7" ^F4 |^"Gm" G8 | G3 G^"Bb7" _A4 |^"Cm7" G4 GF | E8 |^"Cdim" ^F8 ||$ %15
+[K:Eb]^"Eb" G8 A4 |^"Eb" G8 G3 F |^"Eb" G4 G2 |^"Ddim7" A8 |^"Eb" G8 | G2 GG G2 A2 |^"Bb7" A2 AG A2 G2 |^"Ddim7" A8 |^"Eb" G8- | G8 |] %25
+
+X:53
+T:Pity for One's Self - Pitié de soi
+T:Hymns, Prayers and Rituals - N°3
+C:Gurdjieff & De Hartmann
+Z:21.X.1926
+L:1/8
+Q:1/4=66
+M:4/4
+I:linebreak $
+K:C
+V:1 clef=
+V:1
+^"Am" A3 ^G A2 B2 | c3 B^"Am" !fermata!A4 |^"Am" c3 B c2 d2 | e3 d^"Am" !fermata!c4 |$ %4
+ c2^"Dm" f4^"Am" efed |^"Am" c4^"E7" d4 |^"Am" c8 |^"F" !breath!c4^"Dm" f4 |^"Am" ef ed | c4^"E7" d4 |^"Am" !fermata!c8 A4 |^"E" B6 B2 |$ %12
+^"E7" d4^"Am" c3 B |^"Am" c2 (3BcB^"Am" !fermata!A4 |^"F" A4^"Dm" A4 |^"E" B8 |^"Am" A3 ^G^"Am" A4 | !tenuto!e4 !tenuto!c4 !tenuto!c4 |^"C" e4!<(! d2 e2!<)! |^"Em" g4^"C" e4 e2 |$ %20
+^"F" a4 g2 a2 |^"C" g4!<(! !fermata!e6 c2!<)! |^"G7"!f! !fermata!f4^"C" e2 d2 |^"Am" c4^"E7" d4 |^"Am" c6 c2 |^"Dm" f4^"C" e2 d2 |^"Am" c4^"E7" d4 |^"Am" c8 | !fermata!A8 | e6 d2 |$ %30
+^"Am" c8 |^"Dm" f6 e2 |^"G" d8 | d4^"C" e4 |^"Dm" f4^"F" a4 |^"C" g6 a2 |^"C" g8 |^"Am7" a4^"Am" c'4 |^"Em" b2 a2^"Fmaj7" g2 f2 |^"C" e4^"Em" g4 |^"C" e8 e4 |$ %41
+^"F" !fermata!c'4^"G" b2^"F" a2^"Em" g2^"Dm" f2 |^"C" e4^"Em" g4 |^"C" e4 c4 | [Ee]8 | [Cc]8 |] %46
+
+X:54
+T:Laudamus...
+T:Hymns, Prayers and Rituals - N°4
+C:Gurdjieff & De Hartmann
+Z:20.II.1927
+L:1/8
+Q:1/4=72
+M:13/4
+I:linebreak $
+K:Ab
+V:1 clef=
+V:1
+^"Fm"!pp! c8 c2 d2 c2 Bc A2 B2^"Ab"!<(! c4 B2 |^"Ab" e2!<)! d2 c2 B2 c2 d2 |^"Eb"!>(! B8!>)! |^"Fm" A2 B2 c2 B2 A2 B2 |^"Fm" A2 G2 A2 (3GAG |^"Db" F8 |$ %6
+^"Ab"!mf! c8 |^"Db" A2 B2 c2 d2 c2 B4 |^"Eb" e2 d2 c2 d2 c2 c2 B2 |^"Fm" A2 B2 A2 G2 A2 B2 |^"Ab" !tenuto!c8 |^"Gm"!>(! B8 |^"Fm" !breath!A8!>)! |^"Bbm/Db"!<(! B8 |^"Bbm" d8 |$ %15
+^"Dbdim7" B4!<)!^"Fm" A8 |^"Dbdim7"!mp! B8 |^"Fm" A8 | c8 B2 c2 B2 A8 |^"Gdim" B4 A2 B2^"C" G4 |$ %20
+!<(! G4 A2 B2 c2 d2!<)! c2 B2 A2!>(! G2 A2 B2!>)!^"Fm" A8 |!mf! c8^"C7sus4" B3 c B2^"Fm" A4 B2^"Ab" c4 B2^"Fm" A4 |^"Bbm"!f! !fermata!d3 c d2 c2 d2 f4 |$ %23
+^"Cm" e8 d2 c2 d2^"Ab" c8 |^"Fm"!<(! c2 d2 c2!<)!^"Cm" e4 d2 c2 B2 |^"Fm"!>(! A8 |^"C7" B8!>)! |^"Fm" !fermata!A6 z2 |!f!!<(! c8 | a8!<)! |^"Gdim" !tenuto!g2 !tenuto!f2^"Dbdim" !tenuto!=e4 !tenuto!f2 |$ %31
+^"Gm" !tenuto!g4^"Em"!>(! !tenuto!=e8!>)! |^"C"!<(! =e4 f2 g2!<)!^"Ab" a6 g2^"Db" f4 c2 |^"Bbm" d6 |^"Gm7"!p! B2 c2 d2^"Ab" c4 c2 |^"Cm" e4 d2 c2^"Gm" B2 c2 d2 |^"Ab" c8!pp! c2 |$ %37
+^"Bbm" d6 c2 B2 A2 |^"C7" B8^"Fm" A7 z | c6!<(! A2^"Gm" B2 c2 |^"Eb7" d4^"Ab" c2 d2!<)! |^"Db" f4 e3 f^"Ab" e4 |^"Fm"!f! a4 g2 f2 |^"C" =e4 f2 g2 |$ %44
+^"Fm"!<(! a4^"Bbm" !tenuto!b8!<)! |^"Ab" !tenuto!a2 !tenuto!g2 !tenuto!f2 |^"C"!>(! !tenuto!=e4^"Gm" g4!>)! |^"Db" f6!p! c2 |^"Bbm" d6 d2 |^"Ab" c4 B2^"Fm"!>(! A6 A2!>)! |^"C7"!pp! B8 |^"Fm" A8- | !fermata!A8 |] %53
+
+X:55
+T:Hymns, Prayers and Rituals - N°5
+C:Gurdjieff & De Hartmann
+Z:23.X.1926
+L:1/8
+Q:1/4=50
+M:4/4
+I:linebreak $
+K:G
+V:1 clef=
+V:1
+|:^"G" B3 B^"D" A2 G2 |^"D" A3 B/A/^"Em" G2 A2 |^"G" B3 (3A/B/A/ d2- d/c/(3B/c/B/ |^"D" A4^"G" B2 c2 |^"Bm" d2 cd^"C" e2 d2 |^"Em" B4 G2 A2 |$ %6
+^"G" B2 AB^"Am" c2 B2 ||1^"G" G8 :||2^"G" G8 :||3^"Em" G8 ||^"G" B2 AB^"Am" c2 B2 |^"G" !fermata!G8 |] %12
+
+X:56
+T:Hymns, Prayers and Rituals - N°7
+C:Gurdjieff & De Hartmann
+Z:02.I.1927
+L:1/8
+Q:3/4=42
+M:6/4
+I:linebreak $
+K:F
+V:1 clef=
+V:1
+ z AB^cde |^"Dm" !fermata!d6- d^cdefg |^"Dm" !fermata!f6- !breath!fEFGAB |^"F"!<(! A6!<)!^"Bb"!f! !tenuto!d6 |^"Bbm" ^cBAGAB^"F" A6 |$ %5
+^"Gm"!>(! B6!>)! AGFEDE |^"Dm" F6^"Gm" B6 |^"Dm" A6^"A7" G6 |^"Dm" F6^"A7" E4 F2 |^"Dm" D6^"Gm" z ^CDEFG |^"Dm" A3 G A3 A^"Gm" B4 |$ %11
+ G4^"Dm" A6 A2 |^"Bb" d4 A2 |^"D7" c4- cBAG |^"Dm" A2 A2^"Bb" d4- | dcBA^"Gm" GGAB |^"F" A6 A2 |^"Gm" B4- BAGF |$ %18
+^"A7" EEFG^"Bb" F4 |^"D7" c3 B^"Gm" A3 G |^"Dm" F4^"A7" A4 |^"Dm" !fermata!F8!D.C.! |] %22
+
+X:57
+T:Hymne pour le jour de Noël, n°1
+T:Hymns, Prayers and Rituals - N°10
+C:Gurjieff & De Hartmann
+C:Gurdjieff & De Hartmann
+Z:7.I.1927
+L:1/8
+Q:3/8=52
+M:9/8
+I:linebreak $
+K:F
+V:1 clef=
+V:1
+^"Gm" GAB^"Dm" d2 A F3 |^"Em7" EFGEA^"Dm" D6 |^"Gm" FED^CCDEFEG^"Dm" D4 | A3 G A2 | c4 c2 |$ %5
+^"Gm" B4 B2 |^"Bb" d2 c2^"Gm" B2 |^"Dm" A6 G2 A2 B2 A2 |^"Em7" G2^"F" A4 |^"Gm" c2 B2 A2 G2 |^"Dm" F4^"F" A8 |^"Bb" A4^"F" [Cc]8 |^"Am" [Cc]4 [^C^c]8 |$ %13
+^"D" [Dd]8^"Cm" [_E_e]8 |^"Eb" [Gg]8^"Dm" [Ff]8 |^"A" [Aa]16 |^"Gm" [Bb]8^"Dm" [Aa]4 [Bb]4 |^"Gm" [dd']4^"Dm" [Aa]8 |^"Am" [cc']4 [Bb]2 [Aa]2^"Em7" [Gg]2 [Ff]2 |^"C#" [Gg]8^"Dm" [Aa]8 |$ %20
+^"Gm" [Gg]4 [Ff]4^"Em7" [Ee]4 |^"Dm" !fermata![Dd]4^"A" [^C^c]4^"Dm" [Dd]8 |^"Gm" z ^CDE FEFG^"Dm" A4 |^"Gm" z EFG^"Bb" AGAB |^"Em7" d2^"F" c6 |$ %25
+^"Dm" f4 f2 |^"F" a4 |^"E" g2 f2 e2 |^"Dm" f4 |^"Bb" f6 | A2^"Gm" B4 |^"F" !tenuto!.A2 !tenuto!.G2 !tenuto!.F2 |^"A" E6 |^"Dm" F6 |] %34
+
+X:58
+T:Hymns, Prayers and Rituals - N°12
+C:Gurjieff & De Hartmann
+C:Gurdjieff & De Hartmann
+Z:10.XII.1925
+Z:14.II.1926
+L:1/8
+Q:1/4=69
+M:6/4
+I:linebreak $
+K:C
+V:1 clef=
+V:1
+^"Am""^Andantino"!p! c2- (3:2:2c2{Bc} B (3A^GA B2 A2 [EG]2 | d2- (3:2:2d2{cd} c (3Bcd c2^"G"!f! !tenuto!B2^"C" !>!e4 |^"Am" !tenuto!e2 !tenuto!e2^"C" !>!g4 |^"Dm"!p! f{gf}ede f2^"C" e2 | e2^"G" d4 |!mf! d2 e2 d2 c2 |$ %6
+^"E" B4^"Am" c4 | !>!c2 !>!e4^"F"!f! !>!a4 | ga _b4 a4 |^"Am"!f! !>!a2 !>!c'4 | (5:4:5ba^gab a4 |!p! .a.a !tenuto!_b2 .d'2 .d'.c' .a2 .b2 |^"F"!<(! !tenuto!a4!<)!!mf! a2^"C" g4 |$ %13
+ !tenuto!e6^"G" !tenuto!d4 |^"Am" c4^"G"!p! d4 |^"Am7" c4^"Dm"!mp! d4 |^"C" e6!f! e2 |^"Em" !tenuto!g4 fg/f/ ef |^"C" e4!f! !>!e!>!e^"F" !>!a2 |^"C" ga/g/ b2^"Am" c'2 c'2 | bc'^"E" b2^"G"!p! !tenuto![dd']2 |$ %21
+ [ff']^"C/E"[ee']^"G" [dd']2^"Am" [cc']2 |^"E" [Bb]^"Am"[cc']^"G" [dd']2^"Dm" [ff']2 |^"C"!<(! [ee']4^"G" [dd']4 |^"Am" [cc']8 |^"C" [ee']8!<)! |!ff! [ff']2 [ee']2 [dd']2^"Dm" [ff']2 |^"C" !fermata![ee']8 |] %28
+
+X:59
+T:La tourmente semble passée
+T:Hymns, Prayers and Rituals - N°14
+C:Gurjieff & De Hartmann
+C:Gurdjieff & De Hartmann
+Z:10.XII.1925
+L:1/8
+Q:1/4=60
+M:10/4
+I:linebreak $
+K:Ab
+V:1 clef=
+V:1
+^"Csus4" z [C=E]FG A4{/G} (5:4:5BAGFE F6 G2 |^"Eb" !fermata!B4{/B} A2 G2 F2 =E2^"Fm" !fermata!F6 F2 |^"Ab" A4 (3G2 A2 G2^"Db" F6 F2 |^"Ab" c4 c2 c2^"Db" f4^"Ab" e4 |$ %4
+^"Db" f4^"Ab" (3e2 f2 e2^"Bbm" d4 |^"Fm"{/c} f4^"Bbm"{/c} d4^"Ab" c4^"Eb" B4 |^"Fm"{/c} f4^"Ab" (3e2 f2 e2^"Bbm" d4^"Fm" c8 |^"Ab" e4 c4^"Eb" B4^"Fm" (3:2:2A4 c2^"Db" f4 |^"Ab" e2 f2 (3e2 f2 e2^"Bbm" d4 |$ %9
+^"Fm" c4^"Ab" (3e2 d2 c2^"Eb" (3G2 A2 B2 |^"Ab" c4^"Db" f4^"Ab" e4^"Bbm" d4 | (3d2 c2 B2 (3A2 G2 A2^"Fm" F8 |^"Gm" [C=E]8^"Fm" F8 | z [C=E] FG |^"Fm" A4^"Csus4"{/G} (3B2 A2 G2 F4 |$ %15
+^"Gm" (3[C=E]2 G2 A2^"Eb" B4^"Bbm" (5:4:5dcBAB |^"Ab" c4 e2 e2 c2 c2 |^"Fm" f4^"Ab" (3e2 f2 e2^"Bbm" dcBA |^"Ab" e6 c2 |^"Ab" e4^"Gm7" B4 |^"Fm" A4^"Gm" [C=E]8 |^"Ab" c4^"Gm7" F2 G2 |^"Csus4" [C=E]8 |$ %23
+^"Fm" !fermata!F8 | c4 f2 g2 | g4 a4 |^"Csus4" g4 ga gf c4 |^"Fm" !fermata!f8 |^"Db" (3A2 d2 e2 f4 |^"Ab" e4 f2 e2 A4 |^"Bbm" d8 |^"Eb" e2 f2 g2^"Fm" a4 |$ %32
+ (3:2:2a4 a2^"Eb" g2 g2 |^"Fm" a4 a4 |^"Ab" (3b2 a2 e2^"Db" f4 | (3g2 f2 A2^"Bbm" f4 |^"Fm" f4^"Bbm" a4 g4^"Ab" A4^"Gm" g4 |^"Ab" g2 f2 e2 A4^"Bbm" !fermata!d4 |$ %38
+^"Fm" z cfg a4-^"Bbm" (3a2 g2 f2^"Gm" c8 |^"Fm" !fermata!f8 |] %40
+
+X:60
+T:Prière pour la miséricorde
+T:Hymns, Prayers and Rituals - N°16
+C:Gurjieff & De Hartmann
+C:Gurdjieff & De Hartmann
+Z:10.XII.1925
+Z:5.III.1927
+L:1/8
+Q:1/4=60
+M:7/4
+I:linebreak $
+K:Bb
+V:1 clef=
+V:1
+|: DEDE^"Gm" G4 ^FE^"D" D4 | ABAB^"Gm" d4 ^cB^"D" A4 |^"Gm" B4^"Am" c4 |^"Gm" d8 B4 |^"F" c4^"Bb" d6 c2 |^"Gm" B4^"Am" A4 |^"Gm" !fermata!B8 :| %7
+
+X:61
+T:Sainte Affirmation, Saint Négation, Sainte Conciliation
+T:Hymns, Prayers and Rituals - N°17
+C:Gurjieff & De Hartmann
+C:Gurdjieff & De Hartmann
+Z:10.XII.1925
+Z:8.X.1926
+L:1/8
+Q:1/4=48
+M:3/2
+I:linebreak $
+K:Bb
+V:1 clef=
+V:1
+!mf! D7/2 ^C/ D2- D2 !tenuto!.D4 |^"Gm"!p! B4^"D" A4 |^"Gm" B6- B3/2 z/ |!mf! E7/2 D/ E2- E2 !tenuto!.E4 |^"Cm"!p! d4 c4 |^"Gm" B6- B3/2 z/ |!mf! F7/2 =E/ F2- F2 !tenuto!.F4 |^"Cm"!p! e4 d4 |^"A" c8 |^"Bb" !tenuto!D6 !tenuto!C2 |$ %10
+^"Gm" !tenuto!B,4 !tenuto!D4 |^"Eb" !tenuto!E8 |^"Cm7"!pp! !tenuto!B,6 !tenuto!C2 |^"Gm" !tenuto!B,4 !tenuto!D4 |^"Gm" !tenuto!G8 |!mf! D7/2 ^C/ D2- D2 !tenuto!.D4 |^"Gm"!ff! !tenuto!B6 |^"D" !tenuto!A6 |^"Gm" !tenuto!B6 | E7/2 D/ E2- E2 !tenuto!.E4 |^"Eb" !tenuto!d6 |^"Cm7" !tenuto!c6 |^"Gm" !tenuto!B6 |$ %23
+ F7/2 =E/ F2- F2 !tenuto!.F4 |^"Cm" e4 d4 |^"A" c8 |^"Bb"!mf! B6 A2 |^"Gm" G4^"D" ^F4 |^"Eb" G8 |^"Cm7"!p! E6 A2 |^"Gm" D4^"D" ^F4 |^"Gm" G8 | D7/2 ^C/ D2- D2 !tenuto!.D4 |$ %33
+^"Gm"!pp! B4 A4 |^"Gm" B8 | E7/2 D/ E2- E2 !tenuto!.E4 |^"Cm"!pp! d4 c4 |^"Gm" B8 | F7/2 =E/ F2- F2 !tenuto!.F4 |^"F7"!pp! e4 d4 |^"A" c8 |^"Gm"!pp! !tenuto!B6 !tenuto!A2 |^"Gm" !tenuto!G4 !tenuto!^F4 |^"Eb" !tenuto!G8 |^"Gm"!ppp! !tenuto!B6 !tenuto!A2 |^"Gm" !tenuto!G4 !tenuto!^F4 |^"Eb" !tenuto!!fermata!G8 |] %47
+
+X:62
+T:Prière et Désespoir
+T:Hymns, Prayers and Rituals - N°20
+C:Gurdjieff & De Hartmann
+Z:5.I.1926
+L:1/8
+Q:1/4=88
+M:7/4
+I:linebreak $
+K:F
+V:1 clef=
+V:1
+ (7:4:7z DFGAGF E2 F2 G2^"Asus4/D" A4 | !tenuto!D4 !tenuto!A4 !tenuto!G2 !tenuto!A!tenuto!G !tenuto!F2 !tenuto!E2 |^"Dm" !tenuto!F4^"Em7/D" !tenuto!G6^"Asus4/D" !tenuto!A4 | !tenuto!D4^"C" c4 =B_B^"Asus4/D" A2{/A} G2- | G2^"Dm" F2- F2{/F} E4 D4 |$ %5
+ D4^"Asus4/D" A4 G2^"F" A2{/A} B4 |^"Bb" B2^"Asus4/D"{/c} d4^"Am" cd^"Cm7/Bb"{/d} _e4 dcBc |^"Bb" d2 d2 !tenuto!c3 !tenuto!c3^"Gm" B4 | (5:4:5dcBAB^"Am" c6 c4 |$ %9
+^"Cm" _e4 (3ded (3cBc^"Bb" d6 |^"Dm" f4^"Cm" _e4^"Bb" d4 c2 d2^"Gm" !>!B4 |^"Am" !>!c4 d2 c2 d2 c4 | d2 c2 B2 !tenuto!c3 !tenuto!B3 !tenuto!A4^"Em7/D"!>(! D4 G4!>)! |!p! (7:4:7z DFGAGF E2 F2 G2^"Asus4/D" A4 |$ %14
+ !>!A4^"Am" c6^"Asus4/D" A4 |^"Cm" _e4 d2 e2 d2 g4 |^"Dm" f2 g2 f4- f!>!f^"G" !>!d4 |^"Cm" _e4 e2 g2 f2 e2^"Bb" d4 |^"Am" c4^"Em7/D" B4 G4^"Asus4/D" A2 |^"Dsus4" G4^"Bb/D" d6-^"Gm/D" !fermata!d4 |$ %20
+!p! (7:4:7z DFGAGF E2 F2^"Em" G2^"Asus4/D" A4 | A6 G2 F2 G4 | (5:4:5G2 A2 G2 F2 G2^"Dm" A4^"Bb" d4 c2 | d2^"Am" c4 c2 _e2 d2 c2 B2 c2 |^"Bb" d4 d2 d2^"Dm" f4 |$ %25
+ _e2 d2 c2 B2 D2 D2 G4 A4 A2 | f4 _e2 d2 c2 B2^"Dsus4" G4 |^"Gm" d4- d6- d4 | (7:4:7z DFGAGF E2 F2^"Em" G2^"Asus4/D" A4 | z2^"Gm" BB A2 G2 |$ %30
+ z2 GA B2 d2 d_edc B2 c2 | [Bd]8 !tenuto!d2 !tenuto!d2^"Dm" !tenuto!f4 | _efed^"Cm" e4^"Bb" d4^"Gm" B8 |^"Em7/D"!>(! G12!>)! |!pp! (7:4:7z DFGAGF E2 F2^"Em" G2^"Asus4/D" A8 |] %35
+
+X:63
+T:Prière de gratitude
+T:Hymns, Prayers and Rituals n°22
+C:Gurdjieff & De Hartmann
+Z:30.VII.1924
+L:1/8
+M:6/8
+I:linebreak $
+K:Eb
+V:1 clef=
+V:1
+^"Cm"!p!"^Andante" !tenuto!G3^"Eb" !tenuto!G3 |^"Cm" !tenuto!G2 A^"Eb" G3 |^"Dm7" !tenuto!F3 !tenuto!F3 | !tenuto!F2 G F3 |^"Cm"!<(! !tenuto!E3 !tenuto!E3!<)! |^"Ab" !tenuto!E2 F E3 |^"Abdim"!p! !tenuto!D3 !tenuto!D3 |^"G"!>(! !tenuto!D2 E^"Cm" E3!>)! ||!mf! !tenuto!G3^"Eb" !tenuto!G3 |^"Cm" G2 F E3 | G3^"Eb" G3 |$ %11
+!<(! G2 A B3!<)! |^"Abmaj9"!f! B3^"Bb7" A3 |^"Eb"!>(! G2 F^"Ab" E3!>)! |^"Eb"!>(! G3^"Dm7" F2 E |^"G" DEF^"Cm" E3!>)! |!p! !tenuto!G3^"Eb" !tenuto!G3 |^"Cm" !tenuto!G2 F^"Eb" !tenuto!G3 ||^"Cm""_cresc." !tenuto!G3^"Eb" !tenuto!G3 | !tenuto!G2 F^"Eb" !tenuto!B3 |$ %20
+^"Abmaj9"!<(! !tenuto!B3^"Gm7" !tenuto!B3 |^"Eb" !tenuto!B2 c^"Abmaj7" BAG!<)! |^"Bb"!f! F3^"Eb" !tenuto!G3- | G6 |"_dim." G3^"Abmaj7" G2 F |^"Cm" E3!<(! EFG!<)!"_poco" |^"Eb"!>(! G3^"Dm7" F2!>)!!p! G |^"Cm" E6 ||$ %28
+!pp! !tenuto!g3^"Eb" !tenuto!g3 |^"Cm" !tenuto!g2 a^"Eb" g3 |^"Dm7" !tenuto!f3 !tenuto!f3 | !tenuto!f2 g f3 |^"Cm"!<(! !tenuto!e3 !tenuto!e3!<)! |^"Ab" !tenuto!e2 f e3 |^"Abdim"!p! !tenuto!d3 !tenuto!d3 |^"G"!>(! !tenuto!d2 e^"Cm" e3!>)! ||!mf! !tenuto!G3^"Eb" !tenuto!G3 |^"Cm" G2 F E3 | !tenuto!G3^"Eb" !tenuto!G3 |$ %39
+!<(! G2 A B3!<)! |^"Abmaj9"!f! B3^"Bb7" A3 |^"Eb"!>(! G2 F^"Ab" E3 |^"Eb" G3^"Dm7" F2 E |^"G" DEF^"Cm" E3!>)! |!p! !tenuto!G3^"Eb" !tenuto!G3 |^"Cm" !tenuto!G2 F^"Eb" !tenuto!G3 ||^"Cm""_cresc." !tenuto!G3^"Eb" !tenuto!G3 | !tenuto!G2 F !tenuto!B3 |$ %48
+^"Abmaj9"!<(! !tenuto!B3^"Gm7" !tenuto!B3 |^"Eb" !tenuto!B2 c^"Abmaj7" BAG!<)! |^"Bb"!f! F3^"Eb" !tenuto!G3- | G6 |^"Eb"!>(! G3^"Abmaj7" G2 F!>)! |^"Cm" E3!<(! EFG!<)!"_poco" |!>(! G3^"Dm" F2!>)!!p! G |^"Cm" E6 || !fermata!c6 |] %57
+
+X:64
+T:Hymne de Pâques
+T:Hymns, Prayers and Rituals n°26
+C:Gurdjieff & De Hartmann
+Z:16.IV.1927
+L:1/8
+Q:1/4=72
+M:2/4
+I:linebreak $
+K:Ab
+V:1 clef=
+V:1
+^"Ab"!mf!"^Andante solemne" c4 |^"Eb" B3^"Ab" c |^"Eb" B3^"Ab" c |^"Eb" B4 !tenuto!.G!tenuto!.A |^"Eb"!<(! !tenuto!B4 c2!<)! |^"Eb"!>(! !tenuto!G4^"Cm" c4!>)! |^"Ab"!p! c4^"Bbm" B3 c^"Db" A4 |^"Bbm"!<(! d4^"Cm" c3 d^"Eb" B6!<)! |$ %8
+!ff! !tenuto!B2 !tenuto!c2^"Bbm" !tenuto!!fermata!d3/2 z/^"Gb"!pp! _g4^"Db" f3 g |^"Db"!<(! f4 e2!<)! |^"Fm"!f! a4 g2 a2 f2 e2 d2!>(! c2 B2 A8!>)! |^"Db"!p!!>(! !fermata!B3 !tenuto!c^"Fm" A8!>)! |$ %12
+^"Ab"!f! c3 BcdedcBAG A2 B2 c4 | c3 BcdedcBAG A2 B2^"Ab" c4 |^"Cm"!pp! !fermata!c4 !fermata!c4!D.C.! |] %15
+
+X:65
+T:Chant du Vendredi Saint
+T:Hymns, Prayers and Rituals n°28
+C:Gurdjieff & De Hartmann
+Z:27.III.1926
+L:1/8
+Q:1/4=76
+M:7/4
+I:linebreak $
+K:Ab
+V:1 clef=
+V:1
+^"Bbm""^Andante religioso"!pp! d2 B4 cd c2 B2 G2 |^"Fm" A4!<(! F2!<)!^"Db" A4^"C"!>(! =E4!>)! |^"Fm" F3 F F8 |^"C"!<(! G4^"Fm" A4 |^"Ab" c4^"Bbm" B2 d2!<)! |^"C"!mf!{/B} =E2 !tenuto!G6 |^"Db"!f! !>!B4^"Fm"!p! c2 B2!<(!{/B} c2^"Eb" B4 |$ %7
+^"C" A4^"Db" !tenuto!F4!<)! |^"Bbm"!f! !>!D!>!=E^"Db" !>!G2^"Gm7"!>(! !tenuto!B4 G2!>)! |^"Fm"!p! A4!<(! (3:2:2G2 A^"Bbm" B2 (3:2:2A2 c A4!<)! |^"Gm7"!f!{/A} B2 A2 G2^"Db" !fermata!F4 |^"Gm7"!mf! G4!>(! G2^"Bbm7" (3:2:2B2 A G2^"C" =E2!>)! |^"Fm"!pp! !fermata!F8 |] %13
+
+X:66
+T:Hymns, Prayers and Rituals n°29
+C:Gurdjieff & De Hartmann
+Z:20.X.1926
+L:1/8
+Q:1/4=80
+M:3/4
+I:linebreak $
+K:F
+V:1 clef=
+V:1
+^"Dm" D2 ^C2 D2 | F2{/F} E2 D2 |^"A" !fermata!^C6 |^"A7" E2 D2 E2 |^"Em7" G2 F2 E2 |^"Dm" !fermata!F6 |$ %6
+^"Dm" D2 ^C2 D2 | F2{/F} E2 D2 E2 F2 G2 |^"F" A8 |^"Gm" B2 A2 G2 F2 E2!<(! F2 G4!<)! |^"Dm"!>(! F8!>)! |$ %11
+^"Bbmaj7" d4 A2 G2 F2 |^"F" A2 B2 A2 G2 F2 E2 D2 F3 E | F2 G2 A8 |^"Dm" F4 G2 F2 E2 F4 |^"Gm" B4 A2 G2 F2 E2 F2 G2 F4 |^"Bb" d4 c2 B2 A2 |$ %17
+^"Gm" B2 A2 G2 F2 E2 |^"Dm" F8 |^"A" EFG FG AB |^"F" A2 B2 c2 | A4 G4 |^"Dm" F8 |^"A7" G8 |^"Dm" !fermata!F8 ||$ %25
+|:^"Dm" .A.B.A.G .F2 .G.F | A3 G/F/ E4 |^"Em7" .G.A.G.F E2 F2 | G3 F/E/^"Dm" D4 |$ %29
+^"Dm" .F.G.F.E .D2 .E.D | F3 E/D/^"A" ^C4 |^"A" ^CDEF EFEF | A3 G/F/^"Dm" D4 :| !fermata!D8 |] %34
+
+X:67
+T:Tibi cantamus, N°2 / N°31
+C:Gurdjieff & De Hartmann
+Z:15.XII.1926
+L:1/8
+Q:1/4=48
+M:4/4
+I:linebreak $
+K:Ab
+V:1 clef=
+V:1
+^"Fm""^Lento Religioso"!pp! A8 |^"Gm" G6!<(! G2 |^"Fm" !tenuto!F4!<)!^"Em"!>(! =E4 |^"Fm" !fermata!F3!>)! !breath!z!<(! F2 G2 |^"Fm" A4!<)! |^"Bbm" B6 B2 |^"Ab" A6 G2 F2 |^"C"!>(! =E4^"Gm" G4!>)! |^"Fm" !fermata!F6 !breath!z2 |^"C"!<(! =E4 F2 G2^"Fm" A4!<)! |$ %10
+^"Bbm" B8 |^"Ab" A6 A2 |^"Gm" G6 A2^"Db" F4 |^"Gm7"!pp! B,8 |^"Fm" A,8 |^"Ab"!p! C4 B,2 C2 |^"Bbm" D8 |!<(! D4 C2 D2!<)! |^"Ab"!f!!<(! E8!<)! |^"Cm" E3 D^"Ab"!>(! C4^"Gm" B,4 |^"Fm" !fermata!F6!>)! z2 |$ %21
+!p! F4 =E2 F2 |^"Gm7" G4 G2 |^"Ab" A4 G2 |^"Db" F8 |^"Gm7" G4!<(! =E2 F2!<)! |!f!!>(! G4 !tenuto!A2 !tenuto!G2 |^"Fm" F6!>)! z2 |^"Gm7"!pp! G4 =E2 F2 |^"Eb" G4 G2 |^"Ab" A6 G2 |$ %31
+ F2 =E4 |!<(! F2 G4!<)! |^"Fm"!p! F6 !tenuto!A,4 |^"C7"!pp! B,6 |^"Fm" !fermata!A,4 z2 | C4 A,2 C2 | B,2 C2^"Bbm" D6 z2 |^"Ab"!<(! C4 D2 E2-!<)! | !fermata!E8 |$ %40
+^"Eb"!ff! !>!G4 !>!F2 !>!E2 !tenuto!D2 !tenuto!C2 |^"C7" B,8 |^"Db"!>(! A,8!>)! |^"Fm" F4 =E2 F2- |!<(! F6!<)! |^"Gm7"!f!!<(! G4 !tenuto!F2 |^"Ab" !tenuto!A4 !tenuto!G2 !tenuto!A2- A4 | !tenuto!F2!<)!^"Bbm"!ff!!>(! !>!B4 !tenuto!A2 !tenuto!G2 !tenuto!F2!>)! | !tenuto!=E2^"Gm7" !>!G4^"Db" !>!F6 |$ %49
+^"Fm"!p! F4 |^"Bbm"!pp! F4 E2 D2 C2 B,2 | A,2^"Edim" B,6^"Db" A,6 |^"Bbm"!pp! F4 E2 D2 C2 B,2 | A,2^"Edim" !fermata!B,6 |^"Fm" A,8- | !fermata![A,F]8 |] %56
+
+X:68
+T:Hymns, Prayers and Rituals n°32
+C:Gurdjieff & De Hartmann
+Z:1923
+L:1/8
+M:7/4
+I:linebreak $
+K:Eb
+V:1 clef=
+V:1
+"^Andante" z6 |: C2 D2 E2 F2 D2 E2 D2 | C2 D2 E2 F2 D2 E2 D2 | =B,2 C4 D2 E2 D4 | C2 E4 E2 F2 E4 | F4 D2 E2 F6 | E2 F4 G4 A4 | G2 A6 G4 F2 :|$ %8
+|:!p! D2 C2 D2 E2 D6 | C8 C2 D2 E2 | C6 C2 =B,2 E4 |!<(! F4 A6- A4!<)! | E2 F2 G2 A2 E2 D2 C2- | C4 E4 F6 |!ff!!>(! E2 D2 C6- C4!>)! :|$ %15
+ C2 D2 E2 D2 E4 !>!F2 G4 | A2 B4 !tenuto!B2 !tenuto!c2 !tenuto!B2 !tenuto!G2 A4 | G2 A2 G2 F2 E4 D2 =B,4 | C2 [CD]2- [CD]2 D2 E2 F2 E2 C4 | C2 =B,2 C2 D2 E4 F2 D4 |$ %20
+ C2 E4 C2 D2 E2 D2 =B,4 | C8 C4 C4 DF | G4 G2 G2 F2 F2 A2 |!<(! G4 !>!E2 !>!F2 !>!G2 !>!A2 !>!B2!<)! |!ff! c8 c2 _d2 c2 | B2 c2 B2 A2 G2 A2 B2 | !tenuto!A2 G2 F2!<(! !tenuto!E6 !>!C2!<)! |$ %27
+ E2 D2 C=B, C4 D2 E/G/F | C2 D2 E2 F4 E2 D/E/D | !fermata!C8 | !fermata!C8 |] %31
+
+X:69
+T:Alleluia - N°33
+C:Gurdjieff & De Hartmann
+Z:14.XII.1926
+L:1/8
+Q:1/4=52
+M:3/2
+I:linebreak $
+K:C
+V:1 clef=
+V:1
+^"C""^Larghetto"!mp! C2 D2 | E3 (3D/E/D/ C4^"G" D2 E2 |^"Dm" F3 (3E/F/E/^"Bm" D4^"C" E2 F2 | G4^"Dm" F2 G2 |^"F" !fermata!A4^"Em" G2 F2 |$ %5
+w: Al- le-|lu- * * * ia, Al- le-|lu- * * * ia * *|||
+^"C" E4^"Em" G4^"Dm" F2 (3EFE |^"G" D2 C2 D2 E2 F2 G2 |^"C" !fermata!c6 z2 C2 D2 | E3 (3D/E/D/^"C" C4^"G" D2 E2 |^"Dm" F3 (3E/F/E/^"Bm" D4^"C" E2 F2 | G4^"Dm" F2 G2 |^"F" A4^"Em" G2 F2 |$ %12
+w: |||||||
+^"C" E4^"Em" G4^"Dm" F2 (3EFE |^"G" D2 C2 D2 E2 F2 G2 |^"C" !fermata!c6 z2!mf! C2 D2 | !fermata!E3 (3D/E/D/ C4^"G" D2 E2 |^"Dm" F3 (3E/F/E/^"Bm" D4^"C" E2 F2 |$ %17
+w: |||||
+ G4 F2 G2 |^"F" !fermata!A4^"Am7" G2 F2 |^"C" E4!>(! !tenuto!G4^"Dm" F2 (3EFE!>)! |^"G"!p!!<(! D2 C2 !tenuto!D2 !tenuto!E2 !>!F2 !>!G2!<)! |^"C"!ff! !>!!fermata!c12 |] %22
+w: |||||
+
+X:70
+T:Hymns, Prayers and Rituals n°35
+C:Gurdjieff & De Hartmann
+Z:1.IV.1927
+L:1/8
+Q:1/4=52
+M:2/4
+I:linebreak $
+K:Eb
+V:1 clef=
+V:1
+ !tenuto!c2 !tenuto!d2 |^"Cm" e3 d fedc | =A=Bc^"G" d4 !tenuto!B!tenuto!c |^"G" !fermata!d2 cd edc=B |^"Cm" c2^"G" !fermata!d4 !tenuto!c2 |$ %5
+^"Fm" _A4 !tenuto!c2 |^"Cm" G8 c2 d2 |^"Cm"{/c} e8 |^"Dm" d2 f2 e2 d2^"Cm" c2 |^"G" d8 |^"Cm" c8 :| %11
+
+X:71
+T:Méditation
+T:Hymns, Prayers and Rituals - N°37
+C:Gurjieff & De Hartmann
+C:Gurdjieff & De Hartmann
+Z:7.I.1927
+Z:10.X.1926
+L:1/8
+Q:1/2=42
+M:3/2
+I:linebreak $
+K:F
+V:1 clef=
+V:1
+|:"^Larghetto alla breve" (5:4:5AB^cde^"Dm" [Adf]8 | (7:4:7d^cdefg^g^"F" [=cfa]6 [fa]2 |^"Bb" [bd']8^"Em7" [eg]6 [eg]2 |^"Gm" [gb]8^"Dm" [fa]8 |$ %4
+ (3a2 b2 a2 (3g2 f2 g2^"F" [fa]8 |^"Gm9" (3[fa]2 b2 a2 gfed/e/^"Dm" [df]4^"A7" [^ce]4 |$ %6
+^"Bb" d8 e2 f2 ||1^"Em7" [eg]4 [df]4^"A" [^ce]8 :||2^"Em7" [eg]8^"Dm" [df]8 ||^"A" [^ce]8 f8 |^"Dm" !fermata!d16 |] %11
+
+X:72
+T:Tibi cantamus, N°1 / N°39
+C:Gurdjieff & De Hartmann
+Z:24.X.1926
+L:1/8
+Q:1/2=56
+M:2/2
+I:linebreak $
+K:C
+V:1 clef=
+V:1
+ C2 D2 | [CE]4 D2 E2 | [DF]4 [CE]2 [DF]2 | [GB]4 [FA]4- | [FA]4 [EG]3 [FA] | [EG]4 [DF]3 [EG] | [DF]4 [DF]4 | [CE]6 z2 C2 D2 | E4 c2 B2 |{AB} [FA]4 [EG]3 [FA] |$ %10
+ [EG]4 [CEc]4 [CEc]2 [DFd]2 | [Ece]4 [Geg]4 | C2 D2 [CE]4 | D3 F E4 | C8 | [G,G]2 [A,A]2 [B,B]2 [Cc]2 [Dd]2 | [B,B]8 | [B,B]2 [Cc]2 [B,B]2 [Cc]2 [Ee]2 | [A,A]4 A2 |$ %19
+ G2 A2 G2 F2 | E8 E2 F2 | G6 !breath!!tenuto!F2 | G6 !breath!!tenuto!!fermata!F2 | E8 | !fermata![Cc]8 |] %25
+
+X:73
+T:Prière - N°40
+C:Gurdjieff & De Hartmann
+Z:Entre 1919 et 1923
+L:1/8
+Q:1/2=45
+M:3/2
+I:linebreak $
+K:F
+V:1 clef=
+V:1
+|:^"Dm" !fermata!F!tenuto!F (5:4:5!tenuto!F/!tenuto!F/!tenuto!F/!tenuto!F/!tenuto!F/ (6:4:6F/F/F/F/F/F/ !///!F2 !///!!fermata!F4 |^"Gm7" !>!F7/2 E/ !>!F7/2 E/ !>!F7/2 E/ |^"Gm7" F4 !///-!E2 F2 TD3 D/^C/ |^"Dm" D15/2 D/- |^"Dm" D7/2 E4 F/- |$ %5
+^"Dm7" F7/2 G4 F/- |^"Dm" F4^"Em7" E3 F/E/ |^"Dm" D4^"C#dim7" ^C6 E2 |^"Dm" D8 |^"Dm" A3 (3B/A/G/ A3 (3B/A/G/ A4 |^"F" A3 (3B/A/G/ A3 (3B/A/G/ A4 |$ %11
+^"Dm" A4 d4 c2- (5:4:5cABcB |^"Dm" A8 |^"Gm" G7/2 F/^"Em7" G2- (3:2:5GA/G/F/E/ |^"Dm" F4^"Em7" E2 (5:4:5F/G/F/E/D/ |^"C#dim7" ^C/D/ E3- (5:4:5EFEDC |^"Dm" D8 :|$ %17
+[Q:1/2=80] D2 A2 [Dd]2 [Ff]2 | [Aa]2 D2 F2 A2 | [Dd]2 [Aa]2 !fermata![dd']4 |] %20
+
+X:74
+T:Hymne du jeudi de Pâques - N°41
+C:Gurdjieff & De Hartmann
+Z:13.V.1926
+L:1/8
+Q:1/4=66
+M:4/4
+I:linebreak $
+K:G
+V:1 clef=
+V:1
+!p!"^Andante religioso" !tenuto!E2 | ^A4 B4 | FG A2 G2 A2 | B4 B4 | e4 d2{=cd} c2 | B2 FG A2 d2 =c2 | B4{/B} A4 | G4 F4 | E6!>(! =C2 | !tenuto!E4!>)! !tenuto!C3 !tenuto!C |$ %10
+{/C} B,4 (6:4:6B,!<(!^DEFGA!<)! |!>(! !tenuto!B4 A4!>)! | =c4- cFGA |!mf!!>(! !tenuto!=c4 B4!>)! |{/B} A3 F GA | B7/2 A/!>(! B4 | G7!>)! z |!p!{/A} !tenuto!B!tenuto!A!tenuto!G!tenuto!A !tenuto!B4 |$ %18
+!<(!{/B} AGFE!<)! !tenuto!^D2!>(! !>!=C3 !tenuto!C!>)! | B,4!<(! ^A,/4B,/4=C/4^D/4E/4F/4G/4=A/4!<)! !>!B2 !tenuto!e2 |!f! !>!G3 G FEDE | F2 G2 F2 E>E!>(! (3:2:2=C4 E2!>)! |$ %22
+ B,4 FGAB- | B4 G4{/!tenuto!G} F2 | E6 !tenuto!E2 | A4 ^AB =c2 FG | A4 G2 A2 |!<(! B6 B2!<)! |!f! e4{/e} d4{/d} =c2 |$ %29
+ B4!p! FG A2 | =c3 c{/c} B4 | A !tenuto!B3 G !tenuto!A3 |!>(! G4{/G} F2!>)! |!pp! E4 B,=C^DE | !tenuto!F4 EFGA |!<(! B4 B2 | e4{/e} d4 |$ %37
+ =c4 B4!<)! |!f! AB c2 B4 | B4{/B} !tenuto!A2 |!>(! !tenuto!G4 !tenuto!G2!>)! |!p! !tenuto!B2 A2 G2 F2 | A2 G6 | E2 G2 F2 E2 | ^D2{/E} F2 E4 |{/E} !tenuto!=D4!p! !tenuto!D2 |{/D} =C6 |$ %47
+!p! B,=C^DE F4 | EGFE!>(! ^D!tenuto!.E!tenuto!.F!tenuto!.G!>)! | !tenuto!B4 | !tenuto!e4 !tenuto!^d2 !tenuto!e2 | =d4 =c4 | B8 |[K:treble] FGA!tenuto!B- B4 |!pp! !tenuto![Ee]8 |] %55
+
+X:75
+T:Hymns, Prayers and Rituals n°44
+C:Gurdjieff & De Hartmann
+Z:7.XII.1925
+L:1/8
+Q:1/4=50
+M:3/4
+I:linebreak $
+K:Ab
+V:1 clef=
+V:1
+^"Csus4" C4 D2 |^"Bbsus4" E4 D2 |^"Csus4"{/D} C6- | C4 C2 |^"Dbmaj7" !^!F4 F2 |^"Csus4" !^!G4 G2 !^!A2^"Ab" c6- | c2 BAGF=ED^"Db" D7/2 C/^"Gsus4" C6- |$ %7
+ C4^"Csus4" C2 !^!F4 F2 !^!G4 |^"Db" f2 c2 A2 GA^"Fm" F6- |^"Csus4" F4 (3CD=E F>G^"Eb7sus4" A4 F/G/A/B/ |^"Fm7" c2 d=e^"Fm" f8 |^"Dbmaj7" f2 !~(!d2 !~)!A2 B2 |^"Dbmaj7" c8 |$ %13
+ c2 !^!e>e d2 c2 |^"Eb" B2^"Db" A2^"Cm" G2^"Db" F4 | DD C2 !^!CC C2^"Csus4" F4 | F2 c7/2 d/ cBAB^"Dbmaj7" c3 c^"Fm" c4 |^"Eb" e4^"Db"{/e} d4 |$ %18
+^"Cm"{/d} c4^"Bbm"{/c} B4 |^"Fm"{/B} A4^"Cm7"{/A} G4 |^"Fm7"{/G} F4^"Cm7" B,G, |^"Absus4" G,2 C2 F2 c2 |^"Db" f4 FG AG/A/ |^"Bbm" F2- F=E DC^"Fm" B,2 |$ %24
+^"Gsus4" C4^"Csus4" GA BA/B/ G2- |^"Csus4" GGAB^"Fm" c2^"Ab" c4 cd |^"Dbmaj9" e4 GA^"Gm7" B2 cB^"Db" A4 G2 G2 |^"Csus4" F2 c4- c8- | !fermata!c16 |] %29
+
+X:76
+T:Hymne essénien - N°45
+C:Gurdjieff & De Hartmann
+Z:23.XII.1925
+L:1/8
+Q:1/4=60
+M:4/4
+I:linebreak $
+K:F
+V:1 clef=
+V:1
+^"Dm" AA/A/ AG A2 F2 |^"Gm" DEF^"C" G2^"Gm" BAG |^"F" A2 Ad cd/c/^"Gm" B2 | A^"C" G2^"Dm" A3 |^"Em7" G2^"F" A2 cd/c/^"Gm" B2 |$ %5
+^"F" A2^"C" G2^"Dm" F2 D2^"F" A2 |^"C" GA B2 AB/A/ G2 |^"C" GA c2 BA B2 |^"F" A4 AB c2 BA |^"C" G2 G2 AB/A/^"C" G4 |$ %10
+ FG A2 GF G2 |^"Dm" F4^"A" E4 |^"Dm" !fermata!F6 z2 | F4 A4 | AG A2 AB c2 | BA^"C" G2 GA |^"Gm" B2 Bc/B/^"F" A2 |$ %17
+^"C" G2^"F" A2 AB c2 | Bc d2 d_e/d/ c2 Bc |^"Bb" d2 cB^"F" A2^"Em" G2^"Dm" !fermata!A4 |] %20
+
+X:77
+T:Prière de femmes - N°46
+C:Gurdjieff & De Hartmann
+Z:env. III.1924
+L:1/8
+M:6/4
+I:linebreak $
+K:Ab
+V:1 clef=
+V:1
+"^Lento" z2!p! !tenuto!F2 !tenuto!G2 !tenuto!A2 !tenuto!B2 !breath!!tenuto!c2 |^"Fsus4"!f! !fermata!f8 |^"Fm"!p! a6 g2 |^"C7" g6 f2 |^"Fm"!f! !fermata!f8 | !tenuto!G2 !tenuto!A2 !tenuto!B2 !tenuto!c2 |^"Ab"!f! e8 |^"Bbm"!>(! d6 c2 |^"Ab"{/d} c6 B2!>)! |^"Eb" B6 !>!B2 |^"Bbm"!f! d8 |^"Ab"!>(!{/c} !tenuto!c4^"Eb"{/B} !tenuto!B4!>)! |$ %12
+^"Fm"!<(!{/A} !tenuto!A6 !tenuto!A2!<)! |^"Ab" !tenuto!c8 |^"Eb"!>(! B4^"Fm" A4 |^"C" c6!>)!!<(! !tenuto!G2 |^"Fm" !tenuto!A2^"Eb" !tenuto!B2!<)! |^"Ab"!f! !tenuto!c6!<(! c2 |^"Bbm" d3!<)! !>!d^"Bbm"!ff! !>![Bb]8 |^"Fm"!p! [Aa]4^"C7" [Gg]4^"Fm" [Ff]4 |^"C" [=E=e]8 |^"Fm" F8 |] %22
+
+X:78
+T:Psalmodie d'un livre saint - N°47
+C:Gurdjieff & De Hartmann
+Z:env. III.1924
+%%score ( 1 2 )
+L:1/8
+Q:3/8=65
+M:6/8
+I:linebreak $
+K:Eb
+V:1 clef=
+V:2 clef=
+V:1
+ z6 | cde fed | edc (2:3:2=Bd | !breath!!fermata!c3 ede | dcd c=Bc | (2:3:2d=B !breath!!fermata!c3 | fed edc | dc=B cBA | (2:3:2=Bc !breath!!fermata!d3 |$ %9
+ (2:3:2de f3 | edc (2:3:2=Bd | !breath!!fermata!c6 | cde fed | c !breath!e2 cde | fed edc | dc=B A B2 | A=Bc (2:3:2dB | !breath!c6 |$ %18
+ cde fed | c !breath!!fermata!e2 =Bcd | edc =B d2- | !breath!!fermata!d3 fed | c=Bc d c2- | !breath!!fermata!c3 dc=B | Ac=B A G2- | G3- !breath!Gcd |$ %26
+ !fermata!e3 fed | c=Bc d c2- | !breath!c3 | Gcd [ce]3 | fed (2:3:2c=B | !breath!!fermata!c6 | dc=B A !fermata!B2 | c=BA G !breath!!fermata!A2 |$ %34
+ GA=B c!fermata!d!fermata!e | [df]2 !fermata!g4 | g8- | !breath!!fermata!g4 a4 | f4 g8 | c2 =B2 c2 d8 | !arpeggio![G=Bd]3 [ce] d2 cB/c/ d2 [ce]8 | c8- |$ %42
+ c2 z2 =B4 | A7/2 =B/4A/4 G4- | G8 | z2 d2 f4 |{/f} e2 d2 !fermata!e8 | d2 e2 f2 g2 e2 | a4 g8 |{/g} c'8 a8 |$ %50
+ c'2 a4 g4{/a} f4 | c'8 a2 c'2{/a} g4 | a2 f8 | cdefga g4 | gfe de fg | f8- |$ %56
+ f{/f}e{/e}d c=B c{/B}d | c8 | c2 =B2 A2 G2 B2 | A8 | =B2 A2 G2 F4 | a2 g2 f2 e2 d2 f2 | e8 c2 |$ %63
+ e2 d8 | e2 d2 c4 | d2 c2 =B4 | c2 d2 c4 | cde fed cd=B | !fermata!c8 |] %69
+V:2
+ x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 |$ %9
+ x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 |$ %18
+ x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 |$ %26
+ x6 | x6 | x3 | G3- G3 | x6 | x6 | x6 | x6 |$ %34
+ x6 | x6 | e7/2 d/ e4 | c4- c4 | c4- c8 | C6 D8 | x18 | x8 |$ %42
+ C4 x4 | x8 | c4 d4 | x8 | x12 | x10 | x12 | x16 |$ %50
+ x14 | x16 | x10 | x10 | x7 | x8 |$ %56
+ x7 | x8 | x10 | x8 | x10 | x12 | x10 |$ %63
+ x10 | x8 | x8 | x8 | x9 | x8 |] %69
+
+X:79
+T:La Prière d'Essentouki - N°21
+C:Gurdjieff & De Hartmann
+Z:1918
+L:1/8
+M:4/4
+I:linebreak $
+K:F
+V:1 clef=
+V:1
+^"F""^Lento" A4^"Esus4" A4 |^"Em" G6 G2 |^"Gm" B4^"F" A3 ^G |^"F" A3 =G^"Dm" F4 | F3 G/F/^"A" E4 |^"Dm" F3 G/F/^"A" E4 |^"Dm" D8!fine! |$ %7
+|:^"A" E2^"Dm" F2^"Em" G2^"Dm" A3 G^"Dm" F4 | F2 G2 A2^"Gm" B3 A^"Em" G4 |^"Dm" F4 GFEF |^"F" A6 G2 |^"Dm" F4^"A" E4 |^"Dm" D8 |$ %13
+^"Bb" d3 c^"Gm" B3 c |^"Bb" d3 c^"Gm" B4 |^"Bb" d3 c^"Gm" B3 c |^"Bb" d3 c^"Gm" B4 |$ %17
+^"F" A3 G^"Dm" F3 G |^"F" A3 G^"Dm" F4 |^"F" A3 G^"Dm" F3 G |^"F" A3 G^"Dm" F4 | F3 G/F/^"A" E4 |^"Dm" F3 G/F/^"A" E4 |^"Dm" D8!D.C.! :| %24
