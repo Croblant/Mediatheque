@@ -7312,3 +7312,51 @@ w: ||||||
 |4 a/ z/ f a/ z/ f a/ z/ f a/ z/ e || g/ z/ e g/ z/ e g/ z/ e g/ z/ e | g/ z/ e g/ z/ e g/ z/ e fd- | d6 Bc | A4- AB z2 |] %33
 w: * Hey, _ hey, _ hey, _ oh,|_ oh, _ oh, _ oh, _ oh,|_ oh, _ oh, _ hey, _ oh,|_ ya, ya.|_ _ _|
 w: |||||
+
+X:258
+T:Ça va, ça va
+T:Album Claudio Capeo (2016)
+C:Claudio Capeo
+L:1/8
+Q:1/4=100
+M:4/4
+I:linebreak $
+K:F
+V:1 clef=
+V:1
+^"Dm" z4 z2 DG/A/ |^"Gm" B2 A/AG/^"A7" G2 F/GA/ |^"Dm" A2 A4 D/FA/ |:^"Gm" G2 G/GF/^"A7" E2 D/EF/ |^"Dm" F2 F4 D/FA/ |$ %5
+w: 1.A toi la|fille qui me rend si dur et si|ten- dre Qui sait m'par-|ler Quand j'suis bar- ré Qu'j'veux rien en|ten- dre Quand j'ai l'coeur|
+w: |||jours J'men fai- sais pour mes len- de-|main _ Toi dont je|
+^"Gm" B2 A/AG/^"A7" G2 G/cB/ |^"Dm" A2 A/AG/^"Bb" F2 F/BA/ |^"C" G2 G/GF/^"A7" E G3/2FE/ |^"Dm" F D4 z FG |$ %9
+w: sourd Quand j'ai l'coeur lourd Des pluies de|peines La lame trem- pée dans de l'a-|cier Quand j'suis pau- mé que tout- m'en-|chaî- ne J'ai par-|
+w: sais que même bles- sé t'es tou- jours|là pour me por- ter pour a- bré-|ger ma peine jus- qu'à c'que j'sois lé-|ger _ J'ai par-|
+^"F" A4 B3 c |^"C" c G4 c c2 | B^"Dm" A4 AGF |^"C" A>G- G4 FG |^"F" A4 B3 d |^"C" c G4 c c>A |^"Bb" B4^"A7" z A2 G/F/ | E^"Dm" D4 A Ad |$ %17
+w: fois l'â- me|pri- se Dans des|fi- lets qui me tour-|men- tent * J'ai par-|fois l'â- me|gri- se Et si ce|soir tu me de-|man- des Com- ment ça|
+w: fois l'âme en|cri- se Ma joie|de vivre qu'on me la|ren- de * Mon bon-|heur me mé-|pri- se * * *|||
+^"Bb" dc/c/ B^"C"B AA G/c/B/A/- |^"F" A2 A3 FGA |^"Gm" BA/A/ G^"A7"G FF A/AG/ |^"Dm" F2 D3 A Ad&x4^"C"x4 |$ %21
+w: va, ça va, ça va, ça va sur ma pla- nè-|* te J'te ré- pon-|drai ça va, ça va, ça va comme- ci comme-|ça * Les bières, les|
+w: ||||
+^"Bb" dc/c/ B^"C"B AA G/c/B/A/- |^"F" A2 A3 F GA&x4^"Am/E"x4 |^"Gm" BA/A/ G^"A7"G F/FE/ FE |$ %24
+w: vins que j'bois en vain n'ont pas l'goût de la fê-|* te Mais tant qu'on|a le coeur qui bat, qui bat ça va, ça|
+w: |||
+|1^"Dm" D6 DG/A/ ||^"Gm" B2 A/AG/^"A7" G2 G/F/G/A/ |^"Dm" A6 D/FA/ :|$ %27
+w: va. A toi l'a-|mi Le seul homme qui m'a te- nu la|main Quand tous les|
+w: |||
+|2 D4- DDFA ||^"Gm" G2 G/G/G/F/^"A7" E2 E/D/E/F/ |^"Bb" B A4 z D/D/F/A/ |^"Gm" G2 G/G/G/F/^"A7" E2 E/G/F/E/ |^"Dm" F D4 DFA |$ %32
+w: va. * A ceux que|j'ai par- fois né- gli- gés Peut- être un peu|li- bre Pour pas dé- ran-|ger Moi le nau- fra- gé sur mon ba- teau|î- vre J'ai pas d'bou-|
+w: |||||
+^"Gm" BAAG^"A7" G2 G/cB/ |^"Dm" A>A AG^"Bb" F2 F/BA/ |^"C" G2 G/GF/^"A7" E G3/2FE/ |^"Dm" F D4 AAd |$ %36
+w: ée pas d'feu dé- tresse Je suis pas|doué pour les ca- resses Mais si ja-|mais vous m'de- man- dez quand tout me|ble- sse com- ment ça|
+w: ||||
+^"Bb" dc/c/ B^"C"B AA G/c/B/A/- |^"F" A2 A3 FGA |^"Gm" BA/A/ G^"A7"G FF A/AG/ |^"Dm" F2 D3 A Ad&x4^"C"x4 |$ %40
+w: va, ça va, ça va, Ca va sur ma pla- nè-|* te J'te ré- pon-|drai ça va, ça va, ça va Comme- ci comme-|ça _ Les bières, les|
+w: ||||
+^"Bb" dc/c/ B^"C"B AA G/c/B/A/- |^"F" A2 A3 F GA&x4^"Am/E"x4 |^"Gm" BA/A/ d^"A7"d d/d^c/ cd |^"Dm" d4- dddf |^"Bb" fd/f/ d^"C"f df d/f/g/f/- |$ %45
+w: vins que j'bois en vain n'ont pas l'goût de la fê-|* te Mais tant qu'on|a le coeur qui bat, qui bat ça va, ça|va * Com- ment ça|va, ça va, ça va, ça va sur ma pla- nè-|
+w: |||||
+^"F" f2 c3 FGA |^"Gm" BA/A/ G^"A7"G FF A/AG/ |^"Dm" F2 D3 AAd&x4^"C"x4 |^"Bb" dc/c/ B^"C"B AA G/c/B/A/- |^"F" A2 A3 e ee&x4^"Am/E"x4 |$ %50
+w: * te J'te ré- pon-|drai ça va, ça va, ça va comme- ci comme-|ça _ Les bières, les|vins que j'bois en vain N'ont pas l'goût de la fê-|* te Mais tant qu'on|
+w: |||||
+^"Gm" fd/f/ d^"A7"f d/fd/ fd |^"Dm" f>e d2 z4 |] %52
+w: a le coeur qui bat, qui bat, ça va, ça|va * *|
+w: ||
