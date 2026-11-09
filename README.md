@@ -8,3 +8,6 @@ URL : https://raw.githubusercontent.com/Croblant/Mediatheque/main/La_Bible_du_Pi
 
 Musique de Gurdjieff & De Hartmann  
 URL : https://raw.githubusercontent.com/Croblant/Mediatheque/main/Gurdjieff_&_De_Hartmann.abct
+
+Musique liturgique catholique    
+URL : https://raw.githubusercontent.com/Croblant/Mediatheque/main/Philoechos.abct
