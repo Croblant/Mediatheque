@@ -365,44 +365,43 @@ X:13
 T:Barbie Girl
 T:Album Aquarium (1997)
 C:Aqua
-Z:G=E
 L:1/8
 M:4/4
 I:linebreak $
-K:G
+K:E
 V:1 clef=
 V:1
-^"Em" E4^"C" E4 |^"D" F4^"G" G4 |^"Em" E4^"C" E4 |^"D4" G4^"D" F4 |$ %4
+^"C#m" C4^"A" C4 |^"B" D4^"E" E4 |^"C#m" C4^"A" C4 |^"B4" E4^"B" D4 |$ %4
 w: Spoken: Hi|Barbie! Hi.Ken!|You.wanna go.for.ride?|Sure.Ken! Jump.in!|
 w: ||||
 w: ||||
 w: ||||
-|:S^"Em" BGBe^"Am" c4 |^"D" AFAd^"G" B2 AG |^"Em" z2 GE^"Am" A2 E2 |^"D" z2 AG^"G" B2 A2 |^"Em" BGBe^"Am" c3 c |$ %9
-w: I'm a Bar- bie girl|in a Bar- bie world. _ _|life in plas- tic.|It's fan- tas- tic.|you can brush my hair, un-|
-w: |||||
-w: |||||
-w: |||||
-^"D" AFAd^"G" B2 AG |^"Em" z EGE^"Am" A2 E2 |^"Dsus4" AAAG^"D" B2 AG ||1^"CN.C." GGED GGDD :|$ %13
-w: dress me eve- ry- where. _ _|I- ma- gi- na- tion,|life is your cre- a- tion _|Come on Bar- bie Let's go par- ty|
+|:S^"C#m" GEGc^"F#m" A4 |^"B" FDFB^"E" G2 FE |^"C#m" z2 EC^"F#m" F2 C2 |^"B" z2 FE^"E" G2 F2 |$ %8
+w: I'm a Bar- bie girl|in a Bar- bie world. _ _|life in plas- tic.|It's fan- tas- tic.|
 w: ||||
 w: ||||
 w: ||||
-|:3^"C" GGED^"D" GGDD ||^"Bm" d2 B2^"Em" G2 ED |^"C" GGED^"D" GGDD |^"Bm" z ede^"Em" z ede!fine! :|$ %17
-w: Come on Bar- bie Let's go par- ty|Ah ah ah yeah _|Come on Bar- bie Let's go par- ty|Ooh _ _ ooh _ _|
+^"C#m" GEGc^"F#m" A3 A |^"B" FDFB^"E" G2 FE |^"C#m" z CEC^"F#m" F2 C2 |^"Bsus4" FFFE^"B" G2 FE |$ %12
+w: you can brush my hair, un-|dress me eve- ry- where. _ _|I- ma- gi- na- tion,|life is your cre- a- tion _|
 w: ||||
 w: ||||
 w: ||||
-|:2 z4 GA^"Em" B2 ||"^3. Suite" GA^"Am" B2 GA^"Em" B2 |$ %19
-w: 2.I'm a blond|bim- bo girl in a fan-|
-w: You're my doll|rock'- n'- roll feel the gla-|
-w: |3.Make me talk do what- ev-|
-w: Come jump in|bim- bo friend let us do|
- cB^"D" A2 FG^"D" A2 | FG^"D" A2 AB^"D" A2 G FG :|$ %21
+|1^"CN.C." EECB, EEB,B, ::|3^"A" EECB,^"B" EEB,B, ||^"G#m" B2 G2^"C#m" E2 CB, |$ %15
+w: Come on Bar- bie Let's go par- ty|Come on Bar- bie Let's go par- ty|Ah ah ah yeah _|
+w: |||
+w: |||
+w: |||
+^"A" EECB,^"B" EEB,B, |^"G#m" z cBc^"C#m" z cBc!fine! ::|2 z4 EF^"C#m" G2 ||"^3. Suite" EF^"F#m" G2 EF^"C#m" G2 |$ %19
+w: Come on Bar- bie Let's go par- ty|Ooh _ _ ooh _ _|2.I'm a blond|bim- bo girl in a fan-|
+w: ||You're my doll|rock'- n'- roll feel the gla-|
+w: |||3.Make me talk do what- ev-|
+w: ||Come jump in|bim- bo friend let us do|
+ AG^"B" F2 DE^"B" F2 | DE^"B" F2 FG^"B" F2 E DE :|$ %21
 w: ta- sy world dress me up|make it tight I'm your dol- ly * *|
 w: mour in pink kiss me here,|touch me there, han- ky pan- ky... * *|
 w: er you please. I can act|like a star I can beg on my knees|
 w: it a- gain hit the town|fool a- round let's go par- ty * *|
- z Bc^"Em" d3 z2 |^"Am" z eB^"D" d2 e2 z |^"G" z Bc^"Em" d2 d z d |^"Am" e2 d^"Em" d>c A3!D.S.! |] %25
+ z GA^"C#m" B3 z2 |^"F#m" z cG^"B" B2 c2 z |^"E" z GA^"C#m" B2 B z B |^"F#m" c2 B^"C#m" B>A F3!D.S.! |] %25
 w: You can touch,|you can play _|if you say _ I'm|al- ways yours _ _|
 w: ||||
 w: ||||
