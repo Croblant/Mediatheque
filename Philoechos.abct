@@ -275,9 +275,7 @@ w: ||||||
 
 X:6
 T:Alléluia - Psaume 117
-C:E. Faugeron
-C:Chants de l'Emmanuel
-(Elisabeth Baranger)
+C:Chants de l'Emmanuel (Elisabeth Baranger)
 %%score [ ( 1 2 ) ( 3 4 ) ]
 L:1/8
 M:4/4
@@ -729,8 +727,7 @@ X:20
 T:Bénis le Seigneur, ô mon âme
 T:Psaume 103
 C:E. Faugeron
-C:Chants de l'Emmanuel
-(E. Faugeron)
+C:Chants de l'Emmanuel (E. Faugeron)
 %%score [ ( 1 2 ) ( 3 4 ) ]
 L:1/8
 Q:1/4=92
@@ -1006,8 +1003,7 @@ X:26
 T:Comme un souffle fragile
 T:U45 - Acclamation, Mariage
 C:Chants de l'Emmanuel - L. Cordin
-C:Pierre Jacob
-Gaëtan de Courrèges
+C:Pierre Jacob Gaëtan de Courrèges
 %%score { ( 1 2 ) | ( 3 4 ) }
 L:1/8
 Q:1/4=88
@@ -1372,9 +1368,7 @@ V:4
 X:33
 T:Céleste Jérusalem
 T:D'après l'apocalypse
-C:Communauté du verbe de vie
-C:Communauté du verbe de vie
-(Sandrine-Emmanuelle Vongue)
+C:Communauté du verbe de vie (Sandrine-Emmanuelle Vongue)
 %%score [ 1 2 ( 3 4 ) ]
 L:1/8
 M:4/4
@@ -1736,9 +1730,7 @@ V:4
 X:41
 T:Dieu nous accueille en sa maison
 T:(A 174)
-C:Chants de l'Emmanuel - L. Cordin
-C:J-P Lécot
-Palestrina
+C:J-P Lécot Palestrina
 %%score { ( 1 2 ) | ( 3 4 ) }
 L:1/8
 M:6/8
@@ -2174,9 +2166,7 @@ V:4
 
 X:50
 T:Esprit de lumière, esprit créateur
-C:Communauté de l'Emmanuel
-C:Communauté de l'Emmanuel
-(L. Pavageau)
+C:Communauté de l'Emmanuel (L. Pavageau)
 %%score { ( 1 2 ) | ( 3 4 ) }
 L:1/8
 Q:1/4=90
@@ -2318,9 +2308,7 @@ V:2
 
 X:53
 T:Garde moi mon seigneur
-C:Chants de l'Emmanuel
-C:Chants de l'Emmanuel
-(J-F. Léost)
+C:Chants de l'Emmanuel (J-F. Léost)
 Z:D'après Ps16
 %%score [ 1 2 ( 3 4 ) ]
 L:1/8
@@ -2458,42 +2446,7 @@ w: |||
 
 X:57
 T:Heureux ceux qui cherchent Dieu
-C:Anne Bureau
-C:T: Père José Antonini
-M: Anne Bureau
-L:1/8
-Q:1/4=112
-M:4/4
-I:linebreak $
-K:Eb
-V:1 clef=
-V:1
-[P:Refrain]^"Cm" z2 CC GGFE |^"Fm" F8 |^"Fm" z FFG AcBA |^"Cm" G8 |$ %4
-w: Heu- reux ceux qui cher- chent|Dieu,|qui met- tent leur es- poir en|Lui.|
-^"Cm" z2 CC GGFE |^"Fm" F4- FGAF |^"Cm" EFGE^"G7" D F2 E/D/ |^"Cm" C8 ||$ %8
-w: Heu- reux ceux qui cher- chent|Dieu, * pour lui don-|ner la meil- leure pla- ce dans leur|vie~!|
-|1[P:Couplets]^"Cm" z2 cc cccB- |^"Bb" B2 FF FGAG- |^"Eb" G2 cc^"Ab" cccB- |^"Bb" B2 FF FGAG- ||$ %12
-w: 1.~Heu- reux ceux qui re- cher-|* chent le Sei- gneur Jé- sus|* pour sui- vre son che- min|* et pour gran- dir en Lui.|
-^"Eb" G2 GG GGG=B- |^"G" B2 GG GGFG- |^"Cm" G3 E (3E2 F2 G2 |^"Ab" !breath!G4 (3E2 F2 G2 |^"G" G4 z4 :|$ %17
-w: * Heu- reux ce- lui qui voit|* dans l'au- tre Jé- sus Christ|* et qui le re-|garde comme un a-|mi.|
-|2^"Cm" z2 cc cccB- |^"Bb" B2 FF FGAG- |^"Eb" G2 cc^"Ab" cccB- |^"Bb" B2 FF FGAG- ||$ %21
-w: 2.~Puisse Jé- sus de- ve- nir|* le cen- tre de leur vie|* que leur foi s'é- pa- nouisse|* en se tour- nant vers Lui.|
-^"Eb" G2 GG GGG=B- |^"G" B3 G GGFG- |^"Cm" G3 E (3E2 F2 G2 |^"Ab" !breath!G4- (3G2 E2 F2 |^"G" G4 z4 :|$ %26
-w: * Qu'ils se laissent ha- bi- ter|* par la cha- ri- té|* pour pou- voir ai-|mer * com- me|Lui.|
-|3^"Cm" z2 cc cccB- |^"Bb" B3 F FGAG- |^"Eb" G3 c^"Ab" cccB- |^"Bb" B2 FF GA G2- ||$ %30
-w: 3.~Et leurs coeurs bru- le- ront|* d'un dé- sir ar- dent|* d'an- non- cer le Christ|* à tous les vi- vants|
-^"Eb" G2 GG GGG=B- |^"G" B2 GG GGFG- |^"Cm" G3 E (3E2 F2 G2 |^"Ab" !breath!G3 E (3:2:4EE F2 G2 |^"G" G4 z4 :|$ %35
-w: * dans tou- tes les mai- sons|* et sur tou- te la terre.|* De- ve- nant ain-|si dis- ci- ples mis- sion-|naires~!|
-|4^"Cm" z2 cc cccB- |^"Bb" B2 FF FGAG- |^"Eb" G2 cc^"Ab" cccB- |^"Bb" B2 FF FGAG- ||$ %39
-w: 4.~Leurs bou- ches s'ou- vri- ront|* pour lou- er ses bien- faits,|* pour dire l'oeu- vre de Dieu,|* à tous ceux loin de Lui.|
-^"Eb" G2 GG GGG=B- |^"G" B2 GG GGFG- |^"Cm" G2 EE (3E2 F2 G2 |^"Ab" G2 !breath!E E (3E2 F2 G2 |^"G" G4 z4 :| %44
-w: * Ils pour- ront pro- cla- mer|* sous le feu de l'Es- prit|* le rè- gne de ce-|lui qui don- ne la vraie|vie~!|
-
-X:58
-T:Heureux ceux qui cherchent Dieu
-C:Anne Bureau
-C:T: Père José Antonini
-M: Anne Bureau
+C:T: Père José Antonini M: Anne Bureau
 L:1/8
 Q:1/4=112
 M:4/4
@@ -2522,7 +2475,7 @@ w: 4.~Leurs bou- ches s'ou- vri- ront|* pour lou- er ses bien- faits,|* pour dir
 ^"Eb" G2 GG GGG=B- |^"G" B2 GG GGFG- |^"Cm" G2 EE (3E2 F2 G2 |^"Ab" G2 !breath!E E (3E2 F2 G2 |^"G" G4 z4 :| %44
 w: * Ils pour- ront pro- cla- mer|* sous le feu de l'Es- prit|* le rè- gne de ce-|lui qui don- ne la vraie|vie~!|
 
-X:59
+X:58
 T:Humblement, dans le silence...
 C:Musique : Fr. Jean-Baptiste de la Sainte-Famille
 Z:Texte d'après le P. Marie-Eugène de l'E.J.
@@ -2569,7 +2522,7 @@ w: ||||
 |4,5 x8 || x8 | x8 | x6 :| %17
 w: ||||
 
-X:60
+X:59
 T:Hymne acathiste
 C:Liturgie orientale
 C:Tradition slave
@@ -2634,7 +2587,7 @@ V:2
  [E,B,]16 [E,B,]2 [E,B,]16 [^D,B,]2 [E,B,]2 [B,,B,]4- [B,,B,]4 | [B,,B,]16 [B,,B,]2 [B,,B,]16 [B,,B,]2 [B,,B,]2 [E,B,]4- [E,B,]4 :|$ %4
  [G,D]2 [G,D]2 [G,D]2 [G,D]6 [D,D]2 [G,D]2 [D,D]2 [E,B,]2 [B,,B,]2 [E,B,]8 [G,D]16 | [G,D]2 [G,D]2 [G,D-]8 [F,D-]4 [G,D]4 [D,D]8 [D,D]4 [D,D]4 [G,D]4 [D,D]4 [E,B,]4 [B,,B,]4 [E,B,]8 |] %6
 
-X:61
+X:60
 T:Il est bon de chanter
 C:Prière de l'angélus
 C:M. Dannaud
@@ -2675,7 +2628,7 @@ w: 4.~Je veux jou-|er pour lui|tant que je|dure,|a- vec tout|mon a-|mour.||
 w: 5.~Lou- ez- Le|par la danse|et le tam-|bour,|les _ cor-|des~et les|flû-|tes~!|
 w: 6.~Que tout ce|qui res- pire|loue le Sei-|gneur,|al- * lé-|lu- *|ia~!|_|
 
-X:62
+X:61
 T:Il est temps de quitter vos tombeaux
 C:T. et M. : Chants de l'Emmanuel (V. Hendricks)
 Z:2007 Ed. de l'Emmanuel
@@ -2730,11 +2683,10 @@ w: |||||
  D,>D,- D,G, G,G, G,G, | C,>C, C,F,- F,>F,- F,E, | D,2 C,2 B,,B,,/G,,/- G,,G,, | C,3 C, |] %18
 w: ||||
 
-X:63
+X:62
 T:J'ai vu des fleuves d'eau vive
 T:Aspersion - Pâques
-C:Chant de l'Emmanuel
-(M.Wittal)
+C:Chant de l'Emmanuel (M.Wittal)
 %%score [ 1 ( 2 3 ) ( 4 5 ) ]
 L:1/8
 M:3/4
@@ -2771,7 +2723,7 @@ V:5
  x2 | G,6 | G,6 | G,6 | G,2 G,2 G,2 | E,4 E,2 | F,4 F,2 | B,,4 x2 |$ %8
  [G,-B,]6 | G,6- | G,6 | G,2 G,2 G,2 | E,4 E,2 | F,2 D,4 | G,6 |] %15
 
-X:64
+X:63
 T:Je m'abandonne à toi
 T:D'après Psaume 130
 C:Chants de l'Emmanuel (E de Vries)
@@ -2808,7 +2760,7 @@ V:3
  x2 | x8 | x8 | x8 | x8 |$ %14
  x8 | x8 | x8 | x6 |] %18
 
-X:65
+X:64
 T:Je veux chanter ton amour, Seigneur
 C:Prière de l'angélus
 C:M. Dannaud
@@ -2850,7 +2802,7 @@ V:2
  GF | F2 F B3 AG | A2 G F3 DD | G2 D D2 D G2 |$ %13
  F6 FF | E2 B, E2 G E2 | F6 x2 | D2 C D3 |] %17
 
-X:66
+X:65
 T:Je m'appelle Pierre
 C:Jo Akepsimas
 Z:Mannick
@@ -2889,7 +2841,7 @@ w: Mê- me s'il|fal- lait que j'en|meu- * * re.|
 w: 3.Le ser- vi-|teur de ton é-|gli- * * se.|
 w: J'en se- rai|la pre- mi- ère|pier- * * re.|
 
-X:67
+X:66
 T:Je n'ai d'autre désir
 C:Communauté du chemin neuf
 %%score [ 1 2 ]
@@ -2914,7 +2866,7 @@ V:2
  de | f2 ed ^c2 AA | B2 BB A2 z A | ddcd cdee |$ %4
  ffff e2 ag | f2 ec f3 A | Bd d^c d4 |] %7
 
-X:68
+X:67
 T:Je t'exalte o roi mon dieu
 T:D'après psaume 144
 C:D Lachance
@@ -2958,12 +2910,10 @@ V:2
  z8 | z8 | z8 | z8 |$ %16
  z8 | z8 |] %18
 
-X:69
+X:68
 T:Je veux n'être qu'à toi
 T:Album ''Éclats 3'' (1998) - Groupe Exo
-C:Chris Christensen
-C:Chris Christensen
-Thierry Ostrini
+C:Chris Christensen / Thierry Ostrini
 %%score { ( 1 2 ) | 3 }
 L:1/8
 Q:1/8=145
@@ -2986,7 +2936,7 @@ w: sées de mon coeur * dans le coeur|* de tes voies. * Je veux|n'ê- tre qu'à 
 [P:Refrain]^"Gm" BAG/G/-^"Bb/F" GA/BG/ |^"Eb" G3 z2 z |^"Gm" BAG/G/- GAB/c/- |^"F/A" cBA/A/- A z B/c/ |$ %20
 w: Rien n'est plus beau * que ton *|nom|Rien n'est plus Saint * que le sang|* du par- don * Je veux|
 w: ||||
-^"Bb" dcB/B/-^"Gm7" B3 ||1^"Eb" z3^"F" A<Bc/B/ |^"Bb" B6&x3^"E"x3 |^"Bb" z6&x3^"F"x3 :|$ %24
+^"Bb" dcB/B/-^"Gm7" B3 ||1^"Eb" z3^"F" A<Bc/B/ |^"Bb" B6&x3^"E"x3 |^"Bb" z3^"F" z3 :|$ %24
 w: n'ê- tre qu'à toi *|Jé- sus mon *|Roi.||
 w: ||||
 |2^"Eb" z3^"F" z2 B/c/ ||^"Bb" dcB/B/-^"Gm7" B3 |^"Eb" z3^"F" z2 B/c/ |^"Bb" dcB/B/-^"Gm7" B3 |^"Eb" z3^"F" A<Bc/B/ |^"Bb" B6 |] %30
@@ -3007,7 +2957,7 @@ V:3
  B,,3 G,,3 ||1 E,,3 A,,3 | B,,3 E,,3 | B,,3 F,,3 :|$ %24
 |2 E,,3 A,,3 || B,,3 G,,3 | E,,3 F,,3 | B,,3 G,,3 | E,,>B,,-B,, E,,3 | B,,6 |] %30
 
-X:70
+X:69
 T:Je veux voir Dieu
 C:Fr. Jean Baptiste
 Z:P. Marie-Eugène de l'E.J.
@@ -3057,7 +3007,7 @@ V:4
  D,D,D,D, C, A,,2 B,,- | B,,8 | A,,2 A,, A,,2 A,,3 | A,,4- A,,4 |$ %10
  F,F,F,F, C, C,2 D,- | D,4 B,,4 | A,,8- | A,,6 z2 |] %14
 
-X:71
+X:70
 T:Je viens vers toi, Jésus
 C:Communauté verbe de vie
 C:B. Ben
@@ -3103,7 +3053,7 @@ V:4
  x2 C2 | F,2 E,2 | D,4- | D,2 D,2 | D,2 D,2 | D,2 D,2 | A,,4- | A,,4 |$ %30
  x2 E2 |: A,2 E,2 | F,4 | E,4 | D,4 | G,4- | G,2 G,2 | G,2 F,2 | E,4 | D,4 | C,2 B,,2 | A,,2 _A,,2 ||1 =A,,2 A,2 :||2 =A,,4 |] %44
 
-X:72
+X:71
 T:Je vous ai choisis
 C:C. Lorenzi
 %%score [ 1 2 ( 3 4 ) ]
@@ -3144,9 +3094,8 @@ V:4
  F,E, D,B,, | E,3 z | A,A, A,A, | G,3 G, | F,F, D,D, | A,2 z G, |$ %12
  F,F, E,E, | D,2 D,D, | B,,2 E,2 | A,,3 z |] %16
 
-X:73
+X:72
 T:Je vous salue, Joseph
-C:Frère Jean-Baptiste
 C:Frère Jean-Baptiste du Jonchay
 %%score [ ( 1 2 ) ( 3 4 ) ]
 L:1/8
@@ -3188,11 +3137,9 @@ V:4
  C,C,C, E,E,E, F,3 F,2 D, | G,G,G, D,3 D,F,D, E,2 E, | A,3 D,2 D, D,3 D,D,F, |$ %12
  A,A,A, G,A,=B, A,3 F,3 | C,2 D, A,,2 A,, D,3 F,3 | C,2 D, A,,2 A,, D,6 |] %15
 
-X:74
+X:73
 T:Je vous salue Marie
-C:Prière de l'angélus
-C:Jean-Baptiste Du Jonchay (1974-...)
-Prière de l'angélus
+C:Jean-Baptiste Du Jonchay (1974-...) Prière de l'angélus
 %%score [ 1 2 ]
 L:1/8
 M:12/8
@@ -3219,7 +3166,7 @@ w: San- cta Ma- ri- a|Ma- ter De- i|
  G,3 G,2 G, G,3 D,3 | E,2 E, D,2 D, C,C,B,, E,3 |] %8
 w: O- ra pro- no- bis|A- men A- men Al- lé- lu- ia|
 
-X:75
+X:74
 T:Je vous salue Marie V15
 T:(dit de Chartres)
 C:Prière de l'angélus
@@ -3259,7 +3206,7 @@ V:4
  D,2 x2 | D,2 E,F, | G,C, D,2 | B,,2 C,G, | E,2 F,3 D, | A,,2 E,2 A,2 | D,D, D, D,3 |$ %21
  G,F, D,2 | G,,A,, B,,A,, | B,,C,D, A,,3 | G,,3 D,3 |] %25
 
-X:76
+X:75
 T:Jesus, mon dieu je t'adore
 C:Chants de l'Emmanuel
 %%score { ( 1 2 ) | ( 3 4 ) }
@@ -3294,7 +3241,7 @@ V:4
  G,4 (3E,2 E,2 E,2 | A,4 A,,4 | B,,4 B,,4 | ^A,,2 A,,F,- F,4 |$ %10
  G,2 G,2 A, A,2 A, | D,4 D,4 | D,4 D,4 | F,4 F,2 F,2 | G,4 A,2 A,2 | D,8 |] %16
 
-X:77
+X:76
 T:Jésus est le chemin
 T:T 511
 C:G. du Boulay
@@ -3371,7 +3318,7 @@ V:5
  x2 | x8 | x6 |$ %10
  x2 | x8 | x8 | C3 C B,2 ^F,2 | ^G,8 |] %15
 
-X:78
+X:77
 T:Joshua fit the battle of Jericho
 T:Negro spiritual
 L:1/8
@@ -3389,7 +3336,7 @@ w: talk a- bout the kings of|Gi- de- on, you may|talk a- bout the men of|Saul, t
  A2 A4 FG |^"A7" AA G2 F2 =E2 |^"Dm" D6 z2 |] %16
 w: Josh- ua, in the|bat- tle of Je- ri-|cho|
 
-X:79
+X:78
 T:Jubilez ! Criez de joie !
 C:Frère Jean-Baptiste du Jonchay
 %%score [ ( 1 2 ) ( 3 4 ) ]
@@ -3443,7 +3390,7 @@ V:4
  E,2 E, E,2 E,E,E, | E,4- E,4 | E,2 E, E,2 E,E,E, | D,4 D,4 |$ %17
  G,2 G, G,2 G,G,G, | D,4- D,4 | C,2 C, A,,2 A,,G,,G,, | x8 | D,6 |] %22
 
-X:80
+X:79
 T:Jésus Christ l'Emmanuel
 C:E. Faugeron
 C:Claude Balbastre
@@ -3506,7 +3453,7 @@ w: ||||||
 w: ||||||
 w: ||||||
 
-X:81
+X:80
 T:Jésus, berger de toute humanité
 T:Kyrie
 T:Version pour soliste ou choeur à l'unisson
@@ -3527,11 +3474,9 @@ w: Prends pi- tié de nous. Fais|nous re- ve- nir, fais nous|re- ve- nir à toi!
 w: ||||
 w: _ _ _ _ _ _||||
 
-X:82
+X:81
 T:Jésus, Toi qui a promis
-C:Communauté de l'Emmanuel
-C:Communauté de l'Emmanuel
-(C. Blanchard)
+C:Communauté de l'Emmanuel (C. Blanchard)
 %%score [ ( 1 2 ) ( 3 4 ) ]
 L:1/8
 M:4/4
@@ -3560,7 +3505,7 @@ w: ||||||||
  x4 G,2 F,2 | E,4 C,C,E,E, | F,4 E,2 E,D,- | D,4 C,4 | B,,8 | C,8 | D,8- | D,4 x4 |] %16
 w: ||||Jé-||sus~!||
 
-X:83
+X:82
 T:Kyrie - Messe de St François Xavier
 T:(Pardonne-moi Seigneur)
 C:Communauté du Chemin Neuf
@@ -3610,11 +3555,9 @@ V:4
  x8 | x8 | x8 | x8 | x8 |$ %14
 |: C,6 C,2 | G,,6 G,,2 | D,4 D,4 | A,,4 A,,2 B,,2 | C,6 C,2 | G,,4 G,,4 | A,,8 ||1 x8 :||2 x6 |] %23
 
-X:84
+X:83
 T:L'amour jamais ne passera
-C:Chants de l'Emmanuel
-C:Chants de l'Emmanuel
-(M. Hagemann)
+C:Chants de l'Emmanuel (M. Hagemann)
 %%score [ 1 2 ( 3 4 ) ]
 L:1/8
 M:4/4
@@ -3665,7 +3608,7 @@ V:4
  x C,C,C, | C,2- C,C, B,,-B,,B,,B,, | A,,2 A,,3 A,A,G, | F,2 F,F, F,2 F,2 | G,4- G,2 G,G, |$ %16
  C,2- C,C, B,,2 B,,B,, | A,,2 A,,3- A,,A,G, | F,3- F, F,2 F,2 | G,4- G,2 |] %20
 
-X:85
+X:84
 T:La première en chemin, Marie
 C:E. Faugeron
 C:Georges Lefebvre
@@ -3738,7 +3681,7 @@ V:4
  x6 | x6 | x6 | x6 :|$ %8
  x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | A,,6 |] %17
 
-X:86
+X:85
 T:La Peregrinación
 T:La Peregrinación est une Huella :
 T:danse folklorique argentine, née vers 1820
@@ -3777,7 +3720,7 @@ w: R/Pas a- près pas, pas à pas Jo-|seph et Ma- rie|Es- cor- taient un Dieu ca
 w: ||||
 w: ||||
 
-X:87
+X:86
 T:La sagesse a dressé une table
 T:Abbaye de Sylvanes
 C:Gouzes-Bourgeois-Revel
@@ -3827,7 +3770,7 @@ V:4
  E,8 A,8 A,2 E,4 | E,8 F,8 F,2 E,4 |$ %14
  E,8 F,4 F,4 | F,8 E,2 B,,8 F,4 B,,4 :| %16
 
-X:88
+X:87
 T:Le Seigneur est ma lumière et mon salut
 T:Psaume 26
 C:E. Faugeron
@@ -3886,7 +3829,7 @@ V:4
 |3 x8 | x8 || x8 | x8 | x8 | x8 | x8 |$ %56
  x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 :| %65
 
-X:89
+X:88
 T:Le chemin de la vie
 C:Patrick Richard
 Z:Fr. Théophile Pemmdu
@@ -3927,7 +3870,7 @@ w: l'en- ne- mi per-|du et|ne pas ap- plau-|dir|
 w: tre dans les pre-|miers, é-|pau- ler les der-|niers.|
 w: pleu- rer l'in- con-|nu, semer|la bon- ne hu-|meur.|
 
-X:90
+X:89
 T:Le vent des prophètes
 C:P-M GAMBARELLI
 C:P-M Gambarelli
@@ -3963,7 +3906,7 @@ w: ||||||
 w: ||||||
 w: ||||||
 
-X:91
+X:90
 T:Levons les yeux
 C:A. Dumont/A. Fleury
 %%score [ 1 2 ( 3 4 ) ]
@@ -4017,7 +3960,7 @@ V:4
  x2 A,,A,, | A,,3 A,, A,,A,,A,,A,, | D,2 D,2 z D,D,D, | A,,3 A,, C,C,C,C, | D,2 D,2 z2 F,F, |$ %14
  G,3 G, G,G,G,G, | F,2 z2 z F,E,D, | =C,3 C, C,C,C,B,, | A,,4 |] %18
 
-X:92
+X:91
 T:Loué sois-tu
 C:B. Pavageau
 Z:D'après Laudato Si du Pape François
@@ -4071,7 +4014,7 @@ V:2
  C8 | C8 | B,8 | D4 E2 F2 | D6 F2 | E2 E E3 E2 | F8 | E8 ||$ %48
 |: F8 | F4 D4 | D8 | G8 | G8 | G4 D4 | C2 D2 E2 D2 | C8 :| %56
 
-X:93
+X:92
 T:Magnificat
 T:Luc 1.46 - Visitation de Marie
 L:1/8
@@ -4102,7 +4045,7 @@ w: 5.De la pro-|mes- se faite|à nos|pè- res en|fa- veur d'A- bra-|ham et de sa
  c3 B | A2 G2 | F2 z2 | BB BB | AA F2 | G4 | G4 |] %80
 w: fils au|saint es-|prit|pour les siè- cles|des siè- cles|a-|men|
 
-X:94
+X:93
 T:Marie, Toi qui as dit "Oui"
 C:George Lefebvre
 C:Georges Lefebvre
@@ -4141,7 +4084,7 @@ w: Jé- sus s'est mon-|tré vi-|vant, res- sus- ci-|té.|
 w: le coeur des a-|mis que|ton fils s'est choi-|si.|
 w: Dieu t'a ap- pe-|lée près|de ton bien- ai-|mé.|
 
-X:95
+X:94
 T:Mendiants d'espérance
 C:Michel Wackenheim
 Z:Benoît Gschwind
@@ -4181,7 +4124,7 @@ V:3
  C,C,C,C, !breath!C,3 C, | A,A,B,B, E,4 | A,A,A,A, G,G,G,G, | F,2 G,2 C,2 ||$ %13
  CB, | A,3 A, B,2 B,,B,, | =B,,4 C,4 | A,2 A,2 G,3 G, | A,2 G,2 C,4 |] %18
 
-X:96
+X:95
 T:Mendiez...
 C:Frère Jean Baptiste du Jonchay
 Z:Père Marie-Joseph, Capucin
@@ -4271,7 +4214,7 @@ w: ||||
 w: |||
 w: |||
 
-X:97
+X:96
 T:Messe de la Trinité - Kyrie
 C:Frère Jean Baptiste du Jonchay
 %%score { ( 1 2 ) | ( 3 4 ) }
@@ -4302,7 +4245,7 @@ V:4
  x24 | x18 | x16 | x16 ||$ %4
 |: B,, | E,2 E,E, D,D, D, C, | B,,2 C,B,, A,,A,, A,, A,, | C,2 D,D, E,3 :| %8
 
-X:98
+X:97
 T:Messe de la Trinité - Gloria - Gloire à Dieu
 C:Frère Jean Baptiste du Jonchay
 %%score { ( 1 2 ) | ( 3 4 ) }
@@ -4343,7 +4286,7 @@ V:4
  G,16 | E,2 G,2 D,4 |$ %6
  B,,16 | C,4 | C,16 | =F,16 | G,2 D,4 |] %11
 
-X:99
+X:98
 T:Messe de la Trinité - Sanctus
 C:Frère Jean Baptiste du Jonchay
 %%score { ( 1 2 ) | ( 3 4 ) }
@@ -4385,7 +4328,7 @@ V:4
 |2 E,E, E,2 E, B,A,G, D,4- || D,2 A,2 A, E,2 C, B,,3 x |$ %10
  x12 | x2 E,3 E,3 B,,3 x :| %12
 
-X:100
+X:99
 T:Messe de la Trinité - Anamnèse
 C:Frère Jean Baptiste du Jonchay
 %%score { ( 1 2 ) | ( 3 4 ) }
@@ -4412,7 +4355,7 @@ V:4
 |: E,2 E,2 B,,3 B,, | E,2 A,,2 B,,4 :: G,,2 G,,2 D,3 D, | G,2 C,2 D,4 :|$ %4
  D,2 ^D,2 E,2 E,E, | A,,B,,C,E, B,,4 | C,3 C, D,2 D,2 | A,,4 | C,3 C, D,2 D,2 | E,4 |] %10
 
-X:101
+X:100
 T:Messe de la Trinité - Agnus - Agneau de Dieu
 C:Frère Jean Baptiste du Jonchay
 %%score { ( 1 2 ) | ( 3 4 ) }
@@ -4443,7 +4386,7 @@ V:4
  x3 E, | E,2 E,2 B,,2 B,,A,, | G,,G,,G,,G,, D,D,D,D, | A,,A,,A,,B,, B,,4 |$ %4
  C,3 C, D,D,D,D, | A,,4 | C,3 C, D,D,D,D, | E,4 :| %8
 
-X:102
+X:101
 T:Messe du Frat - Kyrie - Prends Pitié
 C:Benjamin et
 C:Thomas POUZIN
@@ -4461,7 +4404,7 @@ w: 2.~Prends pi-|tié Ô|Christ Ô _|Christ Prends _ pi-|tié Prends pi-|tié Ô
 w: gneur Ô Sei-|gneur Prends _ pi-|tié.|Prend pi||
 w: Christ Ô _|Christ Prends _ pi-|tié.|Prends pi||
 
-X:103
+X:102
 T:Messe du Frat - Agnus - Agneau de Dieu
 C:Benjamin et
 C:Thomas POUZIN
@@ -4479,7 +4422,7 @@ w: 3.~Toi l'A-|gneau de|Dieu qui en-|lè- ves le pé- ché du|monde. Don- ne|nou
 w: nous Prends pi-|tié de|nous.|Toi l'A||
 w: paix. Don- ne|nous la|paix|||
 
-X:104
+X:103
 T:Messe du Frat - Gloria - Gloire à Dieu
 C:Benjamin et
 C:Thomas POUZIN
@@ -4509,7 +4452,7 @@ w: 4.~Car~toi seul es saint, toi|seul es Sei- gneur,|toi seul es le très- haut,
 ^"C#m" GFG^"A" A3 |^"E" EFG^"B" F3 |^"C#m" G3^"A" A3 |^"B" B6- |^"B" B6 |] %51
 w: et dans la gloire,|de Dieu le Père|A- A-|men|_|
 
-X:105
+X:104
 T:Messe du Frat - Alléluia
 C:Benjamin et
 C:Thomas POUZIN
@@ -4523,7 +4466,7 @@ V:1
  FF dcBA |:^"G" B4 BcBA |^"D" F2 FF F2 A2 |^"A" c4 cdcA ||1^"Bm" B2 FF dcBA :||2^"Bm" B4 z4 |] %6
 w: Ta pa- role est é- ter-|nelle Al- lé- lu- *|ia La bon- ne nou-|velle Al- lé- lu- *|ia. Ta pa- role est é- ter|ia|
 
-X:106
+X:105
 T:Messe du Frat - Sanctus - Saint le Seigneur
 C:Benjamin et
 C:Thomas POUZIN
@@ -4547,7 +4490,7 @@ w: |||||
 w: san- na au plus haut des|cieux.|Bé- ni||
 w: ||||
 
-X:107
+X:106
 T:Messe du Frat - Anamnèse
 C:Benjamin et
 C:Thomas POUZIN
@@ -4561,7 +4504,7 @@ V:1
  EF |^"C#m" G3 GFE |^"A" A3 z GA |^"E" B3 GFE |^"B" F3 EEF |^"C#m" G3 z EE |^"A" A3 z DE |^"B" F3 D3 |^"E" E3 z3 |] %9
 w: Gloire à|Toi qui é- tais|mort. Gloire à|Toi qui es vi-|vant, no- tre sau-|veur, no- tre|Dieu. Viens Sei-|gneur Jé-|sus.|
 
-X:108
+X:107
 T:Messe du peuple de Dieu - Gloria (AL 597)
 C:CH-E. HAUGUEL
 C:CH-E. HAUGUEL (AELF)
@@ -4590,7 +4533,7 @@ w: droi- te du Pè- re,|prends pi- tié|de nous.|Car toi seul es saint.|Toi seul
 ^"G" B2 B2^"C" c4 |^"C" c2 c2^"F" A3 A |^"G" GGGD^"C" E4 | E2 G2^"F" cccc |^"G7" B2 B2^"C" c4 |] %40
 w: le très haut|Jé- sus Christ, a-|vec le saint es- prit,|dans la gloire de Dieu le|Père A- men!|
 
-X:109
+X:108
 T:Mets ta joie dans le seigneur
 C:Communauté du chemin neuf
 L:1/8
@@ -4620,7 +4563,7 @@ w: Grâce à son a- mour, ta|foi ap- pa- rai- tra|comme un so- leil _ en plein|j
 w: Grâce à son a- mour, ton|pas est as- su- ré,|et ton che- min _ _ lui|plait|
 w: Grâce à son a- mour, ils|ob- ser- vent sa voiee,|ils met- tent leur es- poir en|lui.|
 
-X:110
+X:109
 T:Mon Père, je m'abandonne à Toi
 T:T : d'après Charles de Foucauld et Thérèse de Lisieux
 C:M : Jean-François Léost
@@ -4659,7 +4602,7 @@ V:4
  E,2 E,E, | D,2 D,2 | C,C, D,E, | D,4 | B,,^D, E,F, | G,4 | G,2 A,G, | A,2 ||$ %17
  B,A, | G,2 F,2 | E, E,2 E, | A,,A,, B,,C, | D,2 D,D, | G,2 F,2 | E, E,2 E, | A,,A,, D,D, | G,4 :| %26
 
-X:111
+X:110
 T:Ne crains pas
 C:Fr. Jean Baptiste
 Z:d'après Isaie 43
@@ -4713,7 +4656,7 @@ V:4
  x8 | x8 | x8 | x8 |$ %20
  x8 | x8 | x8 | x8 |] %24
 
-X:112
+X:111
 T:Notre dieu s'est fait homme
 T:"Dieu s’est fait homme pour que l’homme se fasse Dieu" Saint Irénée
 C:M. Dannaud
@@ -4761,7 +4704,7 @@ V:4
  A,,2 A,,2 x2 | x A,, A,,A,, A,,A,, | G,,4 x2 | x G,, G,,G,, G,G, | E,2 E,2 x2 | x E, E,E, E,E, |$ %11
  A,,4 x2 | x A,, A,,A,, A,,A,, | C,2 C,2 x2 | C,2 C,2 G,,2 | B,,2 B,,2 E,2 |] %16
 
-X:113
+X:112
 T:Notre Père
 C:Glorious
 L:1/8
@@ -4783,7 +4726,7 @@ w: toi qua ppar tiennent le|règne la puis sance et la gloi re,|pour les siè cl
 ^"Am" x12&x6^"Em"x6 |^"F" z6^"G" z3 z c>B |:^"Am" A3 z c>A^"Em" G3 z c>B |^"F" A3 z c>A^"C" G3^"Em/B" z c>B |^"Am" A3 z c>A^"Em" G3 z2 G |^"F" A3 z2 G^"G" B3 z c3/2B3/4 :|^"C" G3 z3 z6 |] %33
 w: |||||||
 
-X:114
+X:113
 T:Nous t’honorons, glorieux saint Joseph
 T:Hymne
 C:Chants de l'Emmanuel - L. Cordin
@@ -4822,7 +4765,7 @@ V:4
  A,,2 A,,A,, G,,2 E,E, | F,4 x F,F,F, | D,2 D,C, B,,B,,B,,B,, | E,4 x E,E,E, |$ %13
  A,,2 A,,A,, G,,2 E,E, | F,3 F, C,2 C,C, | D,3 D, B,,B,,E,E, | A,,8 |] %17
 
-X:115
+X:114
 T:Nous annonçons le roi
 C:Ph. Decourroux
 L:1/8
@@ -4853,7 +4796,7 @@ w: ||* nous é- le- vons le|
 w: dons de son Es- * prit.|* Nous an- non- çons le|||
 w: ||nom de Jé- sus Christ.||
 
-X:116
+X:115
 T:Nous te rendons grâce
 C:C.E. Hauguel
 %%score [ 1 2 ( 3 4 ) ]
@@ -4918,7 +4861,7 @@ V:4
 |: D,2 D,2 D,2 D,2 | A,,4- A,,4 | ^C,2 C,2 C,2 C,2 | D,4- D,4 |$ %15
 |1 D,4 D,2 D,2 || D,4- D,4 | E,2 E,2 E,2 E,2 | E,4- E,4 :||2 x2 G,2 G,2 F,2 || D,8 | A,4 A,2 A,2 | D,8 |] %23
 
-X:117
+X:116
 T:Ô Seigneur à toi la gloire
 C:E. Faugeron
 C:E. Baranger
@@ -4976,7 +4919,7 @@ V:4
 |: B,,2 B,,B,, C,2 C,2 :: F,F, F,E, A,2 A,2 :: D,D, D,D, G,2 G,2 :|$ %11
  B,,3 B,, C,2 F,2 | E,3 E, A,,4 |] %13
 
-X:118
+X:117
 T:O prends mon âme
 T:151
 C:Traditionnel Hébraïque
@@ -5025,7 +4968,7 @@ V:4
  D2 DD B,2 B,2 | C2 CC C4 | D2 DD B,2 B,2 | C2 CC C4 |$ %8
  D2 A,A, A,2 A,2 | B,2 G,C C4 | D2 A,A, A,2 A,2 | G,B, A,G, F,4 |] %12
 
-X:119
+X:118
 T:Oh! Happy day!
 T:Arrangement Gospel (1967)
 T:provenant d'un hymne du XVIIIe siècle
@@ -5048,7 +4991,7 @@ w: He taugh me how|_|* to watch|_|* fight and pray|_|fight and pray.||
 ^"Bb/C" B2 B2 B2^"F" A2- | A8- | A4 A2^"Bb" B2- | B8- | B2 B B2^"F" A3- | A6 z2 | z2 B B2 c z2 |] %29
 w: and live re- joi-||* cing ev|_|* ev'- ry- day||ev'- ry- day|
 
-X:120
+X:119
 T:Ouvrez tous ces verrous fermés
 C:Debruynne-Grzybowski
 L:1/8
@@ -5083,7 +5026,7 @@ w: En équi- pe, on ar- rive à|tout|Se par- ler nous re- met de-|bout.|
 w: Le poids des mots est tou- jours|vrai|Se par- ler ne nous ment ja-|mais.|
 w: Nous fai- sons le- ver le so-|leil.|Se par- ler nous sert de ré-|veil.|
 
-X:121
+X:120
 T:Par toute la terre
 C:Communauté de l'Emmanuel - A. Lavardez
 %%score { ( 1 3 ) | ( 2 4 ) }
@@ -5142,7 +5085,7 @@ V:4
  G,4 G,2 F,2 | E,8 | F,2 F,F, D,2 D,2 | G,8 | G,4 G,2 F,2 | E,8 | F,F,F,F, D,2 D,2 | G,8 |$ %24
  C,4 C,2 C,2 | G,8 | D, D,2 D, D,2 D,2 | G,,8 | C,4 C,2 C,2 | G,8 | D, D,2 D, D,2 D,2 | G,,8 |] %32
 
-X:122
+X:121
 T:Peuple de l'alliance
 C:Michel SCOUARNEC
 Z:Jo AKEPSIMAS
@@ -5182,7 +5125,7 @@ V:4
  D,2 F,2 E,3 E, | F,4 | G,G,G,G, F,3 F, | E,E,C,A,, D,2 C,2 |$ %6
  B,,3 B, ^A,B,CD | B,2 F,2 B,,4 |] %8
 
-X:123
+X:122
 T:Plonge-moi dans ta rivière
 C:Chris Bowater
 %%score 1 [ 2 ( 3 4 ) ]
@@ -5220,7 +5163,7 @@ V:4
  A,,4 D,4 | G,4 C,4 | F,,4 B,,4 | E,4 E,,4 | A,,4 D,4 |$ %13
  G,4 C,4 | x8 | x8 |] %16
 
-X:124
+X:123
 T:Pour les hommes et pour les femmes
 C:P.M Gambarelli
 L:1/8
@@ -5251,7 +5194,7 @@ w: 4.Tu es ve- nu por-|ter l'a- mour|Ta mort nous ap- prend|le par- don|
 w: 5.Au- près de la vier-|ge Ma- rie|Lors- que vient le temps|de la mort|
 w: 6.A- vec ton fils no-|tre sei- gneur|A- vec l'es- prit ton|mes- sa- ger|
 
-X:125
+X:124
 T:Prière scoute
 C:Gaston Schindler
 Z:Saint Ignace de LOYOLA
@@ -5270,7 +5213,7 @@ w: ler sans cher- cher le re-|pos, à nous|dé- pen- ser sans at-|ten- dre d'au-
 ^"Dm" f2 f2^"Am" e2^"G7" d2 |^"C" cG GG^"Am" c2^"G7" de |^"F" c2 c2^"G" B3 c |^"C" c8 |] %19
 w: cel- le de sa-|voir que nous fai- sons vo- tre|sain- te vo- lon-|té.|
 
-X:126
+X:125
 T:Prière simple
 T:Seigneur, fais de nous
 C:Noël COLOMBIER
@@ -5320,7 +5263,7 @@ V:4
  x8 | x8 | x8 | x8 |$ %12
  x8 | x8 | x8 | x8 |] %16
 
-X:127
+X:126
 T:Prière universelle : Accueille au creux de tes mains
 L:1/8
 M:4/4
@@ -5331,7 +5274,7 @@ V:1
 ^"Em" z E | B3 B^"Am" cB A2 |^"Em" B6 EF |^"C" G3 G^"Bm" F2 D2 |^"Em" E6 |] %5
 w: Ac-|cueille au creux de tes|mains, la pri-|ère de tes en-|fants.|
 
-X:128
+X:127
 T:Prière universelle : Entends nos prières
 L:1/8
 M:2/4
@@ -5342,7 +5285,7 @@ V:1
 ^"E" BB GE |^"A" c2^"E" B2 | B G2 E |^"B7" F4 |^"E" BB GE |^"A" c2^"E" B2 |^"B7" B E2 F |^"E" E4 |] %8
 w: En- tends nos pri-|è- res,|en- tends nos|voix.|En- tends nos pri-|è- res,|mon- ter vers|toi.|
 
-X:129
+X:128
 T:Prière universelle : Jésus, sauveur du monde
 %%score ( 1 2 )
 L:1/8
@@ -5357,7 +5300,7 @@ w: Jé-|sus, sau- veur du|mon- de, é-|coute et prends * pi-|tié.|
 V:2
  D2 | D2 D2 E2 A,2 | B,2 A,2 A,2 F2 | F2 F2 F2 FE | D6 |] %5
 
-X:130
+X:129
 T:Prière universelle : Seigneur, entends la prière
 L:1/8
 M:3/4
@@ -5368,7 +5311,7 @@ V:1
 ^"G" D2 G2 A2 |^"C" B2 A2 c2 |^"G" B6 | G6 |^"C" B2 A2 G2 |^"D7" E4 D2 |^"G" G6- | G6 |] %8
 w: Sei- gneur, en-|tends la pri-|è-|re|qui mon- te|de nos|coeurs|_|
 
-X:131
+X:130
 T:Prière universelle : Seigneur, nous avons tant besoin de toi
 C:Laurent Rafignon
 L:1/8
@@ -5382,7 +5325,7 @@ w: Sei-|gneur, nous a- vons tant be- soin de|toi Tu nous|ai- mes * nous som- mes
 ^"Em" GF/ E2 F/ G F<E D |^"C" E4 z EEF |^"G" G2 z/ G/G/G/^"D" F E<D E |^"Em" E6 |] %9
 w: mê- me coeur et d'u- ne mê- me|voix nous te pri-|ons et nous sa- vons que tu en-|tends.|
 
-X:132
+X:131
 T:Psaume de la création
 C:Patrick Richard
 %%score { 1 2 }
@@ -5437,7 +5380,7 @@ V:2
  d'2 z d3 | d3 fed | g3 dcB | GAB cde | c3- c2 z | B3 d2 e | f3 Acd |$ %33
  c3 Acd | d3 B2 A | G3 z3 | z3 G3 | A4 cd |] %38
 
-X:133
+X:132
 T:Puisque tu fais miséricorde
 T:Z 44-71 - Psaumes 129 (1 à 4) & 50 (5 à 9)
 C:Marcel Dannaud
@@ -5488,7 +5431,7 @@ w: 7.~Dé- tour- ne toi ô Dieu, de|mon pé- ché, tou- tes mes|fau- tes, * ef- 
 w: 8.~Ou- vre mes lè- vres, que je|loue ton nom, et que ma|bou- che * chan- te pour|toi. *|
 w: 9.~Tu ne re- jet- tes pas le|coeur broy- é, re- çois ma|vie, * * pour la com-|bler. *|
 
-X:134
+X:133
 T:Qu'exulte tout l'univers
 C:L. Cordin
 %%score { ( 1 2 ) | ( 3 4 ) }
@@ -5542,7 +5485,7 @@ V:4
 [K:A] C,2 C, C,2 ^D, =F,2 | F,6 x2 | C,2 C, G,2 =F, C,2 | D,6 x2 |$ %13
  E,2 E, E,2 F, E,2 | F,6 F,E, | D,2 D, D,2 C, B,,2 | E,6 x2 |] %17
 
-X:135
+X:134
 T:Qu'il est formidable d'aimer
 C:Jean-claude GIANADDA
 %%score 1 2
@@ -5591,7 +5534,7 @@ V:2
  z8 | z8 | z8 | z8 |$ %30
  z8 | z8 | z8 | z8 |] %34
 
-X:136
+X:135
 T:Quand Tu poses Ta main
 T:Album "Promesse" (2018)
 C:Glorious
@@ -5620,7 +5563,7 @@ w: ||||
 w: Quand tu po- * ses ta main|* Oh|Oh Oh|Oh|Quand tu po- * ses ta main|* Oh|Oh Oh|Oh|_|
 w: |||||||||
 
-X:137
+X:136
 T:Que soit béni le nom de Dieu
 T:Dn 2, 20
 C:Chants de l'Emmanuel - L. Cordin
@@ -5664,7 +5607,7 @@ V:4
  B,, | B,B,B, A,A,A, | G,3 F,3 | E,E,E, G,2 G, | F,3 F,3 |$ %9
  E,E,E, D,D,D, | C,3 E,E,E, | F,3 E,3 | F,6 |] %13
 
-X:138
+X:137
 T:Que ma bouche chante ta louange
 C:Chants de l'Emmanuel (F. Deboeuf)
 %%score { ( 1 2 ) | ( 3 4 ) }
@@ -5729,7 +5672,7 @@ V:4
  A,G, | F,3 F, C,4 | G,>G,- G,G, A,2 A,G, | F,3 F, C,>C,- C,C, | G,6 A,G, | F,3 F, C,4 |$ %14
  G,>G,- G,G, A,2 A,G, | F,3 F, C,>C,- C,C, | G,6 G,G, | C,2 E,2 F,G, A,F, | G,2 G,,2 C,4 |] %19
 
-X:139
+X:138
 T:Que vive mon âme à te louer
 C:Bénédicte Ducatel
 %%score [ ( 1 2 ) ( 3 4 ) ]
@@ -5782,11 +5725,9 @@ V:4
  x8 | x8 | x8 | x8 | x8 |$ %15
  x8 | x8 | x4 | x8 |] %19
 
-X:140
+X:139
 T:Recevez le Christ
-C:E. Faugeron
-C:Chants de l'Emmanuel
-(B. Laplaize)
+C:Chants de l'Emmanuel (B. Laplaize)
 %%score [ ( 1 2 ) ( 3 4 ) ]
 L:1/8
 M:4/4
@@ -5837,7 +5778,7 @@ V:4
  E,E, | E,3 E, E,4 | E,3 E, E,2 D,2 | C,3 B,, A,,A,, F,,F,, | B,,6 B,,B,, |$ %14
  C,3 C, D,D, B,,D, | E,3 D, C,C, C,C, | F,,3 F,, B,,B,, B,,B,, | E,4 x2 |] %18
 
-X:141
+X:140
 T:Regarde l'étoile
 C:C. Blanchard
 Z:D'après hymne de Saint Bernard
@@ -5910,7 +5851,7 @@ w: Re-|gar- de l'é- toile, * in-|vo- que Ma- rie, *|||
 w: ||||
 w: ||||
 
-X:142
+X:141
 T:Regardez l'humilité de Dieu
 T:(2015)
 C:Anne-Sophie Rahm
@@ -5953,7 +5894,7 @@ V:4
  x6 G,,G,, | C,3 C, C,C,C,B,, | A,,4 A,,2 A,,2 | E,3 E, E,E,G,E, | B,,4 x2 B,,B,, | C,2 C,2 E,E,G,G, |$ %15
  A,2 x A,, B,,B,,B,,B,, | E,2 C,2 F,2 G,,2 | C,6 x2 :| %18
 
-X:143
+X:142
 T:Relever le faible
 T:1000 Echos (2016)
 C:Glorious
@@ -5989,7 +5930,7 @@ w: ||
 w: * Pas- sé de l'ombre à ta * lu- mière|* J'ai mis mon es- poir * en toi|_||||
 w: ||||||
 
-X:144
+X:143
 T:Resucito, resucito
 C:Kiko Argüello (1939-...)
 %%score { ( 1 4 5 ) | ( 2 3 ) }
@@ -6032,7 +5973,7 @@ V:5
  x4 | x8 | x8 | x8 |$ %14
  x8 | x8 | x8 | x4 .c.c.c.B .c2 |] %18
 
-X:145
+X:144
 T:Réjouis toi fille de Sion
 C:David Loden
 L:1/8
@@ -6058,7 +5999,7 @@ w: A- do- naï _ _|est ve- nu vers toi,|ne crains pas _ _|
 w: Si- on, Si- on _|re- lè- ve tes bras,|car voi- ci ton roi.|
 w: il te ré- joui- ra.|Il fe- ra de toi,|sa plus gran- de joie.|
 
-X:146
+X:145
 T:Saint le Seigneur
 T:CNA 249
 L:1/8
@@ -6074,7 +6015,7 @@ w: Le ciel et la ter- re sont rem-|plis de ta gloi- re|Ho- * san- * na au plus|h
 ^"Em" EDEF GFEE |^"D" A2 GA^"B" F4 |:^"Em" EFGA^"G" B2 AG |^"D" A2 GF^"Em" E4 :| %11
 w: Bé- ni soit ce- lui qui vient au|nom du sei- gneur|Ho- * san- * na au plus|haut des * Cieux.|
 
-X:147
+X:146
 T:Seigneur, nous avons tant besoin de toi
 T:prière universelle
 C:Laurent Rafignon
@@ -6089,7 +6030,7 @@ w: Sei-|gneur, nous a- vons tant be- soin de|toi Tu nous|ai- mes * nous som- mes
 ^"Em" GF/ E2 F/ GF<ED |^"C" E4 z EEF |^"G" G2 z/ G/G/G/^"D" FE<DE |^"Em" E6 z B, :| %9
 w: mê- me coeur et d'u- ne mê- me|voix nous te pri-|ons et nous sa- vons que tu en-|tends. *|
 
-X:148
+X:147
 T:Si le père vous appelle
 C:Musique:Jacques Berthier
 Z:Texte:Didier Rimaud
@@ -6136,7 +6077,7 @@ w: ||||
 w: ||||
 w: ||||
 
-X:149
+X:148
 T:Souffle impévisible
 C:Jo Akepsimas
 Z:Claude Bernard
@@ -6202,7 +6143,7 @@ V:4
  E, E,2 E, A,,A,, A,,2 | D,D,D,D, G,4 | C, C,2 C, F,F, F,2 | B,,B,,B,,B,, E,4 |$ %12
  E, E,2 E, A,,B,, C,2 | D,D,D,D, G,4 | C, C,2 C, F,G, A,2 | B,2 B,,2 ^C,2 ^D,2 | E,8 |] %17
 
-X:150
+X:149
 T:Tiens ma lampe allumée
 C:Jean-Claude Gianadda
 L:1/8
@@ -6237,7 +6178,7 @@ w: sûr Et que dans mon re-|gard ta clar- té vien- ne|poin- * dre _|
 w: fou Et que puis- sent mes|bras sa- voir en- co- re|étrein- * dre _|
 w: veaux Que puis- se mon che-|min par- ve- nir à t'at-|tein- * dre _|
 
-X:151
+X:150
 T:Tournez les yeux vers le seigneur
 C:Ch. Guerret-Fourneau
 L:1/8
@@ -6246,11 +6187,13 @@ I:linebreak $
 K:D
 V:1 clef=
 V:1
-^"D""^Refrain" F2 DE F2 D2 |^"F#m" A3 A A4 |^"G" B3 A GA BA- |^"D" A6 z2 |^"G" G2 EF G3 G |$ %5
-w: Tour- nez les yeux vers|le sei- gneur|et ray- on- nez de joie.|_|Chan- tez son nom de|
+^"D""_Refrain" F2 DE F2 D2 |^"F#m" A3 A A4 |$ %2
+w: Tour- nez les yeux vers|le sei- gneur|
+^"G" B3 A GA BA- |^"D" A6 z2 |^"G" G2 EF G3 G |$ %5
+w: et ray- on- nez de joie.|_|Chan- tez son nom de|
 ^"F#m" A2 FE^"Bm" D3 D |^"G" G3 F^"Em" E3 D |^"A" E6 z D |^"G" G3 F E3^"A" D |^"D" D8 ||$ %10
 w: tout vo- tre coeur. Il|est vo- tre sau-|veur, c'est|lui vo- tre sei-|gneur.|
-^"D""^Couplets" A3 A A2 AA |^"F#m" A6 AA |^"G" D4 E E3 |^"D" F6 z2 |$ %14
+^"D""_Couplets" A3 A A2 AA |^"F#m" A6 AA |^"G" D4 E E3 |^"D" F6 z2 |$ %14
 w: 1.J'ai cher- ché le sei-|gneur et il|m'a é- cou-|té.|
 ^"D" A2 AA AA AA- |^"F#m" A4 z2 AA |^"G" D3 D E E3 |^"D" D8 ||$ %18
 w: Il m'a gué- ri de mes peurs|_ et sans|fin je le loue-|rai.|
@@ -6263,7 +6206,7 @@ w: 3.Ceux qui cher- chent le sei-|gneur ne se-|ront pri- vés de|rien.|
 ^"D" A2 A A2 A A2 |^"F#m" A4 z2 AA |^"G" D3 D E E3 |^"D" D8 |] %34
 w: S'ils lui ou- vrent leur|coeur, ils se-|ront com- blés de|bien.|
 
-X:152
+X:151
 T:Trouver dans ma vie ta présence
 C:Jean-claude GIANADDA
 L:1/8
@@ -6289,7 +6232,7 @@ w: _ Res-|ter pour le|pain de la|rou-|te, Sa-|voir re- con-|naî- tre ton|pas|_|
 w: _ Choi-|sir de don-|ner sans re-|pren-|dre Fê-|ter le re-|tour d'un en-|fant|_|
 w: _ Sa-|voir tout ce|que tu m'ap-|por-|tes Res-|ter et de-|ve- nir veil-|leur|_|
 
-X:153
+X:152
 T:Tu seras la louange
 T:Album "Promesse" (2018)
 C:Glorious
@@ -6324,7 +6267,7 @@ w: _ Tu fends la|* mer * Tu me sai-|* sis. Sans peur je|* marche a- vec con- fia
 w: |||||
 w: |||||
 
-X:154
+X:153
 T:Tu as porté celui qui porte tout
 C:Chants de l'Emmanuel - L. Cordin
 %%score { ( 1 2 ) | ( 3 4 ) }
@@ -6377,7 +6320,7 @@ V:4
  A,,2 A,D,- D,3 D, | E,E,E,A,,- A,,4 | B,,4 B,,2 B,,2 | E,6 x2 |$ %12
  A,,2 A,D,- D,3 D, | E,E,E,F,- F,2 E,2 | D,2 C,2 B,,2 B,,2 | E,4- E,2 x2 |] %16
 
-X:155
+X:154
 T:Tu entends mon cri
 C:Communauté du chemin neuf
 %%score [ 1 ( 2 3 ) 4 ]
@@ -6426,7 +6369,7 @@ V:4
  z8 | z8 | z8 | z8 | z8 |$ %13
  z8 | z8 | z8 |] %16
 
-X:156
+X:155
 T:Tu es devenu enfant de Dieu
 C:A. Gouzes
 Z:J-P Revel & D. Bourgeois
@@ -6489,11 +6432,9 @@ w: B.~Al-|lé- lu- ia al-|lé- lu- ia, al-|lé- lu- ia. Al-|lé- lu- ia. Al-|
  D,>D, D,D, | G,>G, G,G, | D,>D, D,D, | G,>G, !fermata!G,2 |] %17
 w: lé- lu- ia. Al-|lé- lu- ia Al-|lé- lu- ia. Al-|lé- lu- ia!|
 
-X:157
+X:156
 T:Tu fais ta demeure en nous
-C:Chants de l'emmanuel
-C:Chants de l'emmanuel
-(S.-M. Drouineau)
+C:Chants de l'emmanuel (S.-M. Drouineau)
 %%score [ 1 2 ( 3 4 ) ]
 L:1/8
 M:4/4
@@ -6540,7 +6481,7 @@ V:4
  x E, | C,C,C,C, D,3 D, | B,,B,,B,,B,, E,4 | A,,2 B,,2 C,2 C,C, | B,,6 z B,, |$ %13
  A,,A,,A,,A,, A,,3 E, | E,E,E,F, G,4 | A,A,C,C, B,,B,,B,,B,, | E,8 |] %17
 
-X:158
+X:157
 T:Venez approchons-nous
 C:A. Dumont
 %%score [ 1 2 ( 3 4 ) ]
@@ -6585,7 +6526,7 @@ V:4
  x2 G,,/G,,/ | G,,G,,G,, B,,A,,G,, | F,,F,,^C, B,,2 B,,/B,,/ | E,E,E, C,C,C,/C,/ | F,G,E, B,,2 G,,/G,,/ |$ %14
  G,,G,,G,, B,,B,,A,,/G,,/ | F,,F,,^C, B,,2 B,,/B,,/ | E,E,E, C,2 C,/C,/ | F,F,E, B,,3 |] %18
 
-X:159
+X:158
 T:Venez chantons notre Dieu
 C:G.Dedillon
 %%score [ 1 ( 2 3 ) ]
@@ -6644,7 +6585,7 @@ V:3
 |: x4 | x4 | x4 | x2 ||$ %22
  EE | EE B,B, | C2 C2 | C B,3 | E4 :| %27
 
-X:160
+X:159
 T:Venez, divin Messie
 C:Abbé Lambert
 Z:Abbé Pellegrin (1663-17745)
@@ -6713,7 +6654,7 @@ V:4
  D,2 F, B,2 B, | E,3 B,2 F, | G,2 D, E,2 =E, | F,2 C, F,2 E, |$ %21
  D,2 F, B,2 B, | E,3 B,2 A, | B,2 B, F,G,F, | [B,,F,]3 x3 |] %25
 
-X:161
+X:160
 T:Viens, Saint Esprit
 C:Elisabeth Bourbouze
 %%score { ( 1 2 ) | ( 3 4 ) }
@@ -6751,7 +6692,7 @@ V:4
  B,,4- B,,B,, B,,>A,, | A,,4- A,,A,,A,,A,, | E,E,<E,E, B,,4 | =C,C,<C,C, =D,D,<D,D, |$ %9
  E,4 E,4 | =C,C,<C,C, =D,D,<D,D, | E,4 E,4 | =C,C,<C,C, =D,D,<D,D, | E,8 |] %14
 
-X:162
+X:161
 T:Vivre comme le Christ
 C:Fr Jean-Baptiste du Jonchay
 Z:D'après le Bienheureux P. Brottier
@@ -6806,7 +6747,7 @@ V:4
  F,F, F,F,- F,2 F,2 | F,2 F,C,- C,2 D,E, | D,2 D,D,- D,D, E,2 | A,,8 |$ %14
  A,A, A,A,- A,2 A,2 | A,2 A,E,- E, E, E,E, | B,,6 ^A,,2 | C,6 C,2 | F,8- | F,8 |] %20
 
-X:163
+X:162
 T:Vivre d'amour
 C:Ephraïm
 C:Frère Ephraïm
@@ -6850,7 +6791,7 @@ V:4
  B,,4 x B,,3 | E,8 | A,4 x F,3 | D,8 | B,,4 x3 B,, |$ %15
  x8 | x8 | x8 | x8 | C,4 x4 |] %20
 
-X:164
+X:163
 T:Voici le corps et le sang du seigneur
 C:M. Dannaud
 %%score [ 1 2 ( 3 4 ) ]
@@ -6899,7 +6840,7 @@ V:4
  D,D, | D,2 D,2 C,2 | B,,2 B,,2 B,,2 | A,,6 | A,,2 z2 B,,B,, | B,,2 B,,2 A,,2 | G,,2 G,,2 G,,2 | A,,6- | A,,2 z2 ^A,,A,, |$ %25
  B,,2 B,,2 A,,2 | G,,2 G,,2 G,,2 | B,,6 | B,,2 z2 B,,A,, | D,2 D,2 C,2 | B,,2 B,,2 B,,2 | A,,6- | A,,4 z2 |] %33
 
-X:165
+X:164
 T:When the saints go marching in
 T:Gospel
 L:1/8
@@ -6914,7 +6855,7 @@ w: 1.Oh when the|saints|Oh when the|saints|Oh when the|saints go|mar- ching|in|
  z2 F2 F2 E2 |^"D" D6 D2 |^"D7" F4 A4 |^"G" A2 G6 | z2 G2 F2 G2 |^"D" A4 F4 | D4^"A7" E4 |^"D" D8 |] %16
 w: I want to|be a-|mong the|num- ber|Oh when the|saints go|mar- ching|in|
 
-X:166
+X:165
 T:Ô Père, Dieu du ciel et de la terre
 C:Communauté de l’Emmanuel (R. Lobo)
 %%score { ( 1 2 ) | ( 3 4 ) }
