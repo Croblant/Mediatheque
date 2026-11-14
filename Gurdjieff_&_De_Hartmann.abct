@@ -268,7 +268,7 @@ K:Eb
 V:1 clef=
 V:1
  z2 |: !-(!G2 !-)!E4 | z2 EF !^!GE | D2 F4 | F2 D4 | E2 F2 G2 | B6 | F2 G4 | G2 B4 | G2 c4 |$ %10
- !wedge!c2 !wedge!B2 !wedge!A2 |({/c} !wedge!B2) !wedge!B2({/G} !wedge!F2) | G2 E2- E(6:4:6(G/4F/4E/4D/4C/4=B,/4 | !^!C6) :| [CEGc] z z2 z2 |] %15
+ !wedge!c2 !wedge!B2 !wedge!A2 |{/c} !wedge!B2 !wedge!B2{/G} !wedge!F2 | G2 E2- E(6:4:6(G/4F/4E/4D/4C/4=B,/4 | !^!C6) :| [CEGc] z z2 z2 |] %15
 
 X:15
 T:Asian Songs and Rhytms n°26
@@ -352,8 +352,8 @@ K:G
 V:1 clef=
 V:1
 "^Allegretto" z2 .[EFA].[EFA] .[EFA].[EFA].[EFA] z z2 .[EFA]2 .[EFA]2 | z2 .[EFA].[EFA] .[EFA].[EFA].[EFA] z z2 .[EFA]2 .[EFA]2 | z2 (GF EF G2 FE D2 E2-) | E2 (GF E2 FG A2 B4) |$ %4
- [Ac]4 (cB A2)({/B} AG F2 E2 | D2 E6- E4) z2 | (EF G2) (GPF E2) (ED) D2 E2- | E2 (GA [GB]2) ([GB](3A/B/A/ G2) (GA [GB]2) | ([GB](3A/B/A/ G2) (GA [GB]2) (!tenuto!e2 B2) (.B.B) |$ %9
- (AB/A/ G2) (GA [GB]2) (.A.A) (AB/A/ G2) | (G(3F/G/F/ E2) (FD{/F} E6) z2 | (EF G2 A2 dc B2) (B2 A2 | G2 A2 [GB]4) (Bc [Bd]2) (3(dcB) |$ %13
+ [Ac]4 (cB A2){/B} AG F2 E2 | D2 E6- E4 z2 | (EF G2) (GPF E2) (ED) D2 E2- | E2 (GA [GB]2) ([GB](3A/B/A/ G2) (GA [GB]2) | ([GB](3A/B/A/ G2) (GA [GB]2) (!tenuto!e2 B2) (.B.B) |$ %9
+ (AB/A/ G2) (GA [GB]2) (.A.A) (AB/A/ G2) | (G(3F/G/F/ E2) FD{/F} E6 z2 | (EF G2 A2 dc B2) (B2 A2 | G2 A2 [GB]4) (Bc [Bd]2) (3(dcB) |$ %13
  (A>B G2) (BA G2 F2 E2 D2 | E8) z2 (!tenuto!B3 A | B8) (Bc [Bd]3 c | edcB [Bd]4)!f! !wedge![Bd]2 !wedge![ce]2 !wedge![Bd]2 | z2 (edcB A2) z2 |$ %18
  !wedge![Ac]2 !wedge![Bd]2 !wedge![Ac]2 z2 |!p! ([GB]2 [Bd]2) .[Bd]2 (ed | (3cBA GF E2 D2 | E8) z4 z2 | [ebe'] z z4 z2 z4 z2 |] %23
 
@@ -399,10 +399,10 @@ K:C
 V:1 clef=
 V:2 clef=
 V:1
-"^Allegretto""_espressivo" !tenuto!.d2 (!tenuto!d4 c/d/c/d/ c2 B2 A2 G2 A4) | (c2 d2 e4) (d/e/d/e/)({/e} d2) (c2 d2 e4) | (de d2)({ed} !tenuto!c2)({/c} !tenuto!B2)({/B} !tenuto!A2) !tenuto!G2 !tenuto!A4 | !tenuto!.e2 !tenuto!e4 (de d2)(({ed} c2) d2 e4) |$ %4
- (dc B2) (cd e2) (de)({de} !tenuto!d2)({/d} !tenuto!c2)({/c} !tenuto!B2)({/B} !tenuto!A2) !tenuto!G2 !tenuto!A4 | (G2 A4) (G2 A2 d4) | (cdcd c2) (edcd c2) | e2 e4 g2 f/g/f e2 d2 e4 |!<(! !tenuto!g2 !tenuto!g2!<)! |$ %9
+"^Allegretto""_espressivo" !tenuto!.d2 (!tenuto!d4 c/d/c/d/ c2 B2 A2 G2 A4) | (c2 d2 e4) (d/e/d/e/){/e} d2 (c2 d2 e4) | (de d2){ed} !tenuto!c2{/c} !tenuto!B2{/B} !tenuto!A2 !tenuto!G2 !tenuto!A4 | !tenuto!.e2 !tenuto!e4 (de d2){ed} c2 d2 e4 |$ %4
+ (dc B2) (cd e2) (de){de} !tenuto!d2{/d} !tenuto!c2{/c} !tenuto!B2{/B} !tenuto!A2 !tenuto!G2 !tenuto!A4 | (G2 A4) (G2 A2 d4) | (cdcd c2) (edcd c2) | e2 e4 g2 f/g/f e2 d2 e4 |!<(! !tenuto!g2 !tenuto!g2!<)! |$ %9
  [ca]4 gafg efde c2 d6- d6 | (de f2 g2 a4 ga fgef d2 e2 f2 g2 a2 g4) | (ga g2{/g} f2 e2 g2 f3) z |$ %12
- (fg f2({/!tenuto!f} e2) d2 f2 e3) z | (Bc d2) !tenuto!d2 !tenuto!e4 | (decd BcAB G2 A4-) | !tenuto!!fermata![Aea]8 |] %16
+ (fg f2{/!tenuto!f} e2 d2 f2 e3) z | (Bc d2) !tenuto!d2 !tenuto!e4 | (decd BcAB G2 A4-) | !tenuto!!fermata![Aea]8 |] %16
 V:2
  x20 | x20 | x16 | x18 |$ %4
  x24 | x14 | x12 | x18 | x4 |$ %9
@@ -420,8 +420,8 @@ I:linebreak $
 K:F
 V:1 clef=
 V:1
- z4 | DF({/E} D2) | DF({/E} D2) | EG({/F} E2) | EG({/G} E2) | EF/G/ A2 | FE/D/ ^C2 | !>!E!>!E D/E/F |$ %8
- !^!F/!^!F/(6:4:6G/4F/4E/4D/4^C/4D/4 E/E/({/E}D/)E/ F2 | !^!F!^!F E3/2{FE}D/ | !^!G-G/4F/4E/4D/4 F-F/4F/4E/4D/4 | !^!A-A/4G/4F/4E/4 D-D/4E/4F/4G/4 | E/F/G/F/ E/F/A/G/ |$ %13
+ z4 | DF{/E} D2 | DF{/E} D2 | EG{/F} E2 | EG{/G} E2 | EF/G/ A2 | FE/D/ ^C2 | !>!E!>!E D/E/F |$ %8
+ !^!F/!^!F/(6:4:6G/4F/4E/4D/4^C/4D/4 E/E/{/E}D/E/ F2 | !^!F!^!F E3/2{FE}D/ | !^!G-G/4F/4E/4D/4 F-F/4F/4E/4D/4 | !^!A-A/4G/4F/4E/4 D-D/4E/4F/4G/4 | E/F/G/F/ E/F/A/G/ |$ %13
  F/G/B/A/ G2 | cB/4A/4G/4F/4 E2 | (3GAB A2 | D(3D/4D/4D/4(3D/4D/4D/4 D2!D.C.! || [DFAd] z z2 |] %18
 
 X:24
