@@ -107,7 +107,6 @@ V:4
 
 X:3
 T:Adoramus te
-C:Chants de l'Emmanuel - L. Cordin
 C:Chant de l'Emmanuel (M. Hagemann)
 %%score { ( 1 2 ) | ( 3 4 ) }
 L:1/8
@@ -150,20 +149,20 @@ w: Jé- sus vé- ri- té et vie *||
 w: Jé- sus roi d'hu- mi- li- té *||
 w: Jé- sus Christ res- sus- ci- té, *||
 V:2
- FF FF/E/- E3 E | F2 FF/F/- F4 | FF/F/- FF FDDF | F4 E4 |$ %4
- FF FF/E/- E3 E | F2 FF/F/- F4 | FE/D/- DF EEDC | D4 C4 ||$ %8
+ FF FF/E/- E3 E | F2 FF/F/- F4 | FF/F/- FF FDDF | (F4 E4) |$ %4
+ FF FF/E/- E3 E | F2 FF/F/- F4 | FE/D/- DF EEDC | (D4 C4) ||$ %8
  x | x8 | x8 | x8 |$ %12
  FF FF/E/- E3 x | x8 | x8 |$ %15
  x8 | GG GG/E/- E4 |] %17
 V:3
  CC CC/C/- C3 C | D2 DD/C/- C4 | DD/D/- DD DDB,D | C4- C4 |$ %4
- CC CC/C/- C3 C | D2 DD/C/- C4 | DD/A,/- A,A, CCCG, | B,4 A,4 ||$ %8
+ CC CC/C/- C3 C | D2 DD/C/- C4 | DD/A,/- A,A, CCCG, | (B,4 A,4) ||$ %8
  z | z8 | z8 | z8 |$ %12
  DD DD/C/- C4 | z8 | z8 |$ %15
  z8 | B,B, B,B,/C/- C4 |] %17
 V:4
  F,F, F,F,/C,/- C,3 C, | B,,2 D,D,/F,/- F,4 | D,D,/D,/- D,D, B,,B,,B,,B,, | C,4- C,4 |$ %4
- F,F, F,F,/C,/- C,3 C, | B,,2 D,D,/F,/- F,4 | D,D,/D,/- D,D, C,C,C,C, | B,,4 F,4 ||$ %8
+ F,F, F,F,/C,/- C,3 C, | B,,2 D,D,/F,/- F,4 | D,D,/D,/- D,D, C,C,C,C, | (B,,4 F,4) ||$ %8
  x | x8 | x8 | x8 |$ %12
  B,,B,, B,,B,,/C,/- C,4 | z8 | x8 |$ %15
  x8 | _E,E, E,E,/C,/- C,4 |] %17
@@ -287,11 +286,11 @@ V:3 clef=bass
 V:4 clef=bass
 V:1
 |:[P:Refrain]^"Bm" B3 ^A B2 F2 |^"A" A3 ^G A2 E2 |^"G" G4 D2 E2 |^"F#" F8 :|$ %4
-w: Al- lé- lu- ia|Al- lé- lu- ia|Al- lé- lu-|ia~!|
-w: ||||
-w: ||||
-w: ||||
-w: ||||
+w: |Al- lé- lu- ia|Al- lé- lu- ia|Al- lé- lu-|ia~!|
+w: |||||
+w: |||||
+w: |||||
+w: |||||
 [P:Couplets]^"D" F2 E D2 F ED |^"A" A2 EE- E4 |^"Bm" D2 D D2 C DE |^"F#" F8 |$ %8
 w: 1.~Pro- cla- mez que le Sei-|gneur est bon _|é- ter- nel est son a-|mour,|
 w: 2.~Le Sei- gneur est ma force|et mon chant _|Le Sei- gneur est mon sa-|lut~!|
@@ -364,7 +363,6 @@ V:4
 
 X:8
 T:Alléluia - Messe du bon berger
-C:Chemin Neuf
 C:Communauté du Chemin Neuf
 %%score { 1 | 2 }
 L:1/8
@@ -374,15 +372,15 @@ K:Bb
 V:1 clef=
 V:2 clef=
 V:1
-^"Gm" z3 B BAGF |:^"Gm" G6 Bc- |^"F" c A2 F- F4 |^"Dm" F2 D F2 A2 B- |^"Gm" B2 z B^"F4" BAGF |$ %5
-w: Al- lé- * lu- *|ia, al- lé-|* lu- ia, *|al- lé- lu- * ia|* al- lé- * lu- *|
-^"Gm" G6 Bc- |^"F" c A2 F- F4 |^"Dm" F2 D F2 A2 G- ||1^"Gm" G2 z B^"F4" BAGF :||2^"Eb" G8-&x4^"F"x4 |^"Gm" G4 z4 |] %11
-w: ia al- lé-|* lu- ia *|al- lé- lu- * ia|* al- lé- * lu *|ia|_|
+^"Gm" z3 B (BA)GF |:^"Gm" G6 Bc- |^"F" c A2 F- F4 |^"Dm" F2 D (F2 A2) B- |^"Gm" B2 z B^"F4" (BA)(GF) |$ %5
+w: * Al- lé- * lu- *|ia, al- lé-|* lu- ia, *|al- lé- lu- * ia|* * al- lé- * lu- *|
+^"Gm" G6 Bc- |^"F" c A2 F- F4 |^"Dm" F2 D (F2 A2) G- ||1^"Gm" G2 z B^"F4" (BA)(GF) :||2^"Eb" G8-&x4^"F"x4 |^"Gm" G4 z4 |] %11
+w: ia al- lé-|* lu- ia *|al- lé- lu- * ia|* * al- lé- * lu *|ia|_|
 V:2
  z8 |: G2 D G2 G2 F- | F F2 F4 z | D2 D F2 D2 G- | G2 z2 z4 |$ %5
-w: |Al- lé- lu, al- lé-|* lu- ia|al- lé- lu- * ia||
+w: |Al- lé- lu, al- lé-|* lu- ia *|al- lé- lu- * ia||
  G2 D G2 G2 F- | F F2 F4 z | D2 DD- D3 G- ||1 G4 z4 :||2 E4 F4 | G4 z4 |] %11
-w: al- lé- lu, al- lé-|* lu- ia|al- lé- lu- * ia||ia _|_|
+w: al- lé- lu, al- lé-|* lu- ia *|al- lé- lu- * ia||ia _|_|
 
 X:9
 T:Amazing Grace
@@ -441,13 +439,13 @@ I:linebreak $
 K:Bb
 V:1 clef=
 V:1
-"^Largo"!mp! F3 G^"Dsus4"!<(! G4 | G/A/ B2 A c/B/A^"Bb" B2!<)! |^"F"!>(! A3 B^"Bb" B4!>)! |^"Cm" cBAB GABc |^"Bb" Bc{/d}cB B2 A2 |^"Dsus4" G2 F2^"Adim"{/B} A3 G |^"Dsus4" G4^"Cm" c2 B2 |$ %7
-^"Am7" A2 B2^"Gm" GABc |^"Bb" B/A/B^"Am" A4^"Gm" G2 |^"Cm" z4 cBc{/d}c |^"Bb" B2^"Am" A2^"Dsus4" GABc |^"Gm" BA G2!<(! A2 B2-!<)! |!>(! B>A GA^"Dsus4" G4!>)! |!mf! F2"^poco\naccelerando" G4-^"Eb" GF |^"Cm"[Q:1/4=55] GAB{/c}A^"Bb" B4 |$ %15
+"^Largo"!mp! F3 G^"Dsus4"!<(! G4 | G/A/ B2 A c/B/A^"Bb" B2!<)! |^"F"!>(! A3 B^"Bb" B4!>)! |^"Cm" cBAB GABc |^"Bb" Bc({/d}c)B B2 A2 |^"Dsus4" G2 F2^"Adim"({/B} A3) G |^"Dsus4" G4^"Cm" c2 B2 |$ %7
+^"Am7" A2 B2^"Gm" GABc |^"Bb" B/A/B^"Am" A4^"Gm" G2 |^"Cm" z4 cBc({/d}c) |^"Bb" B2^"Am" A2^"Dsus4" GABc |^"Gm" BA G2!<(! A2 B2-!<)! |!>(! B>A GA^"Dsus4" G4!>)! |!mf! F2"^poco\naccelerando" G4-^"Eb" GF |^"Cm"[Q:1/4=55] GAB({/c}A)^"Bb" B4 |$ %15
 ^"Cm"[Q:1/4=57]"^.5" cB^"F" A2^"Bb" BA^"Eb" G2 |^"Csus4"[Q:1/4=60] cBAG F=E^"Gm7"FG |^"Dm7" F=EFG FE D2 |^"Gm" GF^"C"=EG^"F" F4 |^"C" =E/F/G<AG c/B/A/G/ F2 |^"Bbmaj7" A2 G2^"C" G4 ||$ %21
-!mf! Bc- c6 |^"Gm" Bc{/d}cB^"Bbsus4" B2 A2 |^"Dsus4" G/A/B/c/ B/A/G!<(! A2 B2-!<)! |^"Fsus4" B!>(!AGA^"Dsus4" G4!>)! |^"Csus4" F/G/A/B/ c/d/c/B/ c/B/A^"Gm" B/A/G |^"C" c/B/A/G/ F/=E/F/G/^"Dm" FE^"Bb"D{/G}F |$ %27
-^"C"!>(! =E4{/F} E4!>)! |^"Fm"!p! _A2 A>G A/=B/ G3 |^"Csus4" c/B/_A/G/ A2 GA{/B} A2 |^"Fm" _AGA=B A2 G2 |^"Csus4" FG _A/G/F/=E/^"Em" FE z2 |^"C" =E/F/G/_A/ =B/c/B/A/ G/F/E/F/ G2 |$ %33
-^"Fm" F=E^"B"_EF^"C" =E4 |^"Csus4"!f! c>B A2^"Bb" =d/c/B/A/ B2 |^"F" A2^"Bb" B2^"Cm7"{/c} B/A/ G3 |^"Gm" BA^"Cm" c2^"Fsus4" B/A/G^"F" A{/c}B |^"Eb" G2!<(! c6!<)! |^"C7sus4"!>(! B/_A/G/A/ B/c/B/A/ B<A- A2!>)! |$ %39
-^"Gsus4" G/_A/B/c/ B/c/B/A/^"Bbsus4" B<A- AG |^"Dsus4" G/_A/=B/c/^"Dm""^Ritardando" d<c- c4 |^"Fsus4"[Q:1/4=45] B/_A/G/A/^"Gm" BA cBcd |^"Cm"[Q:1/4=40] c2 _B2^"F" =A2 G2 |^"Csus4" F4^"Dm"{/B} A2 G2 |^"G" G8 |] %45
+!mf! Bc- c6 |^"Gm" Bc({/d}c)B^"Bbsus4" B2 A2 |^"Dsus4" G/A/B/c/ B/A/G!<(! A2 B2-!<)! |^"Fsus4" B!>(!AGA^"Dsus4" G4!>)! |^"Csus4" F/G/A/B/ c/d/c/B/ c/B/A^"Gm" B/A/G |^"C" c/B/A/G/ F/=E/F/G/^"Dm" FE^"Bb"D({/G}F) |$ %27
+^"C"!>(! =E4({/F} E4)!>)! |^"Fm"!p! _A2 A>G A/=B/ G3 |^"Csus4" c/B/_A/G/ A2 GA({/B} A2) |^"Fm" _AGA=B A2 G2 |^"Csus4" FG _A/G/F/=E/^"Em" FE z2 |^"C" =E/F/G/_A/ =B/c/B/A/ G/F/E/F/ G2 |$ %33
+^"Fm" F=E^"B"_EF^"C" =E4 |^"Csus4"!f! c>B A2^"Bb" =d/c/B/A/ B2 |^"F" A2^"Bb" B2^"Cm7"({/c} B/)A/ G3 |^"Gm" BA^"Cm" c2^"Fsus4" B/A/G^"F" A({/c}B) |^"Eb" G2!<(! c6!<)! |^"C7sus4"!>(! B/_A/G/A/ B/c/B/A/ B<A- A2!>)! |$ %39
+^"Gsus4" G/_A/B/c/ B/c/B/A/^"Bbsus4" B<A- AG |^"Dsus4" G/_A/=B/c/^"Dm""^Ritardando" d<c- c4 |^"Fsus4"[Q:1/4=45] B/_A/G/A/^"Gm" BA cBcd |^"Cm"[Q:1/4=40] c2 _B2^"F" =A2 G2 |^"Csus4" F4^"Dm"({/B} A2) G2 |^"G" G8 |] %45
 
 X:12
 T:Arménien : O wonderful and great
@@ -490,7 +488,6 @@ w: loin, * l'é- van- gile nous ap- pelle plus|loin, plus loin|_|
 
 X:14
 T:Ave maria - Glorious
-C:Retranscription David SWITAJ
 C:Glorious
 L:1/8
 M:4/4
@@ -499,19 +496,19 @@ K:C
 V:1 clef=
 V:1
  z8 |[Q:1/4=60] z8 | z2 z2 z G F>G |^"C" F>E E2- E>E D>E |^"Am" D>C C4 C>G |^"F9" G2- G>G^"Dm" A3 G |^"Gsus4" G2^"G" z2 z G F>G |$ %7
-w: ||Je te sa-|lue Ma- rie _ com- blée de|grâ _ ce le Sei-|gneur _ est a- vec|toi Tu es bé-|
+w: ||* * * Je te sa-|lue Ma- rie _ com- blée de|grâ _ ce le Sei-|gneur _ est a- vec|toi * * Tu es bé-|
 ^"C" F>E E2- E>E D>E |^"Am" D>C C4 C>G |^"Dm" G2- GB, B,2- B,G |^"F" A2 A2^"G" G2 (3EDC |^"C" C4 z [Ac]^"G/B" [GB]>[Ac] |^"Am" [EA]4 z [Ac] [GB]>[Ac] |$ %13
-w: nie, Ma- rie _ en- tre tou-|tes les femmes et Jé-|sus _ le fruit _ de|tes en- trailles est _ bé-|ni. Sain- te Ma-|rie Mè- re de|
+w: nie, Ma- rie _ en- tre tou-|tes les femmes et Jé-|sus _ le fruit _ de|tes en- trailles est _ bé-|ni. _ Sain- te Ma-|rie * Mè- re de|
 ^"F" [FA]4 z [Ac] [GB]>[Ac] |^"C" [EG]4 z [CF] [CE]>[DF] |^"G" [DG]4 z [Ac] [GB]>[Ac] |^"Am" [EA]4 z [Ac] [GB]>[Ac] |^"F" [FA]4 z [Ac] [GB]>[Ac] |^"C" [EG]4- [EG]3 [CG] |^"G" [DG]4 |$ %20
-w: Dieu O prie pour|nous Pau- vres pê-|cheurs Dès main- te-|nant et jusqu' à|l'heure de no- tre|mort _ A-|men|
+w: Dieu * O prie pour|nous * Pau- vres pê-|cheurs * Dès main- te-|nant * et jusqu' à|l'heure * de no- tre|mort _ A-|men|
 |: z [Ac]/[Ac]/ [AB]>[Ac] |^"Am" [EA]4 z [Ec]/[Ec]/ [EB]>[Ec] |^"F" [FA]4 z [Fc]/[Fc]/ [FB]>[Fc] |^"C" [CG]4 z [CE]/[CE]/ [CE]>[DG] |^"G" [DG]4 :|$ %25
-w: A- ve Ma- ri-|a A- ve Ma- ri-|a A- ve Ma- ri-|a A- ve Ma- ri-|a|
+w: |* A- ve Ma- ri-|a _ A- ve Ma- ri-|a _ A- ve Ma- ri-|a _ A- ve Ma- ri-|a|
  z E/E/ D>C |^"C" C8- | C6 z2 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | z4 |$ %36
-w: A- ve Ma- ri-|a|_|||||||||
+w: * A- ve Ma- ri-|a|_|||||||||
 |: z [Ac]/[Ac]/ [AB]>[Ac] |^"Am" [EA]4 | z [Ec]/[Ec]/ [EB]>[Ec] |^"F" [FA]4 z [Fc]/[Fc]/ [FB]>[Fc] |^"C" [CG]4 z [CE]/[CE]/ [CE]>[DG] |^"G" [DG]4 :|$ %42
-w: A- ve Ma- ri-|a|A- ve Ma- ri-|a A- ve Ma- ri-|a A- ve Ma- ri-|a|
+w: |* A- ve Ma- ri-|a|_ A- ve Ma- ri-|a _ A- ve Ma- ri-|a _ A- ve Ma- ri-|a|
  z E/E/ D>C |^"C" C8- | !fermata!C8 |] %45
-w: A- ve Ma- ri-|a|_|
+w: * A- ve Ma- ri-|a|_|
 
 X:15
 T:Avec toi, nous irons au désert
@@ -654,7 +651,6 @@ w: Com- blée de|biens par le Sei- gneur, dont l'a- mour chante en vo- tre|vie _
 X:18
 T:Béni soit ton nom (JEM 732)
 T:Titre Original : « Blessed be your Name»
-C:Prière de l'angélus
 C:Matt & Beth Redman
 L:1/8
 M:4/4
@@ -663,43 +659,43 @@ K:A
 V:1 clef=
 V:1
 |:[P:Couplets] z2 A,^"A"C- C E2 D- | D^"E" E2 E4 C/B,/ |^"F#m7" C3 C2 E2 D- |^"D" D E2 E3 z C/B,/ |$ %4
-w: * 1.~Bé- * ni soit|_ ton nom là où|tu don- nes l'a-|* bon- dance et dé-|
-w: Et bé- * ni soit|_ ton nom quand ma|vie tra- verse un|* dé- sert, quand je|
-w: ||||
-w: * 2.~Bé- * ni soit|_ ton nom quand sur|moi bril- le le|* so- leil. Quand la|
-w: Et bé- * ni soit|_ ton nom sur la|route se- mée de|* souf- france. S'il m'en|
+w: |* * 1.~Bé- * ni soit|_ ton nom là où|tu don- nes l'a-|* bon- dance * et dé-|
+w: |* Et bé- * ni soit|_ ton nom quand ma|vie tra- verse un|* dé- sert, * quand je|
+w: |||||
+w: |* * 2.~Bé- * ni soit|_ ton nom quand sur|moi bril- le le|* so- leil. * Quand la|
+w: |* Et bé- * ni soit|_ ton nom sur la|route se- mée de|* souf- france. * S'il m'en|
 ^"A" C3 C2 E2 D- | D^"E" E2 E3 z C/B,/- |^"D" B,CB,A,- A,4 | z8 :|$ %8
-w: ver- ses ta bien-|* veil- lance; bé- ni|* soit ton nom. *||
-w: marche en terre in-|* con- nue; bé- ni|* soit ton nom. *||
+w: ver- ses ta bien-|* veil- lance; * bé- ni|* soit ton nom. *||
+w: marche en terre in-|* con- nue; * bé- ni|* soit ton nom. *||
 w: ||||
-w: vie sem- ble me|* sou- rire; bé- ni|* soit ton nom. *||
-w: coûte d'of- frir ma|* lou- ange; bé- ni|* soit ton nom. *||
+w: vie sem- ble me|* sou- rire; * bé- ni|* soit ton nom. *||
+w: coûte d'of- frir ma|* lou- ange; * bé- ni|* soit ton nom. *||
 [P:Pont]^"A" z2 AA A2 E2 |^"E" E2 F2 G2 A2 |^"F#m7" z2 B2 B2 A2 |^"D" F4 z4 |^"A" z AAA A2 E2 |^"E" E2 F2 G2 A2 |^"F#m7" z2 B2 B2 A2 |^"D" F4 ||$ %16
-w: Tes bien- faits font|naître en moi des|chants de lou-|ange.|Et, même au coeur de|la nuit, Sei- gneur,|je re- di-|rai~:|
+w: * Tes bien- faits font|naître en moi des|* chants de lou-|ange. *|* Et, même au coeur de|la nuit, Sei- gneur,|* je re- di-|rai~:|
 w: ||||||||
 w: ||||||||
 w: ||||||||
 w: ||||||||
-[P:Refrain]S cBBA |^"A" A3 A- AABB- |^"E" B4 cBBA |^"F#m7" A8 |$ %20
+[P:Refrain]S cBBA |^"A" A3 A- A(AB)B- |^"E" B4 cBBA |^"F#m7" A8 |$ %20
 w: "~Bé- ni soit le|nom du * Sei- * gneur|_ Bé- ni soit ton|nom.|
 w: ||||
 w: ||||
 w: ||||
 w: ||||
-^"D" z4 cBBA |^"A" A3 A- AABB- |^"E" B4 cBBA |^"F#m7" c3^"E" c2 B2 A- |^"D" A8!D.C.!!fine! ||$ %25
-w: Bé- ni soit le|nom du * Sei- * gneur|_ Bé- ni soit ton|nom glo- ri- eux~!~"||
+^"D" z4 cBBA |^"A" A3 A- A(AB)B- |^"E" B4 cBBA |^"F#m7" c3^"E" c2 B2 A- |^"D" A8!D.C.!!fine! ||$ %25
+w: * Bé- ni soit le|nom du * Sei- * gneur|_ Bé- ni soit ton|nom glo- ri- eux~!~"||
 w: |||||
 w: |||||
 w: |||||
 w: |||||
 |:[P:Outro] z A |^"A" c2 c2 c3 B |^"E" B4 z3 A |^"F#m7" c2 c2 c3 B |^"D" B4 z3 A |$ %30
-w: Tu|donnes et tu re-|prends. Tu|donnes et tu re-|prends. Mon|
-w: |||||
-w: |||||
-w: |||||
-w: |||||
-^"A" c2 c2 c3 B |^"E" B4 z3 A |^"F#m7" c2 c2 c3 B |^"D" B A3 z2!D.S.! :| %34
-w: coeur choi- sit de|dire~: "~O|bé- ni soit ton|nom~!~" _|
+w: |* Tu|donnes et tu re-|prends. * Tu|donnes et tu re-|prends. * Mon|
+w: ||||||
+w: ||||||
+w: ||||||
+w: ||||||
+^"A" c2 c2 c3 B |^"E" B4 z3 A |^"F#m7" c2 c2 c3 B |^"D" (B A3) z2!D.S.! :| %34
+w: coeur choi- sit de|dire~: * "~O|bé- ni soit ton|nom~!~" _ _|
 w: ||||
 w: ||||
 w: ||||
@@ -726,7 +722,6 @@ w: Mais la nuit la plus|froi- de peut fai- re naître le|jour. Des jours de paix
 X:20
 T:Bénis le Seigneur, ô mon âme
 T:Psaume 103
-C:E. Faugeron
 C:Chants de l'Emmanuel (E. Faugeron)
 %%score [ ( 1 2 ) ( 3 4 ) ]
 L:1/8
@@ -739,13 +734,13 @@ V:2 clef=
 V:3 clef=bass
 V:4 clef=bass
 V:1
-[P:Refrain] D |^"Dm" D>FG ABc |^"Bb" d>cB^"F" c2 F |^"Gm" BAG^"Dm" F2 D |^"G7" F G2^"A" A2 D |$ %5
+[P:Refrain] D |^"Dm" D>FG ABc |^"Bb" (d>cB)^"F" c2 F |^"Gm" BAG^"Dm" F2 D |^"G7" F G2^"A" A2 D |$ %5
 w: Bé-|nis le Sei- gneur, ô mon|â- * * me, du|fond de mon ê- tre|son saint Nom, bé-|
 w: |||||
 w: |||||
 w: |||||
 w: |||||
-^"Dm" D>FG ABc |^"Bb" d>cB^"F" c2 F |^"Gm" BAG^"Dm" F2 D | F^"A" E2^"Dm" D3 ||$ %9
+^"Dm" D>FG ABc |^"Bb" (d>cB)^"F" c2 F |^"Gm" BAG^"Dm" F2 D | F^"A" E2^"Dm" D3 ||$ %9
 w: nis le Sei- gneur, ô mon|â- * * me, et|n'ou- blie au- cun de|ses bien- faits~!|
 w: ||||
 w: ||||
@@ -950,7 +945,6 @@ V:4
 
 X:25
 T:Christ aujourd'hui nous appelle (SM 176)
-C:Prière de l'angélus
 C:Michel Wackenheim
 Z:Claude Bernard
 %%score [ ( 1 2 ) ( 3 4 ) ]
@@ -963,34 +957,34 @@ V:2 clef=
 V:3 clef=bass
 V:4 clef=bass
 V:1
-|:[P:Refrain]^"Bb" D2 DE F2 GF |^"F" F3 E^"Bb" D4 |^"Gm" B2 BA^"Eb" G2^"Cm" AB |^"F4" F8&x4^"F"x4 |^"Eb" EE EF G2 AB |^"Bb" B4 F4 |$ %6
-w: Christ au- jour- d'hui nous ap-|pel- * le.|Christ au- jour- d'hui nous en-|voie~!|Vi- ve le Sei- gneur qui nous|ai- me.|
-w: ||||||
-w: ||||||
-w: ||||||
+|:[P:Refrain]^"Bb" D2 DE F2 GF |^"F" (F3 E)^"Bb" D4 |^"Gm" B2 BA^"Eb" G2^"Cm" AB |^"F4" F8&x4^"F"x4 |^"Eb" EE EF G2 AB |^"Bb" B4 F4 |$ %6
+w: |Christ au- jour- d'hui nous ap-|pel- * le.|Christ au- jour- d'hui nous en-|voie~!|Vi- ve le Sei- gneur qui nous|ai- me.|
+w: |||||||
+w: |||||||
+w: |||||||
 ^"Gm" B3 A G2 AB |^"F4" c4 z2^"Bb" dc&x2^"F"x6 |^"Eb" B4^"Cm" B2^"F" A2 |^"Bb" B4 z2 :|$ %10
-w: Dieu nous don- ne sa|joie. Dieu nous|don- ne sa|joie~!|
+w: Dieu nous don- ne sa|joie. * Dieu nous|don- ne sa|joie~! *|
 w: ||||
 w: ||||
 w: ||||
 [P:Couplets] DD |^"Gm" G2 GA BB AG |^"D" A4 z2 dc |^"Gm" B2 BA GG AB |$ %14
-w: 1.~Ses che-|mins vous con- dui- sent vers la|vie. Par- tez|loin, l'a- ven- ture est in- fi-|
-w: 2.~Ses che-|mins sont a- mour et vé- ri-|té. Le bon|grain, Dieu lui- mê- me l'a se-|
-w: 3.~Ses che-|mins dé- con- cer- tent vos re-|gards. Son ma-|tin ré- con- for- te vos es-|
-w: 4.~Ses che-|mins vous li- bè- rent de la|peur. Dieu sou-|tient les dis- ci- ples du Sau-|
+w: 1.~Ses che-|mins vous con- dui- sent vers la|vie. * Par- tez|loin, l'a- ven- ture est in- fi-|
+w: 2.~Ses che-|mins sont a- mour et vé- ri-|té. * Le bon|grain, Dieu lui- mê- me l'a se-|
+w: 3.~Ses che-|mins dé- con- cer- tent vos re-|gards. * Son ma-|tin ré- con- for- te vos es-|
+w: 4.~Ses che-|mins vous li- bè- rent de la|peur. * Dieu sou-|tient les dis- ci- ples du Sau-|
 ^"D" A4 z2 Bc |^"Bb" d4 B2 A2 |^"Eb" G4 z2 GG |^"Cm" e3 d^"Eb" c2^"Gm" B2 |^"F" c8 |] %19
-w: nie~! Vous se-|rez ses té-|moins. Vous qu'il|nom- me ses a-|mis.|
-w: mé. Vous se-|rez ses té-|moins. La pa-|ro- le va ger-|mer.|
-w: poirs. Vous se-|rez ses té-|moins. Soy- ez|surs de vo- tre|foi.|
-w: veur. Vous se-|rez ses té-|moins. Sur les|pas du Ser- vi-|teur.|
+w: nie~! * Vous se-|rez ses té-|moins. * Vous qu'il|nom- me ses a-|mis.|
+w: mé. * Vous se-|rez ses té-|moins. * La pa-|ro- le va ger-|mer.|
+w: poirs. * Vous se-|rez ses té-|moins. * Soy- ez|surs de vo- tre|foi.|
+w: veur. * Vous se-|rez ses té-|moins. * Sur les|pas du Ser- vi-|teur.|
 V:2
 |: B,2 B,C D2 DD | C4 B,4 | D2 DD D2 EE | C8 | EE EE E2 EE | F4 D4 |$ %6
- D3 D D2 DD | E4 x2 DD | D2 G2 E2 E2 | D4 x2 :|$ %10
+ D3 D D2 DD | E4 x2 DD | (D2 G2) E2 E2 | D4 x2 :|$ %10
  DD | D2 DD DD DD | ^F4 x2 FF | G2 GG GG GG |$ %14
  ^F4 x2 Bc | =F4 D2 F2 | E4 x2 FF | G3 F G2 G2 | A8 |] %19
 V:3
-|: F,2 F,F, B,2 B,B, | C4 F,4 | G,2 G,G, G,2 CB, | B,4 A,4 | B,B, B,B, B,2 B,B, | B,4 B,4 |$ %6
- D3 C B,2 B,B, | B,2 A,2 z2 B,A, | G,2 B,2 E2 C2 | B,4 z2 :|$ %10
+|: F,2 F,F, B,2 B,B, | C4 F,4 | G,2 G,G, G,2 CB, | (B,4 A,4) | B,B, B,B, B,2 B,B, | B,4 B,4 |$ %6
+ D3 C B,2 B,B, | (B,2 A,2) z2 B,A, | (G,2 B,2) E2 C2 | B,4 z2 :|$ %10
  D,D, | B,2 B,A, G,G, A,B, | D4 z2 D,D, | G,2 G,A, B,B, A,G, |$ %14
  D4 z2 B,C | B,4 B,2 B,2 | E,4 z2 D,D, | C,3 D, E,2 G,2 | F,8 |] %19
 V:4
@@ -1002,7 +996,6 @@ V:4
 X:26
 T:Comme un souffle fragile
 T:U45 - Acclamation, Mariage
-C:Chants de l'Emmanuel - L. Cordin
 C:Pierre Jacob Gaëtan de Courrèges
 %%score { ( 1 2 ) | ( 3 4 ) }
 L:1/8
@@ -1016,7 +1009,7 @@ V:3 clef=bass
 V:4 clef=bass
 V:1
 [P:Refrain] EG |^"Em" B2 B2 B2 |^"A4" B2^"Am" A z AG | F2^"B7" A2 A2 |^"E4" A2^"Em" G z GF |$ %5
-w: Comme un|souf- fle fra-|gi- le, ta pa-|ro- le se|don- ne. Comme un|
+w: Comme un|souf- fle fra-|gi- le, * ta pa-|ro- le se|don- ne. * Comme un|
 w: |||||
 w: |||||
 ^"C7" E2 G2 G2 |^"A7" G2^"Am" F2 FE |^"B7" ^D2 F2 F2 |^"E4" F2^"Em" E4 ||$ %9
@@ -1028,9 +1021,9 @@ w: ||||||||
 w: ||||||||
 w: ||||||||
 [P:Couplets] EG |^"Em" B2 d2 d2 |^"Am" d2 c2 cB |^"D" A2 c2 c2 |^"G7" B3 z BA |$ %22
-w: 1.~Ta pa-|role est mur-|mu- re comme un|se- cret d'a-|mour Ta pa-|
-w: 2.~Ta pa-|role est nais-|san- ce comme on|sort de pri-|son. Ta pa-|
-w: 3.~ta pa-|role est par-|ta- ge comme on|cou- pe du|pain. Ta pa-|
+w: 1.~Ta pa-|role est mur-|mu- re comme un|se- cret d'a-|mour * Ta pa-|
+w: 2.~Ta pa-|role est nais-|san- ce comme on|sort de pri-|son. * Ta pa-|
+w: 3.~ta pa-|role est par-|ta- ge comme on|cou- pe du|pain. * Ta pa-|
 ^"C7" G2 B2 B2 |^"Am" B2 A2 AG |^"B7" F2 A2 A2 |^"Em" B4 |] %26
 w: role est bles-|su- re qui nous|ou- vre le|jour.|
 w: role est se-|men- ce qui pro-|met la mois-|son.|
@@ -1057,9 +1050,7 @@ V:4
 X:27
 T:Comment ne pas te louer ?
 T:Mélodie Gabonaise
-C:Inconnu
 C:Aurélien SANIKO
-Z:Inconnu
 %%score { ( 1 2 ) ( 3 4 ) }
 L:1/8
 Q:1/4=120
@@ -1071,33 +1062,33 @@ V:2 clef=
 V:3 clef=bass
 V:4 clef=bass
 V:1
-^"E" EG FG FG |^"A" A6 G2 |^"B" F2 BB BB Bc |^"E" G4^"B" (3F2 G2 F2 |$ %4
+^"E" EG FG FG |^"A" (A6 G2 |^"B" F2) BB BB Bc |^"E" (G4^"B" (3F2 G2 F2 |$ %4
 w: Com- ment ne pas te lou-|er~? _|_ Com- ment ne pas te lou-|er~? _ _ _|
 w: ||||
-^"C#m" E2 EG FG FE |^"F#m" F6 E2 |^"B" D2 z2 (3D2 E2 F2 |^"E" E2 GF E2 GF ||$ %8
-w: _ Com- ment ne pas te lou-|er _|_ Sei- gneur Jé-|sus~! Com- ment~? _ Com- ment~?|
+^"C#m" E2) EG FG FE |^"F#m" (F6 E2 |^"B" D2) z2 (3D2 E2 F2 |^"E" E2 G(F E2) G(F ||$ %8
+w: _ Com- ment ne pas te lou-|er _|_ _ Sei- gneur Jé-|sus~! Com- ment~? _ Com- ment~?|
 w: ||||
-^"E" E GGG BGBG |^"A" A2 z2 (3A2 A2 G2 |^"B" F2 z2 (3B2 B2 c2 |^"E" G4^"B" (3F2 G2 F2 |$ %12
-w: _ 1.~Quand je re- garde au- tour de|moi, je vois ta|gloire Sei- gneur Jé-|sus, je te bé-|
-w: * 2.~Quand je re- garde au- tour de|moi, je vois mes|frères Sei- gneur Jé-|sus, mer- ci pour|
-^"C#m" E2 EG FGFE |^"F#m" F6 E2 |^"B" D2 z2 (3D2 E2 F2 |^"E" E2 GF E2 GF | E2 :| %17
-w: nis. Com- ment ne pas te lou-|er _|_ Sei- gneur Jé-|sus~! Com- ment~? * Com- ment~?|_|
-w: eux. Com- ment ne pas te lou-|er _|_ Sei- gneur Jé-|sus~! Com- ment~? * Com- ment~?||
+^"E" E) GGG BGBG |^"A" A2 z2 (3A2 A2 G2 |^"B" F2 z2 (3B2 B2 c2 |^"E" G4^"B" (3F2 G2 F2 |$ %12
+w: _ 1.~Quand je re- garde au- tour de|moi, * je vois ta|gloire * Sei- gneur Jé-|sus, je te bé-|
+w: * 2.~Quand je re- garde au- tour de|moi, * je vois mes|frères * Sei- gneur Jé-|sus, mer- ci pour|
+^"C#m" E2 EG FGFE |^"F#m" (F6 E2 |^"B" D2) z2 (3D2 E2 F2 |^"E" E2 G(F E2) G(F | E2) :| %17
+w: nis. Com- ment ne pas te lou-|er _|_ _ Sei- gneur Jé-|sus~! Com- ment~? * Com- ment~?|_|
+w: eux. Com- ment ne pas te lou-|er _|_ _ Sei- gneur Jé-|sus~! Com- ment~? * Com- ment~?||
 V:2
- EE EE EE | E8 | D2 FF FF FF | E4 B,4 |$ %4
- G,2 CE DE DC | C8 | B,2 x2 (3B,2 B,2 B,2 | B,2 EC B,2 EC ||$ %8
- B, x7 | x4 (3E2 E2 E2 | D2 x6 | x4 (3B,2 B,2 B,2 |$ %12
- G,2 x6 | C8 | B,2 x2 (3B,2 B,2 B,2 | B,2 EC B,2 EC | B,2 :| %17
+ EE EE EE | (E8 | D2) FF FF FF | (E4 B,4 |$ %4
+ G,2) CE DE DC | (C8 | B,2) x2 (3B,2 B,2 B,2 | B,2 E(C B,2) E(C ||$ %8
+ B,) x7 | x4 (3E2 E2 E2 | D2 x6 | x4 (3B,2 B,2 B,2 |$ %12
+ G,2 x6 | (C8 | B,2) x2 (3B,2 B,2 B,2 | B,2 E(C B,2) E(C | B,2) :| %17
 V:3
- G,B, A,B, A,B, | C6 B,2 | B,2 B,B, B,B, A,A, | G,4 B,4 |$ %4
- C2 G,G, G,G, G,G, | A,6 G,2 | F,2 z2 (3F,2 G,2 A,2 | G,2 B,A, G,2 B,A, ||$ %8
- G, z z2 z4 | z4 (3C2 C2 B,2 | B,2 z2 z4 | z4 (3B,2 B,2 B,2 |$ %12
- C2 z2 z4 | A,6 G,2 | F,2 z2 (3F,2 G,2 A,2 | G,2 B,A, G,2 B,A, | G,2 :| %17
+ G,B, A,B, A,B, | (C6 B,2 | B,2) B,B, B,B, A,A, | (G,4 B,4 |$ %4
+ C2) G,G, G,G, G,G, | (A,6 G,2 | F,2) z2 (3F,2 G,2 A,2 | G,2 B,(A, G,2) B,(A, ||$ %8
+ G,) z z2 z4 | z4 (3C2 C2 B,2 | B,2 z2 z4 | z4 (3B,2 B,2 B,2 |$ %12
+ C2 z2 z4 | (A,6 G,2 | F,2) z2 (3F,2 G,2 A,2 | G,2 B,(A, G,2) B,(A, | G,2) :| %17
 V:4
- E,E, E,E, E,E, | A,,8 | B,,2 D,D, D,D, D,D, | E,4 D,4 |$ %4
- C,2 C,C, C,C, C,C, | A,,8 | B,,2 x2 (3B,,2 B,,2 B,,2 | E,2 E,E,- E,2 E,E,- ||$ %8
+ E,E, E,E, E,E, | (A,,8 | B,,2) D,D, D,D, D,D, | (E,4 D,4 |$ %4
+ C,2) C,C, C,C, C,C, | (A,,8 | B,,2) x2 (3B,,2 B,,2 B,,2 | E,2 E,E,- E,2 E,E,- ||$ %8
  E, x7 | x4 (3A,,2 A,,2 A,,2 | B,,2 z2 z4 | x4 (3D,2 D,2 D,2 |$ %12
- C,2 z2 z4 | A,,8 | B,,2 x2 (3B,,2 B,,2 B,,2 | E,2 E,E,- E,2 E,E,- | E,2 :| %17
+ C,2 z2 z4 | (A,,8 | B,,2) x2 (3B,,2 B,,2 B,,2 | E,2 E,E,- E,2 E,E,- | E,2 :| %17
 
 X:28
 T:Contre vents et marées
@@ -1380,7 +1371,7 @@ V:3 clef=bass
 V:4 clef=bass
 V:1
 "^Refrain" z2 D2 D2 C2 |^"D" D6 D2 |^"A" D2 C D3 A2 |^"Bm7" A8- | A4 F2 F2 |^"G" G6 G2 | G2 F F3 D2 |^"Asus4" E8- |$ %8
-w: No- tre ci-|té se|trou- ve dans les|cieux|_ Nous ver-|rons l'é-|pou- se de l'a-|gneau|
+w: * No- tre ci-|té se|trou- ve dans les|cieux|_ Nous ver-|rons l'é-|pou- se de l'a-|gneau|
 w: ||||||||
 w: ||||||||
 ^"A" E2 D2 D2 C2 |^"D" D4 D2 D2 |^"A" D2 C D3 A2 |^"Bm7" A8- | A6 FG |^"G" A4 D4 |^"A" F E3 D2 C2 |^"Dsus4" D8 ||$ %16
@@ -1388,13 +1379,13 @@ w: _ res- plen- dis-|san- te de|la gloi- re de|Dieu|_ cé- *|les- te|Jé- * ru- 
 w: ||||||||
 w: ||||||||
 ^"D""^Couplets" z2 F2 G2 A2 |^"G" A4 A2 B2- | B2 B2 A2 A2- |^"D/F#" A8 | z2 D2 E2 F2 | F4 F2 G2- | G4 F2 G2 |^"Asus4" E8 |$ %24
-w: 1.L'a- gneau de-|vien- dra no-|* tre flam- beau|_|nous nous pas-|se- rons du|_ so- *|leil.|
-w: 2.Dieu~~ au- ra|sa de- meure|* a- vec nous|_|Il es- suie-|ra les larmes|* de nos|yeux.|
-w: 3.Et main- te-|nant, voi- ci|* le sa- lut|_|le règne et|la puis- san-|* ce de|Dieu.|
+w: * 1.L'a- gneau de-|vien- dra no-|* tre flam- beau|_|* nous nous pas-|se- rons du|_ so- *|leil.|
+w: * 2.Dieu~~ au- ra|sa de- meure|* a- vec nous|_|* Il es- suie-|ra les larmes|* de nos|yeux.|
+w: * 3.Et main- te-|nant, voi- ci|* le sa- lut|_|* le règne et|la puis- san-|* ce de|Dieu.|
 ^"A" z2 A2 d2 c2 |^"G" c4 B2 B2- | B2 B2 A2 A2- |^"D/F#" A8 | z2 D2 E2 F2 | F4 F2 G2- | G4 F2 G2 |^"A" A8 |] %32
-w: Il n'y.au- ra|plus ja- mais|* * de nuit|_|Dieu ré- pan-|dra sur nous|* sa lu-|mière.|
-w: Il n'y.au- ra|plus de pleurs|* ni de peines|_|car l'an- cien|mon- de s'en|* est al-|lé.|
-w: So- yez donc|dans la joie|* vous les cieux|_|Il ré- gne-|ra sans fin|* dans les|siècles.|
+w: * Il n'y.au- ra|plus ja- mais|* * de nuit|_|* Dieu ré- pan-|dra sur nous|* sa lu-|mière.|
+w: * Il n'y.au- ra|plus de pleurs|* ni de peines|_|* car l'an- cien|mon- de s'en|* est al-|lé.|
+w: * So- yez donc|dans la joie|* vous les cieux|_|* Il ré- gne-|ra sans fin|* dans les|siècles.|
 V:2
  C2 D2 D2 C2 | D6 D2 | D2 C D3 E2 | F8- | F4 F2 F2 | D6 D2 | D2 D D3 D2 | D8 |$ %8
  C2 D2 D2 C2 | D4 D2 D2 | D2 C D3 E2 | F8- | F6 F2 | D4 D4 | C4 D2 C2 | D8 ||$ %16
@@ -1769,14 +1760,14 @@ w: 6.~"Si tu sa-|vais le don de|Dieu", si tu croy-|ais en son a-|
 w: 7.~Que Jé- sus|Christ nous gar- de|tous dans l'u- ni-|té d'un mê- me|
 w: 8.~Soy- ons té-|moins de son Es-|prit~! Que dis- pa-|rais- se tou- te|
 ^"F#m" c3^"D" Adc |^"G" B2 A^"Em" GFG |^"A" A3 z2 z |] %15
-w: son, dans la ci-|té du Dieu _ vi-|vant"|
-w: toi: pour ton bon-|heur, il t'a _ choi-|sie~!|
-w: bon, car é- ter-|nel est son _ a-|mour~!|
-w: vons. Nous a- vons|part à sa _ clar-|té.|
-w: fants, man- geons le|Pain qui don- * ne|vie.|
-w: mour, tu n'au- rais|plus de peur _ en|toi.|
-w: Corps, nous qui man-|geons le mê- * me|pain.|
-w: peur~! Mon- trons au|mon- de no- * tre|foi~!|
+w: son, dans la ci-|té du Dieu _ vi-|vant" * *|
+w: toi: pour ton bon-|heur, il t'a _ choi-|sie~! * *|
+w: bon, car é- ter-|nel est son _ a-|mour~! * *|
+w: vons. Nous a- vons|part à sa _ clar-|té. * *|
+w: fants, man- geons le|Pain qui don- * ne|vie. * *|
+w: mour, tu n'au- rais|plus de peur _ en|toi. * *|
+w: Corps, nous qui man-|geons le mê- * me|pain. * *|
+w: peur~! Mon- trons au|mon- de no- * tre|foi~! * *|
 V:2
  FFF | G2 F FB,D | E3 DDD | D2 C DB,B, |$ %4
  C3 FFF | G2 F FB,D | E3 EDF | E3 F3 ||$ %8
@@ -1830,9 +1821,7 @@ V:3
 
 X:43
 T:Dieu nous a tous appelés
-C:Jacques Berthier
 C:Musique : Jacques Berthier
-Z:Didier Rimaud
 Z:Texte : Didier Rimaud
 %%score [ 1 2 ( 3 4 ) ]
 L:1/8
@@ -1845,21 +1834,21 @@ V:3 clef=bass
 V:4 clef=bass
 V:1
 "^Refrain" A,2 |^"Dm" D2 DD^"Am" C2 E2 |^"Dm" D4^"Am" z EEE |^"Dm" F2 EF^"C" GGFG |$ %4
-w: Nous|som- mes le corps du|Christ Cha- cun de|nous est un mem- bre de ce|
+w: Nous|som- mes le corps du|Christ * Cha- cun de|nous est un mem- bre de ce|
 w: ||||
 w: ||||
 w: ||||
 w: ||||
 w: ||||
 ^"F" A4^"Dm" z FGA |^"Gm" B3 B^"C" ccGG |^"F" A2 AA^"Bb6" GFGG |$ %7
-w: corps. Cha- cun re-|çoit la grâ- ce de l'es-|prit pour le bien du corps en-|
+w: corps. * Cha- cun re-|çoit la grâ- ce de l'es-|prit pour le bien du corps en-|
 w: |||
 w: |||
 w: |||
 w: |||
 w: |||
 ^"A" A4^"Dm" z FGA |^"Gm" B3 B^"C" ccGG |^"F" A2 AA^"Gm" GF^"A4b4"E^"C3"F |^"Dm" D6 z2 ||$ %11
-w: tier. Cha- cun re-|çoit la grâ- ce de l'es-|prit pour le bien du corps en-|tier.|
+w: tier. * Cha- cun re-|çoit la grâ- ce de l'es-|prit pour le bien du corps en-|tier. *|
 w: ||||
 w: ||||
 w: ||||
@@ -1873,14 +1862,14 @@ w: |* à la|paix que don- ne sa|grâ- ce||||
 w: |* au sa-|lut par la ren- nais-|san- ce||||
 w: |* à la|gloi- re de son roy-|au- me||||
 ^"A" A6 z2 |^"G/B" G2 GG^"A/C#" A2 AA |^"Dm" F4^"Bb" F2 F2 |^"Gm6" E2 E2^"A4b4" D2^"C3" E2 |^"Dm" F6 z2 |$ %23
-w: prit.|Dieu nous a tous ap- pe-|lés à la|mê- me sain- te-|té|
-w: ||* à l'a-|mour et au par-|don|
-w: ||* à l'u-|nion a- vec son|fils|
-w: ||* sous la|croix de Jé- sus|Christ|
-w: ||* au sa-|lut par l'es- prit|saint|
-w: ||* pour les|no- ces de l'A-|gneau|
+w: prit. *|Dieu nous a tous ap- pe-|lés à la|mê- me sain- te-|té *|
+w: ||* à l'a-|mour et au par-|don *|
+w: ||* à l'u-|nion a- vec son|fils *|
+w: ||* sous la|croix de Jé- sus|Christ *|
+w: ||* au sa-|lut par l'es- prit|saint *|
+w: ||* pour les|no- ces de l'A-|gneau *|
 ^"G/B" G3 G^"A/C#" A2 AA |^"Dm" F4 A2 A2 |^"Bb6" d4 G2 G2 |^"A" A6 z2 |] %27
-w: pour for- mer un seul|corps bap- ti-|sé dans l'es-|prit.|
+w: pour for- mer un seul|corps bap- ti-|sé dans l'es-|prit. *|
 w: ||||
 w: ||||
 w: ||||
@@ -1938,7 +1927,6 @@ w: té _ Et|don- ne moi ta|grâ- ce _|Elle seule me suf-|fit.|
 X:45
 T:Ecoute, ton Dieu t'appelle
 T:(chant de pélerinage)
-C:Chants de l'Emmanuel - L. Cordin
 C:Frère Jean-Baptiste
 Z:D'après Jean Paul II
 %%score { ( 1 2 ) | ( 3 4 ) }
@@ -1953,7 +1941,7 @@ V:3 clef=bass
 V:4 clef=bass
 V:1
 [P:Refrain] z B, |^"Em" E2 EF- FG A2 |^"Em" B4 B4 |^"Am" c6^"D" A2 |^"G" B6 GA |^"G" B3 B A2 G2 |$ %6
-w: Ref.~E-|cou- te, ton * Dieu t'ap-|pel- le~:|"Viens, suis-|moi~!" Lè- ve|toi et ne crains|
+w: * Ref.~E-|cou- te, ton * Dieu t'ap-|pel- le~:|"Viens, suis-|moi~!" Lè- ve|toi et ne crains|
 w: ||||||
 w: ||||||
 w: ||||||
@@ -1962,7 +1950,7 @@ w: pas de|mar- cher a- vec|Lui. Il|est ton che- min de|Vie, la|
 w: |||||
 w: |||||
 w: |||||
-^"Em" G3 E^"Am" AG A2 |^"B" B6 F2 |^"G" G3 G GA B2 |^"D" A6 A2 |^"Em" G3 E^"Am" AG^"B" F2 |^"Em" E8 ||$ %17
+^"Em" G3 E^"Am" (AG) A2 |^"B" B6 F2 |^"G" G3 G GA B2 |^"D" A6 A2 |^"Em" G3 E^"Am" (AG)^"B" F2 |^"Em" E8 ||$ %17
 w: rou- te de * ta|joie~! Il|est ton che- min de|vie, la|rou- te de * ta|joie~!|
 w: ||||||
 w: ||||||
@@ -1992,21 +1980,20 @@ V:2
 V:3
  z B, | B,2 B,B,- B,B, B,2 | E4 E4 | E6 D2 | D6 B,C | D3 D C2 B,2 |$ %6
  D6 D2 | B,2 B,2 C2 C2 | B,6 B,2 | B,3 B, B,C D2 | D6 C2 |$ %11
- B,3 B, CB, E2 | ^D6 B,2 | B,3 B, B,C D2 | D6 C2 | B,3 B, C2 B,2 | G,8 ||$ %17
+ B,3 B, (CB,) E2 | ^D6 B,2 | B,3 B, B,C D2 | D6 C2 | B,3 B, C2 B,2 | G,8 ||$ %17
  B,2 B,2 B,2 B,B,- | B,3 B, G,A,B,B,- | B,8- | B,8 | B,2 D2 D2 DD- |$ %22
  D3 D B,CDD- | D8- | D8 | E2 E2 E2 EE- | E6 EE |$ %27
- E2 E2 E2 B,B,- | B,6 B,B, | C6 CC | C3 C3 C2 | E8 | ^D6 |] %33
+ E2 E2 E2 B,B,- | B,6 B,B, | C6 CC | C3 C3 C2 | (E8 | ^D6) |] %33
 V:4
  x B,, | E,2 E,E,- E,E, E,2 | E,4 E,4 | A,,6 D,2 | G,6 G,G, | G,3 G, G,2 G,2 |$ %6
  D,6 D,2 | E,2 D,2 C,2 A,,2 | B,,6 A,,2 | G,,3 G,, G,,G,, G,,2 | D,6 D,2 |$ %11
- E,3 E, A,,B,, C,2 | B,,6 A,,2 | G,,3 G,, G,,G,, G,,2 | D,6 D,2 | E,3 E, A,,2 B,,2 | E,8 ||$ %17
+ E,3 E, (A,,B,,) C,2 | B,,6 A,,2 | G,,3 G,, G,,G,, G,,2 | D,6 D,2 | E,3 E, A,,2 B,,2 | E,8 ||$ %17
  E,2 E,2 E,2 E,E,- | E,3 E, E,E,E,B,,- | B,,8- | B,,8 | G,,2 G,,2 G,,2 G,,G,,- |$ %22
  G,,3 G,, G,,G,,G,,D,- | D,8- | D,8 | A,,2 A,,2 A,,2 A,,A,,- | A,,6 A,,A,, |$ %27
  E,2 E,2 E,2 E,E,- | E,6 E,D, | C,6 C,B,, | A,,3 A,,3 F,,2 | B,,8- | B,,6 |] %33
 
 X:46
 T:Ecoute, Ecoute
-C:C. Laverny
 C:Michel Wackenheim
 Z:ee
 Z:Claude Rozier
@@ -2017,13 +2004,13 @@ K:F
 V:1 clef=
 V:1
 |:^"Dm""^Couplets" D2 DD^"A" E2 E2 |^"Dm" F2 F2^"A" E2 E2 |^"Dm" D2 DD^"Bb" F2 F2 |^"F" A4 z2^"A" z2 :|$ %4
-w: 1.Ils ont mar- ché au|pas des siè- cles|vers un pa- ys de|joie.|
-w: 2.Ils ont lais- sé leurs|cris de guer- re|pour des chan- sons de|paix.|
-w: 3.Ils sont ve- nus les|mains ou- ver- tes|pour ac- cueil- lir l'a-|mour.|
+w: |1.Ils ont mar- ché au|pas des siè- cles|vers un pa- ys de|joie. * *|
+w: |2.Ils ont lais- sé leurs|cris de guer- re|pour des chan- sons de|paix. * *|
+w: |3.Ils sont ve- nus les|mains ou- ver- tes|pour ac- cueil- lir l'a-|mour. * *|
 |:^"F" F2 FF^"C" G2 G2 |^"F" A2 A2^"C" G2 G2 |^"F" F2 FF^"Dm" A2 A2 |^"Am" c4 z2^"C" z2 :|$ %8
-w: Ils ont mar- ché vers|la lu- miè- re|pour ha- bi- ter la|joie.|
-w: Ils ont lais- sé leur|bout de ter- re|pour ha- bi- ter la|paix.|
-w: Ils sont ve- nus cher-|cher des frè- res|pour ha- bi- ter l'a-|mour.|
+w: |Ils ont mar- ché vers|la lu- miè- re|pour ha- bi- ter la|joie. * *|
+w: |Ils ont lais- sé leur|bout de ter- re|pour ha- bi- ter la|paix. * *|
+w: |Ils sont ve- nus cher-|cher des frè- res|pour ha- bi- ter l'a-|mour. * *|
 "^Refrain" A2 |^"D" d4 d2 c2 |^"Gm" B4 B2 G2 |^"C" c2 cd c2 B2 |^"F" A6 F2 |^"Bb" B2 B2 B2 A2 |^"Edim" G4 G2 E2 |$ %15
 w: E-|cou- te é-|cou- te sur-|tout ne fais pas de|bruit, on|mar- che sur la|rou- te on|
 w: |||||||
@@ -2039,7 +2026,6 @@ w: ||||
 
 X:47
 T:En Esprit et En Vérité
-C:E. Faugeron
 C:Communauté St Jean
 %%score [ ( 1 2 ) ( 3 4 ) ]
 L:1/8
@@ -2062,25 +2048,25 @@ w: ré- sis- ter, que tu|||puisses me sanc- ti-|fier|
 w: vo- lon- té, car tu|es le Dieu d'a-|mour.|||
 w: mour sans bornes, au coeur|||mê- me de mon|coeur.|
 |:[P:Refrain]^"G" B4 (3B2 A2 G2 |^"D" A3 F- F4 |^"A7" E4 (3E2 F2 G2 |^"Bm" F8 |^"G" B4 (3A2 B2 c2 |$ %15
-w: Je t'a- dore en|es- prit *|et en vé- ri-|té.|Ô mon Sei- gneur|
-w: |||||
-w: |||||
-w: |||||
+w: |Je t'a- dore en|es- prit *|et en vé- ri-|té.|Ô mon Sei- gneur|
+w: ||||||
+w: ||||||
+w: ||||||
 ^"Bm" d2 c2 B2 AF ||1^"Em" G4 (3F2 E2 D2 |^"Asus4" E8 :||2^"Em" G4 (3F2 G2 A2 |^"Esus4" A8 :| %20
 w: et mon Dieu je dé-|sire te ren- con-|trer|||
 w: |||sire tou- jours t'ai-|mer.|
 w: |||||
 w: |||||
 V:2
- D3 F F3 D/D/ | C3 E E3 E/E/ | E2 D2 (3D2 D2 D2 | D4 C4 | D3 F F3 D/D/ |$ %5
- C3 E E3 E/E/ ||1 D4 (3D2 D2 D2 | D4 C4 :||2 D4 (3D2 D2 D2 | E8 ||$ %10
+ D3 F F3 D/D/ | C3 E E3 E/E/ | (E2 D2) (3D2 D2 D2 | (D4 C4) | D3 F F3 D/D/ |$ %5
+ C3 E E3 E/E/ ||1 D4 (3D2 D2 D2 | (D4 C4) :||2 D4 (3D2 D2 D2 | E8 ||$ %10
 |: G4 (3E2 D2 D2 | D3 D- D4 | D4 (3D2 C2 C2 | D8 | G4 (3E2 E2 E2 |$ %15
- F2 F2 D2 DD ||1 E4 (3D2 D2 D2 | D4 C4 :||2 E4 (3D2 D2 D2 | E8 :| %20
+ F2 F2 D2 DD ||1 E4 (3D2 D2 D2 | (D4 C4) :||2 E4 (3D2 D2 D2 | E8 :| %20
 V:3
  A,3 A, A,3 A,/A,/ | A,3 B, C3 C/C/ | B,4 (3C2 D2 D2 | A,8 | A,3 A, A,3 A,/A,/ |$ %5
- A,3 B, C3 A,/A,/ ||1 B,4 (3A,2 A,2 A,2 | A,8 :||2 B,4 (3B,2 B,2 B,2 | D4 C4 ||$ %10
+ A,3 B, C3 A,/A,/ ||1 B,4 (3A,2 A,2 A,2 | A,8 :||2 B,4 (3B,2 B,2 B,2 | (D4 C4) ||$ %10
 |: D4 (3D2 B,2 A,2 | D3 A,- A,4 | G,4 (3A,2 A,2 A,2 | F,8 | D4 (3D2 C2 C2 |$ %15
- B,2 A,2 B,2 B,B, ||1 B,4 (3B,2 B,2 B,2 | A,8 :||2 B,4 (3B,2 B,2 B,2 | B,4 C4 :| %20
+ B,2 A,2 B,2 B,B, ||1 B,4 (3B,2 B,2 B,2 | A,8 :||2 B,4 (3B,2 B,2 B,2 | (B,4 C4) :| %20
 V:4
  D,3 D, D,3 D,/D,/ | A,,3 A,, A,,3 A,,/A,,/ | G,,4 (3B,,2 B,,2 B,,2 | A,,8 | D,3 D, D,3 D,/D,/ |$ %5
  A,,3 A,, A,,3 A,,/A,,/ ||1 E,4 (3G,,2 G,,2 G,,2 | A,,8 :||2 E,4 (3G,,2 G,,2 G,,2 | A,,8 ||$ %10
@@ -2206,22 +2192,22 @@ w: gner de ton a- mour im-|men- se.|
 w: ||
 w: ||
 |: A2 A2 G3 G | F2 F2 F4 | F2 F2 FFEC | C8 :| %22
-w: Ve- ni Sanc- te|Spi- ri- tus,|ve- ni Sanc- te Spi- ri-|tus.|
-w: ||||
-w: ||||
+w: |Ve- ni Sanc- te|Spi- ri- tus,|ve- ni Sanc- te Spi- ri-|tus.|
+w: |||||
+w: |||||
 V:3
  A,B, | C C<C A, C3 C/C/ | A,A, A,G,/A,/- A,2 A,A, | F, F,2 G, A,A,CC | C4 x2 A,C |$ %5
 w: |||||
  C C<C A, C2 DD | ^CC A,A,/A,/- A,2 A,A, | F, F,2 G, A,A,CC | C4 |$ %9
 w: ||||
  z4 | z A,/A, G,/F, E,2 E,2 | F,2 G,2 A,4 |$ %12
-w: |Es- prit de lu- miè- re,|cré- a- teur.|
+w: |* Es- prit de lu- miè- re,|cré- a- teur.|
  D3/2C3/2D C A,/A, B,/C | C4 C4 | z A,/A, G,/F, E,2 E,2 | F,2 G,2 A,2 A,A, |$ %16
-w: Res- taure en nous le feu, l'es- pé-|ran- ce|Af- fer- mis nos â- mes|et nos coeurs té- moi-|
+w: Res- taure en nous le feu, l'es- pé-|ran- ce|* Af- fer- mis nos â- mes|et nos coeurs té- moi-|
  B,2 B,B, G, G,2 C | B,4 A,2 |$ %18
 w: gner de ton a- mour im-|men- se.|
 |: F2 F2 E3 E | D2 D2 D4 | C2 C2 B,B,B,G, | [F,A,]8 :| %22
-w: ||||
+w: |||||
 V:4
  F,F, | F, F,<F, F, C,3 C,/C,/ | D,D, D,D,/A,,/- A,,2 A,,A,, | B,, B,,2 B,, A,,A,,G,,F,, | C,4 z2 C,C, |$ %5
  F, F,<F, F, C,2 B,,B,, | A,,A,, ^C,C,/D,/- D,2 =C,C, | B,, B,,2 B,, A,,A,,G,,F,, | C,4 |$ %9
@@ -2299,9 +2285,9 @@ V:1 clef=
 V:2 clef=
 V:1
 |: A, DF |^"Dm" A4 F2 FE | D3 z2 D FA |^"D7" d4 B2 BA |^"Gm" .G3 z2 G AB |$ %5
-w: 1.E- ve- nou|Sha- lom a- lé-|rem E- ve- nou|Sha- lom a- lé-|rem E- ve- nou|
+w: |1.E- ve- nou|Sha- lom a- lé-|rem * E- ve- nou|Sha- lom a- lé-|rem * E- ve- nou|
 ^"A7" A2 E2 A2 AG |^"Dm" F3 z2 F ED |^"A7" A2 A2 A2 A2 | AGFE^"Dm" D :| %9
-w: Sha- * lom a- lé-|rem E- ve- nou|Sha- lom, Sha- lom,|Sha- lom a- lé- rem|
+w: Sha- * lom a- lé-|rem * E- ve- nou|Sha- lom, Sha- lom,|Sha- lom a- lé- rem|
 V:2
 |: A, DF | AAAA FFFF | G2 F2 z DFA | dddd BBBB | c2 B2 z GAB |$ %5
  A2 ^c2 AG z2 | F3 z2 A GF | ^c2 c2 c2 c2 | ^cBAG F :| %9
@@ -2328,10 +2314,10 @@ w: ||||||||||
 w: Tu es mon|Dieu|Je n'ai|d'au- tre bon-|heur que|toi|Sei- gneur tu|es tou- te ma|joie|_|
 w: ||||||||||
 w: ||||||||||
-"^Couplets" z D |^"F#" CC CC |^"F#6/A#" F3 E |^"Bm" DD DE | F3 F |^"Em" EE ED |^"A" CC DE |^"D" F4- | F2 z F |$ %29
-w: 1.Je|bé- nis le sei-|gneur qui|s'est fait mon con-|seil et|qui mê- me la|nuit ins- truit mon|coeur|_ Je|
-w: 2.Aus-|si mon coeur e-|xulte et|mon âme est en|fête en|con- fi- an- ce|Je peux re- po-|ser|_ Tu|
-w: 3.Tu|es le seul sei-|gneur mon|par- tage et ma|vie la|part qui me re-|vient fait mon bon-|heur|_ Je|
+"^Couplets" z D |^"F#" CC CC |^"F#6/A#" F3 E |^"Bm" DD (DE) | F3 F |^"Em" EE ED |^"A" CC DE |^"D" F4- | F2 z F |$ %29
+w: * 1.Je|bé- nis le sei-|gneur qui|s'est fait mon con-|seil et|qui mê- me la|nuit ins- truit mon|coeur|_ _ Je|
+w: * 2.Aus-|si mon coeur e-|xulte et|mon âme est en|fête en|con- fi- an- ce|Je peux re- po-|ser|_ _ Tu|
+w: * 3.Tu|es le seul sei-|gneur mon|par- tage et ma|vie la|part qui me re-|vient fait mon bon-|heur|_ _ Je|
 ^"Em" EE EF |^"Em7" G3 G |^"A" AA AA |^"D" A2 AA |^"C" =c c2 c |^"G" BB AG |^"A4" A4- | A4 |] %37
 w: gar- de le sei-|gneur de-|vant moi sans re-|lâ- che près|de lui je|ne peux chan- ce-|ler|_|
 w: m'ou- vres le che-|min de|la vie é- ter-|nel- le a-|vec toi dé-|bor- de- ment de|joie|_|
@@ -2339,10 +2325,10 @@ w: re- çois de tes|mains le|plus bel hé- ri-|ta- ge car|de toi sei-|gneur dé-
 V:2
  D2 D2 | D2 DE | E4- | E3 A, | D2 D2 | D2 DD | D4 | C4 | CC CC | D4 |$ %10
  C2 EE | F4 | D2 D2 | E2 EE | C3 C | D4 | D D2 D | CC B,A, | A,4- | A,4 ||$ %20
- z A, | ^A,A, A,B, | C3 C | B,B, B,C | D3 B, | B,B, B,B, | CC B,C | D4- | D2 z A, |$ %29
+ z A, | ^A,A, A,B, | C3 C | B,B, (B,C) | D3 B, | B,B, B,B, | CC B,C | D4- | D2 z A, |$ %29
  B,B, B,B, | D3 D | EE EE | F2 FF | G G2 G | GG GG | E4- | E4 |] %37
 V:3
- A,2 A,2 | B,2 B,B, | D4 | C3 A, | A,2 A,2 | B,2 B,B, | A,4 | A,4 | F,^A, B,C | B,4 |$ %10
+ A,2 A,2 | B,2 B,B, | (D4 | C3) A, | A,2 A,2 | B,2 B,B, | A,4 | A,4 | F,^A, B,C | B,4 |$ %10
  A,2 CD | D4 | B,2 B,2 | C2 CC | ^A,3 C | B,4 | B, B,2 B, | A,A, A,E, | F,4- | F,4 ||$ %20
  z D, | F,F, F,^G, | F,3 F, | F,F, F,-F, | B,3 B, | G,G, A,B, | A,E, E,A, | A,2 B,2 | A,2 z F, |$ %29
  G,G, G,A, | B,3 B, | CC CC | D2 DA, | A, D2 =C | DD DD | D4- | D4 |] %37
@@ -2455,25 +2441,25 @@ K:Eb
 V:1 clef=
 V:1
 ^"Cm" z2 CC GGFE |^"Fm" F8 |^"Fm" z FFG AcBA |^"Cm" G8 |$ %4
-w: Heu- reux ceux qui cher- chent|Dieu,|qui met- tent leur es- poir en|Lui.|
+w: * Heu- reux ceux qui cher- chent|Dieu,|* qui met- tent leur es- poir en|Lui.|
 ^"Cm" z2 CC GGFE |^"Fm" F4- FGAF |^"Cm" EFGE^"G7" D F2 E/D/ |^"Cm" C8 ||$ %8
-w: Heu- reux ceux qui cher- chent|Dieu, * pour lui don-|ner la meil- leure pla- ce dans leur|vie~!|
+w: * Heu- reux ceux qui cher- chent|Dieu, * pour lui don-|ner la meil- leure pla- ce dans leur|vie~!|
 |1^"Cm" z2 cc cccB- |^"Bb" B2 FF FGAG- |^"Eb" G2 cc^"Ab" cccB- |^"Bb" B2 FF FGAG- ||$ %12
-w: 1.~Heu- reux ceux qui re- cher-|* chent le Sei- gneur Jé- sus|* pour sui- vre son che- min|* et pour gran- dir en Lui.|
+w: |* 1.~Heu- reux ceux qui re- cher-|* chent le Sei- gneur Jé- sus|* pour sui- vre son che- min|* et pour gran- dir en Lui.|
 ^"Eb" G2 GG GGG=B- |^"G" B2 GG GGFG- |^"Cm" G3 E (3E2 F2 G2 |^"Ab" !breath!G4 (3E2 F2 G2 |^"G" G4 z4 :|$ %17
-w: * Heu- reux ce- lui qui voit|* dans l'au- tre Jé- sus Christ|* et qui le re-|garde comme un a-|mi.|
+w: * Heu- reux ce- lui qui voit|* dans l'au- tre Jé- sus Christ|* et qui le re-|garde comme un a-|mi. *|
 |2^"Cm" z2 cc cccB- |^"Bb" B2 FF FGAG- |^"Eb" G2 cc^"Ab" cccB- |^"Bb" B2 FF FGAG- ||$ %21
-w: 2.~Puisse Jé- sus de- ve- nir|* le cen- tre de leur vie|* que leur foi s'é- pa- nouisse|* en se tour- nant vers Lui.|
+w: |* 2.~Puisse Jé- sus de- ve- nir|* le cen- tre de leur vie|* que leur foi s'é- pa- nouisse|* en se tour- nant vers Lui.|
 ^"Eb" G2 GG GGG=B- |^"G" B3 G GGFG- |^"Cm" G3 E (3E2 F2 G2 |^"Ab" !breath!G4- (3G2 E2 F2 |^"G" G4 z4 :|$ %26
-w: * Qu'ils se laissent ha- bi- ter|* par la cha- ri- té|* pour pou- voir ai-|mer * com- me|Lui.|
+w: * Qu'ils se laissent ha- bi- ter|* par la cha- ri- té|* pour pou- voir ai-|mer * com- me|Lui. *|
 |3^"Cm" z2 cc cccB- |^"Bb" B3 F FGAG- |^"Eb" G3 c^"Ab" cccB- |^"Bb" B2 FF GA G2- ||$ %30
-w: 3.~Et leurs coeurs bru- le- ront|* d'un dé- sir ar- dent|* d'an- non- cer le Christ|* à tous les vi- vants|
+w: |* 3.~Et leurs coeurs bru- le- ront|* d'un dé- sir ar- dent|* d'an- non- cer le Christ|* à tous les vi- vants|
 ^"Eb" G2 GG GGG=B- |^"G" B2 GG GGFG- |^"Cm" G3 E (3E2 F2 G2 |^"Ab" !breath!G3 E (3:2:4EE F2 G2 |^"G" G4 z4 :|$ %35
-w: * dans tou- tes les mai- sons|* et sur tou- te la terre.|* De- ve- nant ain-|si dis- ci- ples mis- sion-|naires~!|
+w: * dans tou- tes les mai- sons|* et sur tou- te la terre.|* De- ve- nant ain-|si dis- ci- ples mis- sion-|naires~! *|
 |4^"Cm" z2 cc cccB- |^"Bb" B2 FF FGAG- |^"Eb" G2 cc^"Ab" cccB- |^"Bb" B2 FF FGAG- ||$ %39
-w: 4.~Leurs bou- ches s'ou- vri- ront|* pour lou- er ses bien- faits,|* pour dire l'oeu- vre de Dieu,|* à tous ceux loin de Lui.|
+w: |* 4.~Leurs bou- ches s'ou- vri- ront|* pour lou- er ses bien- faits,|* pour dire l'oeu- vre de Dieu,|* à tous ceux loin de Lui.|
 ^"Eb" G2 GG GGG=B- |^"G" B2 GG GGFG- |^"Cm" G2 EE (3E2 F2 G2 |^"Ab" G2 !breath!E E (3E2 F2 G2 |^"G" G4 z4 :| %44
-w: * Ils pour- ront pro- cla- mer|* sous le feu de l'Es- prit|* le rè- gne de ce-|lui qui don- ne la vraie|vie~!|
+w: * Ils pour- ront pro- cla- mer|* sous le feu de l'Es- prit|* le rè- gne de ce-|lui qui don- ne la vraie|vie~! *|
 
 X:58
 T:Humblement, dans le silence...
@@ -2524,9 +2510,7 @@ w: ||||
 
 X:59
 T:Hymne acathiste
-C:Liturgie orientale
 C:Tradition slave
-Z:Liturgie slave
 Z:Liturgie orientale
 %%score { 1 | 2 }
 L:1/8
@@ -2567,7 +2551,7 @@ w: 3.~R...,~qui~nous li- bère~des~oeuvres de té- nè- bres|R...,~Tu~nous~ouvre
 w: R...,~clé~du~royaume du Christ~et~por- te du ciel _|R...,~es- pé- rance~des~biens é- ter- nels _|
 w: R...,~Toi~qui~il- lu- mi- nes nos coeurs _|R...,~flambeau~portant~la lu- mière~in- ac- ces- si- ble|
 w: Réjou- is- Toi,~coupe~pui- sant la joie _|R...,~vie de joie~mys- té- ri- eu- se|
-[P:Refrains]^"G" [GB]2 [GB]2^"D7sus4" [Ac]2^"G" [Bd]6^"Am" [Ac]2^"G" [GB]2^"D" [FA]2^"Em" [EG]2^"B" [^DF]2^"Em" [EG]8^"G" [GB]16 | [GB]2^"D7sus4" [Ac]2^"G" [Bd]8^"D7" [Ac]4^"G" [GB]4^"D" [FA]8 [FA]4^"Am" [Ac]4^"G" [GB]4^"D" [FA]4^"Em" [EG]4^"B" [^DF]4^"Em" [EG]8!D.C.! |] %6
+[P:Refrains]^"G" [GB]2 [GB]2^"D7sus4" [Ac]2^"G" [Bd]6^"Am" [Ac]2^"G" [GB]2^"D" [FA]2^"Em" [EG]2^"B" [^DF]2^"Em" [EG]8^"G" [GB]16 | [GB]2^"D7sus4" [Ac]2^"G" (([Bd]8^"D7" [Ac]4^"G" [GB]4))^"D" [FA]8 [FA]4^"Am" [Ac]4^"G" (([GB]4^"D" [FA]4^"Em" [EG]4^"B" [^DF]4))^"Em" [EG]8!D.C.! |] %6
 w: Ref.~1.~Ré- jou- is- Toi, ô Mè- re du Sau- veur. Alleluia,|Al- le- lu- * * ia, Al- le- lu- * * * ia~!|
 w: Ref.~2.~Ré- jou- is- Toi, Ma- rie com- blée de grâces. *||
 w: Ref.~3.~Ré- jou- is- Toi, ô Mè- re du Sau- veur. *||
@@ -2585,11 +2569,10 @@ w: ||
 V:2
 "_R... = Réjouis-Toi," [G,D]16 [G,D]2 [G,D]16 [F,D]2 [G,D]2 [D,D]4- [D,D]4 | [D,D]16 [D,D]2 [D,D]16 [D,D]2 [D,D]2 [G,D]4- [G,D]4 |$ %2
  [E,B,]16 [E,B,]2 [E,B,]16 [^D,B,]2 [E,B,]2 [B,,B,]4- [B,,B,]4 | [B,,B,]16 [B,,B,]2 [B,,B,]16 [B,,B,]2 [B,,B,]2 [E,B,]4- [E,B,]4 :|$ %4
- [G,D]2 [G,D]2 [G,D]2 [G,D]6 [D,D]2 [G,D]2 [D,D]2 [E,B,]2 [B,,B,]2 [E,B,]8 [G,D]16 | [G,D]2 [G,D]2 [G,D-]8 [F,D-]4 [G,D]4 [D,D]8 [D,D]4 [D,D]4 [G,D]4 [D,D]4 [E,B,]4 [B,,B,]4 [E,B,]8 |] %6
+ [G,D]2 [G,D]2 [G,D]2 [G,D]6 [D,D]2 [G,D]2 [D,D]2 [E,B,]2 [B,,B,]2 [E,B,]8 [G,D]16 | [G,D]2 [G,D]2 ([G,D-]8 [F,D-]4 [G,D]4) [D,D]8 [D,D]4 [D,D]4 (([G,D]4 [D,D]4 [E,B,]4 [B,,B,]4)) [E,B,]8 |] %6
 
 X:60
 T:Il est bon de chanter
-C:Prière de l'angélus
 C:M. Dannaud
 Z:Couplets = Psaumes
 %%score [ 1 ]
@@ -2606,7 +2589,7 @@ w: ||||||
 w: ||||||
 w: ||||||
 w: ||||||
- FG | E2 FG | E2 FG |^"B7" F F2 E | ^D2 EF |^"Em" E4- | E4 ||$ %13
+ FG | E2 FG | E2 FG |^"B7" F F2 E | ^D2 (EF) |^"Em" E4- | E4 ||$ %13
 w: Al- lé-|lu, al- lé-|lu, al- lé-|lu- ia, al-|lé- lu- *|ia~!|_|
 w: |||||||
 w: |||||||
@@ -2726,7 +2709,6 @@ V:5
 X:63
 T:Je m'abandonne à toi
 T:D'après Psaume 130
-C:Chants de l'Emmanuel (E de Vries)
 C:Fabrice Kaspar
 %%score { 1 | ( 2 3 ) }
 L:1/8
@@ -2738,17 +2720,17 @@ V:2 clef=
 V:3 clef=
 V:1
 [P:Refrain]"^Swing""^Swing" z A, |^"Dm" F3 E DE FA |^"A7" E6 z A, |^"F" A3 G FG Ac |^"C7" G6 z B |$ %5
-w: Mon|Dieu, je m'a- ban- donne à|toi. Sei-|gneur, je ne dé- sire que|toi. Jé-|
+w: * Mon|Dieu, je m'a- ban- donne à|toi. * Sei-|gneur, je ne dé- sire que|toi. * Jé-|
 w: |||||
 ^"Gm7" B4^"A7" AG FE- |^"Dm7" E F3 z3 D |^"Bb7" F4 G4 |^"A7" E6 ||$ %9
-w: sus, tu es tout pour|* moi. At-|ti- re|moi~!|
+w: sus, tu es tout pour|* moi. * At-|ti- re|moi~!|
 w: ||||
 [P:Couplets] z A, |^"F" A2 AA A2 GF |^"C7" G4 z FFG |^"Gm9" A A3^"A7" A2 G2 |^"Dm7" F4 z DDE |$ %14
-w: 1.~Sei-|gneur, je n'ai point le coeur|fier, * Ni le|re- gard am- bi-|tieux. Je ne pour-|
-w: 2.~Mon|âme est en paix et si-|lence, Elle est en|moi comme un en-|fant, Le tout pe-|
-^"Gm7" F2 F2 A2 F2 |^"C7" F2 E2 z EEF |^"Gm7" G2 G3 F E2 |^"Bb7" F4^"A7" E2 |] %18
-w: suis ni grands des-|seins * * Ni ex-|ploits qui me dé-|pas- sent.|
-w: tit con- tre sa|mè- re. J'ai mon es-|poir dans le Sei-|gneur. _|
+w: * 1.~Sei-|gneur, je n'ai point le coeur|fier, * * Ni le|re- gard am- bi-|tieux. * Je ne pour-|
+w: * 2.~Mon|âme est en paix et si-|lence, * Elle est en|moi comme un en-|fant, * Le tout pe-|
+^"Gm7" F2 F2 A2 F2 |^"C7" (F2 E2) z EEF |^"Gm7" G2 G3 F E2 |^"Bb7" (F4^"A7" E2) |] %18
+w: suis ni grands des-|seins * * * Ni ex-|ploits qui me dé-|pas- sent.|
+w: tit con- tre sa|mè- re. * J'ai mon es-|poir dans le Sei-|gneur. _|
 V:2
  z G | d3 d dd dd | ^c6 z =c | c3 c cc cc | c6 z f |$ %5
  f4 ed dc- | c d3 z3 c | d4 d4 | ^c6 ||$ %9
@@ -2762,7 +2744,6 @@ V:3
 
 X:64
 T:Je veux chanter ton amour, Seigneur
-C:Prière de l'angélus
 C:M. Dannaud
 %%score [ ( 1 2 ) ]
 L:1/8
@@ -2773,7 +2754,7 @@ V:1 clef=
 V:2 clef=
 V:1
 [P:Refrain]^"Dm" D2 |^"Eb" G2 G G3 AB |^"F" A2 G F3 D2 |^"Gm" G2 G2 A B2 A- |^"Dm" A4 z2 D2 |$ %5
-w: Ref.~Je|veux chan- ter ton a-|mour Sei- gneur Chaque|ins- tant de ma vie|_ dan-|
+w: Ref.~Je|veux chan- ter ton a-|mour Sei- gneur Chaque|ins- tant de ma vie|_ _ dan-|
 w: |||||
 w: |||||
 w: |||||
@@ -2791,11 +2772,11 @@ w: 3.~Car tu|es fi- dèle, tu es|tou- jours là tout près|de tous ceux qui te|
 w: 4.~Voi- ci|que tu viens au mi-|lieu de nous. De- meu-|rer au coeur de nos|
 w: 5.~A- vec|toi, Sei- gneur, je n'ai|peur de rien. Tu es|là sur tous mes che-|
 ^"Dm" A6 GA |^"Eb" B2 B B2 c d2 |^"F" c6 z2 |^"Gm" B2 G B3 |] %17
-w: vie. Nous em-|bra- ser par ton Es-|prit.|Gloire à toi~!|
-w: teur. Le ro-|cher sur qui je m'ap-|puie.||
-w: cherchent. Tu réè-|ponds à ceux qui t'ap-|pellent.||
-w: vies, pour nous|me- ner droit vers le|Père.||
-w: mins. Tu m'ap-|prends à vi- vre l'a-|mour.||
+w: vie. Nous em-|bra- ser par ton Es-|prit. *|Gloire à toi~!|
+w: teur. Le ro-|cher sur qui je m'ap-|puie. *||
+w: cherchent. Tu réè-|ponds à ceux qui t'ap-|pellent. *||
+w: vies, pour nous|me- ner droit vers le|Père. *||
+w: mins. Tu m'ap-|prends à vi- vre l'a-|mour. *||
 V:2
  D2 | E2 E E3 FG | F2 F D3 D2 | D2 D2 D C2 D- | D4 x2 D2 |$ %5
  E2 E E3 FG | F2 F D3 D2 | D2 D2 C D2 D- | D4 x2 ||$ %9
@@ -2925,23 +2906,23 @@ V:2 clef=
 V:3 clef=bass
 V:1
 [P:Couplets]^"Bb" DCB,/B,/-^"Gm7" B,CD/E/- |^"Eb" EFG/F/-^"F" F z G/A/ |^"Gm7" BAG/G/-^"Eb" GFE/D/- |^"Bb" DCB,/C/-^"F" C z D/E/ |$ %4
-w: Re- çois de moi * le par- fum|* qui t'est dû * la beau-|té de ton nom * en mon âme|* é- per- due * Je veux|
-w: Je ne veux rien * que vou- loir|* te lou- er, * a- do-|rer ton saint nom * et ta fi-|* dé- li- té * Je veux|
+w: Re- çois de moi * le par- fum|* qui t'est dû * * la beau-|té de ton nom * en mon âme|* é- per- due * * Je veux|
+w: Je ne veux rien * que vou- loir|* te lou- er, * * a- do-|rer ton saint nom * et ta fi-|* dé- li- té * * Je veux|
 ^"Bb" DCB,/B,/-^"Gm7" B,2 z |^"Eb" z3^"F" C<D-D/E/ |^"Bb" DC/B,/-B,-^"Gm7" B,3 |^"Eb" z6 |^"Bb" DCB,/B,/-^"Gm7" B,CD/E/- |^"Eb" EFG/F/-^"F" F z G/A/ |$ %10
-w: n'ê- tre qu'à toi *|Jé- sus * je|t'ai- * me. * *||Re- çois du peu * que je trouve|* à don- ner * tout l'a-|
-w: n'ê- tre qu'à toi *|Jé- sus * je|t'ai- * me. * *||Je veux por- ter * et la- ver|* à ta croix * les pen-|
+w: n'ê- tre qu'à toi * *|* Jé- sus * je|t'ai- * me. * *||Re- çois du peu * que je trouve|* à don- ner * * tout l'a-|
+w: n'ê- tre qu'à toi * *|* Jé- sus * je|t'ai- * me. * *||Je veux por- ter * et la- ver|* à ta croix * * les pen-|
 ^"Gm7" BAG/G/-^"Eb" GFE/D/- |^"Bb" DCB,/C/-^"F" C z D/E/ |^"Bb" DCB,/B,/-^"Gm7" B,2 z |^"Eb" z3^"F" C<D-D/E/ |^"Bb" DC/B,/-B,-^"Gm7" B,3 |^"Eb" z6 ||$ %16
-w: mour que mes yeux * n'ont pas su|* te mon- trer * Je veux|n'ê- tre qu'à toi *|Jé- sus * je|t'ai- * me. * *||
-w: sées de mon coeur * dans le coeur|* de tes voies. * Je veux|n'ê- tre qu'à toi *|Jé- sus * je|t'ai- * me. * *||
-[P:Refrain]^"Gm" BAG/G/-^"Bb/F" GA/BG/ |^"Eb" G3 z2 z |^"Gm" BAG/G/- GAB/c/- |^"F/A" cBA/A/- A z B/c/ |$ %20
-w: Rien n'est plus beau * que ton *|nom|Rien n'est plus Saint * que le sang|* du par- don * Je veux|
+w: mour que mes yeux * n'ont pas su|* te mon- trer * * Je veux|n'ê- tre qu'à toi * *|* Jé- sus * je|t'ai- * me. * *||
+w: sées de mon coeur * dans le coeur|* de tes voies. * * Je veux|n'ê- tre qu'à toi * *|* Jé- sus * je|t'ai- * me. * *||
+[P:Refrain]^"Gm" BAG/G/-^"Bb/F" GA/(BG/) |^"Eb" G3 z2 z |^"Gm" BAG/G/- GAB/c/- |^"F/A" cBA/A/- A z B/c/ |$ %20
+w: Rien n'est plus beau * que ton *|nom * *|Rien n'est plus Saint * que le sang|* du par- don * * Je veux|
 w: ||||
-^"Bb" dcB/B/-^"Gm7" B3 ||1^"Eb" z3^"F" A<Bc/B/ |^"Bb" B6&x3^"E"x3 |^"Bb" z3^"F" z3 :|$ %24
-w: n'ê- tre qu'à toi *|Jé- sus mon *|Roi.||
+^"Bb" dcB/B/-^"Gm7" B3 ||1^"Eb" z3^"F" A<B(c/B/) |^"Bb" B6&x3^"E"x3 |^"Bb" z3^"F" z3 :|$ %24
+w: n'ê- tre qu'à toi *|* Jé- sus mon *|Roi.||
 w: ||||
-|2^"Eb" z3^"F" z2 B/c/ ||^"Bb" dcB/B/-^"Gm7" B3 |^"Eb" z3^"F" z2 B/c/ |^"Bb" dcB/B/-^"Gm7" B3 |^"Eb" z3^"F" A<Bc/B/ |^"Bb" B6 |] %30
-w: Je veux|n'ê- tre qu'à toi *|Je veux|n'ê- tre qu'à toi *|Jé- sus mon *|Roi.|
-w: ||||||
+|2^"Eb" z3^"F" z2 B/c/ ||^"Bb" dcB/B/-^"Gm7" B3 |^"Eb" z3^"F" z2 B/c/ |^"Bb" dcB/B/-^"Gm7" B3 |^"Eb" z3^"F" A<B(c/B/) |^"Bb" B6 |] %30
+w: |* * Je veux|n'ê- tre qu'à toi *|* * Je veux|n'ê- tre qu'à toi *|* Jé- sus mon *|Roi.|
+w: |||||||
 V:2
  B,3 x3 | [G,B,]3 C3 | [DG]3 [B,E]3 | [F,B,]3 [F,A,]3 |$ %4
  [F,B,]3 F,3 | [G,B,]3 x3 | x6 | [B,EG]FG [A,CF]3 | B,3 x3 | [G,B,]3 C3 |$ %10
@@ -3009,7 +2990,6 @@ V:4
 
 X:70
 T:Je viens vers toi, Jésus
-C:Communauté verbe de vie
 C:B. Ben
 %%score { ( 1 2 ) | ( 3 4 ) }
 L:1/8
@@ -3169,7 +3149,6 @@ w: O- ra pro- no- bis|A- men A- men Al- lé- lu- ia|
 X:74
 T:Je vous salue Marie V15
 T:(dit de Chartres)
-C:Prière de l'angélus
 C:Père Joseph Louis/Daniel White
 %%score [ ( 1 2 ) ( 3 4 ) ]
 L:1/8
@@ -3182,26 +3161,26 @@ V:2 clef=
 V:3 clef=bass
 V:4 clef=bass
 V:1
- D^"Dm"A B | AG^"Am" A2 |^"F" F2 GA |^"Bb" F2 E2 | D4 | DE^"Dm" FG | A3 A^"Gm" GB |^"F" !breath!A3 A |$ %8
+ D^"Dm"A B | AG^"Am" A2 |^"F" F2 GA |^"Bb" (F2 E2) | D4 | DE^"Dm" FG | A3 A^"Gm" GB |^"F" !breath!A3 A |$ %8
 w: Je Vous sa-|lue Ma- rie|plei- ne de|grâ- *|ces,|le _ Sei- *|gneur est a- vec|Vous. Vous|
 ^"Bb" dcd^"Gm" BAG |^"Dm" FGB AFE | !breath!D2 A2 d2 |^"Am" A3 A |^"Dm" AF GB |^"F" A2 GA |$ %14
 w: ê- tes bé- nie en- tre|tou- tes les fem- * *|mes. Et Jé-|sus, le|fruit de vos en-|trailles est bé-|
-^"Dm" F2 !breath!z2 | A2 GA | FE D2 |^"Bb" d2 cd | cG^"F" !breath!A3 A |^"Am" c2 =B2 A2 |^"Dm" AF G A3 |$ %21
-w: ni~!|Sain- te Ma-|ri- * e,|Mè- * *|re de Dieu, pri-|ez pour nous|pau- vre pê- cheurs.|
+^"Dm" F2 !breath!z2 | A2 GA | FE D2 |^"Bb" d2 (cd) | (cG)^"F" !breath!A3 A |^"Am" c2 =B2 A2 |^"Dm" AF G A3 |$ %21
+w: ni~! *|Sain- te Ma-|ri- * e,|Mè- * *|re de Dieu, pri-|ez pour nous|pau- vre pê- cheurs.|
  GA F2 | FF FF | FED^"Am" C3 |^"Em7b5" !fermata!D3^"Dm" !fermata!D3 |] %25
 w: Main- te- nant|et à l'heu- re|de no- tre mort~!|A- men~!|
 V:2
- DF G | FD C2 | C2 DF | D2 C2 | A,4 | D2 DE | F3 F DE | C3 F |$ %8
+ DF G | FD C2 | C2 DF | (D2 C2) | A,4 | D2 DE | F3 F DE | C3 F |$ %8
  FEF GFE | DEG FDC | A,2 F2 F2 | E3 E | FD DG | F2 EE |$ %14
  D2 x2 | F2 CC | DC A,2 | F3 F | G2 F3 F | E2 G2 E2 | FD E F3 |$ %21
  DF D2 | DD DD | DCA, A,3 | B,3 A,3 |] %25
 V:3
- D,A, G, | A,B, A,2 | A,2 B,A, | B,A, G,2 | F,4 | F,G, A,2 | A,3 A, B,G, | !breath!A,3 A, |$ %8
- B,CB, DCB, | A,B,D A,2 G, | F,2 D2 A,2 | C3 C | DA, B,C | C2 CC |$ %14
+ D,A, G, | A,B, A,2 | A,2 B,A, | (B,A, G,2) | F,4 | F,G, A,2 | A,3 A, B,G, | !breath!A,3 A, |$ %8
+ B,CB, DCB, | A,B,D (A,2 G,) | F,2 D2 A,2 | C3 C | DA, B,C | C2 CC |$ %14
  A,2 !breath!z2 | A,2 B,A, | B,G, F,2 | B,2 A,B, | C2 C3 A, | A,2 =B,2 C2 | DC B, A,3 |$ %21
  B,C A,2 | B,A, G,F, | G,G,F, E,3 | !fermata!E,3 !fermata!F,3 |] %25
 V:4
- D,D, D, | D,D, D,2 | F,E, D,C, | B,,2 C,2 | D,4 | D,2 D,2 | D,3 D, D,C, | F,3 D, |$ %8
+ D,D, D, | D,D, D,2 | F,E, D,C, | (B,,2 C,2) | D,4 | D,2 D,2 | D,3 D, D,C, | F,3 D, |$ %8
  B,,B,,B,, G,,A,,B,, | D,C,B,, D,B,,C, | D,2 D,2 D,2 | A,3 A, | D,F, F,E, | F,2 C,A,, |$ %14
  D,2 x2 | D,2 E,F, | G,C, D,2 | B,,2 C,G, | E,2 F,3 D, | A,,2 E,2 A,2 | D,D, D, D,3 |$ %21
  G,F, D,2 | G,,A,, B,,A,, | B,,C,D, A,,3 | G,,3 D,3 |] %25
@@ -3392,10 +3371,7 @@ V:4
 
 X:79
 T:Jésus Christ l'Emmanuel
-C:E. Faugeron
-C:Claude Balbastre
-(Joseph est bien marié)
-Z:Elisabeth Prudhomme
+C:Claude Balbastre (Joseph est bien marié) / Elisabeth Prudhomme
 %%score [ ( 1 2 ) 3 ]
 L:1/8
 M:2/2
@@ -3406,15 +3382,15 @@ V:2 clef=
 V:3 clef=bass
 V:1
 |:^"D" F2 B2^"F#" ^A2 F2 |^"Bm" B2 c2^"Bm" d4 |^"Em" e2 d2^"C#dim" c2 B2 |^"C#dim" c2 ^A2^"Bm" B4 :|$ %4
-w: Jé- sus Christ l'Em-|ma- nu- el|Dieu lu- miè- re|de No- ël|
-w: ||Gloire à Dieu et|paix sur terre|
-w: ||||
-w: ||||
+w: |Jé- sus Christ l'Em-|ma- nu- el|Dieu lu- miè- re|de No- ël|
+w: |||Gloire à Dieu et|paix sur terre|
+w: |||||
+w: |||||
 |:^"Bm" f2 f2^"C#m7" c2 d2 |^"C#m7" e2 d2^"F#" c4 :|^"D" F2 B2^"F#" ^A2 F2 |^"Bm" B2 c2^"Bm" d4 |^"Em" e2 d2^"C#dim" c2 B2 |$ %9
-w: 1.~Toi le fils du|Dieu vi- vant|Jé- sus Christ l'Em-|ma- nu- el|Dieu lu- miè- re|
-w: Tu t'es fait pe-|tit en- fant||||
-w: 3.~Comme les anges et|les ber- gers||||
-w: Nous ve- nons nous|pros- ter- ner||||
+w: |1.~Toi le fils du|Dieu vi- vant|Jé- sus Christ l'Em-|ma- nu- el|Dieu lu- miè- re|
+w: |Tu t'es fait pe-|tit en- fant||||
+w: |3.~Comme les anges et|les ber- gers||||
+w: |Nous ve- nons nous|pros- ter- ner||||
 ^"C#dim" c2 ^A2^"Bm" B4!fine! |: B2^"F#" f3 f | cd^"E" e4 | B2^"Bm" d3 e | cd^"Bm" B4 :|$ %14
 w: de No- ël|2.~Ve- nez a-|do- rons le|le Christ est|né pour nous|
 w: |||Il est né|par- mi nous|
@@ -3438,11 +3414,11 @@ V:2
  =AA D2 G2 | CC D2 D2 | D2 F3 F | FF E4 | B2 B2 ^G2 | ^AA D4 |] %26
 V:3
 |: D,2 B,,2 F,2 E,2 | D,2 C,2 B,,2 B,>A, | G,2 F,>F, E,2 D,2 | E,2 F,2 B,,4 :|$ %4
-w: Jé- sus Christ l'Em-|ma- nu- el Dieu lu-|mière Dieu lu- miè- re|de No- ël|
-w: |* * * Gloire à|Dieu, gloire à Dieu et|paix sur terre|
+w: |Jé- sus Christ l'Em-|ma- nu- el Dieu lu-|mière Dieu lu- miè- re|de No- ël|
+w: ||* * * Gloire à|Dieu, gloire à Dieu et|paix sur terre|
 |: D2 D2 E2 D2 | C2 B,2 F4 :| D,2 B,,2 F,2 E,2 | D,2 C,2 B,,2 B,>A, | G,2 F,>F, E,2 D,2 |$ %9
-w: ||Jé- sus Christ l'Em-|ma- nu- el Dieu lu-|mière Dieu lu- miè- re|
-w: |||||
+w: |||Jé- sus Christ l'Em-|ma- nu- el Dieu lu-|mière Dieu lu- miè- re|
+w: ||||||
  E,2 F,2 B,,4 |: B,2 ^A,2 =A,2 | =A,A, ^G,4 | =G,2 F,2 E,2 | F,F, B,,4 :|$ %14
 w: de No- ël|||||
 w: |||||
@@ -3569,23 +3545,23 @@ V:3 clef=bass
 V:4 clef=bass
 V:1
 "^Refrain" G2 |^"C" GGGG E2^"G" D2 |^"Am" C4 z2 C2 |^"F" C3 C D2 E2 |^"G" D4 z2 G2 |$ %5
-w: L'a-|mour ja- mais ne pas- se-|ra. L'a-|mour de- meu- re-|ra L'a-|
+w: L'a-|mour ja- mais ne pas- se-|ra. * L'a-|mour de- meu- re-|ra * L'a-|
 w: |||||
 w: |||||
 w: |||||
 w: |||||
 ^"C" G4 G2 G2 |^"E" ^G3 G A2 B2 |^"Am" cccc^"Em" B2^"F" A2 |^"C" G4 z2 C2 |^"F" C4 C2 C2 |^"C" C4 ||$ %11
-w: mour, l'a- mour|seul, la cha- ri-|té ja- mais ne pas- se-|ra car|Dieu est a-|mour.|
+w: mour, l'a- mour|seul, la cha- ri-|té ja- mais ne pas- se-|ra * car|Dieu est a-|mour.|
 w: ||||||
 w: ||||||
 w: ||||||
 w: ||||||
 "^Couplets" z GGG |^"C" G2- GG^"G" G-GAB |^"Am" c2 A3 AAA |^"F" A2 AA G2 F2 |^"G4b3" G4- G2 GG |$ %16
-w: 1. Quand j'au-|rais _ le don _ de la|scien- ce et con- naî-|trais * tous les mys-|tè- res, par- le-|
-w: 2.Si je don-|nais _ mes biens _ en au-|mô- ne, si je li-|vrais * mon corps aux|flam- mes, si ma|
-w: 3.La cha- ri-|té est tou- jours _ lon- ga-|ni- me, ne tient pas|comp- * * te du|mal, la cha- ri-|
-w: 4.La cha- ri-|té ne ja- lou- * se per-|son- ne, la cha- ri-|té ja- mais ne s'ir-|ri- té En tout|
-w: 5. * Un|jour, * les lan- gues vont se|tai- re, les pro- phé-|ties * dis- pa- raî-|tront _ De- vant|
+w: * 1. Quand j'au-|rais _ le don _ de la|scien- ce et con- naî-|trais * tous les mys-|tè- res, par- le-|
+w: * 2.Si je don-|nais _ mes biens _ en au-|mô- ne, si je li-|vrais * mon corps aux|flam- mes, si ma|
+w: * 3.La cha- ri-|té est tou- jours _ lon- ga-|ni- me, ne tient pas|comp- * * te du|mal, la cha- ri-|
+w: * 4.La cha- ri-|té ne ja- lou- * se per-|son- ne, la cha- ri-|té ja- mais ne s'ir-|ri- té En tout|
+w: * 5. * Un|jour, * les lan- gues vont se|tai- re, les pro- phé-|ties * dis- pa- raî-|tront _ De- vant|
 ^"C" G2- GG^"G" G2 AB |^"Am" c2 A3- AAA |^"F" A3- A B2 c2 |^"G" B4- B2 |] %20
 w: rais- je les lan- gues des|an- ges, * sans a-|mour, je ne suis|rien _|
 w: foi dé- pla- çait les mon-|ta- gnes, * sans a-|mour, je ne suis|rien _|
@@ -3610,7 +3586,6 @@ V:4
 
 X:84
 T:La première en chemin, Marie
-C:E. Faugeron
 C:Georges Lefebvre
 Z:Sr M-C Guédon
 %%score [ ( 1 2 ) ( 3 4 ) ]
@@ -3624,37 +3599,37 @@ V:3 clef=bass
 V:4 clef=bass
 V:1
 |:[P:Couplets]^"C" z CD EDE | E6 | z EE EDE |^"Em" G3 G3 |$ %4
-w: 1.~La pre- mière en che-|min,|Ma- rie tu nous en-|trai- nes.|
-w: ~Et voi- ci qu'est se-|mé|en l'ar- gile in- cer-|tai- ne,|
-w: 2.~La pre- mière en che-|min,|Joy- eu- se tu t'é-|lan- ces,|
-w: ~La pa- role a sur-|gi,|Tu es sa ré- son-|nan- ce.|
-w: 3.~La pre- mière en che-|min,|tu pro- vo- ques le|Si- gne|
-w: "~Tout ce qu'il vous di-|ra,|fai- tes- le~!~" Et nos|vi- gnes,|
-w: 4.~La pre- mière en che-|min|pour sui- vre au Gol-|go- tha.|
-w: Tu te tiens là, de-|bout,|au plus près de la|Croix _|
-w: 5.~La pre- mière en che-|min,|bril- le ton Es- pé-|ran- ce|
-w: Heu- reu- se toi qui|crois|d'une ab- so- lue con-|fian- ce;|
-w: 6.~La pre- mière en che-|min|a- vec l'E- glise en|mar- che.|
-w: En ce monde au- jour-|d'hui,|as- su- re no- tre|mar- che;|
-w: 7.~La pre- mière en che-|min,|aux ri- ves bien- heu-|reu- ses.|
-w: Du ro- yaume ac- com-|pli|tu es pier- re pré-|cieu- se.|
+w: |* 1.~La pre- mière en che-|min,|* Ma- rie tu nous en-|trai- nes.|
+w: |* ~Et voi- ci qu'est se-|mé|* en l'ar- gile in- cer-|tai- ne,|
+w: |* 2.~La pre- mière en che-|min,|* Joy- eu- se tu t'é-|lan- ces,|
+w: |* ~La pa- role a sur-|gi,|* Tu es sa ré- son-|nan- ce.|
+w: |* 3.~La pre- mière en che-|min,|* tu pro- vo- ques le|Si- gne|
+w: |* "~Tout ce qu'il vous di-|ra,|* fai- tes- le~!~" Et nos|vi- gnes,|
+w: |* 4.~La pre- mière en che-|min|* pour sui- vre au Gol-|go- tha.|
+w: |* Tu te tiens là, de-|bout,|* au plus près de la|Croix _|
+w: |* 5.~La pre- mière en che-|min,|* bril- le ton Es- pé-|ran- ce|
+w: |* Heu- reu- se toi qui|crois|* d'une ab- so- lue con-|fian- ce;|
+w: |* 6.~La pre- mière en che-|min|* a- vec l'E- glise en|mar- che.|
+w: |* En ce monde au- jour-|d'hui,|* as- su- re no- tre|mar- che;|
+w: |* 7.~La pre- mière en che-|min,|* aux ri- ves bien- heu-|reu- ses.|
+w: |* Du ro- yaume ac- com-|pli|* tu es pier- re pré-|cieu- se.|
  z EE EFG |^"Dm" D6 |^"G7" z DD DDE |^"C" E6 :|$ %8
-w: 1.~A ris- quer no- tre|"oui"|aux im- pré- vus de|Dieu.|
-w: de notre hu- ma- ni-|té,|Jé- sus Christ fils de|Dieu.|
-w: 2.~Pro- phè- te de Ce-|lui|qui a pris corps en|toi.|
-w: Et tu fran- chis des|monts|pour en por- ter la|voix.|
-w: 3.~Et l'heu- re pour Jé-|sus|de se ma- ni- fes-|ter.|
-w: sans sa- veur et sans|fruits,|en sont re- nou- ve-|lées.|
-w: 4.~Le fils de ton a-|mour|que tous ont con- dam-|né.|
-w: Pour re- cueil- lir la|vie|de son coeur trans- per-|cé.|
-w: 5.~dans ton coeur dé- chi-|ré|et la nuit du tom-|beau.|
-w: Sans voir et sans tou-|cher,|tu sais le jour nou-|veau.|
-w: 6.~Dès les com- men- ce-|ments...|tu ap- pel- les l'Es-|prit~!|
-w: Que gran- dis- se le|corps|de ton fils Jé- sus|Christ~!|
-w: 7.~Tu pré- cè- des, Ma-|rie,|tou- te l'hu- ma- ni-|té.|
-w: Re- vê- tue de so-|leil,|en Dieu trans- fi- gu-|rée~!|
+w: * 1.~A ris- quer no- tre|"oui"|* aux im- pré- vus de|Dieu.|
+w: * de notre hu- ma- ni-|té,|* Jé- sus Christ fils de|Dieu.|
+w: * 2.~Pro- phè- te de Ce-|lui|* qui a pris corps en|toi.|
+w: * Et tu fran- chis des|monts|* pour en por- ter la|voix.|
+w: * 3.~Et l'heu- re pour Jé-|sus|* de se ma- ni- fes-|ter.|
+w: * sans sa- veur et sans|fruits,|* en sont re- nou- ve-|lées.|
+w: * 4.~Le fils de ton a-|mour|* que tous ont con- dam-|né.|
+w: _ Pour re- cueil- lir la|vie|* de son coeur trans- per-|cé.|
+w: * 5.~dans ton coeur dé- chi-|ré|* et la nuit du tom-|beau.|
+w: * Sans voir et sans tou-|cher,|* tu sais le jour nou-|veau.|
+w: * 6.~Dès les com- men- ce-|ments...|* tu ap- pel- les l'Es-|prit~!|
+w: * Que gran- dis- se le|corps|* de ton fils Jé- sus|Christ~!|
+w: * 7.~Tu pré- cè- des, Ma-|rie,|* tou- te l'hu- ma- ni-|té.|
+w: * Re- vê- tue de so-|leil,|* en Dieu trans- fi- gu-|rée~!|
 [P:Refrain] z3 EAB |^"Am" c3 c3 |^"Em" B3 BGE |^"F" A3 A3 |^"C" G3 GEC |^"Dm" F3 F3 |^"Am" E3 EEE |^"E" E3^"E7" G3 |^"Am" A6 |] %17
-w: Marche a- vec|nous Ma-|rie, sur nos che-|mins de|foi. Ils sont che-|mins vers|Dieu, ils sont che-|mins vers|Dieu.|
+w: * Marche a- vec|nous Ma-|rie, sur nos che-|mins de|foi. Ils sont che-|mins vers|Dieu, ils sont che-|mins vers|Dieu.|
 w: |||||||||
 w: |||||||||
 w: |||||||||
@@ -3773,7 +3748,6 @@ V:4
 X:87
 T:Le Seigneur est ma lumière et mon salut
 T:Psaume 26
-C:E. Faugeron
 C:Frère Jean-Baptiste du Jonchay
 %%score [ ( 1 2 ) ( 3 4 ) ]
 L:1/8
@@ -3790,17 +3764,17 @@ w: Le Sei-|gneur * est ma lu-|mière * et mon sa-|lut|_ De|qui|_ au- rais je|cra
  E6 DE |^"D" F4- FEFG |^"A" A4 B2 c2 |^"Bm" B8- | B6 A2 |^"G" G6 F2 |^"A" E6 E2 |^"D" D8 | D6 ||$ %17
 w: * Le Sei-|gneur * est le rem-|part de ma|vie|* de-|vant qui|trem- ble-|rais-|je~?|
 |1[P:Couplets]^"D" z2 A2 A2 B2 |^"A" A4 B2 A2 ||^"Bm" F4 F2 E2 | D6 D2 |^"G" B8- | B2 A2 G2 F2 |^"A" A8 |$ %24
-w: 1.~J'ai de- man-|dé u- ne|chose au Sei-|gneur, la|seu-|* le que je|cher-|
+w: |* 1.~J'ai de- man-|dé u- ne|chose au Sei-|gneur, la|seu-|* le que je|cher-|
 ^"A" A6 FG |^"D" A4 A2 A2 |^"A" A4 F2 E2 |^"Bm" D8- | D6 F2 |^"G" G6 AB |^"A" A4 A4 |^"D" A8- | A6 z2 :|$ %33
 w: che. Ha- bi-|ter la mai-|son du Sei-|gneur|* tous|les jours _|de ma|vie.||
 |2^"D" z4 A2 F2 |^"A" E4 D2 E2 ||^"Bm" F6 F2 | D8 |^"G" D4 G2 A2 | B2 A2 B2 A2 |^"A" A6 G2 |$ %40
-w: 2.~Ha- bi-|ter ta mai-|son Sei-|gneur|pour t'ad- mi-|rer en ta beau-|té et|
+w: |* 2.~Ha- bi-|ter ta mai-|son Sei-|gneur|pour t'ad- mi-|rer en ta beau-|té et|
 ^"A" E4 A4 |^"D" A2 G2 F2 D2 |^"A" E4 E2 E2 |^"Bm" F8 | F4 F4 |^"G" D4 D4 |^"A" E4 A4 |^"D" F2 G2 F2 E2 | F6 z2 :|$ %49
-w: m'at- ta-|cher à ton E-|gli- se, Sei-|gneur,|m'at- ta-|cher à|ton E-|gli- * se Sei-|gneur.|
-|3^"D" z4 FE D2 |^"A" A4 E2 DE ||^"Bm" F6 E2 | F2 G2 F2 E2 |^"G" D4 B2 A2 | G2 F2 G2 A2 |^"A" A8 |$ %56
-w: 3.~J'en * suis|sûr, je ver- *|rai les|bon- tés du Sei-|gneur sur la|ter- re des vi-|vants|
+w: m'at- ta-|cher à ton E-|gli- se, Sei-|gneur,|m'at- ta-|cher à|ton E-|gli- * se Sei-|gneur. *|
+|3^"D" z4 (FE) D2 |^"A" A4 E2 (DE) ||^"Bm" F6 E2 | F2 G2 F2 E2 |^"G" D4 B2 A2 | G2 F2 G2 A2 |^"A" A8 |$ %56
+w: |* 3.~J'en * suis|sûr, je ver- *|rai les|bon- tés du Sei-|gneur sur la|ter- re des vi-|vants|
 ^"A" z4 A4 |^"D" A4 A2 A2 |^"A" A2 A2 B2 A2 |^"Bm" B8- | B6 F2 |^"G" D6 D2 |^"A" E2 F2 G2 A2 |^"D" F8- | F6 z2 :| %65
-w: Es-|pè- re, sois|fort et prends cou-|ra-|ge, es-|père, es-|pè- re le Sei-|gneur~!||
+w: * Es-|pè- re, sois|fort et prends cou-|ra-|ge, es-|père, es-|pè- re le Sei-|gneur~!||
 V:2
  A,A, | D4- DDDE | E4- EEDC | B,8- | B,6 B,2 | D8- | D2 D2 D2 D2 | C8- |$ %8
  C6 A,A, | D4- DDDE | E4 E2 A2 | F8- | F6 F2 | D6 D2 | C6 C2 | A,8 | A,6 ||$ %17
@@ -3872,7 +3846,6 @@ w: pleu- rer l'in- con-|nu, semer|la bon- ne hu-|meur.|
 
 X:89
 T:Le vent des prophètes
-C:P-M GAMBARELLI
 C:P-M Gambarelli
 L:1/8
 M:4/4
@@ -3881,10 +3854,10 @@ K:C
 V:1 clef=
 V:1
 "^Couplets" z c |^"Am" cccc cccc |^"E" B2 ^G^"Am" !breath!E4 c |$ %3
-w: 1.Tu|as fait se le- ver un peu- ple|sans le- vain Le|
-w: 2.L'in-|jus- ti- ce ne peut sup- por- ter|le si- lence Mais|
-w: 3.Tu|es mort, le prin- temps n'a- vait que|quel- ques brins Tué|
-w: 4.Com-|bien d'hom- mes sont morts et com- bien|meurent en- core Ils|
+w: * 1.Tu|as fait se le- ver un peu- ple|sans le- vain Le|
+w: * 2.L'in-|jus- ti- ce ne peut sup- por- ter|le si- lence Mais|
+w: * 3.Tu|es mort, le prin- temps n'a- vait que|quel- ques brins Tué|
+w: * 4.Com-|bien d'hom- mes sont morts et com- bien|meurent en- core Ils|
 ^"Am" cccc cccc |^"E" B2 ^G^"Am" !breath!E4 A |^"G" GGGA BAGF |$ %6
 w: fro- ment est mou- lu à la for-|ce des poings Le|pain cuit au so- leil a pris le|
 w: l'exem- ple du Christ prends tou- te sa|puis- san- ce Sus-|pen- du au gi- bet au jour de|
@@ -3896,7 +3869,7 @@ w: l'a- ban- don Pour|notre hu- ma- ni- té il de- man-|de par- don|
 w: en mou- rir Ton|nom vient pro- lon- ger la lis- te|des mar- tyrs|
 w: mi- li- taires Qui|pour- rait dé- sor- mais les for- cer|à se taire?|
 "^Refrain" AB |^"Am" c6 dc |^"G" B3 A B2 GG |^"F" A4^"G" B2 G2 |^"E" E4 z EEE |^"Am" c3 c dcBA |^"G" B4 B2 G2 |$ %16
-w: Mais le|vent des pro-|phè- * tes a souf-|flé ce ma-|tin Et l'on a|vu des mil- liers d'a- lou-|et- tes dan-|
+w: Mais le|vent des pro-|phè- * tes a souf-|flé ce ma-|tin * Et l'on a|vu des mil- liers d'a- lou-|et- tes dan-|
 w: |||||||
 w: |||||||
 w: |||||||
@@ -4047,7 +4020,6 @@ w: fils au|saint es-|prit|pour les siè- cles|des siè- cles|a-|men|
 
 X:93
 T:Marie, Toi qui as dit "Oui"
-C:George Lefebvre
 C:Georges Lefebvre
 L:1/8
 M:2/4
@@ -4056,26 +4028,26 @@ K:G
 V:1 clef=
 V:1
 [P:Refrain]^"Em" z2 B2 | B4 | AG FE |^"Am" B4 | z2 AG |^"D7" F2 EG | F3 E | DE DC |^"G" B,4 |$ %9
-w: Ma-|rie,|toi qui as dit~:|"Oui"|Ap- prends|nous com- me|toi, à|vi- vre de l'Es-|prit.|
+w: * Ma-|rie,|toi qui as dit~:|"Oui"|* Ap- prends|nous com- me|toi, à|vi- vre de l'Es-|prit.|
 w: |||||||||
 w: |||||||||
 w: |||||||||
 w: |||||||||
 w: |||||||||
 ^"B7" z2 B2 |^"Em" B4 | AG FE |^"Am" B4 | z2 AG |^"D7" F2 EG | F3 G | AG FD |^"Em" E4 ||$ %18
-w: Ma-|rie,|toi qui as dit~:|"Oui"|Ap- prends|nous com- me|toi à|vi- vre de l'Es-|prit.|
+w: * Ma-|rie,|toi qui as dit~:|"Oui"|* Ap- prends|nous com- me|toi à|vi- vre de l'Es-|prit.|
 w: |||||||||
 w: |||||||||
 w: |||||||||
 w: |||||||||
 w: |||||||||
 [P:Couplets] B2 E2 | z E GB | A3 A | AB AG | A3 A |$ %23
-w: 1.~Mè- re|tu as dit~:|"Oui" Lors-|que Dieu t'a choi-|sie pour|
-w: 2.~Mè- re|tu as dit~:|"Oui" Dans|la nuit de No-|ël lors-|
-w: 3.~Mè- re|tu as dit~:|"Oui" A|la mort sur la|Croix de|
-w: 4.~Mè- re|tu as dit~:|"Oui" De-|vant le tom- beau|vide, quand|
-w: 5.~Mè- re|tu as dit~:|"Oui" Au|souf- fle de l'Es-|prit dans|
-w: 6.~Mè- re|tu as dit~:|"Oui" A|la fin de ta|vie, quand|
+w: 1.~Mè- re|* tu as dit~:|"Oui" Lors-|que Dieu t'a choi-|sie pour|
+w: 2.~Mè- re|* tu as dit~:|"Oui" Dans|la nuit de No-|ël lors-|
+w: 3.~Mè- re|* tu as dit~:|"Oui" A|la mort sur la|Croix de|
+w: 4.~Mè- re|* tu as dit~:|"Oui" De-|vant le tom- beau|vide, quand|
+w: 5.~Mè- re|* tu as dit~:|"Oui" Au|souf- fle de l'Es-|prit dans|
+w: 6.~Mè- re|* tu as dit~:|"Oui" A|la fin de ta|vie, quand|
  cc cc | B3 B | cB AG | F4 |] %27
 w: ê- tre la ma-|man de|son fils bien ai-|mé.|
 w: que na- quit l'en-|fant que|Dieu t'a- vais pro-|mis.|
@@ -4388,8 +4360,6 @@ V:4
 
 X:101
 T:Messe du Frat - Kyrie - Prends Pitié
-C:Benjamin et
-C:Thomas POUZIN
 C:Benjamin et Thomas POUZIN
 L:1/8
 M:6/8
@@ -4398,16 +4368,14 @@ K:E
 V:1 clef=
 V:1
  z EF |:^"C#m" G3 z2 E |^"A" A3 z GA |^"E" B3 GFE |^"B" F3 z EF |^"C#m" G3 z2 E |$ %6
-w: 1.3.~Prends pi-|tié Sei-|gneur Ô Sei-|gneur Prends _ pi-|tié Prends pi-|tié Sei-|
-w: 2.~Prends pi-|tié Ô|Christ Ô _|Christ Prends _ pi-|tié Prends pi-|tié Ô|
+w: * 1.3.~Prends pi-|tié * Sei-|gneur * Ô Sei-|gneur Prends _ pi-|tié * Prends pi-|tié * Sei-|
+w: * 2.~Prends pi-|tié * Ô|Christ * Ô _|Christ Prends _ pi-|tié * Prends pi-|tié * Ô|
 ^"A" A3 z DE |^"B" F3 FED |^"E" E3 z3 ||1^"E" z3 z EF :||3^"E" z6 |] %11
-w: gneur Ô Sei-|gneur Prends _ pi-|tié.|Prend pi||
-w: Christ Ô _|Christ Prends _ pi-|tié.|Prends pi||
+w: gneur * Ô Sei-|gneur Prends _ pi-|tié. *|* * Prend pi||
+w: Christ * Ô _|Christ Prends _ pi-|tié. *|* * Prends pi||
 
 X:102
 T:Messe du Frat - Agnus - Agneau de Dieu
-C:Benjamin et
-C:Thomas POUZIN
 C:Benjamin et Thomas POUZIN
 L:1/8
 M:6/8
@@ -4416,16 +4384,14 @@ K:E
 V:1 clef=
 V:1
  z EF |:^"C#m" G3 z2 E |^"A" A3 z GA |^"E" BBB GFE |^"B" F3 z EF |^"C#m" G3 z2 E |$ %6
-w: 1.2.~Toi l'A-|gneau de|Dieu qui en-|lè- ves le pé- ché du|monde. Prends po-|tié de|
-w: 3.~Toi l'A-|gneau de|Dieu qui en-|lè- ves le pé- ché du|monde. Don- ne|nous la|
+w: * 1.2.~Toi l'A-|gneau * de|Dieu * qui en-|lè- ves le pé- ché du|monde. * Prends po-|tié * de|
+w: * 3.~Toi l'A-|gneau * de|Dieu * qui en-|lè- ves le pé- ché du|monde. * Don- ne|nous * la|
 ^"A" A3 z DE |^"B" F3 D3 |^"E" E3 z3 ||1^"E" z3 z EF :||3^"E" z6 |] %11
-w: nous Prends pi-|tié de|nous.|Toi l'A||
-w: paix. Don- ne|nous la|paix|||
+w: nous * Prends pi-|tié de|nous. *|* * Toi l'A||
+w: paix. * Don- ne|nous la|paix *|||
 
 X:103
 T:Messe du Frat - Gloria - Gloire à Dieu
-C:Benjamin et
-C:Thomas POUZIN
 C:Benjamin et Thomas POUZIN
 L:1/8
 M:6/8
@@ -4434,9 +4400,9 @@ K:E
 V:1 clef=
 V:1
 [P:Refrain]^"E" B2 E^"A" c3 |^"E" BA>G^"B" F3 |^"C#m" E3^"A" AGA |^"B" B3 z3 |^"E" B2 E^"A" c3 |^"E" BA>G^"B" F3 |^"C#m" E3^"A" AGE |^"E" E6 ||$ %8
-w: Gloire à Dieu,|Gloi- re à Dieu|Au plus haut des|cieux.|Gloire à Dieu|Gloi- re à Dieu|Au plus haut des|cieux.|
+w: Gloire à Dieu,|Gloi- re à Dieu|Au plus haut des|cieux. *|Gloire à Dieu|Gloi- re à Dieu|Au plus haut des|cieux.|
 [P:1]^"E" z4 z E |^"C#m" EDE^"A" E2 B, |^"E" EFG^"B/D#" F3 |^"C#m" GFG^"A" A2 E |^"E" EFG^"B/D#" F3 |^"C#m" EDE^"A" E2 B, |$ %14
-w: 1.~Et|paix sur la terre aux|hom- mes qu'il aime.|Nous te lou- ons, nous|te bé- nis- sons.|Nous t'a- do- rons, nous|
+w: * * 1.~Et|paix sur la terre aux|hom- mes qu'il aime.|Nous te lou- ons, nous|te bé- nis- sons.|Nous t'a- do- rons, nous|
 ^"E" EFG^"B" F2 G |^"C#m" GFG^"A" A2 E/E/^"E" EFG |^"B" B6- |^"B" B6 :|$ %18
 w: te glo- ri- fions. Nous|te ren- dons grâce pour ton im- men- se|gloire|_|
 [P:2]^"C#m" EDE^"A" E3 |^"E" EFG^"B/D#" F3 |^"C#m" GFG^"A" AGE |^"E" EFG^"B/D#" F2 E |^"C#m" EDE^"A" E3 |$ %23
@@ -4446,7 +4412,7 @@ w: Jé- * sus Christ, Sei-|gneur Dieu A- gneau de Dieu, le fils du|Père|_|
 [P:3]^"C#m" EDE^"A" E2 B, |^"E" EFG^"B/D#" F3 |^"C#m" G3^"A" AGE |^"B" F6 |^"C#m" EDE^"A" E2 B, |^"E" EFG^"B" F2 G |^"C#m" G3^"A" AGE |$ %34
 w: 3.~Toi qui en- lèves le|pé- ché du monde,|prends pi- tié de|nous.|Toi qui an- lèves le|pé- ché du monde, re-|çois no- tre pri-|
 ^"B" F3 z2 E |^"C#m" EDE^"A" E2 B,/B,/ |^"E" EFG^"B" F3 |^"C#m" G3^"A" AGA |^"B" B6- |^"B" B6 :|$ %40
-w: ère. Toi|qui es as- sis à la|droi- te du Père,|prends pi- tié de|nous|_|
+w: ère. * Toi|qui es as- sis à la|droi- te du Père,|prends pi- tié de|nous|_|
 [P:4]^"C#m"{E} EDE^"A" E2 B, |^"E" EFG^"B" F3 |^"C#m" GFG^"A" AGF |^"E" EFG^"B" F3 |^"C#m" EDE^"A" E3 |^"E" EFG^"B" F3 |$ %46
 w: 4.~Car~toi seul es saint, toi|seul es Sei- gneur,|toi seul es le très- haut,|Jé- * sus Christ,|dans l'u- ni- té|du saint- Es- prit|
 ^"C#m" GFG^"A" A3 |^"E" EFG^"B" F3 |^"C#m" G3^"A" A3 |^"B" B6- |^"B" B6 |] %51
@@ -4454,8 +4420,6 @@ w: et dans la gloire,|de Dieu le Père|A- A-|men|_|
 
 X:104
 T:Messe du Frat - Alléluia
-C:Benjamin et
-C:Thomas POUZIN
 C:Benjamin et Thomas POUZIN
 L:1/8
 M:4/4
@@ -4464,12 +4428,10 @@ K:D
 V:1 clef=
 V:1
  FF dcBA |:^"G" B4 BcBA |^"D" F2 FF F2 A2 |^"A" c4 cdcA ||1^"Bm" B2 FF dcBA :||2^"Bm" B4 z4 |] %6
-w: Ta pa- role est é- ter-|nelle Al- lé- lu- *|ia La bon- ne nou-|velle Al- lé- lu- *|ia. Ta pa- role est é- ter|ia|
+w: Ta pa- role est é- ter-|nelle Al- lé- lu- *|ia La bon- ne nou-|velle Al- lé- lu- *|ia. Ta pa- role est é- ter|ia *|
 
 X:105
 T:Messe du Frat - Sanctus - Saint le Seigneur
-C:Benjamin et
-C:Thomas POUZIN
 C:Benjamin et Thomas POUZIN
 L:1/8
 M:6/8
@@ -4478,22 +4440,20 @@ K:E
 V:1 clef=
 V:1
 ^"E" B3^"A" c3 |^"E" BA>G^"B" F3 |^"C#m" E2 E^"A" AGA |^"B" B3 z3 |^"E" B3^"A" c3 |^"E" BA>G^"B" F3 |^"C#m" E2 E^"A" AGE |^"E" E6 |$ %8
-w: Saint~! Saint~!|Saint le Sei- gneur.|Le Dieu de l'u- ni-|vers.|Saint~! Saint~!|Saint le Sei- gneur|Le Dieu de l'u- ni-|vers.|
+w: Saint~! Saint~!|Saint le Sei- gneur.|Le Dieu de l'u- ni-|vers. *|Saint~! Saint~!|Saint le Sei- gneur|Le Dieu de l'u- ni-|vers.|
 w: ||||||||
 ^"E" z3 z2 D |:^"C#m" EDE^"B/D#" F2 E/F/^"E" GFE |^"B" B3 z2 E |^"E" BE>E^"A" cB>E |$ %12
-w: 1.~Le|ciel et la terre sont rem- plis de ta|gloire. Ho-|san- na Ho- san- na au|
-w: |2.~soit ce- lui qui vient au nom du Sei-|gneur *||
+w: * * 1.~Le|ciel et la terre sont rem- plis de ta|gloire. * Ho-|san- na Ho- san- na au|
+w: |2.~soit ce- lui qui vient au nom du Sei-|gneur * *||
 ^"B" FG>F^"C#m" E2 E |^"F#m7" AGE AGE |^"B" F3 z2 B |^"E" BE>E^"A" cB>E |^"B" FG>F^"C#m" E2 E |$ %17
-w: plus haut des cieux. Ho-|san- na au plus haut des|cieux. Ho-|san- na Ho- san- na au|plus haut des cieux. Ho-|
+w: plus haut des cieux. Ho-|san- na au plus haut des|cieux. * Ho-|san- na Ho- san- na au|plus haut des cieux. Ho-|
 w: |||||
 ^"F#m7" AGE^"B" AGE |^"E" E6 ||1^"E" z3 z GF :||2^"E" z6 |] %21
-w: san- na au plus haut des|cieux.|Bé- ni||
+w: san- na au plus haut des|cieux.|* * Bé- ni||
 w: ||||
 
 X:106
 T:Messe du Frat - Anamnèse
-C:Benjamin et
-C:Thomas POUZIN
 C:Benjamin et Thomas POUZIN
 L:1/8
 M:6/8
@@ -4502,11 +4462,10 @@ K:E
 V:1 clef=
 V:1
  EF |^"C#m" G3 GFE |^"A" A3 z GA |^"E" B3 GFE |^"B" F3 EEF |^"C#m" G3 z EE |^"A" A3 z DE |^"B" F3 D3 |^"E" E3 z3 |] %9
-w: Gloire à|Toi qui é- tais|mort. Gloire à|Toi qui es vi-|vant, no- tre sau-|veur, no- tre|Dieu. Viens Sei-|gneur Jé-|sus.|
+w: Gloire à|Toi qui é- tais|mort. * Gloire à|Toi qui es vi-|vant, no- tre sau-|veur, * no- tre|Dieu. * Viens Sei-|gneur Jé-|sus. *|
 
 X:107
 T:Messe du peuple de Dieu - Gloria (AL 597)
-C:CH-E. HAUGUEL
 C:CH-E. HAUGUEL (AELF)
 L:1/8
 M:4/4
@@ -4515,7 +4474,7 @@ K:C
 V:1 clef=
 V:1
 |:^"C" c3 c^"F" A4 |^"G" G2 D2^"C" E4 | E2 G2^"F" c4 |^"G" B4^"C" c4 :|$ %4
-w: Gloire à Dieu,|gloire à Dieu,|au plus haut|des cieux.|
+w: |Gloire à Dieu,|gloire à Dieu,|au plus haut|des cieux.|
 ^"C" EEEE^"F" F2 F2 |^"G" DDDD^"C" E2 E2 | E2 EG^"F" c4 |^"G" BBBB^"C" c4 |$ %8
 w: Et paix sur la ter- re|aux hom- mes qu'il ai- me!|Nous te lou- ons,|nous te bé- nis- sons,|
 ^"C" E2 EE^"F" F4 |^"G" DDDD^"C" E4 | EEEG^"F" c2 cc |^"G" BBBB^"C" c2 c2 |$ %12
@@ -4526,9 +4485,9 @@ w: Sei- gneur Dieu,|Roi du ciel,|Dieu le Pè- re|tout puis- sant.|
 w: Sei- gneur, fils u- ni- que|Jé- sus Christ|Sei- gneur Dieu, a- gneau de|Dieu le fils du Pè- re|
 ^"C" c2 cc^"F" A2 A2 |^"G" GGGD^"C" E2 E2 | E2 G2^"F" c4 |^"G" B4^"C" c4 |$ %24
 w: Toi qui en- lè- ves|le pé- ché du mon- de,|prends pi- tié|de nous.|
-^"C" E2 EE^"F" F2 F2 |^"G" DDDD^"C" E2 E2 | E2 G2^"F" c2 c2 |^"G" B2 B2^"C" c2 c2 |^"C" cccc^"F" A2 AA |$ %29
+^"C" E2 EE^"F" F2 F2 |^"G" DDDD^"C" E2 E2 | (E2 G2)^"F" c2 c2 |^"G" B2 B2^"C" c2 c2 |^"C" cccc^"F" A2 AA |$ %29
 w: Toi qui en- lè- ves|le pé- ché du mon- de|re- * çois no-|tre pri- è- re.|Toi qui es as- sis à la|
-^"G" G2 GD^"C" E2 E2 |^"C" E2 G2 E4 |^"G7" D4^"C" C4 |^"C" EEEE^"F" F4 |^"G" DDDD^"C" E4 | E2 G2^"F" c2 c2 |$ %35
+^"G" G2 GD^"C" E2 E2 |^"C" E2 G2 E4 |^"G7" D4^"C" C4 |^"C" EEEE^"F" F4 |^"G" DDDD^"C" E4 | (E2 G2)^"F" c2 c2 |$ %35
 w: droi- te du Pè- re,|prends pi- tié|de nous.|Car toi seul es saint.|Toi seul es Sei- gneur,|toi _ seul es|
 ^"G" B2 B2^"C" c4 |^"C" c2 c2^"F" A3 A |^"G" GGGD^"C" E4 | E2 G2^"F" cccc |^"G7" B2 B2^"C" c4 |] %40
 w: le très haut|Jé- sus Christ, a-|vec le saint es- prit,|dans la gloire de Dieu le|Père A- men!|
@@ -4729,7 +4688,6 @@ w: |||||||
 X:113
 T:Nous t’honorons, glorieux saint Joseph
 T:Hymne
-C:Chants de l'Emmanuel - L. Cordin
 C:Chant de l'Emmanuel (L. Brodin)
 %%score { ( 1 2 ) | ( 3 4 ) }
 L:1/8
@@ -4742,11 +4700,11 @@ V:3 clef=bass
 V:4 clef=bass
 V:1
  EED |^"A" E3 E^"D/A" FFED |^"A" E2 E2^"C#m/G#" z CCB, |^"F#m" C3 C^"Bm7" DDCD |^"E7" B,4 z B,CD |$ %5
-w: Hum- ble gar-|dien de la sain- te Fa-|mil- le, E- poux di-|dè- le, Pè- re vi- gi-|lant, dans la con-|
+w: Hum- ble gar-|dien de la sain- te Fa-|mil- le, * E- poux di-|dè- le, Pè- re vi- gi-|lant, * dans la con-|
 ^"A" E3 E^"D" FF^"C#"GG |^"F#m" BAAG A2 z =E |^"D" F2 z F^"Bm7" FFGA |^"E" B4 z EcB |$ %9
-w: fiance, tu n'as pas craint de|re- ce- voir chez toi, Ma-|rie, l'au- ro- re du sa-|lut. Nous t'ho- no-|
+w: fiance, tu n'as pas craint de|re- ce- voir chez toi, * Ma-|rie, * l'au- ro- re du sa-|lut. * Nous t'ho- no-|
 ^"A" c2 cc^"E/G#" B2 AG |^"F#m7" A4 z AAG |^"D" A2 FG^"Bm7" AGAB |^"E" B4 z EcB |$ %13
-w: rons, glo- ri- eux saint Jo-|seph, no- tre sou-|tien quo- ti- dien dans le la-|beur. Tu as veil-|
+w: rons, glo- ri- eux saint Jo-|seph, * no- tre sou-|tien quo- ti- dien dans le la-|beur. * Tu as veil-|
 ^"A" c2 cc^"E/G#" B2 AG |^"F#m" A3 A^"C#m7" G2 FE |^"D" F3 F^"Bm7" FA^"E7"AG |^"A" A8 |] %17
 w: lé sur Jé- sus comme un|père, ô veil- le sur|nous, et con- duis nous à|lui.|
 V:2
@@ -4863,7 +4821,6 @@ V:4
 
 X:116
 T:Ô Seigneur à toi la gloire
-C:E. Faugeron
 C:E. Baranger
 %%score [ ( 1 2 ) ( 3 4 ) ]
 L:1/8
@@ -4890,12 +4847,12 @@ w: ||||
 w: ||||
 w: ||||
 |:[P:Couplets]^"G" G2 GF^"C" E2 E2 ::^"F" AA A^"E"B^"Am" c2 A2 ::^"F6" cc BA^"G" B2 B2 :|$ %11
-w: 1.~Vous * les cieux, *|vous * * les an- ges|tou- * tes ses oeu- vres,|
-w: 2.~As- tres du ciel, *|so- leil * et lu- ne,|pluies * et ro- sées, *|
-w: 3.~Feu et cha- leur, *|gla- * * ce~et nei- ge,-|souf- * fles et vents, *|
-w: 4.~Nuits * et jours, *|lu- mière et té- nè- bres|é- clairs et nu- ées *|
-w: 5.~Monts et col- li- nes,|plan- tes de la ter- re,|fau- ves et trou- peaux, *|
-w: 6.~Vous, * son peu- ple,|vous, * * ses prê- tres,|vous ses ser- vi- teurs, *|
+w: |1.~Vous * les cieux, *|vous * * les an- ges|tou- * tes ses oeu- vres,|
+w: |2.~As- tres du ciel, *|so- leil * et lu- ne,|pluies * et ro- sées, *|
+w: |3.~Feu et cha- leur, *|gla- * * ce~et nei- ge,-|souf- * fles et vents, *|
+w: |4.~Nuits * et jours, *|lu- mière et té- nè- bres|é- clairs et nu- ées *|
+w: |5.~Monts et col- li- nes,|plan- tes de la ter- re,|fau- ves et trou- peaux, *|
+w: |6.~Vous, * son peu- ple,|vous, * * ses prê- tres,|vous ses ser- vi- teurs, *|
 ^"G" G3 F^"C" E2^"Dm" A2 |^"E4b3" A3 ^G^"Am" A4 |] %13
 w: Bé- nis- sez vo-|tre Sei- gneur.|
 w: ||
@@ -5566,7 +5523,6 @@ w: |||||||||
 X:136
 T:Que soit béni le nom de Dieu
 T:Dn 2, 20
-C:Chants de l'Emmanuel - L. Cordin
 C:B. Melois
 Z:B. Ducatel
 %%score { ( 1 2 ) | ( 3 4 ) }
@@ -5580,10 +5536,10 @@ V:3 clef=bass
 V:4 clef=bass
 V:1
 |:[P:Refrain]^"Bm" B,DE F3 |^"G" BAG^"D" F3 |^"A" EDE^"F#" F2 F |^"Bm" BB^"F#m"A^"Bm" B3 :|$ %4
-w: Ref.~Que soit bé- ni|le nom de Dieu|de siècle en siè- cle,|qu'il soit bé- ni~!|
-w: ||||
-w: ||||
-w: ||||
+w: |Ref.~Que soit bé- ni|le nom de Dieu|de siècle en siè- cle,|qu'il soit bé- ni~!|
+w: |||||
+w: |||||
+w: |||||
 [P:Couplets] B |^"Bm" ddd^"F#m" cdc |^"G" B3^"D" A3 |^"Em" GFG B2 A |^"F#7" F3 F3 |$ %9
 w: 1.~A|Lui la sa- gesse et la|for- ce,|tou- tes ses voies sont|droi- tes,|
 w: 2.~A|Lui le se- cret des a-|bî- mes,|il con- nait les té-|nè- bres,|
@@ -5597,15 +5553,15 @@ w: 4.~gloire à l'Es- prit _ d'a-|mour, dans tous les|siè-|cles.|
 V:2
 |: B,B,B, D3 | DFD D3 | CB,C C2 C | DDE F3 :|$ %4
  F | FFF FFF | G3 D3 | EEE E2 E | C3 C3 |$ %9
- EEE EEE | G3 GGG | F3 G3 | F6 |] %13
+ EEE EEE | G3 GGG | (F3 (G3) | F6) |] %13
 V:3
 |: B,B,C B,3 | B,DB, A,3 | A,A,A, ^A,2 A, | B,B,C D3 :|$ %4
  D | DDD CCC | D3 D3 | B,B,B, B,2 C | ^A,3 A,3 |$ %9
- B,B,B, B,B,B, | E3 B,CB, | ^A,3 B,3 | ^A,6 |] %13
+ B,B,B, B,B,B, | E3 B,CB, | (^A,3 (B,3) | ^A,6) |] %13
 V:4
 |: B,,B,,B,, D,3 | G,F,G, D,3 | E,E,E, F,2 F, | F,F,F, B,,3 :|$ %4
  B,, | B,B,B, A,A,A, | G,3 F,3 | E,E,E, G,2 G, | F,3 F,3 |$ %9
- E,E,E, D,D,D, | C,3 E,E,E, | F,3 E,3 | F,6 |] %13
+ E,E,E, D,D,D, | C,3 E,E,E, | (F,3 (E,3) | F,6) |] %13
 
 X:137
 T:Que ma bouche chante ta louange
@@ -5738,18 +5694,18 @@ V:2 clef=
 V:3 clef=bass
 V:4 clef=bass
 V:1
-[P:Couplets] z B |^"E" B3 G^"F#m7" AG FE |^"E/G#" E4^"B" D4&x2^"A"x6 |^"E" B2 AG^"A" AG FE |^"B" D2 E2^"B/D#" F4 |$ %5
-w: 1.~Voi-|ci le fils ai- mé du|Pè- re,|don de Dieu pour sau- ver le|mon- * de.|
-w: 2.~Jé-|sus, jus- qu'au bout tu nous|ai- mes,|tu prends la con- di- tion d'es-|cla- * ve.|
-w: 3.~Sei-|gneur, comme est grand ce mys-|tè- re,|Maî- tre com- ment te lais- ser|fai- * re~?|
-w: 4.~Je|crois, mon Dieu, en toi j'es-|pè- re.|La ve mes pieds et tout mon|ê- * tre~:|
-w: 5.~Sei-|gneur, tu map- pelles à te|sui- vre.|Viens au se- cours de ma fai-|bles- * se.|
+[P:Couplets] z B |^"E" B3 G^"F#m7" AG FE |^"E/G#" E4^"B" D4&x2^"A"x6 |^"E" B2 AG^"A" AG FE |^"B" (D2 E2)^"B/D#" F4 |$ %5
+w: * 1.~Voi-|ci le fils ai- mé du|Pè- re,|don de Dieu pour sau- ver le|mon- * de.|
+w: * 2.~Jé-|sus, jus- qu'au bout tu nous|ai- mes,|tu prends la con- di- tion d'es-|cla- * ve.|
+w: * 3.~Sei-|gneur, comme est grand ce mys-|tè- re,|Maî- tre com- ment te lais- ser|fai- * re~?|
+w: * 4.~Je|crois, mon Dieu, en toi j'es-|pè- re.|La ve mes pieds et tout mon|ê- * tre~:|
+w: * 5.~Sei-|gneur, tu map- pelles à te|sui- vre.|Viens au se- cours de ma fai-|bles- * se.|
 ^"C#m" E2 E2^"B" F3^"A" E/F/ |^"G#" GA GE^"A" C2 C=B, |^"F#m" C3 E^"A/B" E2^"B7" D2 |^"E" E4 z2 ||$ %9
-w: De- vant nous il est|là, il se fait pro- che Jé-|sus, l'a- gneau de|Dieu~!|
-w: Roi des rois, tu t'a-|bais- ses jus- qu'à ter- re, pour|nous la- ver les|pieds.|
-w: En mon corps, en mon|â- me pé- che- res- se, tu|viens pour de- meu-|rer.|
-w: De ton coeur, fais jail-|lir en moi la sour- ce, l'eau|vi- ve de l'Es-|prit.|
-w: En mon coeur, viens, é-|ta- blis ta de- meu- re, que|brû- le ton A-|mour.|
+w: De- vant nous il est|là, il se fait pro- che Jé-|sus, l'a- gneau de|Dieu~! *|
+w: Roi des rois, tu t'a-|bais- ses jus- qu'à ter- re, pour|nous la- ver les|pieds. *|
+w: En mon corps, en mon|â- me pé- che- res- se, tu|viens pour de- meu-|rer. *|
+w: De ton coeur, fais jail-|lir en moi la sour- ce, l'eau|vi- ve de l'Es-|prit. *|
+w: En mon coeur, viens, é-|ta- blis ta de- meu- re, que|brû- le ton A-|mour. *|
 [P:Refrain] EF |^"E" G3 G^"A/E" A4 |^"E" G3 A G2^"B/D#" F2 |^"C#m" G3 G^"A" AG^"F#m7" AB |^"B" F6 FG |$ %14
 w: Re- ce-|vez le Christ|doux et hum- ble|Dieu ca- ché en cette hos-|tie. Bien- heu-|
 w: |||||
@@ -5757,24 +5713,24 @@ w: |||||
 w: |||||
 w: |||||
 ^"A/C#" A3 A^"B/D#" BB BF |^"E" G3 G^"C#m" AG FE |^"F#m" C3 G^"A/B" AG^"B7" FE |^"E" E4 z2 |] %18
-w: reux dis- ci- ples du Sei-|gneur, re- po- sez sur son|coeur, ap- pre- nez tout de|lui.|
+w: reux dis- ci- ples du Sei-|gneur, re- po- sez sur son|coeur, ap- pre- nez tout de|lui. *|
 w: ||||
 w: ||||
 w: ||||
 w: ||||
 V:2
- x G | G3 E EE EC | B,2 C2 B,4 | G2 FE EE CC | B,4 B,4 |$ %5
+ x G | G3 E EE EC | (B,2 C2) B,4 | G2 FE EE CC | B,4 B,4 |$ %5
  C2 C2 D3 C/C/ | DF E^B, C2 C=B, | A,3 C C2 B,2 | B,4 x2 ||$ %9
- B,B, | E3 E E4 | E3 E E2 F2 | E3 E EE EE | E4 D2 DE |$ %14
+ B,B, | E3 E E4 | E3 E E2 F2 | E3 E EE EE | (E4 D2) DE |$ %14
  E3 E FF DF | E3 E EE CC | C3 E EE DC | B,4 x2 |] %18
 V:3
- z E, | E,3 E, CB, A,A, | B,2 A,2 F,4 | E,2 CB, CB, A,G, | F,4 F,4 |$ %5
+ z E, | E,3 E, CB, A,A, | (B,2 A,2) F,4 | E,2 CB, CB, A,G, | F,4 F,4 |$ %5
  G,2 G,2 B,3 C/C/ | ^B,B, B,G, E,2 E,E, | F,3 A, A,2 A,2 | G,4 z2 ||$ %9
- G,A, | B,3 B, C4 | B,3 C B,2 B,2 | G,3 G, CB, A,C | C4 B,2 B,B, |$ %14
+ G,A, | B,3 B, C4 | B,3 C B,2 B,2 | G,3 G, CB, A,C | (C4 B,2) B,B, |$ %14
  A,3 A, F,F, F,B, | B,3 B, CB, A,G, | A,3 A, CB, A,A, | G,4 z2 |] %18
 V:4
- x E,, | E,,3 E,, F,,F,, F,,F,, | G,,2 A,,2 B,,4 | E,2 E,E, C,C, A,,A,, | B,,2 C,2 D,4 |$ %5
- C,2 C,2 B,,2 A,, A,,/A,,/ | G,,G,, G,,G,, A,,2 A,,G,, | F,,3 F,, B,,2 B,,2 | E,4 x2 ||$ %9
+ x E,, | E,,3 E,, F,,F,, F,,F,, | (G,,2 A,,2) B,,4 | E,2 E,E, C,C, A,,A,, | (B,,2 C,2) D,4 |$ %5
+ C,2 C,2 (B,,2 A,,) A,,/A,,/ | G,,G,, G,,G,, A,,2 A,,G,, | F,,3 F,, B,,2 B,,2 | E,4 x2 ||$ %9
  E,E, | E,3 E, E,4 | E,3 E, E,2 D,2 | C,3 B,, A,,A,, F,,F,, | B,,6 B,,B,, |$ %14
  C,3 C, D,D, B,,D, | E,3 D, C,C, C,C, | F,,3 F,, B,,B,, B,,B,, | E,4 x2 |] %18
 
@@ -6749,7 +6705,6 @@ V:4
 
 X:162
 T:Vivre d'amour
-C:Ephraïm
 C:Frère Ephraïm
 Z:Ste Thérèse de l'Enfant-Jésus
 %%score { ( 1 2 ) | ( 3 4 ) }
@@ -6764,11 +6719,11 @@ V:3 clef=bass
 V:4 clef=bass
 V:1
 ^"C" CAG |^"Fm" A3 A Bc BA |^"Bbm" B2 B2 z BBA |^"Eb7" B3 B^"Eb" cdcB |^"Ab" c4 z^"Fm" AAG |$ %5
-w: |* par- lant sans pa- ra-|bo- le, Jé- sus di-|sait: si quel- qu'un veut m'ai-|mer, tou- te sa|
+w: |* par- lant sans pa- ra-|bo- le, * Jé- sus di-|sait: si quel- qu'un veut m'ai-|mer, * tou- te sa|
 ^"Db" F3 F GA GF |^"Bbm" G2 G2 z GGA |^"C7" B3 G AB AG |^"Fm" A4 z^"C" CAG |^"Fm" A3 A Bc BA |$ %10
-w: vie qu'il gar- de ma pa-|ro- le, mon Pè- re~et|moi vien- drons le vi- si-|ter. Et de son|coeur fai- sant no- tre de-|
+w: vie qu'il gar- de ma pa-|ro- le, * mon Pè- re~et|moi vien- drons le vi- si-|ter. * Et de son|coeur fai- sant no- tre de-|
 ^"Bbm" B2 B2 z BBA |^"Eb7" B3 B^"Eb" cd cB |^"Ab" c4 z^"Fm" AAG |^"Db" F3 F GA GF |^"Bbm" G2 G2 z2 z F |$ %15
-w: meu- re, ve- nant à|lui, nous l'ai- me- rons tou|jours, rem- pli de|paix, nous vou- lons qu'il de-|meu- re: en|
+w: meu- re, * ve- nant à|lui, nous l'ai- me- rons tou|jours, * rem- pli de|paix, nous vou- lons qu'il de-|meu- re: * * en|
  F6- FF | F6- FB |^"Bb" c6- cB |^"Fm/C" c8- |^"C" c4 z z3 |] %20
 w: notre * a-|mour, * en|notre * a-|mour.||
 V:2
@@ -6778,13 +6733,13 @@ w: 1.~Au soir d'a-|mour, * * * *||||
 w: |||||
  F4 x F3 | G8 | A4 x C3 | D8 | D4 x3 D |$ %15
 w: |||||
- D8 | D8 | =D8 | F8 | =E4 x4 |] %20
+ D8 | D8 | =D8 | (F8 | =E4) x4 |] %20
 w: |||||
 V:3
  C3 | [F,C]8 | D4 z D3 | D4 E4 | E4 z A,3 |$ %5
  A,4 F,4 | F,4 z F,3 | =E,3 G, CD CB, | C4 z C3 | [F,C]8 |$ %10
  D4 z D3 | D4 E4 | E4 z A,3 | A,4 F,4 | F,4 z2 z F, |$ %15
- [B,,B,]8 | [B,,B,]8 | [B,,F,]8 | [C,-A,]8 | G,4 z z3 |] %20
+ [B,,B,]8 | [B,,B,]8 | [B,,F,]8 | ([C,-A,]8 | G,4) z z3 |] %20
 V:4
  C,3 | x8 | B,,4 x B,,3 | E,8 | A,4 x F,3 |$ %5
  D,8 | B,,4 x B,,3 | C,8 | F,4 x C,3 | x8 |$ %10

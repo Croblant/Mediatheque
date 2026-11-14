@@ -1277,7 +1277,6 @@ V:1
 X:54
 T:Dès que le vent soufflera
 T:Album "Morgane de toi" (1983)
-C:Renaud
 C:Renaud Séchan
 L:1/8
 Q:1/4=80
@@ -1300,54 +1299,53 @@ w: pour- vu tant pis J'ai|eu si mal au coeur Sur la|mer en fu- rie Qu'jai vo-|
 w: |m'suis co- gné par- tout J'ai dormis|dans~des draps mouil- lés ça m'a|
 w: fère la cam- pagne La~(Coda)|||
 w: prend un ta- xi Je~(Coda)|||
-^"Em" G2 F/E/^"D" F2 D/D/ ||1^"D" D2 D/D/^"Em" B,2 B, :||2^"D" D2 E/F/^"Em" E2 E/F/ ||[M:4/4]$S^"Em" GGFE^"D" F3 D/D/ | %11
-w: paire de dock- side Et un|vieux ci- ré jaune J'ai|* * * * Dès que|le vent souf- fle- ra je re-|
-w: c'est dé- gueu- lasse Les pois||sons bai- sent dedans. * *||
-w: mis mon quatre- heures Et mon|mi- nuit aus- si J'me|||
-w: coû- té un bras C'est d'la||plaisance C'est le pied. * *||
-w: ||||
-w: ||||
-^"D" D2 E2^"Em" B,3 G/A/ |^"G" BBAG^"D" A3 F/F/ |$ %13
-w: par- ti- ra Dès que|les vents tour- ne- ront nous nous|
-w: ||
-w: ||
-w: ||
-w: ||
-w: ||
-^"B" F2 ^D2^"Em" E3 G/A/ |^"G" BBAG^"D" A2 FF |^"B" F2 ^D2^"Em" E2 z2 |] G2 B2 A2 B2 | G2 F2 ^E4 | ^G4 ^B2 z!D.C.! |][M:6/8]$O^"Em" EE/E/E E2 E | %20
-w: en alle- rons * *|||Ho ho ho ho|his- sez haut|ho ho|mienne m'at- tend au port Au|
-w: ||||||ferai le tour du monde Pour|
-w: |||||||
-w: |||||||
-w: |||||||
-w: |||||||
-^"D" D>D E/F/^"Em" E2 F/G/ |^"Em" G>F E^"D" F2 D/D/ |$ %22
-w: bout de la je- tée L'ho- ri-|zon est bien morne Dans ses|
-w: voir à chaque é- tape Si tous|les gars du monde veulent bien|
-w: ||
-w: ||
-w: ||
-w: ||
+^"Em" G2 F/E/^"D" F2 D/D/ ||1^"D" D2 D/D/^"Em" B,2 B, :||2^"D" D2 E/F/^"Em" E2 E/F/ ||$ %10
+w: paire de dock- side Et un|vieux ci- ré jaune J'ai|* * * * Dès que|
+w: c'est dé- gueu- lasse Les pois||sons bai- sent dedans. * *|
+w: mis mon quatre- heures Et mon|mi- nuit aus- si J'me||
+w: coû- té un bras C'est d'la||plaisance C'est le pied. * *|
+w: |||
+w: |||
+S^"Em" GGFE^"D" F3 D/D/ |^"D" D2 E2^"Em" B,3 G/A/ |^"G" BBAG^"D" A3 F/F/ |$ %13
+w: le vent souf- fle- ra je re-|par- ti- ra Dès que|les vents tour- ne- ront nous nous|
+w: |||
+w: |||
+w: |||
+w: |||
+w: |||
+^"B" F2 ^D2^"Em" E3 G/A/ |^"G" BBAG^"D" A2 FF |^"B" F2 ^D2^"Em" E2 z2 |] G2 B2 A2 B2 | G2 F2 ^E4 | ^G4 ^B2 z!D.C.! |]$ %19
+w: en alle- rons * *|||Ho ho ho ho|his- sez haut|ho ho *|
+w: ||||||
+w: ||||||
+w: ||||||
+w: ||||||
+w: ||||||
+O^"Em" EE/E/E E2 E |^"D" D>D E/F/^"Em" E2 F/G/ |^"Em" G>F E^"D" F2 D/D/ |$ %22
+w: mienne m'at- tend au port Au|bout de la je- tée L'ho- ri-|zon est bien morne Dans ses|
+w: ferai le tour du monde Pour|voir à chaque é- tape Si tous|les gars du monde veulent bien|
+w: |||
+w: |||
+w: |||
+w: |||
 |1 D2^"D" D/D/^"Em" B,2 B,&x4^"Em"x2 || E>EE/E/ E2 D/D/ |^"D" D2 E/F/^"Em" E2 F/G/ | G>F E^"D" F2 D | D>DE/F/^"Em" E2 E/F/!D.S.! |]$ %27
-w: yeux dé- la- vés As-|sise sur u- ne bitte D'a- mar-|rage El- le pleure son hom-|me qui la quitte La|mer c'est son mal- heur Dès que|
-w: |||||
-w: |||||
-w: |||||
-w: |||||
-w: |||||
+w: |yeux dé- la- vés As-|sise sur u- ne bitte D'a- mar-|rage El- le pleure son hom-|me qui la quitte La|mer c'est son mal- heur Dès que|
+w: ||||||
+w: ||||||
+w: ||||||
+w: ||||||
+w: ||||||
 |2 D2 D/D/^"Em" B,2 B,/E/ ||^"Em" EEE E2 E/E/ |^"D" D2 E/F/^"Em" E2 F/G/ |^"Em" G2 F/E/^"D" F2 D/D/ |^"D" D2 E/F/^"Em" E2 E/F/!D.S.! |] %32
-w: m'la- cher la grappe J'i- rai|aux qua- tres vents Foutre un|peu le bo- xon Ja- mais|les o- cé- ans n'ou- blie-|ront mon pré- nom Dès que|
-w: |||||
-w: |||||
-w: |||||
-w: |||||
-w: |||||
+w: |m'la- cher la grappe J'i- rai|aux qua- tres vents Foutre un|peu le bo- xon Ja- mais|les o- cé- ans n'ou- blie-|ront mon pré- nom Dès que|
+w: ||||||
+w: ||||||
+w: ||||||
+w: ||||||
+w: ||||||
 
 X:55
 T:Dónde estás, Yolanda?
 T:Pink Martini - Album "Sympathique" (1997)
 T:Sonora Santanera - Single (1968)
-C:Pink Martini
 C:Manuel "Zorro" Jiménez
 L:1/8
 M:4/4
@@ -1362,14 +1360,14 @@ w: |||||||
 w: ||||||
 w: ||||||
 ^"Em" G.B.B.e e.g.g.e | e.^d.d.e f2 z2 |^"B7" F.B.B.^d d.f.f.d | B3 B z2 BB ||[P:C]^"Em" e2 BB e3 B |$ %18
-w: |||* * Don- de~es-|tas, don- de~es- tas Yo-|
+w: |||* * * Don- de~es-|tas, don- de~es- tas Yo-|
 w: |||||
 ^"B7" A2 F2 z2 BB | ^d2 BB d3 A |^"Em" G2 E2 z2 BB | e2 BB e3 B |^"B7" A2 F2 z2 BB |$ %23
-w: lan- da Que pa-|so, que pa- so, Yo-|lan- da Te bus-|que, te bus- que Yo-|lan- da Y no~es-|
+w: lan- da * Que pa-|so, que pa- so, Yo-|lan- da * Te bus-|que, te bus- que Yo-|lan- da * Y no~es-|
 w: |||||
  ^d2 BB d3 A |^"Em" G2 E2 z2 A2 ||[P:D]^"Am" ccAA c c2 c |^"Em" BBGG B B2 B |$ %27
-w: tas, y no~es- tas Yo-|lan- da 1.~Tus|o- jos me mi- ra- ron Tus|la- bios me be- sa- ron Con|
-w: |* * 2.~Me|di- cen que pa- sea- bas En|un car- ro Yo- lan- da Muy|
+w: tas, y no~es- tas Yo-|lan- da * 1.~Tus|o- jos me mi- ra- ron Tus|la- bios me be- sa- ron Con|
+w: |* * * 2.~Me|di- cen que pa- sea- bas En|un car- ro Yo- lan- da Muy|
 ^"B7" AAFF A A2 A |^"Em" GFGA^"E7" B B2 A |^"Am" ccAA c c2 c |$ %30
 w: e- se fue- go~ar- dien- te Ar-|dien- te de mu- jer _ La|luz de tu mi- ra- da El|
 w: gua- pa y~ar- ro- gan- te Y|to- dos te sil- ba- ban Si~un|dia te en- con- tra- ra No|
@@ -1377,10 +1375,10 @@ w: gua- pa y~ar- ro- gan- te Y|to- dos te sil- ba- ban Si~un|dia te en- con- tra
 w: fue- go de tus la- bios Fle-|cha- ron a mi pe- cho Y- de|ti me e- na- more Don- de~es-|
 w: se me pue- do ha- cer No|se me vuel- vo lo- co Si ya|no te vuel- vo~a- ver * *|
 [P:E]^"Em" e2 BB e3 B |^"B7" A2 F2 z2 BB | ^d2 BB d3 A |^"Em" G2 E2 z2 BB | e2 BB e3 B |$ %38
-w: tas, don- de~es- tas Yo-|lan- da Que pa-|so, que pa- so, Yo-|lan- da Te bus-|que, te bus- que Yo-|
+w: tas, don- de~es- tas Yo-|lan- da * Que pa-|so, que pa- so, Yo-|lan- da * Te bus-|que, te bus- que Yo-|
 w: |||||
 ^"B7" A2 F2 z2 BB | ^d2 BB d3 A |^"Em" G2 E2 z4 :|[P:F]^"Am" A.c.c.A e4 |^"Em" G.B.B.G e4 |^"B7" ^c.c z2 ^d.d z2 |^"Em" e3 .e z4 |] %45
-w: lan- da Y no~es-|tas, y no~es- tas Yo-|lan- da|||||
+w: lan- da * Y no~es-|tas, y no~es- tas Yo-|lan- da *|||||
 w: |||||||
 
 X:56
@@ -1508,7 +1506,6 @@ X:60
 T:El pueblo unido jamás será vencido
 T:"Le peuple uni ne sera jamais vaincu" (1970)
 T:Mouvement "Nueva cancion chilena" (nouvelle chanson chilienne)
-C:Ortega
 C:Quilapayún - Ortega
 L:1/8
 M:4/4
@@ -1517,15 +1514,15 @@ K:C
 V:1 clef=
 V:1
  e |:^"Am" ee z e^"C" ee z e |^"Dm" eeee^"E7" ee z [Ee] :|$ %3
-w: El|pueb- lo u- ni- do ja-|mas se- ra ven- ci- do El/De|
+w: El|pueb- lo * u- ni- do * ja-|mas se- ra ven- ci- do * El/De|
 w: |||
-w: ||* * * * * * La|
+w: ||* * * * * * * La|
 w: |||
 |:^"Am" A3 A^"C" c3 c |^"Dm" eedc^"E7" B3 E |^"Am" A3 A^"C" c3 c |^"Dm" eedc^"E7" B3 e |$ %7
-w: (De)~~pie can- tar que|va- mos a triun- far A-|van- zan ya ban-|de- ras de uni- dad Y|
-w: (De)~~ple lu- char el|pue blo va~a triun far. Se-|ra me- jor la|vi- da que ven- dra a|
-w: (La)~~pa- tria~~es- ta for-|jan- do la uni- dad de|nor- te~~a sur se|mo- vi- li- za- ra des-|
-w: (De)~~ple can- tar el|pue- blo va~a triun- far. mil-|lo- nes ya im-|po- nen la ver- dad. de~~a-|
+w: |(De)~~pie can- tar que|va- mos a triun- far A-|van- zan ya ban-|de- ras de uni- dad Y|
+w: |(De)~~ple lu- char el|pue blo va~a triun far. Se-|ra me- jor la|vi- da que ven- dra a|
+w: |(La)~~pa- tria~~es- ta for-|jan- do la uni- dad de|nor- te~~a sur se|mo- vi- li- za- ra des-|
+w: |(De)~~ple can- tar el|pue- blo va~a triun- far. mil-|lo- nes ya im-|po- nen la ver- dad. de~~a-|
 ^"Dm" f3 c^"G7" B3 f |^"C" edec^"Am" A3 c |^"Dm" d3 A^"E7" ^G3 d |$ %10
 w: tu ven- dras mar-|chan- do junto a mi y~~a|si ve- ras tu|
 w: con- quis- tar nues-|tra fe- li- ci- dad y~~en|un cla- mor mil|
@@ -1537,10 +1534,10 @@ w: vo- ces de com- ba- te se~~al- za-|ran di- ran can-|cion de li- ber- tad con|
 w: ni- dos en la lu- cha y~~el tra-|bajo i- ran la|pa- tria cu- bri- ran su|pa- so ya a-|
 w: van- do la jus- ti- cia y~~la ra-|zon mu- jer con|fue- go~~y con va- lor ya~~es-|tas a- qui jun-|
 |1^"Am" cBcd^"E7" e3 E :||2^"Am" cB^"E"A^G^"Am" !fermata!A3 A ||$ %16
-w: vi- da que ven- dra De|* * * * * Y~~a-|
-w: |pa- tria ven- ce- ra *|
-w: nun- cia el por- venir De||
-w: |to~~al tra- ba- ja- dor *|
+w: |vi- da que ven- dra De|* * * * * Y~~a-|
+w: ||pa- tria ven- ce- ra *|
+w: |nun- cia el por- venir De||
+w: ||to~~al tra- ba- ja- dor *|
 ^"Dm" d d2 d d d2 d |^"B7" ^dddd d d2 d |^"Am" e e2 e e e2 e |^"E7" eeee e e2 |] %20
 w: ho- ra el pue- blo que|se~~al- sa en la lu- cha con|voz de gi- gan- te gri-|tan- do a- de- lan- te!|
 w: ||||
@@ -1614,7 +1611,6 @@ V:2
 X:62
 T:En Chantant
 T:Album "Je vole" (1978)
-C:Arr M.Colin
 C:Michel Sardou
 L:1/8
 M:4/4
@@ -1623,41 +1619,41 @@ K:D
 V:1 clef=
 V:1
 |: z2^"D" FG ABAG |^"D" F2 DE FGFE | D6 z C |$ %3
-w: 1.Quand j'é- tais pe- tit gar-|çon Je re- pas- sais mes le-|çons en|
-w: C'est beau- coup moins in- quié-|tant De par- ler du mau- vais|temps en|
-w: 2.La pre- mière fille de ma|vie Dans la rue je l'ai sui-|vie en|
-w: J'é- tais si con- tent de|moi Que j'ai fait l'a- mour dix|fois en|
-w: 3.Tous les hommes vont en ga-|lère A la pêche ou à la|guerre en|
-w: On ne parle de Jé- ho-|vah A Ju- pi- ter A boud-|dha Qu'en|
-w: 4.Puis- qu'il faut mou- rir en-|fin Que ce soit cô- té jar-|din En|
-w: Quand j'i- rai re- voir mon|père Qui m'at- tend les bras ou-|verts En|
+w: |* 1.Quand j'é- tais pe- tit gar-|çon Je re- pas- sais mes le-|çons * en|
+w: |* C'est beau- coup moins in- quié-|tant De par- ler du mau- vais|temps * en|
+w: |* 2.La pre- mière fille de ma|vie Dans la rue je l'ai sui-|vie * en|
+w: |* J'é- tais si con- tent de|moi Que j'ai fait l'a- mour dix|fois * en|
+w: |* 3.Tous les hommes vont en ga-|lère A la pêche ou à la|guerre * en|
+w: |* On ne parle de Jé- ho-|vah A Ju- pi- ter A boud-|dha * Qu'en|
+w: |* 4.Puis- qu'il faut mou- rir en-|fin Que ce soit cô- té jar-|din * En|
+w: |* Quand j'i- rai re- voir mon|père Qui m'at- tend les bras ou-|verts * En|
 ^"Em" B, E6 z | z2 EF GAGF |^"A7" E2 CD EFED |$ %6
-w: chan- tant|Et bien des an- nées plus|tard Je chas- sais mes i- dées|
-w: chan- tant|Et c'est tell'- ment plus mi-|gnon De se faire trai- ter de|
-w: chan- tant|Quand elle s'est dés- ha- bi-|llée J'ai joué le vieil ha- bi-|
-w: chan- tant|Mais j'peux pas m'e _ xpli-|quer Qu'au ma- tin elle m'ait quit-|
-w: chan- tant|La fleur au bout du fu-|sil La vic- toire se gagne au-|
-w: chan- tant|Quelles que soient vos o- pi-|nions On fait sa ré- vo- lu-|
-w: chan- tant|Si ma femme a de la|peine Que mes en- fants la sou-|
-w: chan- tant|J'ai- me- rais que sur la|Terre Tous mes bons co- pains m'en-|
+w: chan- tant *|* Et bien des an- nées plus|tard Je chas- sais mes i- dées|
+w: chan- tant *|* Et c'est tell'- ment plus mi-|gnon De se faire trai- ter de|
+w: chan- tant *|* Quand elle s'est dés- ha- bi-|llée J'ai joué le vieil ha- bi-|
+w: chan- tant *|* Mais j'peux pas m'e _ xpli-|quer Qu'au ma- tin elle m'ait quit-|
+w: chan- tant *|* La fleur au bout du fu-|sil La vic- toire se gagne au-|
+w: chan- tant *|* Quelles que soient vos o- pi-|nions On fait sa ré- vo- lu-|
+w: chan- tant *|* Si ma femme a de la|peine Que mes en- fants la sou-|
+w: chan- tant *|* J'ai- me- rais que sur la|Terre Tous mes bons co- pains m'en-|
 |1 C6 z B, ||^"D" A, F3- F2 z2 :||2^"F#" C6 z C ||^"Bm" D z F3- F2 z ||$ %10
-w: noires en|chan- tant _|||
-w: ||con en|chan- son _|
-w: tué en|chan- tant _|||
-w: ||té En-|chan- tée _|
-w: ssi en|chan- tant _|||
-w: ||tion En|chan- son *|
-w: tiennent en|chan- tant _|||
-w: ||terrent En|chan- tant *|
+w: |noires * en|chan- tant _ _|||
+w: |||con * en|chan- * son _ _|
+w: |tué * en|chan- tant _ _|||
+w: |||té * En-|chan- * tée _ _|
+w: |ssi * en|chan- tant _ _|||
+w: |||tion * En|chan- * son * *|
+w: |tiennent * en|chan- tant _ _|||
+w: |||terrent * En|chan- * tant * *|
 ^"G" z2 z D D2 DE | F^"D" A2 F A4 | F^"A7"AFA- AF E2 |^"D" D6 z2!D.C.! |] %14
 w: ||||
-w: La vie c'est plus|mar- rant C'est moins|dé- ses- pé- rant * en chan-|tant|
+w: _ _ La vie c'est plus|mar- rant C'est moins|dé- ses- pé- rant * en chan-|tant *|
 w: ||||
-w: L'a- mour c'est plus|mar- rant C'est moins|dé- ses- pé- rant * en chan-|tant|
+w: _ _ L'a- mour c'est plus|mar- rant C'est moins|dé- ses- pé- rant * en chan-|tant *|
 w: ||||
-w: Le monde est plus|mar- rant C'est moins|dé- ses- pé- rant * en chan-|tant|
+w: * * Le monde est plus|mar- rant C'est moins|dé- ses- pé- rant * en chan-|tant *|
 w: ||||
-w: La mort c'est plus|mar- rant C'est moins|dé- ses- pé- rant * en chan-|tant|
+w: * * La mort c'est plus|mar- rant C'est moins|dé- ses- pé- rant * en chan-|tant *|
 
 X:63
 T:Envole moi
@@ -1752,9 +1748,7 @@ w: chan- ter com- me nous. Oui|com- me nous! Oui|com- me|nous! Oui com- me nous!
 X:67
 T:Far Away
 T:Valse
-C:Trad Irlandais
 C:Pete Jung
-Z:JMiB 20240105 - Tablature pour accordéons diatoniques Sol/Do
 %%score [ 1 2 ]
 L:1/8
 Q:1/4=128
@@ -2940,7 +2934,6 @@ w: Kum- ba- yah, my|Lord, Kum- ba|yah!|Oh, Lord, *|* Kum- ba-|yah!|
 X:112
 T:Kyriale
 T:Album Crucifixus (1970)
-C:Gurdjieff / De Hartmann
 C:Jean-Christian MICHEL
 L:1/8
 M:2/2
@@ -2948,8 +2941,8 @@ I:linebreak $
 K:F
 V:1 clef=
 V:1
- A6 Gc | F3 A/G/ G3 d/c/ | c4- c f2 d | B4- B(3c/B/A/BG | ge cB !trill(!TB3!trill)! A |$ %5
- A6 z c | d2- d(3g/f/e/ fagf | g4- gg/a/bg | c'2 (3afc d2 e2 | f6 z2 |] %10
+ A6 (Gc) | F3 (A/G/) G3 (d/c/) | c4- c (f2 d) | B4- B(3(c/B/A/BG) | (ge) (cB) !trill(!TB3!trill)! A |$ %5
+ A6 z c | d2- d(3(g/f/e/ fa)(gf) | g4- g(g/a/)(bg) | c'2 (3(af)(c d2 e2 | f6) z2 |] %10
 
 X:113
 T:L' Aventurier
@@ -3388,9 +3381,7 @@ w: ||
 X:128
 T:La Chenille
 T:Tube de la Bande à Basile de 1977
-C:Paroles : Franck Harvel & Gérard Layani / Musique : Raymond Jeannot
 C:Raymond Jeannot
-Z:Partition 2L
 %%score { 1 | ( 2 3 ) } 4
 L:1/8
 M:2/2
@@ -3423,28 +3414,28 @@ V:3
  x .[G,B,D] x .[G,B,D] z4 | x8 | x8 | z4 z .[F,A,C] x .[F,A,C] |] %26
 V:4
  C4 E4 | G4 B4 |:^"F" F2 .G.A F2 .G.A |^"F" F4 z4 |^"F" F2 .G.A cB.A.B |^"C" G4 z4 |$ %6
-w: ||Pose tes deux pieds en ca-|nard|C'est la che- nille qui 1.se pré-|pare|
-w: ||||* * * * * 2.3.re- dé-|marre|
-w: ||Ac- croche tes mains à ma|taille|Pour pas que la che- nille dé-|raille|
+w: ||Pose tes deux pieds en ca-|nard *|C'est la che- nille qui 1.se pré-|pare *|
+w: ||||* * * * * 2.3.re- dé-|marre *|
+w: ||Ac- croche tes mains à ma|taille *|Pour pas que la che- nille dé-|raille *|
 ^"C" E2 .F.G E2 .F.G |^"C" E4 z4 |^"C" E2 .F.G BA.G.A |^"F" F4 z4 :|$ %10
-w: En voi- ture les voy- a-|geurs|La che- nille part tou- jours à|l'heure|
+w: En voi- ture les voy- a-|geurs *|La che- nille part tou- jours à|l'heure *|
 w: ||||
-w: Tout i- ra bien~et si tu|veux|Prie la che- nille et le bon|Dieu|
+w: Tout i- ra bien~et si tu|veux *|Prie la che- nille et le bon|Dieu *|
 ^"F" z f ff f2 dc- | cf ff f2 dc- | cA GF^"C" G2 A2 | G A2 G3 z2 |$ %14
-w: Si tu crois qu'j't'ai pas vue|_ Faire ta p'tite in- gé- nue|_ a- vec Pier- rot dans|le tun- nel|
-w: Re- garde l'é- lé- phant bleu|_ Qui danse sur l'arc en ciel|_ Sous les bra- vos des|hi- ron- delles|
+w: * Si tu crois qu'j't'ai pas vue|_ Faire ta p'tite in- gé- nue|_ a- vec Pier- rot dans|le tun- nel *|
+w: * Re- garde l'é- lé- phant bleu|_ Qui danse sur l'arc en ciel|_ Sous les bra- vos des|hi- ron- delles *|
 w: ||||
 ^"C" z e eg e2 dc- | ce eg e2 dc- | cGGG^"F" F2 F2 | G A2 A- A4 |$ %18
-w: Al- lez sois pas ja- louse|_ C'est un co- pain, c'est tout|_ Tu sais qu'nous deux c'est|pas pa- reil _|
-w: Viens là le trou- ba- dour|_ Je vais lire dans ta main|_ Tes joies, tes cha- grins,|tes a- mours _|
+w: * Al- lez sois pas ja- louse|_ C'est un co- pain, c'est tout|_ Tu sais qu'nous deux c'est|pas pa- reil _|
+w: * Viens là le trou- ba- dour|_ Je vais lire dans ta main|_ Tes joies, tes cha- grins,|tes a- mours _|
 w: ||||
 ^"F" z f ff f2 dc- | cf ff f2 dc- | cccd^"C" G2 G2 | G A2 D3 z2 |$ %22
-w: Hé! vous deux les pip'- lett's|_ Lâ- chez nous les bas- kets|_ A- vec vos his- toires|de na- nas|
-w: Hé! vous les a- mou- reux|_ Re- mu- ez vous un peu|_ C'est pas l'mo- ment de|rou- cou- ler|
+w: _ Hé! vous deux les pip'- lett's|_ Lâ- chez nous les bas- kets|_ A- vec vos his- toires|de na- nas *|
+w: _ Hé! vous les a- mou- reux|_ Re- mu- ez vous un peu|_ C'est pas l'mo- ment de|rou- cou- ler *|
 w: ||||
 ^"C" z e ee e2 dc- | ceee e2 dc- | cc cc^"F" c2 c2 | d e2 f- f4 |] %26
-w: On va être en re- tard|_ Voi- là le chef de gare|_ Qui nous fait signe pour|le dé- part _|
-w: A la pro- chaine sta- tion|_ Res- tez dans le wa- gon|_ Et n'es- say- ez~pas d'en|pro- fi- ter _|
+w: * On va être en re- tard|_ Voi- là le chef de gare|_ Qui nous fait signe pour|le dé- part _|
+w: * A la pro- chaine sta- tion|_ Res- tez dans le wa- gon|_ Et n'es- say- ez~pas d'en|pro- fi- ter _|
 w: ||||
 
 X:129
@@ -3618,7 +3609,6 @@ X:134
 T:La Marseillaise
 T:Hymne national Français
 T:écrit en 1792 et adopté en 1795 puis défintivement en 1879
-C:1792
 C:Rouget de Lisle
 L:1/8
 M:4/4
@@ -3627,17 +3617,17 @@ K:G
 V:1 clef=
 V:1
  z3/2 D/ D>D |^"G" G2 G2^"D" A2 A2 |^"G" d3 B G>G B>G |^"C" E2 c4 A>F&x4^"D"x4 |^"G" G4 z2 G>A |$ %5
-w: 1.Al- lons en-|fants de la Pa-|tri- * e le jour de|gloire est ar- ri-|vé! Con- tre|
+w: * 1.Al- lons en-|fants de la Pa-|tri- * e le jour de|gloire est ar- ri-|vé! * Con- tre|
  B2 B2 B2 c>B |^"D" B2 A4 A>B |^"D7" c2 c2 c2 d>c |^"G" B4 z2^"CN.C." d>d | d2 B>G d2 B>G |$ %10
-w: nous de la ty- ran-|ni- e. L'é- ten-|dard san- glant est le-|vé, l'é- ten-|dard san- * glant est le-|
+w: nous de la ty- ran-|ni- e. L'é- ten-|dard san- glant est le-|vé, * l'é- ten-|dard san- * glant est le-|
  D4 z3/2 D/ D>F |^"D7" A4 c2 A>F |^"G" A2 G2^"G7" ^E4 |^"C" =E2 G>G^"Eb7" G2 F>G |^"D" A4 z2 A2 |$ %15
-w: vé. En- ten- dez-|vous dans nos cam-|pa- gnes mu-|gir ces fé- ro- ces sol-|dats Ils|
+w: vé. * En- ten- dez-|vous dans nos cam-|pa- gnes mu-|gir ces fé- ro- ces sol-|dats * Ils|
 ^"Gm" ^A3 A AAcd |^"Dm" =A4 z2 ^A>=A |^"Eb" G3 G^"Cm7" G^A=AG |^"Dsus4" G4^"D" F2 z3/2 d/ |$ %19
-w: vien- nent jus- que dans vos|bras. é- gor-|ger vos fils et vos com-|pa- gnes! Aux|
+w: vien- nent jus- que dans vos|bras. * é- gor-|ger vos fils et vos com-|pa- gnes! * Aux|
 ^"G" d4- d>d B>G |^"D" A6- A>d |^"G" d4- d>d B>G |^"D" A6 D2 |^"G" G6 A2 |^"G7" B8 |$ %25
 w: ar- * mes ci- to-|yens! * For-|mez _ vos ba- tail-|lons! Mar-|chons, mar-|chons!|
 "_2. Que veut cette horde d'esclaves / De traîtres, de rois conjurés? / Pour qui ces ignobles entraves\nCes fers dès longtemps préparés? / Français, pour nous, ah! quel outrage\nQuels transports il doit exciter? / C'est nous qu'on ose méditer / De rendre à l'antique esclavage!\n\n3. Quoi ces cohortes étrangères! / Feraient la loi dans nos foyers! / Quoi! ces phalanges mercenaires\nTerrasseraient nos fils guerriers! / Grand Dieu! par des mains enchaînées\nNos fronts sous le joug se ploieraient / De vils despotes deviendraient / Les maîtres des destinées.\n\n4. Tremblez, tyrans et vous perfides / L'opprobre de tous les partis / Tremblez! vos projets parricides\nVont enfin recevoir leurs prix! / Tout est soldat pour vous combattre\nS'ils tombent, nos jeunes héros / La France en produit de nouveaux, / Contre vous tout prêts à se battre.\n\n5. Français, en guerriers magnanimes / Portez ou retenez vos coups! / Épargnez ces tristes victimes\nÀ regret s'armant contre nous / Mais ces despotes sanguinaires\nMais ces complices de Bouillé / Tous ces tigres qui, sans pitié / Déchirent le sein de leur mère!\n\n6. Nous entrerons dans la carrière / Quand nos aînés n'y seront plus / Nous y trouverons leur poussière\nEt la trace de leurs vertus / Bien moins jaloux de leur survivre\nQue de partager leur cercueil / Nous aurons le sublime orgueil / De les venger ou de les suivre!\n\n7. Amour sacré de la Patrie / Conduis, soutiens nos bras vengeurs / Liberté, Liberté chérie\nCombats avec tes défenseurs! / Sous nos drapeaux, que la victoire\nAccoure à tes mâles accents / Que tes ennemis expirants / Voient ton triomphe et notre gloire!"^"C" c4 d2 e2 |^"D" A6 e2 |^"G/D" d4- d>B^"D7" c>A |^"G" G2 G>G G2 z2 |] %29
-w: Qu'un sang im-|pur a-|breu- * ve nos sil-|lons! * * *|
+w: Qu'un sang im-|pur a-|breu- * ve nos sil-|lons! * * * *|
 
 X:135
 T:La Mauvaise Réputation
@@ -4809,7 +4799,6 @@ V:1
 
 X:171
 T:Mazurka des Murs à Pêche
-C:Philippe Plard
 C:Olivier Philippson
 L:1/8
 M:9/8
@@ -6165,9 +6154,7 @@ X:220
 T:Siffler sur la Colline
 T:Chanté par Joe Dassin sur l'Album "Joe Dassin" (1968)
 T:Reprise de la chanson italienne "Uno tranquillo" (1967)
-C:Renaud Séchan
 C:Page-Panzeri-Pilat
-Z:G=F
 %%score ( 1 2 )
 L:1/8
 M:4/4
