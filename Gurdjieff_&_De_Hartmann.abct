@@ -10,13 +10,13 @@ K:C
 V:1 clef=
 V:2 clef=
 V:1
-"^Andantino" [Cc]2 [EB]2{AB} [DA]2 | [CG]4 !tenuto![CF]2 | [CE]7/2 G/ F/4G/4F/4G/4F | [B,D]6 | [DA]2{GA} [CG]2 [A,F]2 | [CE]4 c2 | [Ad]4{/c} e>d | c6 | z2!<(! [Gc]2 [Ad]2 | [ce]4{/d} !tenuto!f2 | [Ad]4 !tenuto!e2!<)! |$ %11
- d/e/d/e/ c4 |!p! z2 [Ec]2 [Ad]2 | [CG]4 [Ad]2 | [ce]4{/d} (3fed |!>(! c6!>)! | z2 !tenuto!cd !tenuto!ed |!<(! [Ec]4 !tenuto![Ad]2!<)! | [Ge]4 [cg]2 | [Gd]6 |$ %20
-"_cresc." ef gf | [Ae]4 [cf]2 | [Gg]4 [ca]2 | [Ae]6 | z2"_dim." [Gc]2 [Ad]2 | [ce]6 | G4!>(! ed | c6!>)!!D.C.! || [cgc']6 |] %29
+"^Andantino" [Cc]2 [EB]2{AB} [DA]2 | ([CG]4 !tenuto![CF]2) | ([CE]7/2 G/ F/4G/4F/4G/4F) | [B,D]6 | ([DA]2{GA} [CG]2 [A,F]2) | [CE]4 (c2 | [Ad]4){/c} (e>d | c6) | z2!<(! ([Gc]2 [Ad]2) | [ce]4{/d} !tenuto!f2 | ([Ad]4 !tenuto!e2)!<)! |$ %11
+ (d/e/d/e/ c4) |!p! z2 ([Ec]2 [Ad]2 | [CG]4) ([Ad]2 | [ce]4){/d} (3(fed) |!>(! c6!>)! | z2 (!tenuto!cd) (!tenuto!ed) |!<(! ([Ec]4 !tenuto![Ad]2!<)! | [Ge]4) ([cg]2 | [Gd]6) |$ %20
+"_cresc." (ef gf) | ([Ae]4 [cf]2) | ([Gg]4 [ca]2) | [Ae]6 | z2"_dim." ([Gc]2 [Ad]2 | [ce]6) | (G4!>(! ed) | c6!>)!!D.C.! || [cgc']6 |] %29
 V:2
  x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 |$ %11
  x6 | x6 | x6 | x6 | x6 | x2 G2 A2 | x6 | x6 | x6 |$ %20
- GA G2 | x6 | x6 | x6 | x6 | x6 | F6 | E4 F2 || x6 |] %29
+ (GA) G2 | x6 | x6 | x6 | x6 | x6 | F6 | (E4 F2) || x6 |] %29
 
 X:2
 T:Mélodie kurde pour deux flûtes - N°04
@@ -54,10 +54,10 @@ I:linebreak $
 K:Bb
 V:1 clef=
 V:1
-"^Allegro con brio" D2 G4 | ^F3 E D2 | A2 G4 |{/G} ^F6 | G2 ^F4 |{/^F} E3 D E2 | ^F2 E4 | D6 | .D2 !>!G4 | ^F3 F E2 | .A2 !>!G4 |{/G} ^F6 |$ %12
- .G2 !>!^F4 |{/^F} E3 F G2 | .A2 !>!G4 |{/G} ^F6 | .G2 !>!^F4 |{/^F} E3 D C2 | D2 E4 | D6 | .D2 !>!G4 | ^FG{/D} A4 | .A2{/A} B4 |$ %23
-{/A} G6 |{/A} BA G4 | ED C4 | DE ^F4 | G2 A4 |{/A} B2 G4 |!>(! G6-!>)! |: G2!p! ^F2 G2 | [^FA]6- | [FA]2 G2 A2 | [GB]6- | [GB]2!f! !wedge!E2 !wedge!D2 | !>!C6- |$ %36
- C2 !wedge!D2 !wedge!E2 | !>![D^F]6- | [DF]2!p! .E2 .^F2 | !tenuto![EG]6- | [EG]2 .^F2 .E2 | D4 E2 | ^F4 G2 | D6- ||1 D6 | !tenuto!G6 :||2 D6 | [DAd]2 z2 z2 |] %48
+"^Allegro con brio" D2 G4 | ^F3 E D2 | A2 G4 |{/G} ^F6 | (G2 ^F4 |{/^F} E3 D E2 | ^F2 E4 | D6) | .D2 !>!G4 | ^F3 (F E2) | .A2 !>!G4 |{/G} ^F6 |$ %12
+ .G2 !>!^F4 |{/^F} (E3 F G2) | .A2 !>!G4 |{/G} ^F6 | .G2 !>!^F4 |{/^F} (E3 D C2 | D2 E4) | D6 | .D2 !>!G4 | ^FG{/D} A4 | .A2{/A} B4 |$ %23
+{/A} G6 |{/A} (BA G4) | (ED C4) | (DE ^F4) | (G2 A4) |{/A} (B2 G4) |!>(! G6-!>)! |: G2!p! (^F2 G2 | [^FA]6- | [FA]2) (G2 A2 | [GB]6- | [GB]2)!f! !wedge!E2 !wedge!D2 | !>!C6- |$ %36
+ C2 !wedge!D2 !wedge!E2 | !>![D^F]6- | [DF]2!p! .E2 .^F2 | !tenuto![EG]6- | [EG]2 .^F2 .E2 | (D4 E2 | ^F4 G2 | D6-) ||1 D6 | !tenuto!G6 :||2 D6 | [DAd]2 z2 z2 |] %48
 
 X:4
 T:Atarnakh, chant kurde - N°07
@@ -93,7 +93,7 @@ I:percmap E B 45 normal
 V:1
 ^"Dm""^Marche alerte"!p! F6 F2 |^"A7" G2^"Dm" F2^"A7" E2^"Dm" D2 |^"A7" ^C2^"Dm" D2^"A7" E4- | E6 .E2 |^"A7" !tenuto!G6 G2 |^"A7"!<(! B2^"Dm" A2^"A7" G2^"Dm" F2!<)! |^"A7" !tenuto!G4^"F"!f! !>!A4- |$ %7
  A4^"A7" A4 |^"Gm" d4^"C7" c2^"Gm" B2 |^"C7" A2^"Gm" G2^"C7" B4 |^"F" !>!A4^"A7" !>!A4 |^"Gm" !>!A4^"A7" !>!G4- | G4^"Dm" .A2^"A7" .G2 |^"Dm"!>(! .F2^"A7" .E2^"Dm" !tenuto!D4!>)! |^"A7"!p! E6 E2 |^"F" F8 |$ %16
-^"F"!f! A6 !>!A2 |^"C" G6 !>!G2 |^"A7" E6 !>!E2 |^"Dm" F6 !>!G2 |^"F" A6!p! A2 |^"A7" !tenuto!c8 |^"F" c4^"Gm"!<(! d2 c2!<)! | B2 A2^"F" c4 |^"Gm"!f! B8- | B2 B2^"Dm" c4- |$ %26
+^"F"!f! A6 !>!A2 |^"C" G6 !>!G2 |^"A7" E6 !>!E2 |^"Dm" F6 !>!G2 |^"F" A6!p! A2 |^"A7" !tenuto!c8 |^"F" c4^"Gm"!<(! (d2 c2)!<)! | (B2 A2)^"F" c4 |^"Gm"!f! B8- | B2 B2^"Dm" c4- |$ %26
  c2^"Gm" B2 A2 G2 |^"C7" B4^"F" A4 |^"A7"!<(! !tenuto!A4^"Dm" !tenuto!A4!<)! |^"Gm" !>!A4^"A7" G4- | G4^"F" !>!A2 G2 | F2 E2^"Dm" F4 |^"Gm" E8 |^"Dm" D4 D4 |^"Dm" !>!d6 z2 |^"Dsus4" D6 z2!D.C.! |] %36
 V:2
 [K:C] E2 E E E2 E2 | E4 E4 | E2 E E E2 E2 | E4 E4 | E2 E E E2 E2 | E4 E4 | E2 E E E2 E2 |$ %7
@@ -159,8 +159,8 @@ I:linebreak $
 K:C
 V:1 clef=
 V:1
-"^Allegretto grazioso"!p! .c.d .e({/e}.d) .c z | .c.d .e({/e}.d) .c z | .B.c .B.c .B z | .A.B .c.B .A z | .B.c .B.c .B z | .B.c .B.c .B z | (B4 c2) | !tenuto!A6 |$ %8
- (B4 !>!c2) | A6 |!f! !>![cf]6- | [cf]4- [cf]3/2 z/ |!p! .c.d .e({/e}.d) .c z | .c.d .e({/e}.d) .c z | .B.c .B.c .B z | .A.B .c.B .A z |$ %16
+"^Allegretto grazioso"!p! .c.d .e{/e}.d .c z | .c.d .e{/e}.d .c z | .B.c .B.c .B z | .A.B .c.B .A z | .B.c .B.c .B z | .B.c .B.c .B z | (B4 c2) | !tenuto!A6 |$ %8
+ (B4 !>!c2) | A6 |!f! !>![cf]6- | [cf]4- [cf]3/2 z/ |!p! .c.d .e{/e}.d .c z | .c.d .e{/e}.d .c z | .B.c .B.c .B z | .A.B .c.B .A z |$ %16
  .B.c .B.c .B z | .B.c .B.c .B z | (BcBA GABA G2 B2) | A6- | A6 | (B/c/B/A/ G) z z2 | !tenuto!A z !tenuto!F z z2 |$ %23
  (B/c/B/A/ G) z z2 | !tenuto!A z !tenuto!F z z2 | !tenuto!c6 | !tenuto!c6- | c6- | c6 | A6 | G6 | E6 | F6 |$ %33
  .c.d .e.d .c z | .c.d .e.d .c z | .B.c .B.c .B z | .A.B .c.B .A z | B4 !tenuto!c2 | A6 | B4 !tenuto!c2 | A6 | !>!f6- | f6 |$ %43
@@ -202,10 +202,10 @@ I:linebreak $
 K:Ab
 V:1 clef=
 V:1
-"^Andante con moto"!p! z6 | z6 |:"_sempre molto cantabile" c>B cA/B/ c2 | BA BA/G/ FE | F6- | F4- F3/2!<(!(5:4:5E/8F/8G/8A/8B/8!<)! | c2 f2 Bc | f>c ed cA | B2 A/G/F/E/ F2- |$ %9
- F6 | c!tenuto!c- c(6:4:6c/4B/4A/4G/4A/4B/4 [Gc]2 | c2 f4 | e/d/c/B/ d2 c2- | c3 A c2- | c2 (5:4:5B/A/G/F/E/ F2- | F4- F!pp!E | F4!mp!"^più espressivo" !tenuto!F2 | B2 A/B/A/G/ FE |$ %18
- F4- FF |"_poco a poco crescendo e più cantando" c3 B c2 | ce- e>c e/d/c/B/ | A/B/c c4 | z/ !tenuto!e3/2 !tenuto!e>c e2 | B/c/d c(3B/A/G/ FE | F6 |!p! .!tenuto!FF E B3 |$ %26
- .!tenuto!BB A B3 | Ac/B/ AG A2 |!p! .!tenuto!BB A B3 | .!tenuto!AB/A/ GA F2 | .!tenuto!AA G A3 | .!tenuto!AA/G/ FE F2- | F6- :| F6- | F6- |!ppp! !fermata!F6 |] %36
+"^Andante con moto"!p! z6 | z6 |:"_sempre molto cantabile" (c>B cA/B/ c2) | (BA BA/G/ FE | F6- | F4- F3/2)!<(!(5:4:5(E/8F/8G/8A/8B/8!<)! | c2 f2 Bc | f>c ed cA | B2 A/G/F/E/ F2- |$ %9
+ F6) | c!tenuto!c- c(6:4:6(c/4B/4A/4G/4A/4B/4 [Gc]2) | (c2 f4) | (e/d/c/B/ d2 c2- | c3 A c2- | c2) (5:4:5(B/A/G/F/E/ F2- | F4- F)!pp!(E | F4)!mp!"^più espressivo" !tenuto!F2 | (B2 A/B/A/G/ FE |$ %18
+ F4- F)(F |"_poco a poco crescendo e più cantando" c3 B c2) | (ce- e>c e/d/c/B/ | A/B/c c4) | z/ !tenuto!e3/2 (!tenuto!e>c e2) | (B/c/d c(3B/A/G/ FE | F6) |!p! .!tenuto!F(F E B3) |$ %26
+ .!tenuto!B(B A B3) | (Ac/B/ AG A2) |!p! .!tenuto!B(B A B3) | .!tenuto!A(B/A/ GA F2) | .!tenuto!A(A G A3) | .!tenuto!A(A/G/ FE F2-) | F6- :| F6- | F6- |!ppp! !fermata!F6 |] %36
 
 X:12
 T:Song of the Fisherwomen
@@ -225,8 +225,8 @@ V:1
 "^Andantino"!p! z8 | z2 D2 F2 G2 |{/F} A4 G/A/G/A/(3GFG | A2 G2 F2 E2 | F2 D6- |$ %5
  D2 D2 F2 G2 | !arpeggio![FA]4{/A} B2 A2 | G2 F2 E2 F2 || D4 D2!mp! c2 B2{AB} A2 || G2 F2 E2 F2 |{/D} (d8- |$ %11
  d2)!p! D2 F2 G2 |!mf! !arpeggio![FA]4 GAFG | A4 G3 A/G/ | F2 E2 F2{/E} G2 | D4 D2 c2 || Bc BA B2 A4!f! !tenuto!A2 ||$ %17
- !tenuto!d4 !arpeggio![Adf]4 ed ^cd e2 || d4 (B3 B/B/) | A4 GAFG | A2 F2 E2 F2 |({D} d8) | d4 GA B2 |$ %23
- d !>!A3- A4 |({A} G4) EF G2 | A !>!F3- F4- | FzDE F2 G2 | E2 F2- F3 E | D8 | [Dd]8- :|!pp! [Dd]4 z4 |] %31
+ !tenuto!d4 !arpeggio![Adf]4 ed ^cd e2 || d4 (B3 B/B/) | A4 GAFG | A2 F2 E2 F2 |{D} d8 | d4 GA B2 |$ %23
+ d !>!A3- A4 |{A} G4 EF G2 | A !>!F3- F4- | FzDE F2 G2 | E2 F2- F3 E | D8 | [Dd]8- :|!pp! [Dd]4 z4 |] %31
 V:2
 [K:C] E2 E E E2 E2 | E2 E E E2 E2 | E2 E E E2 E2 | E2 E E E2 E2 | E2 E E E2 E2 |$ %5
  E2 E E E2 E2 | E2 E E E2 E2 | E2 E E E2 E2 || E2 E E E2 E2 E2 E2 || E2 E E E2 E2 | E2 E E E2 E2 |$ %11
@@ -249,7 +249,7 @@ V:1
 "^Comme une valse ancienne" de d^c d2 | ba g2 ba | g2{/G} BA G2 | de d^c d2 | cB A2 c'b | a2{/a} c'b a2 | AB cB d2 | ^fg a2 fg |$ %8
  a z{/g} b3 a | g6 | d^c d2 (5:4:5A/B/=c/d/e/ | d2 (5:4:5A/B/c/d/e/ d2 | d>^c d4 | g^f ga c'>b | a4 ab | [ac']2 ab [ac'] z |$ %16
  z2 [gb][^fa] [gb]2 | ag{/g} ^fe d2 | [eg]6- | [eg]A B^c de | [Bd]4 .[Bd]2 | .[A^c]2 .[A=c]2 .[GB]2 | z ^F GA BA | c2 ^FG AB |$ %24
- G4 D/4E/4=E/4^F/4G/4A/4B/4c/4 | .[Bd]2 .[A^c]2 .[Bd]2 |{/d} [A=c]2 [GB]2{/B} AB | G6 | [GBdg]2 z2 z2 |] %29
+ G4 (D/4E/4=E/4^F/4G/4A/4B/4c/4 | .[Bd]2) .[A^c]2 .[Bd]2 |{/d} [A=c]2 [GB]2{/B} (AB) | G6 | [GBdg]2 z2 z2 |] %29
 V:2
  x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 |$ %8
  x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 |$ %16
@@ -296,9 +296,9 @@ I:linebreak $
 K:Db
 V:1 clef=
 V:1
-"^Andantino""_Cantabile" (FG=A | B3) | (c({/c}d)c | B3) | (c!<(! !tenuto!d2)!<)! | (c !tenuto!d2) | (d/!>(!c/).B.=A!>)! | B3 | (FG=A |!<(! B3!<)! |({/B} c3)) | (B!<(!=AB/A/!<)! |$ %12
- G({/F} E2) | !tenuto!E/F/ G2) | (B=AG | =A G2 | CDE | F3) |!p!({/=A} (B2) A) |({/=A} B3-) | B/(F/G/=A/G/>)(G/ | F3) |$ %22
- c!<(!({/c}(d/)B/c)!<)! | (3(c/d/e/dc) |!p! (3(c/d/e/d({/e}c)) | (dc/B/({cB}=A) |!<(! (3G/F/E/ B2)!<)! |({/B} (c)B=A | (3B/=A/B/!>(!G>)(G!>)! | F3-) | F3!D.C.! ||$ %31
+"^Andantino""_Cantabile" (FG=A | B3) | (c{/c}dc | B3) | (c!<(! !tenuto!d2)!<)! | (c !tenuto!d2) | (d/!>(!c/).B.=A!>)! | B3 | FG=A |!<(! B3!<)! |{/B} c3 | (B!<(!=AB/A/!<)! |$ %12
+ G{/F} E2 | !tenuto!E/F/ G2) | (B=AG | =A G2 | CDE | F3) |!p!{/=A} (B2 A) |{/=A} B3- | B/(F/G/=A/G/>)(G/ | F3) |$ %22
+ c!<(!{/c}(d/B/c)!<)! | (3(c/d/e/dc) |!p! (3c/d/e/d{/e}c | (dc/B/{cB}=A |!<(! (3G/F/E/ B2)!<)! |{/B} (cB=A | (3B/=A/B/!>(!G>)(G!>)! | F3-) | F3!D.C.! ||$ %31
 !p! .[Fcf] z z!fine! |] %32
 
 X:17
@@ -312,10 +312,10 @@ I:linebreak $
 K:F
 V:1 clef=
 V:1
-"^Allegro assai" .c2 .=B2 .A2 (3:2:4G^G=G/ z/ | A8 | .A2 .G2 .F2 .G2 | .A2{/A} !tenuto!G6 | .G2 .F2 .E2 .F2 | .[EG]2 !tenuto![FA]6 | F2 E2 G2 F2 | !>!E7/2 D/ D4 | A2 F4 GA | B2 c2 A4 |$ %10
- !tenuto!c2 A6 | .c.d .c2 .B2 .A2 | c>B A6 | .c.d .c2 .B2 .c2 | d8 | .c.d .c2 .B2 .c2 | !tenuto!A8 | .B.c .B2 .A2 .B2 | !arpeggio!!tenuto![Ac]8 |!<(! .c.d .c2 .B2 .A2 | .B2 !tenuto!A6!<)! |$ %21
-!f!{/A} B2 A2 G2 A2 | B2 !tenuto![Ac]6 |!p! .B.A .G2 .A2 .B2 |{/A} .c2 !tenuto!A4!f! !wedge!A2 | !>![Ac]4 FGAB |{/A} [Ac]6 !tenuto![Ac]2 | !tenuto![Bd]6 cB AB c2 [Bd]4 [Ac]2 | [c_e]6 .d.e .d2 .c2 .d2 |$ %29
- [Ac]4 [Bd][Ac] [GB]2 [Ac]2 [Bd]4 |"_dim." [Ac][Bd] [Ac]2 [GB]2 [Bd]2 [Ac]4 | .[Ac].[GB] .[FA]2 .[GB]2 !tenuto![Ac]4 |!p! .[Ac].[Bd] .[Ac]2 .[GB]2 .[Ac]2 !tenuto![FA]4!D.C.! || !tenuto![EA]8!p!{Ae} .a2 z2!fine! |] %34
+"^Allegro assai" .c2 .=B2 .A2 (3:2:4G^G=G/ z/ | A8 | .A2 .G2 .F2 .G2 | .A2{/A} !tenuto!G6 | .G2 .F2 .E2 .F2 | .[EG]2 !tenuto![FA]6 | (F2 E2 G2 F2) | (!>!E7/2 D/) D4 | (A2 F4 GA | B2 c2 A4) |$ %10
+ (!tenuto!c2 A6) | .c.d .c2 .B2 .A2 | (c>B A6) | .c.d .c2 .B2 .c2 | d8 | .c.d .c2 .B2 .c2 | !tenuto!A8 | .B.c .B2 .A2 .B2 | !arpeggio!!tenuto![Ac]8 |!<(! .c.d .c2 .B2 .A2 | .B2 !tenuto!A6!<)! |$ %21
+!f!{/A} (B2 A2 G2 A2 | B2 !tenuto![Ac]6) |!p! .B.A .G2 .A2 .B2 |{/A} .c2 !tenuto!A4!f! !wedge!A2 | !>![Ac]4 (FGAB) |{/A} [Ac]6 !tenuto![Ac]2 | !tenuto![Bd]6 (cB AB c2 [Bd]4 [Ac]2 | [c_e]6) .d.e .d2 .c2 .d2 |$ %29
+ ([Ac]4 [Bd][Ac] [GB]2 [Ac]2 [Bd]4) |"_dim." ([Ac][Bd] [Ac]2 [GB]2 [Bd]2 [Ac]4) | .[Ac].[GB] .[FA]2 .[GB]2 !tenuto![Ac]4 |!p! .[Ac].[Bd] .[Ac]2 .[GB]2 .[Ac]2 !tenuto![FA]4!D.C.! || !tenuto![EA]8!p!{Ae} .a2 z2!fine! |] %34
 
 X:18
 T:Mélodie indienne - N°34
@@ -367,11 +367,11 @@ I:linebreak $
 K:Eb
 V:1 clef=
 V:1
-!p!"^Moderato" C2 D2 |: !tenuto!E6 | !tenuto!F6 | !tenuto!G6- | G2 A2 G2 | !tenuto!F6 | !tenuto!E4 c2 | !tenuto!c6- | c2 B2 (3ABA | G6 | !tenuto!F6 | !tenuto!E6- | E2 C2 D2 | E6 | F4 ED |$ %15
- C6- ||1 C2 C2 D2 :||2 C2 c2 A2 || !tenuto!G6 |{/A} F4 A2 | G6- |!<(! G2 c2 A2!<)! | G6 | F4 A2 | G6- | G2!f! e2 d2 | c6 | F6 | G6 | z2!p!!<(! C2 D2 |$ %30
-{CD} E6 |{DE} F6 |{EF} G6!<)! | z2!<(! C2 D2!<)! | E4 D2 |!>(! F4 E/D/E/D/!>)! | C6 | z2 !tenuto!.C2 !tenuto!.D2 |$ %38
-|:"_poco a poco cresc." E3 D/E/ C2- | C2 !tenuto!D2 !tenuto!E2 | F3 E/F/ D2- | D2 !tenuto!.F2 !tenuto!.G2 | A3 G/A/ F2 | c3 A B/A/B/A/ | G6- | G2 !tenuto!.e2 !tenuto!.d2 | c3 e/d/ c2- | c2 !tenuto!.B2 !tenuto!.A2 |$ %48
-!f! G3 c/A/ G2- | G2 C2 D2 | E3 D CE | G4 !tenuto!.e2 ||1 C6- | C2!p! C2 D2 :||2 C6 | c2 z2 z2 |] %56
+!p!"^Moderato" (C2 D2) |: !tenuto!E6 | !tenuto!F6 | !tenuto!G6- | G2 (A2 G2) | !tenuto!F6 | (!tenuto!E4 c2) | !tenuto!c6- | c2 B2 (3(ABA) | G6 | !tenuto!F6 | !tenuto!E6- | E2 (C2 D2 | E6) | (F4 ED) |$ %15
+ C6- ||1 C2 (C2 D2) :||2 C2 (c2 A2) || !tenuto!G6 |{/A} (F4 A2) | G6- |!<(! G2 (c2 A2)!<)! | G6 | (F4 A2) | G6- | G2!f! (e2 d2) | c6 | F6 | G6 | z2!p!!<(! (C2 D2) |$ %30
+{CD} E6 |{DE} F6 |{EF} G6!<)! | z2!<(! (C2 D2)!<)! | (E4 D2) |!>(! (F4 E/D/E/D/)!>)! | C6 | z2 !tenuto!.C2 !tenuto!.D2 |$ %38
+|:"_poco a poco cresc." (E3 D/E/ C2- | C2) !tenuto!D2 !tenuto!E2 | (F3 E/F/ D2- | D2) !tenuto!.F2 !tenuto!.G2 | (A3 G/A/ F2) | (c3 A B/A/B/A/) | G6- | G2 !tenuto!.e2 !tenuto!.d2 | (c3 e/d/ c2- | c2) !tenuto!.B2 !tenuto!.A2 |$ %48
+!f! (G3 c/A/ G2- | G2) (C2 D2) | (E3 D CE) | (G4 !tenuto!.e2) ||1 C6- | C2!p! (C2 D2) :||2 C6 | c2 z2 z2 |] %56
 
 X:21
 T:Asian Songs and Rhytms n°40
@@ -383,8 +383,8 @@ I:linebreak $
 K:Ab
 V:1 clef=
 V:1
-|:!p!"^dolce" C2 D | =E F2 | G/B/AG | F G2 | =E2 G | F=EF | =EDC/B,/ | C3 ||$ %8
-!<(! c2 B | A G2 | A/B/cA/B/!<)! | A/B/ G2 |"_dim." FGF | =EDC | !tenuto!D/C/!tenuto!D/C/B, | !fermata!C3 :| %16
+|:!p!"^dolce" (C2 D | =E F2) | (G/B/AG | F G2) | (=E2 G) | (F=EF) | (=EDC/B,/ | C3) ||$ %8
+!<(! (c2 B | A G2) | (A/B/cA/B/!<)! | A/B/ G2) |"_dim." (FGF | =EDC) | ((!tenuto!D/C/)(!tenuto!D/C/B,)) | !fermata!C3 :| %16
 
 X:22
 T:Mélodie kurde - N°41
@@ -435,10 +435,10 @@ I:linebreak $
 K:Ab
 V:1 clef=
 V:1
-^"C7sus4""^Poco rubato" !tenuto!c3 B^"Fm" c A3 |^"Bbdim" BcBAGA^"C" G6 |^"Bbm"!p! B2 AB^"Ab" c4 |^"Fsus4"!<(! Bc^"Bbm" d2 f2 ed!<)! |^"Ab"!mf! c2 e2 B2 AB c2 |!>(! BcBA!>)!^"C"!p! G2^"Fm" !fermata!A2 |$ %6
-!mf! !tenuto!c2 Bc^"Db" A4 |^"Bbm" !tenuto!d2 cd^"Eb" B4 |!p!"^meno mosso"!<(! !tenuto!B!tenuto!c!tenuto!d!tenuto!f^"Ab" !tenuto!e2^"Bbm" !tenuto!f2!<)! |^"Db"!f! !>!!fermata!a2^"Cm" !tenuto!ga/g/^"Bbm" f2^"Cm""^ritenuto" !tenuto!g2^"Fm" !tenuto!a4 ||$ %10
-^"Csus4"[Q:1/4=104]"^Andantino"!p! z2 (3cfg a2 (3gab ag a2 | z2 (3cfg a2 (3gf=e (3fgf^"Bbm7""^sans se presser" (3:2:2d2 d c2 |^"Ab" !wedge!c!wedge!B !wedge!A2 !wedge!B2 !tenuto!c4 | !wedge!B!wedge!c !wedge!B2 !wedge!A2 !wedge!G2 !wedge!B2^"Fm" !tenuto!A4 |$ %14
-^"Ab" !tenuto!c3 B A2 c4 |^"Gm7" !tenuto!B3 d c2 B4 |^"C7" !tenuto!B3 A G2 B4 |^"Gm7" !tenuto!B3 c B2^"Db" A4 |^"C" !tenuto!c3 B A2^"Bbm9" c4 |^"C7sus4" !tenuto!B3 c B2^"Fm" A4 |!p! !fermata!f6 z4!D.C.! |] %21
+^"C7sus4""^Poco rubato" (!tenuto!c3 B^"Fm" c A3) |^"Bbdim" (BcBAGA^"C" G6) |^"Bbm"!p! (B2 AB^"Ab" c4) |^"Fsus4"!<(! (Bc^"Bbm" d2 f2 ed!<)! |^"Ab"!mf! c2 e2 B2 AB c2) |!>(! (BcBA!>)!^"C"!p! G2^"Fm" !fermata!A2) |$ %6
+!mf! (!tenuto!c2 Bc^"Db" A4) |^"Bbm" (!tenuto!d2 cd^"Eb" B4) |!p!"^meno mosso"!<(! !tenuto!B!tenuto!c!tenuto!d!tenuto!f^"Ab" !tenuto!e2^"Bbm" !tenuto!f2!<)! |^"Db"!f! !>!!fermata!a2^"Cm" (!tenuto!ga/g/^"Bbm" f2)^"Cm""^ritenuto" !tenuto!g2^"Fm" !tenuto!a4 ||$ %10
+^"Csus4"[Q:1/4=104]"^Andantino"!p! z2 (3(cfg a2) (3(gab ag a2) | z2 (3(cfg a2) (3(gf=e (3fgf^"Bbm7""^sans se presser" (3:2:2d2) (d c2) |^"Ab" !wedge!c!wedge!B !wedge!A2 !wedge!B2 !tenuto!c4 | !wedge!B!wedge!c !wedge!B2 !wedge!A2 !wedge!G2 !wedge!B2^"Fm" !tenuto!A4 |$ %14
+^"Ab" (!tenuto!c3 B A2 c4) |^"Gm7" (!tenuto!B3 d c2 B4) |^"C7" (!tenuto!B3 A G2 B4) |^"Gm7" (!tenuto!B3 c B2^"Db" A4) |^"C" (!tenuto!c3 B A2^"Bbm9" c4) |^"C7sus4" (!tenuto!B3 c B2^"Fm" A4) |!p! !fermata!f6 z4!D.C.! |] %21
 
 X:25
 T:Pour le professeur Skridlov - N°02
@@ -495,12 +495,12 @@ K:Bb
 V:1 clef=
 V:1
 ^"Eb" !>!G!>!E^"D" !arpeggio![D^F]4^"Eb" (3GEG |^"D" !arpeggio![D^F]6 !>!G!>!A |^"Gm" !arpeggio![GB]4^"Cm" (7:4:7cBABG^FG^"D" A3 A |^"Cm" c4 cd c4 |$ %4
-^"Am7" z2{/d} (8:6:13c=BcBABA_A=AB c2 !>!B2{AB} !>!A2^"Cdim7"{/G} ^F2^"Ebm7" E2^"Asus4"{!fermata!F!fermata!E} !fermata!D4 | !>!E z !>!^F z z2 D/E/F/G/ |$ %6
-^"Asus4" !arpeggio![DA]4"^accelerando" AB AG^"Dsus4"G^F |^"Eb" G4 G2 A2^"Eb" B2 A3/2B/4A/4 G2^"Cm" EG/E/ |^"Asus4"{GE} D7/2 c/ |^"Cm" (3:2:2d2 B^"D" (3:2:2d2 A^"D7sus4" d2 GA |$ %10
+^"Am7" z2{/d} (8:6:13c=BcBABA_A=AB c2 !>!B2{AB} !>!A2^"Cdim7"{/G} ^F2^"Ebm7" E2^"Asus4"{!fermata!F!fermata!E} !fermata!D4 | !>!E z !>!^F z z2 (D/E/F/G/) |$ %6
+^"Asus4" !arpeggio![DA]4"^accelerando" AB AG^"Dsus4"G^F |^"Eb" G4 G2 A2^"Eb" B2 A3/2B/4A/4 G2^"Cm" EG/E/ |^"Asus4"{GE} D7/2 (c/ |^"Cm" (3:2:2d2) (B^"D" (3:2:2d2) (A^"D7sus4" d2) GA |$ %10
 ^"Gm"{/G} B3/2A/4B/4 GA^"Eb""^rallentando" [GB]2 ^FE |^"D"{!fermata!^F!fermata!E} !fermata!D8 ||^"Dsus4""^a tempo" .D.ED z{/^C} D.DGDAD^"Gm" !arpeggio![DB]4 | BcBA^"Bb" B2^"Am"{/B} A2^"Gm"{/A} G2^"D" ^FG/F/^"F#m" A2 |$ %14
-^"D" ABcA^"Gm" B(3PA/B/A/^"Cm" G^FGA^"Gm" B2 |^"Cm" !>!c/B/A/G/^"Gm" G2 |^"Cm" C2^"Gm"{/D} CB,^"Cm" CD{/C} E2^"Bb"{/D} !>!FE/D/^"Cm" C2 |$ %17
+^"D" ABcA^"Gm" B(3PA/B/A/^"Cm" G^FGA^"Gm" B2 |^"Cm" (!>!c/B/A/G/)^"Gm" G2 |^"Cm" C2^"Gm"{/D} CB,^"Cm" CD{/C} E2^"Bb"{/D} (!>!FE/D/^"Cm" C2) |$ %17
 ^"G7sus4"{/D} F>E DE^"Bb"{/D} F2{/E} !>!G/F/E/D/{/D} F2 |{/D} FE/D/ CB,{/B,} D3 E F2 | FG_A{/G}F^"Eb" EF{/E}GE |$ %20
-^"Bb" DE{/D}FD^"Cm" E(3D/E/D/ C2 |{/D} F>F ED C2 | Cc Cc Cc |!8va(! [gc']4 [ec']2 |^"Cm" !fermata![gc']6!8va)! |] %25
+^"Bb" DE{/D}FD^"Cm" (E(3D/E/D/ C2) |{/D} F>F ED C2 | (Cc) (Cc) (Cc) |!8va(! [gc']4 [ec']2 |^"Cm" !fermata![gc']6!8va)! |] %25
 
 X:28
 T:Derviche persan - N°06
@@ -514,7 +514,7 @@ I:linebreak $
 K:Eb
 V:1 clef=
 V:1
-"^Pesante""^poco martellato e forte al fine"!f! !wedge!G,!wedge!=B,!wedge!C{/B,} !wedge!D/!wedge!C/ !wedge!D2 !>!DE(5:4:5D/4E/4D/4E/4D/4 | C=B,/C<DC/4D/4ED/(3E/4D/4E/4 GF{/F}E/4F/4E/4F/4 | E2 C =B, C2- C3 |$ %3
+"^Pesante""^poco martellato e forte al fine"!f! !wedge!G,!wedge!=B,!wedge!C{/B,} !wedge!D/!wedge!C/ !wedge!D2 !>!DE(5:4:5(D/4E/4D/4E/4D/4) | C=B,/C<DC/4D/4ED/(3E/4D/4E/4 GF{/F}E/4F/4E/4F/4 | E2 C =B, C2- C3 |$ %3
  D/E/F/E/ !>!F2 !>!E !>!F2 F2 | F2 GG/F/ (3G/F/G/ FED | E2 E FE/F/E/F/ E!>!!wedge!D!>!!wedge!C | D3 C/D/E/F/E/D/ E2 !>!!wedge!D |$ %7
  !>!E3 D2 D E/D/E/D/E/D/ |!>(! C=B, z!>)! D2 D C/4D/4C/4D/4CB, | E2 E F/4E/4F/4E/4DC D2 D |$ %10
 {/D} E/4D/4E/4D/4C=B, C2 CB,/4C/4B,/4C/4B,- B,2 | =B,/C/{/G,} D2 C/D/ E2{/D} E2{/D} E2 | D/E/ (3D/E/D/ C=B, D/E/!>!!wedge!F z{/E} G/F/E/D/F |$ %13
@@ -533,12 +533,12 @@ I:linebreak $
 K:Eb
 V:1 clef=
 V:1
-^"Am7""^Andante con moto"!p! z8 |!mf! G2 A2 c2 =B2 |^"F" A6 .G3/2 z/ |^"Am" CDEF G2 c2- | c2 A2^"Dm7" =B3 A/B/ |^"F7" A3 =B A2^"Gsus4" G6^"Ab"{/d} e2 d/(3e/d/e/d/ c2 |$ %6
-^"Am7" =Bc [Bd]2^"F" f2{/f} (3:2:5e/f/e/f/e- |^"Am7" e2 d2^"F" c2{/d} e2 |^"D7sus4" !arpeggio![=Bd]4^"Am" c4 B/c/B/c/ |^"F" !tenuto!=B2 !tenuto!A2 !tenuto!G2 !tenuto!B2 |^"Am7" !tenuto!G8 |^"Am""^pressez" (3.D.E.F .E z^"Am7" !tenuto!G4 |$ %12
-^"F" (3.F.G.A .G z^"Adim" !tenuto!c4 |^"Ab" !wedge!c2{/c} !>!B/4c/4B3/2 A4 |^"F" GA=BA^"Dsus4" G3 z |^"F" !wedge!!tenuto!F2 z2^"Dsus4" !tenuto!G4 |^"Ab""^cédez" c2{/c} !>!B/4c/4B3/2^"F" A4 |^"Dsus4" GA=BA^"Eb" G2 z2 |^"F" !tenuto!F4^"Dsus4"!>(! !fermata!G8!>)! ||$ %19
-^"Am"[Q:1/4=138]"^Allegro con moto"!mf! !>!C2 D2 !>!E2 (3DED |^"F" !>!G4 !>!F2 (3EFE |^"Am7" G8 | B2 (5:4:5=A/B/A/B/A/ G4 |^"Am7" G2 =A2 B2 (3ABA | c2 Bc d4 | e2 f2 e2 (3ded |{ed} c2 =B2 c4 |$ %27
-^"F" A2 G/A/G/A/ F2 E2 |{/F} G4 D2 E2 |^"F7" F2 EF^"D7sus4" !arpeggio![DG]2 F2 | d2 ed^"Ab" c4 |^"Am"{/G} !wedge!c2{/c} !wedge!=B2^"F" !wedge!A2 !wedge!G2^"Abm" !wedge!B!wedge!A z2 |^"Dsus4" !wedge!d2{/d} !wedge!c2 !wedge!=B2^"Ab" !wedge!c2 |^"F7" !wedge!e2{/e} !wedge!d2 !wedge!c2 !wedge!=B2 |$ %34
-^"Eb" !wedge!g!wedge!f z2 !wedge!f2 !wedge!g2^"F" !tenuto![fa]4 |^"Dsus4" G=BAG AG A2 | G2 A2"^poco ritardando" G4 |^"Dsus4" !fermata![Gd]8 |] %38
+^"Am7""^Andante con moto"!p! z8 |!mf! (G2 A2 c2 =B2 |^"F" A6) .G3/2 z/ |^"Am" (CDEF G2 c2- | c2 A2^"Dm7" =B3 A/B/ |^"F7" A3 =B A2^"Gsus4" G6)^"Ab"{/d} (e2 d/(3e/d/e/d/ c2 |$ %6
+^"Am7" =Bc [Bd]2^"F" f2{/f} (3:2:5e/f/e/f/e- |^"Am7" e2 d2^"F" c2{/d} e2 |^"D7sus4" !arpeggio![=Bd]4)^"Am" (c4 B/c/B/c/ |^"F" !tenuto!=B2 !tenuto!A2 !tenuto!G2 !tenuto!B2 |^"Am7" !tenuto!G8) |^"Am""^pressez" (3.D.E.F .E z^"Am7" !tenuto!G4 |$ %12
+^"F" (3.F.G.A .G z^"Adim" !tenuto!c4 |^"Ab" !wedge!c2{/c} !>!B/4c/4B3/2 A4 |^"F" GA=BA^"Dsus4" G3 z |^"F" !wedge!!tenuto!F2 z2^"Dsus4" !tenuto!G4 |^"Ab""^cédez" c2{/c} !>!B/4c/4B3/2^"F" A4 |^"Dsus4" GA=BA^"Eb" G2 z2 |^"F" (!tenuto!F4^"Dsus4"!>(! !fermata!G8)!>)! ||$ %19
+^"Am"[Q:1/4=138]"^Allegro con moto"!mf! (!>!C2 D2 !>!E2 (3DED |^"F" !>!G4) (!>!F2 (3EFE |^"Am7" G8) | (B2 (5:4:5=A/B/A/B/A/ G4) |^"Am7" (G2 =A2 B2 (3ABA | c2 Bc d4) | (e2 f2 e2 (3ded |{ed} c2 =B2 c4) |$ %27
+^"F" A2 G/A/G/A/ F2 E2 |{/F} G4 (D2 E2 |^"F7" F2 EF^"D7sus4" !arpeggio![DG]2 F2 | d2 ed^"Ab" c4) |^"Am"{/G} !wedge!c2{/c} !wedge!=B2^"F" !wedge!A2 !wedge!G2^"Abm" !wedge!B!wedge!A z2 |^"Dsus4" !wedge!d2{/d} !wedge!c2 !wedge!=B2^"Ab" !wedge!c2 |^"F7" !wedge!e2{/e} !wedge!d2 !wedge!c2 !wedge!=B2 |$ %34
+^"Eb" !wedge!g!wedge!f z2 !wedge!f2 !wedge!g2^"F" !tenuto![fa]4 |^"Dsus4" (G=BAG AG A2 | G2 A2"^poco ritardando" G4) |^"Dsus4" !fermata![Gd]8 |] %38
 
 X:30
 T:Chant et danse sayyid - N°8
@@ -553,10 +553,10 @@ K:C
 V:1 clef=
 V:2 clef=
 V:1
-"^Rubato"!f! z z/4 (7:4:7c/d/[Q:1/4=70]e/f/e/d/[Q:1/4=40]c/ e3 !tenuto!e3/4- |[Q:1/4=55] e/4 z (7:4:7c/d/[Q:1/4=70]e/f/e/d/[Q:1/4=40]c/ e3 !tenuto!e3/4- | e/4 z3/4 !>!g4 (7:4:7f/g/[Q:1/4=70]f/e/d/c/[Q:1/4=40]d/ |$ %3
- e4 !tenuto!e2 |[Q:1/4=55] !>!g4 !tenuto!g2 | !>!a3 !tenuto!g"^più mosso, rubato" (7:4:7!tenuto!a!tenuto!g[Q:1/4=70]!tenuto!f!tenuto!e!tenuto!d!tenuto!c[Q:1/4=40]!tenuto!d | !tenuto!e8[Q:1/4=60][Q:1/4=70] |[Q:1/4=60] !tenuto!d8[Q:1/4=70] |[Q:1/4=60] c8 |!p! e6 |$ %10
-!pp!!8va(! !breath!!fermata![a'e'']6!8va)! ||[Q:1/4=76]"^Molto ritmico"!p! !tenuto!.[Gg]2 !tenuto!.[Gg]2 | .[Gg].[Ff] .[Ee].[Ff] !tenuto!e2 |{/e} .c.d e4 |{/d} .d.e d4- | d4 a2 ga gf efg !tenuto!a- | a6 | g.a f4 | f.g e4 |$ %19
- f.g d4 | cd e4 |{/d} de d4 | !tenuto!.[Gg]2 !tenuto!.[Ff]2 !tenuto!.[Ee]2 !breath!c4 | cd e4 |{/d} de d4 | !tenuto!.[Gg]2 !tenuto!.[Ff]2 !tenuto!.[Ee]2 c4 | cdef edcd e4 |$ %27
+"^Rubato"!f! z z/4 (7:4:7(c/d/[Q:1/4=70]e/f/e/d/[Q:1/4=40]c/ e3) !tenuto!e3/4- |[Q:1/4=55] e/4 z (7:4:7(c/d/[Q:1/4=70]e/f/e/d/[Q:1/4=40]c/ e3) !tenuto!e3/4- | e/4 z3/4 !>!g4 (7:4:7(f/g/[Q:1/4=70]f/e/d/c/[Q:1/4=40]d/ |$ %3
+ e4) !tenuto!e2 |[Q:1/4=55] !>!g4 !tenuto!g2 | !>!a3 !tenuto!g"^più mosso, rubato" (7:4:7!tenuto!a!tenuto!g[Q:1/4=70]!tenuto!f!tenuto!e!tenuto!d!tenuto!c[Q:1/4=40]!tenuto!d | !tenuto!e8[Q:1/4=60][Q:1/4=70] |[Q:1/4=60] !tenuto!d8[Q:1/4=70] |[Q:1/4=60] c8 |!p! e6 |$ %10
+!pp!!8va(! !breath!!fermata![a'e'']6!8va)! ||[Q:1/4=76]"^Molto ritmico"!p! !tenuto!.[Gg]2 !tenuto!.[Gg]2 | .[Gg].[Ff] .[Ee].[Ff] !tenuto!e2 |{/e} .c.d e4 |{/d} .d.e d4- | d4 a2 (ga) (gf) (efg) !tenuto!a- | a6 | (g.a) f4 | (f.g) e4 |$ %19
+ (f.g) d4 | (cd e4) |{/d} de d4 | !tenuto!.[Gg]2 !tenuto!.[Ff]2 !tenuto!.[Ee]2 !breath!c4 | (cd e4) |{/d} de d4 | !tenuto!.[Gg]2 !tenuto!.[Ff]2 !tenuto!.[Ee]2 c4 | cdef edcd e4 |$ %27
  !tenuto!.g2 !tenuto!.f2 !tenuto!e4 | gfedcd !tenuto!e4 | g2 f2 e4 !tenuto!e2 | !tenuto![Aa]8 | ga g4 | .B.c .d.e f2 | f2 !>!a4 | [Gg]2 [Ff]2 [Ee]4 | !tenuto![Ff]8 | !tenuto![Ee]8 |!8va(! !fermata![aa']8!8va)! |] %38
 V:2
  (5:4:5A,/4D/4E/4F/4E/4 A6 | (5:4:5A,/4D/4E/4F/4E/4 A6 | (5:4:5A,/4D/4E/4F/4E/4 A6- |$ %3
@@ -577,12 +577,12 @@ I:linebreak $
 K:Bb
 V:1 clef=
 V:1
-!p!"^Andantino. \nMolto cantabile ed espressivo \n" z3{/A} B3 | TA2-"^poco rit." A/!tenuto!G/!tenuto!^F/!tenuto!G/"^a tempo"{/F} !tenuto!A2- (3AGA | B2 TA3 | G4 z2 !tenuto!c2- |$ %4
- cAB c3 | (5:4:5c/A/c/B/A/ B2 TA2 | G3 G{/D} !tenuto!d2- dAB | c2- c BA !tenuto!B2 TA2 | B>!tenuto!A!tenuto!B/!tenuto!A/ !tenuto!G3!<(! !tenuto!G |$ %9
- !tenuto!D2 !tenuto!G d2!<)! e{de}d c2 A/B/ |!<(! !arpeggio!!tenuto![Ac]2 B/c/ !arpeggio!!tenuto![Ad]2 c/d/ !arpeggio!!tenuto![ce]3!<)! |"^poco rit." d/e/{de}d/c/B/c/"^a tempo"{/B} d2 c/{Bc}B/ c>BTA |$ %12
- B2"^rallentando" A/4c/4B/4A/4!>(! B2 TA2 | !tenuto!G/!tenuto!^F/!>)! !tenuto!G3- !fermata!G2"_dolciss." D ||$ %14
-[Q:1/8=120]"^Allegretto"!pp! !arpeggio![DB]3- | [DB]2 G | !arpeggio![Gc]2{/c} d | B2 d | c2{/c} B |{/B} A2{/A} B | !tenuto!G3- | G2 G | E2 E |{/E} D2 A/B/ | c2 A | d2 e |$ %26
- !tenuto!e2 (3e/f/e/ | d2 d |{ed} c2 (3e/d/c/ | d2 A/B/ |{/A} c>cd/c/ | G3- | G3- | !fermata!G2 z!D.C.! |] %34
+!p!"^Andantino. \nMolto cantabile ed espressivo \n" z3{/A} (B3 | TA2-"^poco rit." A/!tenuto!G/!tenuto!^F/!tenuto!G/"^a tempo"{/F} !tenuto!A2- (3AGA | B2 TA3 | G4) z2 (!tenuto!c2- |$ %4
+ cAB c3 | (5:4:5c/A/c/B/A/ B2 TA2 | G3) (G{/D} !tenuto!d2- d)(AB | c2- c) (BA !tenuto!B2 TA2 | B>!tenuto!A!tenuto!B/!tenuto!A/ !tenuto!G3)!<(! (!tenuto!G |$ %9
+ !tenuto!D2 !tenuto!G d2!<)! e{de}d c2) A/B/ |!<(! !arpeggio!!tenuto![Ac]2 B/c/ !arpeggio!!tenuto![Ad]2 c/d/ !arpeggio!!tenuto![ce]3!<)! |"^poco rit." (d/e/{de}d/c/B/c/)"^a tempo"{/B} d2 c/{Bc}B/ c>BTA |$ %12
+ B2"^rallentando" (A/4c/4B/4A/4!>(! B2) (TA2 | !tenuto!G/!tenuto!^F/!>)! !tenuto!G3- !fermata!G2)"_dolciss." D ||$ %14
+[Q:1/8=120]"^Allegretto"!pp! !arpeggio![DB]3- | [DB]2 (G | !arpeggio![Gc]2{/c} d | B2) (d | c2{/c} B |{/B} A2{/A} B | !tenuto!G3- | G2) (G | E2 E |{/E} D2 A/B/ | c2 A | d2) (e |$ %26
+ !tenuto!e2 (3e/f/e/ | d2) (d |{ed} c2 (3e/d/c/ | d2) (A/B/ |{/A} c>cd/c/ | G3- | G3- | !fermata!G2) z!D.C.! |] %34
 
 X:32
 T:Musique des Sayyids et des Derviches - N°11
@@ -635,10 +635,10 @@ K:Ab
 V:1 clef=
 V:2 clef=
 V:1
-"^Andante con moto. Poco marciale\n"!f! C | F>E F2-!<(! F4-!<)! | F4- F3 F | A>G A2-!<(! A4-!<)! | A4!f! B,C/>B,/ A,2- | A,2 B,2 C3 z | F2 BG/>B/ c4 |$ %7
-"_cantabile" c2 f2 e2 de/d/ | c4 B3/2c/4B/4 A2 |{/A} G2 c6 |!<(! !tenuto!C2 !tenuto!A2 !tenuto!GA/G/ F2!<)! |{/f} (3:2:2e2{/e} d c2!>(! B2{/B} A2 | G2 F2-!>)! F3 z |!p! CB,/C/ D2 C2 F2 |$ %14
-!<(!{/G} A2 (3:2:6!tenuto!GA !tenuto!BA !tenuto!GF!<)! !tenuto!c2- |!mf! c2 !>!c!>!c !>!f2{/f} !>!e2 |{/e} !>!de/d/ c2{/A} !tenuto!B2{/A} !tenuto!c2 |!<(! !>!c2{/c} !>!f2{/f} !>!e2{/e} !>!d3/2e/4d/4!<)! |!f! c2 AB c7/4B/4 A2 |$ %19
-!f! cB A.B/>.B/ G2 B/A/G/A/ | F2 C2 F2-!p! .[FAcf] z |] %21
+"^Andante con moto. Poco marciale\n"!f! (C | F>E F2-!<(! F4-!<)! | F4- F3) (F | A>G A2-!<(! A4-!<)! | A4)!f! (B,C/>B,/ A,2- | A,2 B,2 C3) z | (F2 BG/>B/ c4) |$ %7
+"_cantabile" (c2 f2 e2 de/d/ | c4 B3/2c/4B/4 A2) |{/A} (G2 c6) |!<(! !tenuto!C2 !tenuto!A2 (!tenuto!GA/G/ F2)!<)! |{/f} (3:2:2(e2{/e} d c2!>(! B2{/B} A2 | G2 F2-!>)! F3) z |!p! (CB,/C/ D2 C2 F2) |$ %14
+!<(!{/G} A2 (3:2:6!tenuto!GA !tenuto!BA !tenuto!GF!<)! !tenuto!c2- |!mf! c2 !>!c!>!c !>!f2{/f} !>!e2 |{/e} (!>!de/d/ c2){/A} !tenuto!B2{/A} !tenuto!c2 |!<(! !>!c2{/c} !>!f2{/f} !>!e2{/e} (!>!d3/2e/4d/4!<)! |!f! c2) (AB c7/4B/4 A2) |$ %19
+!f! (cB A.B/>.B/ G2) (B/A/G/A/ | F2 C2 F2-!p! .[FAcf]) z |] %21
 V:2
  x | x4 !>!A,2 !>!B,2 | !>!C4- C3 z | x4 !>!B,2 !>!D3/2E/4D/4 | !>!C4 x4 | x8 | x8 |$ %7
  x8 | x8 | x8 | x8 | x8 | x8 | x8 |$ %14
@@ -684,16 +684,16 @@ V:1 clef=
 V:2 clef=
 V:1
 "^Moderato. Poco rubato"!f! z2 !>!!wedge!A/!>!!wedge!B/!>!!wedge!^c/!>!!wedge!d/ z2 !>!e4 !wedge!e z{/e} !>!f7/2 e/ | !tenuto!g/f/e/d/ ef{/f} !>!e4 |"^retenez"{/e} !>!!wedge!g!wedge!f !wedge!e!wedge!d"^pressez" !wedge!f!wedge!e | !wedge!d!wedge!^c !wedge!e!wedge!d (3!wedge!c!wedge!d!wedge!e |$ %4
- !arpeggio!!tenuto![df]6 | !tenuto!A6 |!f!"^poco più mosso"[Q:1/4=80] !>!d6 | !wedge!d2{/d} !>!e4 | !wedge!e2{/e} !>!f4 |{/f} gf ed ef |{/f} e6 | ed ^cB Ac | A6 |$ %13
-!p!"^meno mosso"[Q:1/4=70] (5:4:5^CDEFG A2 | !tenuto!B2 B2 d2 | d^c (3Bcd e2 | e2 f4 |"^poco più mosso"[Q:1/4=80] (6:4:6GAB^cde f4 |{/f} e2 !tenuto!g4 | g2 ag fe | .g2 !tenuto!f4 |$ %21
- e2{/e} fe d^c | .e2 !tenuto!d4 |"^poco allargando"!>(!{/^c} B4 cBA!fermata!B!>)! |!p! A2 B2 A4 |"^più mosso"!f! z !wedge!^C !wedge!D!wedge!E !wedge!F!wedge!G | !>![FA]6 | !wedge!F!wedge!G !wedge!A!wedge!B !wedge!^c!wedge!d | !wedge!e z !>!f4 |$ %29
-{/e} !>!!wedge!g!wedge!f!wedge!e!wedge!d !tenuto!f4 |"^poco più largo" ef/e/ gf/e/ f4 |"^a tempo" fe{/e} d^c e2 | de f(3e/f/e/ d2 |$ %33
+ !arpeggio!!tenuto![df]6 | !tenuto!A6 |!f!"^poco più mosso"[Q:1/4=80] !>!d6 | !wedge!d2{/d} !>!e4 | !wedge!e2{/e} !>!f4 |{/f} (gf ed ef) |{/f} e6 | e(d ^cB Ac | A6) |$ %13
+!p!"^meno mosso"[Q:1/4=70] (5:4:5(^CDEFG A2) | !tenuto!B2 (B2 d2) | (d^c (3Bcd e2) | (e2 f4) |"^poco più mosso"[Q:1/4=80] (6:4:6(GAB^cde f4) |{/f} e2 !tenuto!g4 | (g2 ag fe | .g2) !tenuto!f4 |$ %21
+ (e2{/e} fe d^c | .e2) !tenuto!d4 |"^poco allargando"!>(!{/^c} B4 cBA!fermata!B!>)! |!p! (A2 B2 A4) |"^più mosso"!f! z !wedge!^C !wedge!D!wedge!E !wedge!F!wedge!G | !>![FA]6 | !wedge!F!wedge!G !wedge!A!wedge!B !wedge!^c!wedge!d | !wedge!e z !>!f4 |$ %29
+{/e} !>!!wedge!g!wedge!f!wedge!e!wedge!d !tenuto!f4 |"^poco più largo" (ef/e/ gf/e/ f4) |"^a tempo" fe{/e} d^c e2 | de f(3e/f/e/ d2 |$ %33
 [Q:1/4=90]"^allargando" d^cBA[Q:1/4=95] !tenuto!G2 !tenuto!A2 !tenuto!B2 |[Q:1/4=100] !tenuto!d2 !tenuto!^c2{/c} !tenuto!B2 |{/^c} !tenuto!A6- |!pp! !fermata![Aea]6 ||$ %37
 [Q:1/4=132]"^Allegretto rigoroso"!p! .B2 .A2 .G2 | !tenuto!D6 | .E2 .F2 .G2 | !tenuto!D6 | .F2 .G2 .A2 | !tenuto!c6 | .B2 .A2 .G2 | !tenuto!G6 | .G2 .A2 .B2 | !tenuto!A6 |{/G} .B2 .A2 .G2 | .F.G .A2 .G2 | .G2 .F2 .E2 |$ %50
- .E.F .G2 .F2 | .F2 !tenuto!E2 D2 | .D.E F2 E z | E2 D2 C2 | !tenuto!.E z !>!C4 | C z !tenuto!G4 | AG F2 E2 | G2 F4 | F z [FA]4 |{/A} BA G2 F2 | A2 G4 |$ %61
+ .E.F .G2 .F2 | .F2 (!tenuto!E2 D2) | .D.E (F2 E) z | (E2 D2 C2 | !tenuto!.E) z !>!C4 | C z (!tenuto!G4 | AG F2 E2 | G2 F4) | F z ([FA]4 |{/A} BA G2 F2 | A2 G4) |$ %61
 !p! .A.G .F2 .E2 | .G2 .F2!f! z2 |!p! .F.E .D2 .C2 | .E2 .C2 z2 | z2 !>!E2 !>!F2 | !>!G2 z2 z2 |{/G} .A.G .F2 .E2 | .G2{/G} .F2 z2 |!p! .F.E .D2 .C2 | .E2 .C2 z2 |$ %71
-"_poco a poco cresc." !tenuto!E2 !tenuto!G4 | !>!CD EF G2 | E6 | !tenuto!.F2 !>!A4 | GA BA c2 |!<(! A4 !tenuto!G2 | !tenuto!c4"^cantando" !tenuto!A2!<)! |!f! !tenuto!d6 | !tenuto!Bc dc d2- | d4 G2 | c4 dc | B2 A2 c2 | G6 |$ %84
-!p! B2 c4 | BA GA B2 | A6 | A2 GF EF | G2 F2 z2 |!p! .F2 .E.D .C.D | .E2 .C2!f! z2 | !wedge!C2 !wedge!C2 z2 |] %92
+"_poco a poco cresc." !tenuto!E2 !tenuto!G4 | (!>!CD EF G2 | E6) | !tenuto!.F2 !>!A4 | (GA BA c2 |!<(! A4) !tenuto!G2 | !tenuto!c4"^cantando" !tenuto!A2!<)! |!f! !tenuto!d6 | (!tenuto!Bc dc d2- | d4) (G2 | c4 dc | B2 A2 c2 | G6) |$ %84
+!p! (B2 c4) | (BA GA B2 | A6) | (A2 GF EF | G2 F2) z2 |!p! .F2 .E.D .C.D | .E2 .C2!f! z2 | !wedge!C2 !wedge!C2 z2 |] %92
 V:2
  x16 | x8 | x6 | x6 |$ %4
  z4"^rallentando"!p! (3!tenuto!B!tenuto!A!tenuto!G | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 |$ %13
@@ -719,12 +719,12 @@ I:linebreak $
 K:F
 V:1 clef=
 V:1
-|:"^Pesante" z12 |!f!"^cantando" !>!A4 d2 f2 | eded a4 | g4 a2{/a} baba g2 f2 | a6 efgf !wedge!!tenuto!e2 !wedge!!tenuto!d2 | !tenuto!e4 !tenuto!a3 z |$ %6
- g2 ag !wedge!!tenuto!f2 !wedge!!tenuto!e2 | g4 de f2 |{/e} gfed B4 !tenuto!B2 | A6- A12 :|$ %10
- !tenuto!d8 |{cd} c2 B2 A2 G2 | A8 | !tenuto!e6{de} d2 | c2 B2 A2 G2 | A8 |$ %16
- d2 e2 f4 |{/e} g/f/e/f/e/f/e/d/ ^c2 d2 e2 f2 g2 | !>!a6 !wedge!!tenuto!a2 | b4 !wedge!!tenuto!f2 !wedge!!tenuto!g2 | a8 !tenuto!.a2 |$ %21
- b4 !>!Ta2 | g2 f2 g2 | g4 a2 | !>!Tg2 f2 e2 | g2 f2 e/4f/4e/4f/4e d2 | B4 B2 | d4 e2 e2 f2 | g2 f/g/f/g/ f2 | e2 d2 e2 | f2 !>!Te2 e2 |$ %31
- d6 | c2 c/d/c/d/ c2 B2 c2 | d6 | c2 d7/2 c/4d/4 | B2 c4 |{Bc} A2 B4 | A2 G4 !>!A8- | !fermata!A12 z2 |] %39
+|:"^Pesante" z12 |!f!"^cantando" (!>!A4 d2 f2 | eded a4 | g4 a2){/a} (baba g2 f2 | a6) (efgf !wedge!!tenuto!e2 !wedge!!tenuto!d2 | !tenuto!e4 !tenuto!a3) z |$ %6
+ (g2 ag !wedge!!tenuto!f2 !wedge!!tenuto!e2 | g4) (de f2 |{/e} gfed B4) !tenuto!B2 | A6- A12 :|$ %10
+ (!tenuto!d8 |{cd} c2 B2 A2 G2 | A8) | (!tenuto!e6{de} d2 | c2 B2 A2 G2 | A8) |$ %16
+ (d2 e2 f4 |{/e} g/f/e/f/e/f/e/d/ ^c2 d2 e2 f2 g2 | !>!a6) !wedge!!tenuto!a2 | b4 !wedge!!tenuto!f2 !wedge!!tenuto!g2 | a8 !tenuto!.a2 |$ %21
+ (b4 !>!Ta2 | g2 f2 g2) | (g4 a2 | !>!Tg2 f2 e2) | (g2 f2 e/4f/4e/4f/4e d2 | B4) (B2 | d4 e2) (e2 f2) | (g2 f/g/f/g/ f2 | e2 d2 e2 | f2 !>!Te2 e2 |$ %31
+ d6) | (c2 c/d/c/d/ c2 B2 c2 | d6) | (c2 d7/2 c/4d/4 | B2 c4) |{Bc} (A2 B4 | A2 G4) !>!A8- | !fermata!A12 z2 |] %39
 
 X:38
 T:Chant et danse sayyid - N°19
@@ -738,13 +738,13 @@ I:linebreak $
 K:C
 V:1 clef=
 V:1
-"^Librement"!mf! z4"_espressivo" (9:6:9EDEDEDEDE D4 C2 D8 !tenuto!G4 D2 | E8 !>!c2 _B4 (9:4:9ABABABABA G2 !tenuto!!fermata!A4 |$ %2
- A2 !>!d4 c_B A4 (10:4:8GAGAGAG!>(! !tenuto!A3 F4!>)!!p! G2 E2 (9:4:9EFEFEF"^ritenuto"!>(!EFE!>)! !fermata!D4 ||$ %3
+"^Librement"!mf! z4"_espressivo" (9:6:9(EDEDEDEDE D4 C2 D8) (!tenuto!G4 D2 | E8) (!>!c2 _B4 (9:4:9ABABABABA G2 !tenuto!!fermata!A4) |$ %2
+ (A2 !>!d4 c_B A4 (10:4:8GAGAGAG!>(! !tenuto!A3 F4)!>)!!p! (G2 E2 (9:4:9EFEFEF"^ritenuto"!>(!EFE!>)! !fermata!D4) ||$ %3
 [K:F]!f![Q:1/4=132]"^Allegro risoluto" !>!D- | D2 FG A2 | c2 !>!D2 FG | A4 !>!d2- | dc d2 cB | AG- G3/2 z/ !wedge!F2 | !>!G4 !>!D4 | DEFGA z !>!d4 | FG AB d2 |$ %12
- !>!c4 ABAB | AB (3ABA | !tenuto!G4 !tenuto!A4 !tenuto!D4 | D2 !>!A4 |{/A} !wedge!B2 !wedge!A2 !wedge!G2 | !>!d4 |{/d} ._e.d !tenuto!c4 | !tenuto!d6 |{/B} .c.B .A2 .G2 | !>!F4 .F2 |$ %22
+ !>!c4 ABAB | AB (3(ABA) | !tenuto!G4 !tenuto!A4 !tenuto!D4 | D2 !>!A4 |{/A} !wedge!B2 !wedge!A2 !wedge!G2 | !>!d4 |{/d} ._e.d !tenuto!c4 | !tenuto!d6 |{/B} .c.B .A2 .G2 | !>!F4 .F2 |$ %22
  !>!G6 |{/A} !wedge!B2 !wedge!A2 !wedge!G2 | !tenuto!D6 | .D.E{/D} F3 z | EF{/E} G3 z | FG{/F} A3 z |"_saccadé" !wedge!A2 !wedge!d2 z2 | !wedge!c!wedge!B{/B} !wedge!A2 z2 |{/A} !wedge!G2!>(! z2 z2!>)! |!p! .B.A .G2 z2 |$ %32
-{/G} .F2 z2 z2 | .A.G .F2 z2 |{/F} .E2 z2 z2 | .G.F .E2 z2 |{/E} .D2 z2 z2 |!p! .D.E .A2 .F2 | .F.E .D2 .D2 | z2 .D2 .E2 | .E2 .E2 .D2 | !>!F3 (3E/F/E/ D2 |$ %42
- z2"_cresc." .E2 .F2 | .G2 .F2 .E2 | !>!B2 (3ABA G2 | z2!<(! .A2 .B2!<)! |!f! !tenuto!c6 |!f!{/d} !wedge!_e2 !wedge!d2 !wedge!c2 | !wedge!B2 !wedge!A2 !wedge!B2 | !>!d6 |!f! .d2 .c2 .B2 | .A2 .G2 .A2 | !>!B4 G2 |$ %53
+{/G} .F2 z2 z2 | .A.G .F2 z2 |{/F} .E2 z2 z2 | .G.F .E2 z2 |{/E} .D2 z2 z2 |!p! .D.E .A2 .F2 | .F.E .D2 .D2 | z2 .D2 .E2 | .E2 .E2 .D2 | (!>!F3 (3E/F/E/ D2) |$ %42
+ z2"_cresc." .E2 .F2 | .G2 .F2 .E2 | (!>!B2 (3ABA G2) | z2!<(! .A2 .B2!<)! |!f! !tenuto!c6 |!f!{/d} !wedge!_e2 !wedge!d2 !wedge!c2 | !wedge!B2 !wedge!A2 !wedge!B2 | !>!d6 |!f! .d2 .c2 .B2 | .A2 .G2 .A2 | !>!B4 G2 |$ %53
 !p! .c2 .B2 .A2 | .G2 .G2 .B2 |{/B} !>!A6 |!<(!{/A} .B2 .A2 .G2 | !wedge!F2 !wedge!E2 !wedge!F2!<)! |!f! !>!D6- | D6 | !>!.[DAd]2 z2 z2 |] %61
 
 X:39
@@ -761,10 +761,10 @@ K:G
 V:1 clef=
 V:2 clef=
 V:1
-!p!"^Andantino. Poco marciale" z3/2 .[DF]/ .[DF].[DF] | z3/2 .[DF]/ .[DF].[DF] |"_sempre cantando"{/B} =cB AG | A2 GF | G2 GD/>E/ | F4 |$ %6
-{/F} GF ED | E2 D^C | D2 ^CB, | B,4 |!<(! FG AG/F/ | GA !arpeggio![GB]2!<)! |!mf! AB [A=c]2 |{/A} B2 (3AGF | G2 (3FED | E4 |$ %16
-!p! z2 ED | ^CD E2 | DE F2 | EF A2 |!<(! FG A2 GF!<)! |!mf! !arpeggio![GB]2 AG | A2!<(! AB!<)! |!f! !tenuto!=c2 !tenuto!B2 | (3!tenuto!ABA G2 | FD E2- | E4 |$ %27
-!p! GA B2 | A(3G/A/G/ F2 | ED E2 |{/E} D^C D2 |!<(! (3FGF EF | FG [FA]2!<)! |!mf! (3ABA!<(! GA |{/E} FE DE!<)! |!f!{/D} !>!F4 |$ %36
+!p!"^Andantino. Poco marciale" z3/2 .[DF]/ .[DF].[DF] | z3/2 .[DF]/ .[DF].[DF] |"_sempre cantando"{/B} (=cB AG | A2 GF | G2 GD/>E/ | F4) |$ %6
+{/F} (GF ED | E2 D^C | D2 ^CB, | B,4) |!<(! (FG AG/F/ | GA !arpeggio![GB]2)!<)! |!mf! AB [A=c]2 |{/A} B2 (3(AGF | G2) (3(FED | E4) |$ %16
+!p! z2 (ED | ^CD E2) | (DE F2) | (EF A2) |!<(! (FG A2 GF!<)! |!mf! !arpeggio![GB]2 AG | A2)!<(! (AB!<)! |!f! !tenuto!=c2 !tenuto!B2 | (3!tenuto!ABA G2) | (FD E2- | E4) |$ %27
+!p! (GA B2 | A(3G/A/G/ F2 | ED E2) |{/E} (D^C D2) |!<(! (3(FGF EF | FG [FA]2)!<)! |!mf! (3ABA!<(! GA |{/E} FE DE!<)! |!f!{/D} !>!F4 |$ %36
 {/E} FE ^CD!>(! E2 | F4!>)! |!<(! ^CD"^poco\nrall."{/C} (3!tenuto!E!tenuto!D!tenuto!C!<)! |"^a tempo"!>(! !tenuto!B,4 | [FB]4- | [FB]4!>)! |!pp! .[Bfb] z z2 |] %43
 V:2
  [B,D]3/2 z/ z2 | [B,D]3/2 z/ z2 | x4 | x4 | x4 | x4 |$ %6
@@ -786,15 +786,15 @@ K:Bb
 V:1 clef=
 V:2 clef=
 V:1
-!p!"^Liberamente" d3- (2:3:3d/d/c d2 B c2 A | B3 G3 !>!^F3{EF} !tenuto!_E!tenuto!D!tenuto!C | !tenuto!D3 D/E/^F/G/A !>!d3{/d} !tenuto!c d2 | (2:3:2Bc{/B} d3 g3 ^f3 |$ %4
-{e^f} e3{fe} d3 !tenuto!B d2 c3 |"^poco più mosso" !tenuto!d!tenuto!c!tenuto!B !tenuto!c!tenuto!B!tenuto!c !tenuto!B!tenuto!A!tenuto!G !tenuto!D3 | !tenuto!G3"^poco meno mosso"!p! G^FE D3 | G3- G^FG A3 |"^più mosso" !tenuto!^F3- F!tenuto!F!tenuto!G !tenuto!A!tenuto!G!tenuto!F |$ %9
- !tenuto!E2{/^F} E D3 !>!C D2- D3 |"^incalzando e crescendo" !>!C/D/E/^F/A G3 !>!B/A/G/F/A G3 | !>!c/B/A/B/c B3 !>!d/c/B/c/d c3 |$ %12
-!f!"^più pesante e poco meno mosso" c/d/e/^f/!>!g !>!f{ef}!>!e{/f}!>!d!>(! !tenuto!c/d/B/c/A/B/ G3!>)! |"^allargando"[Q:3/8=48]!>(! D2 D[Q:3/8=38] G3-"_morendo" !fermata!G6-!>)! | G z2 z3 ||$ %15
-[Q:1/4=106]"^Allegretto"!p! !wedge!d!wedge!^c !wedge!e2 !wedge!d2 | !wedge!B!wedge!=c !tenuto!d4 | !wedge!=f!wedge!f{/f} !wedge!e2{fe} !wedge!d2 | !wedge!B!wedge!c{/B} !tenuto!d4 | !wedge!f!wedge!f{/f} !tenuto!g2 f/g/f/e/ | fg f4 |!mf! !wedge!_a!wedge!a{/a} !>!g2 d2 | !wedge!g!wedge!g{/g} !>!f2 d2 |$ %23
-!p! cd e>d e/d/f | Te2{de} c2 .g.g |{/f} !///-!e f d2!<(! ^fg!<)! | a>g ^f/g/a!f! g z |$ %27
-{/G} !>!c2 (5:4:5!tenuto!=B/c/B/c/B/ _A2 !wedge!B!wedge!c | !wedge!d2!<(! !///-!d e g^f!<)!{ef} !>!e2!>(!{/f} !>!d2 !tenuto!c!>)!d e2 |$ %29
-!p! (3:2:7d/e/d/e/(3d/e/d/ g^f Tee d2 |!<(! (3:2:2!tenuto!c d2 (3:2:2!tenuto!B c2 (3:2:2!tenuto!A B2 G2!<)! |!f! ^F2{EF} !>!E2!>(!{/F} !>!E2!>)! |$ %32
-{^FE} (3:2:2!tenuto!D2 C D4-[Q:1/4=96][Q:1/4=90] D4[Q:1/4=84] |!p![Q:1/4=78]!>(! [_A,E]4!>)! !fermata![=A,D]4 |] %34
+!p!"^Liberamente" d3- (2:3:3d/d/c d2 B c2 A | B3 G3 !>!^F3{EF} !tenuto!_E!tenuto!D!tenuto!C | !tenuto!D3 (D/E/^F/G/A) !>!d3{/d} (!tenuto!c d2) | (2:3:2Bc{/B} d3 g3 ^f3 |$ %4
+{e^f} e3{fe} d3 (!tenuto!B d2 c3) |"^poco più mosso" !tenuto!d!tenuto!c!tenuto!B !tenuto!c!tenuto!B!tenuto!c !tenuto!B!tenuto!A!tenuto!G !tenuto!D3 | !tenuto!G3"^poco meno mosso"!p! (G^FE D3) | (G3- G^FG A3) |"^più mosso" !tenuto!^F3- F!tenuto!F!tenuto!G !tenuto!A!tenuto!G!tenuto!F |$ %9
+ (!tenuto!E2{/^F} E D3) (!>!C D2- D3) |"^incalzando e crescendo" (!>!C/D/E/^F/A G3) (!>!B/A/G/F/A G3) | (!>!c/B/A/B/c B3) (!>!d/c/B/c/d c3) |$ %12
+!f!"^più pesante e poco meno mosso" (c/d/e/^f/!>!g !>!f){ef}!>!e{/f}!>!d!>(! (!tenuto!c/d/B/c/A/B/ G3)!>)! |"^allargando"[Q:3/8=48]!>(! D2 D[Q:3/8=38] G3-"_morendo" !fermata!G6-!>)! | G z2 z3 ||$ %15
+[Q:1/4=106]"^Allegretto"!p! !wedge!d!wedge!^c !wedge!e2 !wedge!d2 | !wedge!B!wedge!=c !tenuto!d4 | !wedge!=f!wedge!f{/f} !wedge!e2{fe} !wedge!d2 | !wedge!B!wedge!c{/B} !tenuto!d4 | !wedge!f!wedge!f{/f} !tenuto!g2 (f/g/f/e/ | fg f4) |!mf! !wedge!_a!wedge!a{/a} (!>!g2 d2) | !wedge!g!wedge!g{/g} (!>!f2 d2) |$ %23
+!p! cd e>d e/d/f | Te2{de} c2 .g.g |{/f} (!///-!e f d2)!<(! (^fg!<)! | a>g ^f/g/a!f! g) z |$ %27
+{/G} !>!c2 (5:4:5(!tenuto!=B/c/B/c/B/ _A2) !wedge!B!wedge!c | !wedge!d2!<(! !///-!d e g^f!<)!{ef} !>!e2!>(!{/f} !>!d2 (!tenuto!c!>)!d e2) |$ %29
+!p! (3:2:7(d/e/d/e/(3d/e/d/ g^f Tee d2) |!<(! (3:2:2(!tenuto!c d2 (3:2:2!tenuto!B c2 (3:2:2!tenuto!A B2 G2)!<)! |!f! ^F2{EF} !>!E2!>(!{/F} !>!E2!>)! |$ %32
+{^FE} (3:2:2(!tenuto!D2 C D4-)[Q:1/4=96][Q:1/4=90] D4[Q:1/4=84] |!p![Q:1/4=78]!>(! [_A,E]4!>)! !fermata![=A,D]4 |] %34
 V:2
  x12 | x12 | x12 | x12 |$ %4
  x12 | x12 | x9 | x9 | x9 |$ %9
@@ -840,8 +840,8 @@ V:1
 "^Con moto. Il ritmo marcato assai\n" G/A/B Gd !tenuto!B2 | Ac BA G^F | G2 e/d/c Bd- |!f! d A2 B cB | AG ^F G2 z |$ %5
  G/A/B G A2 ^F | D/E/^F E F2 D | C/D/E ^F G2 D/E/ | ^FG A2 F/G/A | B d2 A/B/ cd |$ %10
  e3 f/e/ d/c/{/e}d | G/A/B c d2 c/B/ | Ac G2- G !fermata!z ||$ %13
-[K:Bb][Q:1/4=88]"^Andantino marciale"!p! !tenuto!.d2{/d} !tenuto!e4 Bc d2- | d2 AB c4 AB | G6 !tenuto!d2 !tenuto!g2- | g2 fe d4 AB | c4 BA G4 | D2 G4{/A} B2 G2- | G4 !tenuto!d2 !tenuto!d4 |$ %20
- Bc d4 ga b2- | b2 ab g6- | g2 fe d6 | AB c6 Bc | d4 AB G4!D.C.! || .[Gdg]2 z4 z4!fine! |] %26
+[K:Bb][Q:1/4=88]"^Andantino marciale"!p! !tenuto!.d2{/d} !tenuto!e4 (Bc d2- | d2) (AB c4) (AB | G6) !tenuto!d2 (!tenuto!g2- | g2 fe d4) (AB | c4) (BA G4) | (D2 G4{/A} B2 G2- | G4) (!tenuto!d2 !tenuto!d4 |$ %20
+ Bc d4) (ga b2- | b2 ab g6- | g2) (fe d6 | AB c6) (Bc | d4 AB G4)!D.C.! || .[Gdg]2 z4 z4!fine! |] %26
 
 X:43
 T:Danse mauresque (derviche) - N°28
@@ -855,12 +855,12 @@ I:linebreak $
 K:Ab
 V:1 clef=
 V:1
-"^Allegro con brio\n" z .c/.c/ .d.c | z .c/.c/ .d.c |: z"_la mélodie toujours très en dehors" !>!.c !>!.d!>!.c | z !>!.c !>!.d!>!.c | .A.B !>!c2- | c/B/A/G/ F2 | z !>!!wedge!f !>!!wedge!e!>!!wedge!f | z !>!!wedge!f !>!!wedge!e!>!!wedge!f | z !>!!wedge!f !>!!wedge!g!>!!wedge!f |$ %9
- !wedge!f!wedge!e !wedge!d!wedge!c | !wedge!e!wedge!d !wedge!c!wedge!B | c4- | c3 z |"_cantando" !>!c2 Bc/B/ | !tenuto!A2- A/!>!B/ z | cB A/B/4A/4G | !>!A !>!G3 | B2 AB |{AB} c2 !>!Bc/B/ |$ %19
- AB AG | (3BAG F=E | F4- | F3 z | c2 B/c/B | A2 d2 | cd B2 | cd ed | ef ga | !tenuto!a2 ga/g/ fe |$ %29
- f!>!e !>!d!>!c | !>!=B/ c7/2 | !tenuto!g2 fg/f/ | ef ed | cB c2 | .G/.A/.B .c.d |!<(! !wedge!B/!wedge!c/!wedge!d/!wedge!e/ !wedge!g2 | !>!!wedge!f!>!!wedge!g !>!!wedge!a!>!!wedge!c'!<)! | b4 | c'/b/a/b/ a2- |$ %39
- a4 | b/a/g/b/{/b} a2 | !>!f/g/ a3 | =ef [eg]2 |{/f} ag fg |"_ben cantando e marcato"{/g} !>!f3 =e/f/ | !>!g3 f/g/ | !>!a3 g/a/ | !>!b3 !tenuto!a/b/ | !>!c'3 !>!c' |$ %49
- !>!f4- | f3 !>!!wedge!a | !>!!wedge!g{/g}!>!!wedge!f !>!!wedge!e z | !>!d3 (3d/e/d/ | !>!c4 |{/c} !>!B4 | !>!!wedge!a{ba}!>!!wedge!g{/a} !>!!wedge!f!>!!wedge!=e | (3:2:2!>!f2 c f2 | !>!=e/f/ g3 | !>!f/g/ a3 |$ %59
+"^Allegro con brio\n" z .c/.c/ .d.c | z .c/.c/ .d.c |: z"_la mélodie toujours très en dehors" !>!.c !>!.d!>!.c | z !>!.c !>!.d!>!.c | .A.B (!>!c2- | c/B/A/G/ F2) | z !>!!wedge!f !>!!wedge!e!>!!wedge!f | z !>!!wedge!f !>!!wedge!e!>!!wedge!f | z !>!!wedge!f !>!!wedge!g!>!!wedge!f |$ %9
+ !wedge!f!wedge!e !wedge!d!wedge!c | !wedge!e!wedge!d !wedge!c!wedge!B | c4- | c3 z |"_cantando" (!>!c2 Bc/B/) | !tenuto!A2- A/!>!B/ z | (cB (A/B/4A/4)G) | !>!A !>!G3 | (B2 AB) |{AB} c2 (!>!Bc/B/) |$ %19
+ (AB AG | (3BAG F=E) | F4- | F3 z | (c2 B/c/B | A2 d2 | cd B2) | (cd ed | ef ga | !tenuto!a2 ga/g/ fe) |$ %29
+ f!>!e !>!d!>!c | (!>!=B/ c7/2) | (!tenuto!g2 fg/f/ | ef ed | cB c2) | (.G/.A/.B .c.d) |!<(! !wedge!B/!wedge!c/!wedge!d/!wedge!e/ !wedge!g2 | !>!!wedge!f!>!!wedge!g !>!!wedge!a!>!!wedge!c'!<)! | b4 | (c'/b/a/b/) a2- |$ %39
+ a4 | (b/a/g/b/){/b} a2 | (!>!f/g/ a3) | =ef [eg]2 |{/f} (ag fg) |"_ben cantando e marcato"{/g} (!>!f3 =e/f/ | !>!g3 f/g/ | !>!a3 g/a/ | !>!b3) (!tenuto!a/b/ | !>!c'3) !>!c' |$ %49
+ !>!f4- | f3 !>!!wedge!a | !>!!wedge!g{/g}!>!!wedge!f !>!!wedge!e z | !>!d3 (3(d/e/d/) | !>!c4 |{/c} !>!B4 | !>!!wedge!a{ba}!>!!wedge!g{/a} !>!!wedge!f!>!!wedge!=e | (3:2:2(!>!f2 c f2) | (!>!=e/f/ g3) | (!>!f/g/ a3) |$ %59
 "^martellato" (3!>!!wedge!b!>!!wedge!a!>!!wedge!g !>!!wedge!b!>!!wedge!f | (3!>!!wedge!a!>!!wedge!g!>!!wedge!f !>!!wedge!a!>!!wedge!=e | (3!>!!wedge!g!>!!wedge!f!>!!wedge!=e !>!!wedge!f!>!!wedge!d | (3!>!!wedge!f!>!!wedge!=e!>!!wedge!d !>!!wedge!f!>!!wedge!c | (3!>!!wedge!e!>!!wedge!d!>!!wedge!c"^marcato" !>!eA/B/ | !>!c2 (3cBA | !>!B4 |$ %66
 {/B} !>!A2{BA} !>!G2 |{AG} !>!F2{/F} !>!=E2 | !>!F3 !>!C | !>!F4 :|!ff! !>![Fcf] z z2 |] %71
 
@@ -877,20 +877,20 @@ K:C
 V:1 clef=
 V:2 clef=
 V:1
- z4[Q:1/4=90] (9:8:9A/B/c/d/c/d/[Q:1/4=50]c/B/A/ c4 |[Q:1/4=90] (11:8:11A/B/c/d/c/d/c/B/[Q:1/4=50]c/B/A/ c4 | A/B/c/d/ c/B/c/d/ e3/2d/4e/4 f>f |$ %3
+ z4[Q:1/4=90] (9:8:9(A/B/c/d/c/d/[Q:1/4=50]c/B/A/ c4) |[Q:1/4=90] (11:8:11(A/B/c/d/c/d/c/B/[Q:1/4=50]c/B/A/ c4) | A/B/c/d/ c/B/c/d/ e3/2d/4e/4 f>f |$ %3
  e>e{ef} ed d/{/d}e/{/e}d/c/{/d} Tc4{Bc} |"^poco accelerando"[Q:1/4=60] !fermata!d{/e}d{/e}d{/e}d[Q:1/4=80]{/e}d{/e}d{/e}d{/e}d"_ad libitum""^rit."[Q:1/4=70]{/e}d{/e}d[Q:1/4=40]{/e}d{/e}d{!fermata!c!fermata!d} !fermata!c2[Q:1/4=80] B2{cB} A4 |$ %5
  (9:8:9G/4A/4B/4c/4d/4c/4[Q:1/4=40]B/4A/4B/4 A4[Q:1/4=80] (11:8:11G/4A/4B/4c/4d/4c/4B/4A/4[Q:1/4=40]B/4A/4B/4 A2 |[Q:1/4=80] G/4A/4B/4c/4d/4c/4B/4A/4 d/4c/4B/4A/4d/4c/4B/4A/4 |"_répéter ad libitum" d/4c/4B/4A/4d/4c/4B/4A/4"^rit."[Q:1/4=70] d/4c/4B/4A/4d/4c/4B/4A/4 |$ %8
-[Q:1/4=60] d/4c/4B/4A/4!>(!d/4c/4B/4!>)!!pp!!fermata!A/4{GABc} B2 |{!fermata!c!fermata!B} !fermata!A8 ||!pp![Q:1/4=110]{/A} .e2 .A2{/A} cd .e2 |{/A} e2 .g2 g.a g.a g.a | g.f{/g} .f.e .e.f{/f} .e.d .d2 |$ %13
-{de} d2 .c2{/c} d2 cd{/c} e4 |{/f} ed d2{de} dccd{/c} edcd |{/d} c.B{/c} B.A{/B} A.G A4 | G2 .d2 d2{/e} d2 dc |$ %17
- defg{fg} e2 e/4f/4e3/2 d2 | dc d2{/e} d2 c>c d4 | ef{/e} g4{/f} gf g2{/f} gfga |{/a} gffg{/g}fe e2{/f} ed d2 c2 |$ %21
- d4{/d} c2{/c} d4 c2 |!mf! !>!d/4e/4d3/2- d2 !>!d/4e/4d/4e/4 d3 !>!d/4e/4d/4e/4 d3 | .e.d.e.f{/f}.e.d{/e}.d.c c2{/c} BA A2 G2 |{/E} A4{/E} A4{/!fermata!E} !fermata!A4 ||$ %25
-[Q:1/4=80] (9:8:9A/4B/4c/4d/4c/4B/4[Q:1/4=40]c/4B/4A/4 c2[Q:1/4=80] (9:8:9A/4B/4c/4d/4c/4B/4[Q:1/4=40]c/4B/4A/4 c2[Q:1/4=80] (11:8:11A/4B/4c/4d/4c/4B/4c/4B/4[Q:1/4=40]c/4B/4A/4 c2 |[Q:1/4=80]{AB} c2 d2 cd e2 de f2 ef !fermata!Tg2- |$ %27
- g2 g>fg>fg>f"_répéter ad libitum"g>fg>fg>fg>f- | f2 (7:4:7f/g/f/e/d/e/f/ ed | (10:8:10e/4f/4g/4f/4e/4d/4e/4d/4e/4f/4 ed (9:8:9c/d/e/f/e/d/c/B/c/ |$ %30
- d3 (3d/e/d/ (9:8:9c/B/c/d/e/d/c/B/c/ d2 (5:4:5c/d/c/B/A/ (3B/c/A/(3B/c/A/ (9:4:9(1:1:3B/c/A/ (1:1:3B/c/A/ (1:1:3B/c/A/ | Bc TB4 c>B c>Bc>B"^rallentando" c>BcB !fermata!A2 ||$ %32
-[Q:1/4=110]{/e} a2 A2 cd e2 |{/e} a2 A2 cd e2 |{/e} g2 ga{/a} gf{/g} fe |{/f} ed d4{/e} dc | d4{/d} c2 .B2{/B} A4 |{/e} a2 A2 cd{/c} e4 ef |$ %38
-{/e} g.f g.f{/f} g.f |{/e} g.f g.f{/f} g.f g.a | (3g/4a/4g/4f3/2{/g} fe{/f} ed d2 |{/e} d2 c2{/c} d2- d>d e2 A4 |$ %42
+[Q:1/4=60] d/4c/4B/4A/4!>(!d/4c/4B/4!>)!!pp!!fermata!A/4{GABc} B2 |{!fermata!c!fermata!B} !fermata!A8 ||!pp![Q:1/4=110]{/A} .e2 .A2{/A} cd .e2 |{/A} (e2 .g2) (g.a) (g.a) (g.a) | (g.f){/g} .f.e .e.f{/f} .e.d .d2 |$ %13
+{de} (d2 .c2){/c} d2 cd{/c} e4 |{/f} ed d2{de} dccd{/c} edcd |{/d} (c.B){/c} (B.A){/B} (A.G) A4 | (G2 .d2) d2{/e} d2 dc |$ %17
+ defg{fg} e2 (e/4f/4e3/2) d2 | dc d2{/e} d2 c>c d4 | ef{/e} g4{/f} gf g2{/f} gfga |{/a} gffg{/g}fe e2{/f} ed d2 c2 |$ %21
+ d4{/d} c2{/c} d4 c2 |!mf! (!>!d/4e/4d3/2- d2) (!>!d/4e/4d/4e/4 d3) (!>!d/4e/4d/4e/4 d3) | .e.d.e.f{/f}.e.d{/e}.d.c c2{/c} BA A2 G2 |{/E} A4{/E} A4{/!fermata!E} !fermata!A4 ||$ %25
+[Q:1/4=80] (9:8:9(A/4B/4c/4d/4c/4B/4[Q:1/4=40]c/4B/4A/4 c2)[Q:1/4=80] (9:8:9(A/4B/4c/4d/4c/4B/4[Q:1/4=40]c/4B/4A/4 c2)[Q:1/4=80] (11:8:11(A/4B/4c/4d/4c/4B/4c/4B/4[Q:1/4=40]c/4B/4A/4 c2) |[Q:1/4=80]{AB} c2 d2 cd e2 de f2 ef !fermata!Tg2- |$ %27
+ g2 g>fg>fg>f"_répéter ad libitum"g>fg>fg>fg>f- | f2 (7:4:7(f/g/f/e/d/e/f/) ed | (10:8:10(e/4f/4g/4f/4e/4d/4e/4d/4e/4f/4) ed (9:8:9(c/d/e/f/e/d/c/B/c/) |$ %30
+ d3 (3d/e/d/ (9:8:9(c/B/c/d/e/d/c/B/c/ d2) (5:4:5(c/d/c/B/A/) (3B/c/A/(3B/c/A/ (9:4:9(1:1:3B/c/A/ (1:1:3B/c/A/ (1:1:3B/c/A/ | Bc TB4 c>B c>Bc>B"^rallentando" c>BcB !fermata!A2 ||$ %32
+[Q:1/4=110]{/e} a2 A2 cd e2 |{/e} a2 A2 cd e2 |{/e} g2 (ga){/a} (gf){/g} (fe) |{/f} (ed) d4{/e} (dc) | d4{/d} (c2 .B2){/B} A4 |{/e} a2 A2 cd{/c} e4 ef |$ %38
+{/e} (g.f) (g.f){/f} (g.f) |{/e} (g.f) (g.f){/f} (g.f) (g.a) | (3(g/4a/4g/4f3/2){/g} fe{/f} ed d2 |{/e} d2 c2{/c} d2- d>d e2 A4 |$ %42
  d2 d2{/e} dc d4 |{/e} dcde ef{/e}fg | fe{/f}eddc d4 d2 |{/d} e2 edef{/f} ed d4 |$ %46
- defg fe{/f}ed | d2{/e} dc d2 | !>!d/4e/4d3/2!>!c/4d/4c3/2!>!B/4c/4B3/2 A2 .G2 A4 | aefgfeefed d2 c2{/c} d2{/d} c2 |$ %50
+ defg fe{/f}ed | d2{/e} dc d2 | !>!d/4e/4d3/2!>!c/4d/4c3/2!>!B/4c/4B3/2 (A2 .G2) A4 | aefgfeefed d2 c2{/c} d2{/d} c2 |$ %50
  d2 e2 f2 d2 e4{/e} d2 c2 B2 | A6 |[Q:1/4=80] (9:8:9a/b/c'/d'/c'/b/[Q:1/4=60]c'/b/a/ c'2[Q:1/4=80] (7:4:7abc'd'[Q:1/4=60]c'ba c'2[Q:1/4=80] b>c'b>c' | b>c'"_morendo" Tb4- !fermata!b2 a4 !fermata!a4 |] %54
 V:2
  x12 | x511/64 | x8 |$ %3
@@ -921,10 +921,10 @@ I:linebreak $
 K:C
 V:1 clef=
 V:1
-!mf!"^Andante marciale" c3 (3B/c/B/ A2 G2 | ^F2 G2 A2 B2 | c3 (3B/c/B/ A2 B2 |!<(! c2 d2 e4!<)! |!f! e4 =f(3e/f/e/ d2 | e(3d/e/d/ c2 d2 f2 | e4 f(3e/f/e/ d2 | g(3f/g/f/ e2 d2 fd |$ %8
- e4 c(3B/c/B/ A2 | dcBc B4 |!p! B!<(!cdc!<)! d4 |!<(! cded!<)! e4 |!f! !>!e2 !>!f2 !>!g4 |$ %13
- fefe d4 |!f! eded c4 |!p! dcdc B4 |!<(! !>!c2 !>!d2 !>!e4!<)! |!f! dedc d4 |"^allargando" !>!c2 !>!!fermata!d4 !breath!z2 ||$ %19
-"^a tempo"!p! c2 (3B/c/B/A B4 |!mf! d2 (3c/d/c/B!<(! de- e2!<)! |!f! ef g2 z f/e/ d2 gf e2 |!p! Ac e2- ed/c/ B2 | cc/B/ A2!f!"^poco allargando" z !tenuto!A2 !tenuto!A- |!p! !tenuto![Acea]8 |] %25
+!mf!"^Andante marciale" (c3 (3B/c/B/ A2 G2 | ^F2 G2 A2 B2) | (c3 (3B/c/B/ A2 B2 |!<(! c2 d2 e4)!<)! |!f! (e4 =f(3e/f/e/ d2) | (e(3d/e/d/ c2) d2 f2 | e4 (f(3e/f/e/ d2) | (g(3f/g/f/ e2) (d2 fd |$ %8
+ e4) (c(3B/c/B/ A2) | (dcBc B4) |!p! (B!<(!cdc!<)! d4) |!<(! (cded!<)! e4) |!f! !>!e2 !>!f2 !>!g4 |$ %13
+ (fefe d4) |!f! (eded c4) |!p! (dcdc B4) |!<(! !>!c2 !>!d2 !>!e4!<)! |!f! (dedc d4) |"^allargando" !>!c2 !>!!fermata!d4 !breath!z2 ||$ %19
+"^a tempo"!p! (c2 (3B/c/B/A B4) |!mf! (d2 (3c/d/c/B!<(! de- e2)!<)! |!f! (ef g2) z (f/e/ d2) (gf e2) |!p! (Ac e2- ed/c/ B2) | c(c/B/ A2)!f!"^poco allargando" z !tenuto!A2 !tenuto!A- |!p! !tenuto![Acea]8 |] %25
 
 X:46
 T:Danse sayyide - N°33
@@ -938,7 +938,7 @@ I:linebreak $
 K:Ab
 V:1 clef=
 V:1
- .c2 .A.B .c2 |{BAG} G6 |{/G} B2 GA B2 |{BA} F4 c2 | .d2 .c.B .A.B | c4 c2 |{/c} a2{/a} gf =ef | g2 !tenuto!c3 .c | !tenuto!d2 G/A/B/c/ d2 |$ %9
+ .c2 .A.B .c2 |{BAG} G6 |{/G} B2 GA B2 |{BA} F4 c2 | .d2 .c.B .A.B | c4 c2 |{/c} a2{/a} gf =ef | g2 !tenuto!c3 .c | !tenuto!d2 (G/A/B/c/ d2) |$ %9
  c4 .c2 | f6 | a6 |{/a} gf =ef .g2 | c4 c2 | d6 | GA Bc d2 | c6 | FG AG B2 | F6 | =EF GF A2 | G6 |$ %21
  cB AG F2 | .=E2 z2 .E2 | .F2 z2 .c2 | F6 || A4 G/A/G | F4 G2 | A4 c2 | G6 | B4 A2 | G4 A2 | c4 B2 | A6 | c4 B2 | A4 B2 |$ %35
  c4 _e2 | d6 | c4 B2 | A4 G2 | A4 B2 | d6 | d4 c2 | d4 c2 | d4 f2 | e4 e2 | !fermata!g6 |$ %46
@@ -956,10 +956,10 @@ K:C
 V:1 clef=
 V:1
 "^Quasi recitativo. Con moto"!f! A2 ^G2 F2 GF E2 A2 B2 | c>A d2 B2 c2 B2{/B} A2 B2 A2{/A} ^G2 | A2 ^G2 F2{/A} G2 F2 | E2 !fermata!e4- !fermata!e6 ||$ %4
- !fermata!A4 (3ABc(3dcB{/A} c2 (3def g/f/e/d/ !arpeggio![df]2 | f2 f3 d f2 e2 e2 | f/e/d/^c/ d>A d>F d2 | (3!tenuto!A!tenuto!d!tenuto!e (3!tenuto!f!tenuto!e!tenuto!d ^c !fermata!d3 |$ %8
+ !fermata!A4 (3ABc(3dcB{/A} c2 (3def g/f/e/d/ !arpeggio![df]2 | f2 f3 d f2 e2 e2 | f/e/d/^c/ d>(A d>)(F d2) | (3!tenuto!A!tenuto!d!tenuto!e (3!tenuto!f!tenuto!e!tenuto!d ^c !fermata!d3 |$ %8
  (3d^c_B A>G A>F A>E | A4 D4 || (3DEF G/F/E/D/ F4 | F/^G/A/=B/ (3cBA{/F} c3 c | dcBA c3 c |$ %13
- BA^GA B4!pp!"^meno mosso" !tenuto!B!tenuto!A!tenuto!G!>(!!tenuto!F!tenuto!A!tenuto!G!tenuto!F!tenuto!E!>)! !fermata!e4 |!p!"^accelerando"[Q:1/4=108] e>c e>A[Q:1/4=113]"_cresc." e>F e>A[Q:1/4=118] e>c e4 |[Q:1/4=123] e>d e>c d>B c>A B>^G |$ %16
-!mf! !tenuto!A!tenuto!B"^rallentando"[Q:1/4=118]!tenuto!c!tenuto!B!tenuto!A[Q:1/4=103] ^G>B !fermata!A4 |!p!"^molto meno mosso" !tenuto!E2 !tenuto!F2 !tenuto!^G2 !tenuto!B2 |!p! A>^G !fermata!A6 ||$ %19
+ BA^GA B4!pp!"^meno mosso" !tenuto!B!tenuto!A!tenuto!G!>(!!tenuto!F!tenuto!A!tenuto!G!tenuto!F!tenuto!E!>)! !fermata!e4 |!p!"^accelerando"[Q:1/4=108] (e>c) (e>A)[Q:1/4=113]"_cresc." (e>F) (e>A)[Q:1/4=118] (e>c) e4 |[Q:1/4=123] (e>d) (e>c) (d>B) (c>A) (B>^G) |$ %16
+!mf! !tenuto!A!tenuto!B"^rallentando"[Q:1/4=118]!tenuto!c!tenuto!B!tenuto!A[Q:1/4=103] (^G>B) !fermata!A4 |!p!"^molto meno mosso" !tenuto!E2 !tenuto!F2 !tenuto!^G2 !tenuto!B2 |!p! (A>^G) !fermata!A6 ||$ %19
 |:"^Allegretto"!mf! .A2 .B2 .c2 | .d2 .c3 .B | !tenuto!c6 | .c2 .d2 .e2 | .c2 .B2 .c2 | .d2 .^G2 .F2 | .^G2 .B2 .A2 | .^G2 .F2 .E2 | D6 | .E2 .E2 .E2 | e6 :| .[ebe']2 z2 z2 |] %31
 
 X:48
@@ -1008,9 +1008,9 @@ I:linebreak $
 K:F
 V:1 clef=
 V:1
-"^Moderato. Pesante"!f! z4 |: z !tenuto!A!tenuto!B!tenuto!^c | d2 e2 z !tenuto!f e3/2f/4e/4 | d4 z !tenuto!d!tenuto!e!tenuto!f | g2 a2 z !tenuto!b a3/2b/4a/4 | g4 | a/b/c'/b/ a2{/a} !>!b4 |$ %7
- e/f/g/f/ e2{/e} !>!f4 | fe d^c e4 |{/f} !>!g3 f e2{fe} !>!d2- | d4 | AB A2{/B} !>!d4 | fe d2{/^c} !>!e4 |$ %13
- !tenuto!e!tenuto!f !tenuto!g2{/g} !>!b4 | !tenuto!e!tenuto!f !tenuto!g2{/g} !>!a4 | fe d2{/d} !tenuto!B4 | A2 !>!g3 !tenuto!f e3/2f/4e/4 |!<(! d8!<)! :| !fermata![dad']8 |] %19
+"^Moderato. Pesante"!f! z4 |: z !tenuto!A!tenuto!B!tenuto!^c | (d2 e2) z !tenuto!f (e3/2f/4e/4) | d4 z !tenuto!d!tenuto!e!tenuto!f | (g2 a2) z !tenuto!b (a3/2b/4a/4) | g4 | (a/b/c'/b/) a2{/a} !>!b4 |$ %7
+ (e/f/g/f/) e2{/e} !>!f4 | (fe) (d^c) e4 |{/f} !>!g3 f e2{fe} !>!d2- | d4 | (AB A2){/B} !>!d4 | (fe d2){/^c} !>!e4 |$ %13
+ !tenuto!e!tenuto!f !tenuto!g2{/g} !>!b4 | !tenuto!e!tenuto!f !tenuto!g2{/g} !>!a4 | (fe d2){/d} !tenuto!B4 | A2 !>!g3 !tenuto!f (e3/2f/4e/4) |!<(! d8!<)! :| !fermata![dad']8 |] %19
 
 X:50
 T:Mélodie kurdo-grecque - N°39
@@ -1024,11 +1024,11 @@ I:linebreak $
 K:C
 V:1 clef=
 V:1
-|:"^Allegro ma non troppo"!pp!"^sempre pianissimo e molto leggiero" .e.g/.f/ .e{/e}.d | .c.c .B.B | !tenuto!A2 .E.E |{/E} A2!<(! !>!B !tenuto!c3!<)! |!pp! Bd/c/ .B.A | G.F .E.D | .E z!p! !>!E2 | A !>!A3- | A4 |$ %9
- !>!c/!>!c/!>!c!>!c !>!c2 | Bc dc | B(3c/B/c/ BA | GF .E.D |!f! E3 E | !>!E4 |!pp!"^m.d. molto secco" B,C DE | FE DE | EF GA | DE DE |$ %19
- cB AF | AB dc |!<(! de fe | cd ed!<)! |!f! Bd cB | dc BA | EF GA |$ %26
- GA FA | GF ED | .C z !>!E2 | !>!G2 !tenuto!GF | !>!E2 z2 | !tenuto!EF GA | !tenuto!G2 z2 |{/G} F3 E | E3 D | D4 |$ %36
- !>!F2 !>!F!>!E | !>!D2 z2 | !>!E2 !>!G2 |{/F} !>!A!>(!G FE!>)! | D2 E2 | G4 |!f! !>!d2 !>!e2 | !>!g4 ||1 z3!pp! g/f/ :||2!p! !tenuto!!fermata!G4 |] %46
+|:"^Allegro ma non troppo"!pp!"^sempre pianissimo e molto leggiero" .e.g/.f/ .e{/e}.d | .c.c .B.B | !tenuto!A2 .E.E |{/E} A2!<(! (!>!B !tenuto!c3)!<)! |!pp! (Bd/c/ .B).A | (G.F) .E.D | .E z!p! (!>!E2 | A) !>!A3- | A4 |$ %9
+ !>!c/!>!c/!>!c!>!c !>!c2 | (Bc dc | B(3c/B/c/ BA | GF) .E.D |!f! E3 E | !>!E4 |!pp!"^m.d. molto secco" B,C DE | FE DE | EF GA | DE DE |$ %19
+ cB AF | AB dc |!<(! de fe | cd ed!<)! |!f! (Bd cB | dc BA | EF GA |$ %26
+ GA FA | GF ED | .C) z !>!E2 | !>!G2 (!tenuto!GF) | !>!E2 z2 | (!tenuto!EF GA) | !tenuto!G2 z2 |{/G} (F3 E) | (E3 D) | D4 |$ %36
+ !>!F2 !>!F!>!E | !>!D2 z2 | !>!E2 !>!G2 |{/F} (!>!A!>(!G FE)!>)! | (D2 E2) | G4 |!f! !>!d2 !>!e2 | !>!g4 ||1 z3!pp! (g/f/) :||2!p! !tenuto!!fermata!G4 |] %46
 
 X:51
 T:Chant kurde (sayyid) - N°40
@@ -1042,11 +1042,11 @@ I:linebreak $
 K:Gb
 V:1 clef=
 V:1
-!mf!"^Allegretto con moto" b2 c'2 b2 |{ab} a>g a4 | a2 b2 a2 |{ga} g>f g4 | g2 a2 g2 |{fg} f>e f4 | .a.g .f.e{/e} .d.c | !wedge!c2 !>!B4 |!pp! .A2 !tenuto!B4 |$ %9
-!mf! Bc de d2 |!p!"^rit."[Q:1/4=120] !tenuto!c2- !tenuto!c2 !fermata!B3"^assez lent"[Q:1/4=100] !tenuto!B |!>(! .b2!>)! !tenuto!.c'2 !tenuto!.b2 |"^a tempo"[Q:3/4=46] a/b/a/b/ a>g a2 | fg a4 | a2 b2 a2 |{ga} g>f g2 ef | g6 |$ %17
-!<(! .c'.b .a.g .f.e!<)! |"^poco rit."[Q:3/4=40] d6 |"^a tempo"[Q:3/4=46] !tenuto!B6- | B2 !>!c2 !>!d2 |"^meno mosso" !>!e2 !>!d/e/d !>!c2- !tenuto!c2 | !tenuto!B6- | B2 c2 d2 | !>!e2 !>!d/e/d !>!c2- !tenuto!c2 | !tenuto!B6[Q:3/4=40] |!p!"^rallentando" z6 |$ %27
-[Q:3/4=30] z6 |"^lunga" !fermata!B6- |!p!"^a tempo"[Q:3/4=46] B.A .c2 .B2 | .A.B .c2 .B2 | FG A(3G/A/G/ B2 | AB A4 |{/A} !tenuto!G4{/G} !tenuto!A2- | A2{/A} !tenuto!B4 | Bc d(3c/d/c/ B2 | cd e4 |$ %37
- d2 e2 _f2- | f2 e_f g2 | ._f.e !tenuto!f4 | .g._f{/f} .e{/e}.d .c.B | !>!A2 Bc d2 | !tenuto!Bc d4 |{/c} .e.d .c.B .A2 |{/A} .G2 !>!A4 | .G2 !>!A4 |$ %46
+!mf!"^Allegretto con moto" (b2 c'2 b2 |{ab} a>g a4) | (a2 b2 a2 |{ga} g>f g4) | (g2 a2 g2 |{fg} f>e f4) | (.a.g .f.e{/e} .d.c) | !wedge!c2 !>!B4 |!pp! .A2 !tenuto!B4 |$ %9
+!mf! (Bc de d2) |!p!"^rit."[Q:1/4=120] !tenuto!c2- !tenuto!c2 !fermata!B3"^assez lent"[Q:1/4=100] (!tenuto!B |!>(! .b2)!>)! !tenuto!.c'2 !tenuto!.b2 |"^a tempo"[Q:3/4=46] (a/b/a/b/ a>g a2 | fg a4) | (a2 b2 a2 |{ga} g>f g2 ef | g6) |$ %17
+!<(! (.c'.b .a.g .f.e)!<)! |"^poco rit."[Q:3/4=40] d6 |"^a tempo"[Q:3/4=46] !tenuto!B6- | B2 !>!c2 !>!d2 |"^meno mosso" !>!e2 (!>!d/e/d) !>!c2- !tenuto!c2 | !tenuto!B6- | B2 c2 d2 | !>!e2 !>!d/e/d !>!c2- !tenuto!c2 | !tenuto!B6[Q:3/4=40] |!p!"^rallentando" z6 |$ %27
+[Q:3/4=30] z6 |"^lunga" !fermata!B6- |!p!"^a tempo"[Q:3/4=46] B.A .c2 .B2 | .A.B .c2 .B2 | (FG A(3G/A/G/ B2 | AB A4) |{/A} !tenuto!G4{/G} !tenuto!A2- | A2{/A} !tenuto!B4 | (Bc d(3c/d/c/ B2 | cd e4) |$ %37
+ (d2 e2 _f2- | f2 e_f g2) | ._f.e !tenuto!f4 | .g._f{/f} .e{/e}.d .c.B | (!>!A2 Bc d2) | (!tenuto!Bc d4) |{/c} .e.d .c.B .A2 |{/A} .G2 !>!A4 | .G2 !>!A4 |$ %46
  .d2 !>!d4 |{/d} .c.B .c2{/c} .d2 |{cd} !tenuto!e4 | .d.e .d2 |{ed} .c2 .B2 | .c2 .d2 | !tenuto!B4 | .A.B .c2{/c} .d2 |{/c} !tenuto!B4 | .d.c .B2 |{/B} .c2 .d2 |$ %57
  !tenuto!B4 | .G.A .B2{/A} .c2 |{/c} !tenuto!B6 | .c'.b .a2 .g2 .b2{/b} !tenuto!a4 | .b.a .g2{ag} .f2 .a2{/a} !tenuto!g4 | .b.a .g2 .f2 .g2 .a2 | !tenuto!b4 |$ %64
  .a.b .c'.a | .g.a .b.g | .b.a .g2 .f2 | .a.g .f2 .e2 |"^rallentando"[Q:3/4=36] .d2{/d} !>!c2- cd |[Q:3/4=26] !tenuto!.B2 !tenuto!.A2 |[Q:3/4=20] !tenuto!B4- |!pp! !fermata![Bb]4 |] %72
@@ -1063,13 +1063,13 @@ I:linebreak $
 K:Eb
 V:1 clef=
 V:1
-"^Moderato" !fermata!z4!mf!"^librement" !tenuto!c4{/c} =B2 c2 |{/=B} d4"^toujours très chanté" (5:4:5GFEDE C4 | !tenuto!c4 A2 A>F G4 | DE F2 EG{/E} G2 A3 A |{/A} G4 DE{/E} F2{/F} E2 D2 |!>(! C8!>)!!p! !tenuto!c4 |$ %6
-{/c} =B2 c2{/B} d4"_poco marcato" GABc d4 |"^poco più mosso" d2 e4 c4 A4 A2 | G4 DE F2 G4 (3G2 A2 =B2 |$ %9
- c4 (5:4:5e2 d2 c2 =B2 c2{/B} d4 | c4 (5:4:5A2 G2 F2 E2 F2 A4 |{/A} G6!>(! E4 D4 C8!>)! |!<(! !tenuto!c4 c2{/c} d6 d2!<)!!f! e4 !tenuto!c4 | A4 A2{/A} G4 DE{/F} G8 |$ %14
- !>!_B4 !tenuto!B2{/B} A4 E2 F2 !tenuto!G6 |!p!"^incalzando" G4 c4{/c} =Bc{/B} d4 |!<(! cd{/c} e2 !tenuto!g4 f2{/f} d4 | !>!d2!<)!!f! !>![fa]4 !tenuto!e2 !tenuto!f2 !tenuto!g8 =Bc{/B} !tenuto!d2 |$ %18
-{/!fermata!c} !fermata!f2 ee/d/"^calmando"!>(! c4 A3!>)! A{AG} F4 |!p!"^poco meno mosso" DE F2 G4{/F} E3 D !fermata!C8 ||$ %20
-!p![Q:1/4=114]"^Allegretto" !wedge!C2 !wedge!D2 |: E4 (3DED | E4{/D} F2 | G6- | G2 F2 G2 | A3 G AG | c4 B/A/B/A/ | G6- | G2 !tenuto!e2 !tenuto!e2 |{/e} !tenuto!d4 ed | c6- | c2 !tenuto!A2 !tenuto!A2 |$ %32
- !tenuto!G4 AG | F6- | F2 D2 E2 | F3 E{/D} FE | G3 F E{/D}F | C6 ||1 z2!pp! C2 D2 :||2!pp! .[cgc']2 z2 z2 |] %40
+"^Moderato" !fermata!z4!mf!"^librement" !tenuto!c4{/c} (=B2 c2) |{/=B} d4"^toujours très chanté" (5:4:5(GFEDE) C4 | !tenuto!c4 A2 (A>F G4) | DE F2 EG{/E} G2 A3 A |{/A} G4 (DE){/E} F2{/F} E2 D2 |!>(! C8!>)!!p! !tenuto!c4 |$ %6
+{/c} (=B2 c2{/B} d4"_poco marcato" G)ABc d4 |"^poco più mosso" (d2 e4 c4 A4) A2 | G4 DE F2 G4 (3(G2 A2 =B2 |$ %9
+ c4) (5:4:5(e2 d2 c2 =B2 c2{/B} d4 | c4) (5:4:5(A2 G2 F2 E2 F2 A4 |{/A} G6!>(! E4 D4 C8)!>)! |!<(! !tenuto!c4 c2{/c} d6 d2!<)!!f! e4 !tenuto!c4 | A4 A2{/A} G4 DE{/F} G8 |$ %14
+ !>!_B4 !tenuto!B2{/B} A4 E2 F2 !tenuto!G6 |!p!"^incalzando" G4 c4{/c} =Bc{/B} d4 |!<(! cd{/c} e2 (!tenuto!g4 f2){/f} d4 | !>!d2!<)!!f! !>![fa]4 !tenuto!e2 !tenuto!f2 !tenuto!g8 (=Bc){/B} !tenuto!d2 |$ %18
+{/!fermata!c} !fermata!f2 ee/d/"^calmando"!>(! c4 A3!>)! A{AG} F4 |!p!"^poco meno mosso" (DE F2 G4{/F} E3 D !fermata!C8) ||$ %20
+!p![Q:1/4=114]"^Allegretto" !wedge!C2 !wedge!D2 |: (E4 (3DED | E4{/D} F2 | G6- | G2) (F2 G2 | A3 G AG | c4 B/A/B/A/ | G6- | G2) !tenuto!e2 !tenuto!e2 |{/e} (!tenuto!d4 ed | c6- | c2 !tenuto!A2 !tenuto!A2 |$ %32
+ !tenuto!G4 AG | F6- | F2) (D2 E2 | F3 E{/D} FE | G3 F E{/D}F | C6) ||1 z2!pp! (C2 D2) :||2!pp! .[cgc']2 z2 z2 |] %40
 
 X:53
 T:Prière
@@ -1218,9 +1218,9 @@ I:linebreak $
 K:Ab
 V:1 clef=
 V:1
-^"Csus4" z [C=E]FG A4({/G} (5:4:5B)AGFE F6 G2 |^"Eb" !fermata!B4({/B} A2) G2 F2 =E2^"Fm" !fermata!F6 F2 |^"Ab" A4 (3G2 A2 G2^"Db" F6 F2 |^"Ab" c4 c2 c2^"Db" f4^"Ab" e4 |$ %4
-^"Db" f4^"Ab" (3e2 f2 e2^"Bbm" d4 |^"Fm"({/c} f4)^"Bbm"({/c} d4)^"Ab" c4^"Eb" B4 |^"Fm"({/c} f4)^"Ab" (3e2 f2 e2^"Bbm" d4^"Fm" c8 |^"Ab" e4 c4^"Eb" B4^"Fm" (3:2:2A4 c2^"Db" f4 |^"Ab" e2 f2 (3e2 f2 e2^"Bbm" d4 |$ %9
-^"Fm" c4^"Ab" (3e2 d2 c2^"Eb" (3G2 A2 B2 |^"Ab" c4^"Db" f4^"Ab" e4^"Bbm" d4 | (3d2 c2 B2 (3A2 G2 A2^"Fm" F8 |^"Gm" [C=E]8^"Fm" F8 | z [C=E] FG |^"Fm" A4^"Csus4"({/G} (3B2) A2 G2 F4 |$ %15
+^"Csus4" z [C=E]FG A4{/G} (5:4:5BAGFE F6 G2 |^"Eb" !fermata!B4{/B} A2 G2 F2 =E2^"Fm" !fermata!F6 F2 |^"Ab" A4 (3G2 A2 G2^"Db" F6 F2 |^"Ab" c4 c2 c2^"Db" f4^"Ab" e4 |$ %4
+^"Db" f4^"Ab" (3e2 f2 e2^"Bbm" d4 |^"Fm"{/c} f4^"Bbm"{/c} d4^"Ab" c4^"Eb" B4 |^"Fm"{/c} f4^"Ab" (3e2 f2 e2^"Bbm" d4^"Fm" c8 |^"Ab" e4 c4^"Eb" B4^"Fm" (3:2:2A4 c2^"Db" f4 |^"Ab" e2 f2 (3e2 f2 e2^"Bbm" d4 |$ %9
+^"Fm" c4^"Ab" (3e2 d2 c2^"Eb" (3G2 A2 B2 |^"Ab" c4^"Db" f4^"Ab" e4^"Bbm" d4 | (3d2 c2 B2 (3A2 G2 A2^"Fm" F8 |^"Gm" [C=E]8^"Fm" F8 | z [C=E] FG |^"Fm" A4^"Csus4"{/G} (3B2 A2 G2 F4 |$ %15
 ^"Gm" (3[C=E]2 G2 A2^"Eb" B4^"Bbm" (5:4:5dcBAB |^"Ab" c4 e2 e2 c2 c2 |^"Fm" f4^"Ab" (3e2 f2 e2^"Bbm" dcBA |^"Ab" e6 c2 |^"Ab" e4^"Gm7" B4 |^"Fm" A4^"Gm" [C=E]8 |^"Ab" c4^"Gm7" F2 G2 |^"Csus4" [C=E]8 |$ %23
 ^"Fm" !fermata!F8 | c4 f2 g2 | g4 a4 |^"Csus4" g4 ga gf c4 |^"Fm" !fermata!f8 |^"Db" (3A2 d2 e2 f4 |^"Ab" e4 f2 e2 A4 |^"Bbm" d8 |^"Eb" e2 f2 g2^"Fm" a4 |$ %32
  (3:2:2a4 a2^"Eb" g2 g2 |^"Fm" a4 a4 |^"Ab" (3b2 a2 e2^"Db" f4 | (3g2 f2 A2^"Bbm" f4 |^"Fm" f4^"Bbm" a4 g4^"Ab" A4^"Gm" g4 |^"Ab" g2 f2 e2 A4^"Bbm" !fermata!d4 |$ %38
@@ -1288,12 +1288,12 @@ I:linebreak $
 K:Eb
 V:1 clef=
 V:1
-^"Cm"!p!"^Andante" !tenuto!G3^"Eb" !tenuto!G3 |^"Cm" !tenuto!G2 A^"Eb" G3 |^"Dm7" !tenuto!F3 !tenuto!F3 | !tenuto!F2 G F3 |^"Cm"!<(! !tenuto!E3 !tenuto!E3!<)! |^"Ab" !tenuto!E2 F E3 |^"Abdim"!p! !tenuto!D3 !tenuto!D3 |^"G"!>(! !tenuto!D2 E^"Cm" E3!>)! ||!mf! !tenuto!G3^"Eb" !tenuto!G3 |^"Cm" G2 F E3 | G3^"Eb" G3 |$ %11
-!<(! G2 A B3!<)! |^"Abmaj9"!f! B3^"Bb7" A3 |^"Eb"!>(! G2 F^"Ab" E3!>)! |^"Eb"!>(! G3^"Dm7" F2 E |^"G" DEF^"Cm" E3!>)! |!p! !tenuto!G3^"Eb" !tenuto!G3 |^"Cm" !tenuto!G2 F^"Eb" !tenuto!G3 ||^"Cm""_cresc." !tenuto!G3^"Eb" !tenuto!G3 | !tenuto!G2 F^"Eb" !tenuto!B3 |$ %20
-^"Abmaj9"!<(! !tenuto!B3^"Gm7" !tenuto!B3 |^"Eb" !tenuto!B2 c^"Abmaj7" BAG!<)! |^"Bb"!f! F3^"Eb" !tenuto!G3- | G6 |"_dim." G3^"Abmaj7" G2 F |^"Cm" E3!<(! EFG!<)!"_poco" |^"Eb"!>(! G3^"Dm7" F2!>)!!p! G |^"Cm" E6 ||$ %28
-!pp! !tenuto!g3^"Eb" !tenuto!g3 |^"Cm" !tenuto!g2 a^"Eb" g3 |^"Dm7" !tenuto!f3 !tenuto!f3 | !tenuto!f2 g f3 |^"Cm"!<(! !tenuto!e3 !tenuto!e3!<)! |^"Ab" !tenuto!e2 f e3 |^"Abdim"!p! !tenuto!d3 !tenuto!d3 |^"G"!>(! !tenuto!d2 e^"Cm" e3!>)! ||!mf! !tenuto!G3^"Eb" !tenuto!G3 |^"Cm" G2 F E3 | !tenuto!G3^"Eb" !tenuto!G3 |$ %39
-!<(! G2 A B3!<)! |^"Abmaj9"!f! B3^"Bb7" A3 |^"Eb"!>(! G2 F^"Ab" E3 |^"Eb" G3^"Dm7" F2 E |^"G" DEF^"Cm" E3!>)! |!p! !tenuto!G3^"Eb" !tenuto!G3 |^"Cm" !tenuto!G2 F^"Eb" !tenuto!G3 ||^"Cm""_cresc." !tenuto!G3^"Eb" !tenuto!G3 | !tenuto!G2 F !tenuto!B3 |$ %48
-^"Abmaj9"!<(! !tenuto!B3^"Gm7" !tenuto!B3 |^"Eb" !tenuto!B2 c^"Abmaj7" BAG!<)! |^"Bb"!f! F3^"Eb" !tenuto!G3- | G6 |^"Eb"!>(! G3^"Abmaj7" G2 F!>)! |^"Cm" E3!<(! EFG!<)!"_poco" |!>(! G3^"Dm" F2!>)!!p! G |^"Cm" E6 || !fermata!c6 |] %57
+^"Cm"!p!"^Andante" !tenuto!G3^"Eb" !tenuto!G3 |^"Cm" (!tenuto!G2 A^"Eb" G3) |^"Dm7" !tenuto!F3 !tenuto!F3 | (!tenuto!F2 G F3) |^"Cm"!<(! !tenuto!E3 !tenuto!E3!<)! |^"Ab" (!tenuto!E2 F E3) |^"Abdim"!p! !tenuto!D3 !tenuto!D3 |^"G"!>(! (!tenuto!D2 E)^"Cm" E3!>)! ||!mf! !tenuto!G3^"Eb" !tenuto!G3 |^"Cm" (G2 F E3) | G3^"Eb" G3 |$ %11
+!<(! (G2 A B3)!<)! |^"Abmaj9"!f! (B3^"Bb7" A3 |^"Eb"!>(! G2 F^"Ab" E3)!>)! |^"Eb"!>(! (G3^"Dm7" F2) (E |^"G" DEF^"Cm" E3)!>)! |!p! !tenuto!G3^"Eb" !tenuto!G3 |^"Cm" !tenuto!G2 (F^"Eb" !tenuto!G3) ||^"Cm""_cresc." !tenuto!G3^"Eb" !tenuto!G3 | !tenuto!G2 (F^"Eb" !tenuto!B3) |$ %20
+^"Abmaj9"!<(! !tenuto!B3^"Gm7" !tenuto!B3 |^"Eb" !tenuto!B2 (c^"Abmaj7" BAG!<)! |^"Bb"!f! F3)^"Eb" !tenuto!G3- | G6 |"_dim." G3^"Abmaj7" (G2 F |^"Cm" E3)!<(! (EFG)!<)!"_poco" |^"Eb"!>(! (G3^"Dm7" F2)!>)!!p! (G |^"Cm" E6) ||$ %28
+!pp! !tenuto!g3^"Eb" !tenuto!g3 |^"Cm" (!tenuto!g2 a^"Eb" g3) |^"Dm7" !tenuto!f3 !tenuto!f3 | (!tenuto!f2 g f3) |^"Cm"!<(! !tenuto!e3 !tenuto!e3!<)! |^"Ab" (!tenuto!e2 f e3) |^"Abdim"!p! !tenuto!d3 !tenuto!d3 |^"G"!>(! (!tenuto!d2 e)^"Cm" e3!>)! ||!mf! !tenuto!G3^"Eb" !tenuto!G3 |^"Cm" (G2 F E3) | !tenuto!G3^"Eb" !tenuto!G3 |$ %39
+!<(! (G2 A B3)!<)! |^"Abmaj9"!f! (B3^"Bb7" A3 |^"Eb"!>(! G2 F^"Ab" E3) |^"Eb" G3^"Dm7" F2 E |^"G" DEF^"Cm" E3!>)! |!p! !tenuto!G3^"Eb" !tenuto!G3 |^"Cm" !tenuto!G2 (F^"Eb" !tenuto!G3) ||^"Cm""_cresc." !tenuto!G3^"Eb" !tenuto!G3 | !tenuto!G2 (F !tenuto!B3) |$ %48
+^"Abmaj9"!<(! !tenuto!B3^"Gm7" !tenuto!B3 |^"Eb" !tenuto!B2 (c^"Abmaj7" BAG!<)! |^"Bb"!f! F3)^"Eb" !tenuto!G3- | G6 |^"Eb"!>(! G3^"Abmaj7" (G2 F!>)! |^"Cm" E3)!<(! (EFG)!<)!"_poco" |!>(! (G3^"Dm" F2)!>)!!p! (G |^"Cm" E6) || !fermata!c6 |] %57
 
 X:66
 T:Hymne de Pâques
@@ -1323,8 +1323,8 @@ I:linebreak $
 K:Ab
 V:1 clef=
 V:1
-^"Bbm""^Andante religioso"!pp! d2 B4 cd c2 B2 G2 |^"Fm" A4!<(! F2!<)!^"Db" A4^"C"!>(! =E4!>)! |^"Fm" F3 F F8 |^"C"!<(! G4^"Fm" A4 |^"Ab" c4^"Bbm" B2 d2!<)! |^"C"!mf!{/B} =E2 !tenuto!G6 |^"Db"!f! !>!B4^"Fm"!p! c2 B2!<(!{/B} c2^"Eb" B4 |$ %7
-^"C" A4^"Db" !tenuto!F4!<)! |^"Bbm"!f! !>!D!>!=E^"Db" !>!G2^"Gm7"!>(! !tenuto!B4 G2!>)! |^"Fm"!p! A4!<(! (3:2:2G2 A^"Bbm" B2 (3:2:2A2 c A4!<)! |^"Gm7"!f!{/A} B2 A2 G2^"Db" !fermata!F4 |^"Gm7"!mf! G4!>(! G2^"Bbm7" (3:2:2B2 A G2^"C" =E2!>)! |^"Fm"!pp! !fermata!F8 |] %13
+^"Bbm""^Andante religioso"!pp! (d2 B4 cd c2 B2 G2 |^"Fm" A4!<(! F2!<)!^"Db" A4^"C"!>(! =E4!>)! |^"Fm" F3 F F8) |^"C"!<(! (G4^"Fm" A4 |^"Ab" c4^"Bbm" B2 d2!<)! |^"C"!mf!{/B} =E2 !tenuto!G6) |^"Db"!f! !>!B4^"Fm"!p! (c2 B2!<(!{/B} c2^"Eb" B4) |$ %7
+^"C" A4^"Db" !tenuto!F4!<)! |^"Bbm"!f! (!>!D!>!=E^"Db" !>!G2)^"Gm7"!>(! !tenuto!B4 G2!>)! |^"Fm"!p! A4!<(! (3:2:2(G2 A^"Bbm" B2 (3:2:2A2 c A4)!<)! |^"Gm7"!f!{/A} (B2 A2 G2^"Db" !fermata!F4) |^"Gm7"!mf! G4!>(! G2^"Bbm7" (3:2:2(B2 A G2)^"C" =E2!>)! |^"Fm"!pp! !fermata!F8 |] %13
 
 X:68
 T:Hymns, Prayers and Rituals n°29
@@ -1341,8 +1341,8 @@ V:1
 ^"Dm" D2 ^C2 D2 | F2{/F} E2 D2 E2 F2 G2 |^"F" A8 |^"Gm" B2 A2 G2 F2 E2!<(! F2 G4!<)! |^"Dm"!>(! F8!>)! |$ %11
 ^"Bbmaj7" d4 A2 G2 F2 |^"F" A2 B2 A2 G2 F2 E2 D2 F3 E | F2 G2 A8 |^"Dm" F4 G2 F2 E2 F4 |^"Gm" B4 A2 G2 F2 E2 F2 G2 F4 |^"Bb" d4 c2 B2 A2 |$ %17
 ^"Gm" B2 A2 G2 F2 E2 |^"Dm" F8 |^"A" EFG FG AB |^"F" A2 B2 c2 | A4 G4 |^"Dm" F8 |^"A7" G8 |^"Dm" !fermata!F8 ||$ %25
-|:^"Dm" .A.B.A.G .F2 .G.F | A3 G/F/ E4 |^"Em7" .G.A.G.F E2 F2 | G3 F/E/^"Dm" D4 |$ %29
-^"Dm" .F.G.F.E .D2 .E.D | F3 E/D/^"A" ^C4 |^"A" ^CDEF EFEF | A3 G/F/^"Dm" D4 :| !fermata!D8 |] %34
+|:^"Dm" .A.B.A.G .F2 .G.F | (A3 G/F/ E4) |^"Em7" .G.A.G.F E2 F2 | (G3 F/E/^"Dm" D4) |$ %29
+^"Dm" .F.G.F.E .D2 .E.D | (F3 E/D/^"A" ^C4) |^"A" (^CDEF) (EF)(EF) | (A3 G/F/^"Dm" D4) :| !fermata!D8 |] %34
 
 X:69
 T:Tibi cantamus, N°2 / N°31
@@ -1375,7 +1375,7 @@ V:1
 "^Andante" z6 |: C2 D2 E2 F2 D2 E2 D2 | C2 D2 E2 F2 D2 E2 D2 | =B,2 C4 D2 E2 D4 | C2 E4 E2 F2 E4 | F4 D2 E2 F6 | E2 F4 G4 A4 | G2 A6 G4 F2 :|$ %8
 |:!p! D2 C2 D2 E2 D6 | C8 C2 D2 E2 | C6 C2 =B,2 E4 |!<(! F4 A6- A4!<)! | E2 F2 G2 A2 E2 D2 C2- | C4 E4 F6 |!ff!!>(! E2 D2 C6- C4!>)! :|$ %15
  C2 D2 E2 D2 E4 !>!F2 G4 | A2 B4 !tenuto!B2 !tenuto!c2 !tenuto!B2 !tenuto!G2 A4 | G2 A2 G2 F2 E4 D2 =B,4 | C2 [CD]2- [CD]2 D2 E2 F2 E2 C4 | C2 =B,2 C2 D2 E4 F2 D4 |$ %20
- C2 E4 C2 D2 E2 D2 =B,4 | C8 C4 C4 DF | G4 G2 G2 F2 F2 A2 |!<(! G4 !>!E2 !>!F2 !>!G2 !>!A2 !>!B2!<)! |!ff! c8 c2 _d2 c2 | B2 c2 B2 A2 G2 A2 B2 | !tenuto!A2 G2 F2!<(! !tenuto!E6 !>!C2!<)! |$ %27
+ C2 E4 (C2 D2 E2 D2) =B,4 | C8 C4 C4 DF | G4 G2 G2 F2 F2 A2 |!<(! G4 !>!E2 !>!F2 !>!G2 !>!A2 !>!B2!<)! |!ff! c8 c2 _d2 c2 | B2 c2 B2 A2 G2 A2 B2 | !tenuto!A2 G2 F2!<(! !tenuto!E6 !>!C2!<)! |$ %27
  E2 D2 C=B, C4 D2 E/G/F | C2 D2 E2 F4 E2 D/E/D | !fermata!C8 | !fermata!C8 |] %31
 
 X:71
@@ -1409,8 +1409,8 @@ I:linebreak $
 K:Eb
 V:1 clef=
 V:1
- !tenuto!c2 !tenuto!d2 |^"Cm" e3 d fedc | =A=Bc^"G" d4 !tenuto!B!tenuto!c |^"G" !fermata!d2 cd edc=B |^"Cm" c2^"G" !fermata!d4 !tenuto!c2 |$ %5
-^"Fm" _A4 !tenuto!c2 |^"Cm" G8 c2 d2 |^"Cm"{/c} e8 |^"Dm" d2 f2 e2 d2^"Cm" c2 |^"G" d8 |^"Cm" c8 :| %11
+ (!tenuto!c2 !tenuto!d2 |^"Cm" e3 d fedc | =A=Bc^"G" d4) (!tenuto!B!tenuto!c |^"G" !fermata!d2 cd edc=B |^"Cm" c2^"G" !fermata!d4) (!tenuto!c2 |$ %5
+^"Fm" _A4) (!tenuto!c2 |^"Cm" G8) c2 d2 |^"Cm"{/c} e8 |^"Dm" (d2 f2 e2 d2^"Cm" c2) |^"G" d8 |^"Cm" c8 :| %11
 
 X:73
 T:Méditation
@@ -1470,13 +1470,13 @@ I:linebreak $
 K:G
 V:1 clef=
 V:1
-!p!"^Andante religioso" !tenuto!E2 | ^A4 B4 | FG A2 G2 A2 | B4 B4 | e4 d2{=cd} c2 | B2 FG A2 d2 =c2 | B4{/B} A4 | G4 F4 | E6!>(! =C2 | !tenuto!E4!>)! !tenuto!C3 !tenuto!C |$ %10
-{/C} B,4 (6:4:6B,!<(!^DEFGA!<)! |!>(! !tenuto!B4 A4!>)! | =c4- cFGA |!mf!!>(! !tenuto!=c4 B4!>)! |{/B} A3 F GA | B7/2 A/!>(! B4 | G7!>)! z |!p!{/A} !tenuto!B!tenuto!A!tenuto!G!tenuto!A !tenuto!B4 |$ %18
-!<(!{/B} AGFE!<)! !tenuto!^D2!>(! !>!=C3 !tenuto!C!>)! | B,4!<(! ^A,/4B,/4=C/4^D/4E/4F/4G/4=A/4!<)! !>!B2 !tenuto!e2 |!f! !>!G3 G FEDE | F2 G2 F2 E>E!>(! (3:2:2=C4 E2!>)! |$ %22
- B,4 FGAB- | B4 G4{/!tenuto!G} F2 | E6 !tenuto!E2 | A4 ^AB =c2 FG | A4 G2 A2 |!<(! B6 B2!<)! |!f! e4{/e} d4{/d} =c2 |$ %29
- B4!p! FG A2 | =c3 c{/c} B4 | A !tenuto!B3 G !tenuto!A3 |!>(! G4{/G} F2!>)! |!pp! E4 B,=C^DE | !tenuto!F4 EFGA |!<(! B4 B2 | e4{/e} d4 |$ %37
- =c4 B4!<)! |!f! AB c2 B4 | B4{/B} !tenuto!A2 |!>(! !tenuto!G4 !tenuto!G2!>)! |!p! !tenuto!B2 A2 G2 F2 | A2 G6 | E2 G2 F2 E2 | ^D2{/E} F2 E4 |{/E} !tenuto!=D4!p! !tenuto!D2 |{/D} =C6 |$ %47
-!p! B,=C^DE F4 | EGFE!>(! ^D!tenuto!.E!tenuto!.F!tenuto!.G!>)! | !tenuto!B4 | !tenuto!e4 !tenuto!^d2 !tenuto!e2 | =d4 =c4 | B8 |[K:treble] FGA!tenuto!B- B4 |!pp! !tenuto![Ee]8 |] %55
+!p!"^Andante religioso" !tenuto!E2 | ^A4 B4 | (FG A2 G2 A2) | B4 B4 | (e4 d2{=cd} c2 | B2 FG A2 d2 =c2 | B4){/B} (A4 | G4 F4 | E6)!>(! =C2 | !tenuto!E4!>)! !tenuto!C3 !tenuto!C |$ %10
+{/C} B,4 (6:4:6B,!<(!(^DEFGA)!<)! |!>(! !tenuto!B4 A4!>)! | =c4- cFGA |!mf!!>(! !tenuto!=c4 B4!>)! |{/B} (A3 F GA | B7/2 A/!>(! B4) | G7!>)! z |!p!{/A} !tenuto!B!tenuto!A!tenuto!G!tenuto!A !tenuto!B4 |$ %18
+!<(!{/B} (AGFE)!<)! !tenuto!^D2!>(! !>!=C3 !tenuto!C!>)! | B,4!<(! (^A,/4B,/4=C/4^D/4E/4F/4G/4=A/4!<)! !>!B2) !tenuto!e2 |!f! !>!G3 G FEDE | F2 G2 F2 E>E!>(! (3:2:2=C4 E2!>)! |$ %22
+ B,4 (FGAB-) | B4 G4{/!tenuto!G} F2 | E6 !tenuto!E2 | A4 (^AB =c2) (FG) | A4 G2 A2 |!<(! B6 B2!<)! |!f! e4{/e} d4{/d} =c2 |$ %29
+ B4!p! (FG A2) | =c3 c{/c} B4 | (A !tenuto!B3) (G !tenuto!A3) |!>(! G4{/G} F2!>)! |!pp! E4 (B,=C^DE) | !tenuto!F4 (EFGA) |!<(! B4 B2 | e4{/e} d4 |$ %37
+ =c4 B4!<)! |!f! AB c2 B4 | B4{/B} !tenuto!A2 |!>(! !tenuto!G4 !tenuto!G2!>)! |!p! (!tenuto!B2 A2 G2 F2 | A2 G6) | (E2 G2 F2 E2 | ^D2{/E} F2 E4) |{/E} !tenuto!=D4!p! !tenuto!D2 |{/D} =C6 |$ %47
+!p! (B,=C^DE F4) | (EGFE!>(! ^D)!tenuto!.E!tenuto!.F!tenuto!.G!>)! | !tenuto!B4 | !tenuto!e4 !tenuto!^d2 !tenuto!e2 | (=d4 =c4) | B8 |[K:treble] FGA!tenuto!B- B4 |!pp! !tenuto![Ee]8 |] %55
 
 X:77
 T:Hymns, Prayers and Rituals n°44
@@ -1521,8 +1521,8 @@ I:linebreak $
 K:Ab
 V:1 clef=
 V:1
-"^Lento" z2!p! !tenuto!F2 !tenuto!G2 !tenuto!A2 !tenuto!B2 !breath!!tenuto!c2 |^"Fsus4"!f! !fermata!f8 |^"Fm"!p! a6 g2 |^"C7" g6 f2 |^"Fm"!f! !fermata!f8 | !tenuto!G2 !tenuto!A2 !tenuto!B2 !tenuto!c2 |^"Ab"!f! e8 |^"Bbm"!>(! d6 c2 |^"Ab"{/d} c6 B2!>)! |^"Eb" B6 !>!B2 |^"Bbm"!f! d8 |^"Ab"!>(!{/c} !tenuto!c4^"Eb"{/B} !tenuto!B4!>)! |$ %12
-^"Fm"!<(!{/A} !tenuto!A6 !tenuto!A2!<)! |^"Ab" !tenuto!c8 |^"Eb"!>(! B4^"Fm" A4 |^"C" c6!>)!!<(! !tenuto!G2 |^"Fm" !tenuto!A2^"Eb" !tenuto!B2!<)! |^"Ab"!f! !tenuto!c6!<(! c2 |^"Bbm" d3!<)! !>!d^"Bbm"!ff! !>![Bb]8 |^"Fm"!p! [Aa]4^"C7" [Gg]4^"Fm" [Ff]4 |^"C" [=E=e]8 |^"Fm" F8 |] %22
+"^Lento" z2!p! (!tenuto!F2 !tenuto!G2 !tenuto!A2 !tenuto!B2 !breath!!tenuto!c2) |^"Fsus4"!f! !fermata!f8 |^"Fm"!p! (a6 g2) |^"C7" (g6 f2) |^"Fm"!f! !fermata!f8 | (!tenuto!G2 !tenuto!A2 !tenuto!B2 !tenuto!c2) |^"Ab"!f! e8 |^"Bbm"!>(! (d6 c2) |^"Ab"{/d} (c6 B2)!>)! |^"Eb" B6 !>!B2 |^"Bbm"!f! d8 |^"Ab"!>(!{/c} !tenuto!c4^"Eb"{/B} !tenuto!B4!>)! |$ %12
+^"Fm"!<(!{/A} !tenuto!A6 !tenuto!A2!<)! |^"Ab" !tenuto!c8 |^"Eb"!>(! (B4^"Fm" A4) |^"C" c6!>)!!<(! !tenuto!G2 |^"Fm" !tenuto!A2^"Eb" !tenuto!B2!<)! |^"Ab"!f! !tenuto!c6!<(! c2 |^"Bbm" d3!<)! !>!d^"Bbm"!ff! !>![Bb]8 |^"Fm"!p! ([Aa]4^"C7" [Gg]4^"Fm" [Ff]4) |^"C" ([=E=e]8 |^"Fm" F8) |] %22
 
 X:80
 T:Psalmodie d'un livre saint - N°47
