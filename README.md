@@ -11,3 +11,6 @@ URL : https://raw.githubusercontent.com/Croblant/Mediatheque/main/Gurdjieff_&_De
 
 Musique liturgique catholique    
 URL : https://raw.githubusercontent.com/Croblant/Mediatheque/main/Philoechos.abct
+
+Trads Français    
+URL : https://raw.githubusercontent.com/Croblant/Mediatheque/main/French_Trads.abct
