@@ -3426,56 +3426,6 @@ w: ||||||||
 w: ||||Jé-||sus~!||
 
 X:81
-T:Kyrie - Messe de St François Xavier
-T:(Pardonne-moi Seigneur)
-C:Communauté du Chemin Neuf
-%%score { ( 1 3 ) | ( 2 4 ) }
-L:1/8
-M:4/4
-I:linebreak $
-K:C
-V:1 clef=
-V:3 clef=
-V:2 clef=bass
-V:4 clef=bass
-V:1
- AB |^"Am" cc B^"F" A3 Bc |^"G" BA G2 |^"C" E6 DE |^"Dm" F F2 E^"Dm6" D4- |$ %5
-w: 1.Par- don-|ne moi, Sei- gneur j'ai re-|ni- é ton|nom, par- don-|ne moi Sei- gneur|
-w: 2.Par- don-|ne moi, Sei- gneur j'ai sui-|vi d'au- tres|dieux, par- don-|ne moi Sei- gneur,|
-w: 3.Par- don-|ne moi, Sei- gneur je n'ai|pas su ai-|mer, par- don-|ne moi Sei- gneur,|
- D2 z A AA^GA |^"E" E6 AB |^"Am" ccB^"F"A- A2 Bc |^"G" BA G2 |$ %9
-w: _ j'ai quit- té ta mai-|son! J'ai vou-|lu pos- sé- der _ sans at-|ten- dre le|
-w: _ j'ai dé- tour- né les|yeux! J'ai choi-|si, loin de toi, la ri- ches-|se et l'hon-|
-w: _ je me suis dé- ro-|bé! Je ne|suis pas res- té _ le gar-|dien de mon|
-^"C" E6 DE |^"Dm" F D3- D4 |^"Dm7" z2 z A AA^GA |^"Esus4" E6 z2 |^"E" ^G2 A2 G2 E2 |$ %14
-w: don, par- don-|ne moi, _|et pu- ri- fie mon|coeur!|(1.3.Ky- ri- e )|
-w: neur, par- don-|ne moi, _|et pu- ri- fie mon|coeur!|(2.Chri- * ste )|
-w: frère par- don-|ne moi, _|et pu- ri- fie mon|coeur!||
-|:^"C" G6 E2 |^"G2" D6 E2 |^"Dm" F4 F4 |^"Am" E4 E2 G2 |^"C" G6 E2 |^"G2" D4 D4 |^"Am" E8 ||1 E2 D2 G2 ^F2 :||2 z4 z2 |] %23
-w: |||||||(Ky- ri- e )||
-w: 2.Chri- *|ste e-|le- i-|son, Chri- *|ste e-|le- i-|son.|(Chri- * ste )||
-w: |||||||||
-V:2
- z2 | z8 | z4 | z8 | z8 |$ %5
- z8 | z8 | z8 | z4 |$ %9
- z8 | z8 | z8 | z8 | z8 |$ %14
-|: G,6 G,2 | G,6 G,2 | A,4 F,2 G,2 | A,4 A,2 G,2 | G,6 G,2 | G,4 F,4 | E,8 ||1 z8 :||2 z4 z2 |] %23
-V:3
- x2 | x8 | x4 | x8 | x8 |$ %5
-w: |||||
- x8 | x8 | x8 | x4 |$ %9
-w: ||||
- x8 | x8 | x8 | x8 | x8 |$ %14
-w: |||||
-|: E6 C2 | B,6 B,2 | D4 A,2 B,2 | B,4 C2 D2 | E6 C2 | C4 B,4 | C8 ||1 x8 :||2 x6 |] %23
-w: 1.3.Ky- ri-|e e-|le- i- *|son, Ky- ri-|e e-|le- i-|son|||
-V:4
- x2 | x8 | x4 | x8 | x8 |$ %5
- x8 | x8 | x8 | x4 |$ %9
- x8 | x8 | x8 | x8 | x8 |$ %14
-|: C,6 C,2 | G,,6 G,,2 | D,4 D,4 | A,,4 A,,2 B,,2 | C,6 C,2 | G,,4 G,,4 | A,,8 ||1 x8 :||2 x6 |] %23
-
-X:82
 T:L'amour jamais ne passera
 C:Chants de l'Emmanuel (M. Hagemann)
 %%score [ 1 2 ( 3 4 ) ]
@@ -3528,7 +3478,7 @@ V:4
  x C,C,C, | C,2- C,C, B,,-B,,B,,B,, | A,,2 A,,3 A,A,G, | F,2 F,F, F,2 F,2 | G,4- G,2 G,G, |$ %16
  C,2- C,C, B,,2 B,,B,, | A,,2 A,,3- A,,A,G, | F,3- F, F,2 F,2 | G,4- G,2 |] %20
 
-X:83
+X:82
 T:La première en chemin, Marie
 C:Georges Lefebvre
 Z:Sr M-C Guédon
@@ -3600,7 +3550,7 @@ V:4
  x6 | x6 | x6 | x6 :|$ %8
  x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | A,,6 |] %17
 
-X:84
+X:83
 T:La Peregrinación
 T:La Peregrinación est une Huella :
 T:danse folklorique argentine, née vers 1820
@@ -3637,7 +3587,7 @@ w: * R/Pas a- près pas, pas à pas Jo-|seph et Ma- rie|* Es- cor- taient un Die
 w: ||||
 w: ||||
 
-X:85
+X:84
 T:La sagesse a dressé une table
 T:Abbaye de Sylvanes
 C:Gouzes-Bourgeois-Revel
@@ -3687,7 +3637,7 @@ V:4
  E,8 A,8 A,2 E,4 | E,8 F,8 F,2 E,4 |$ %14
  E,8 F,4 F,4 | F,8 E,2 B,,8 F,4 B,,4 :| %16
 
-X:86
+X:85
 T:Le Seigneur est ma lumière et mon salut
 T:Psaume 26
 C:Frère Jean-Baptiste du Jonchay
@@ -3745,7 +3695,7 @@ V:4
 |3 x8 | x8 || x8 | x8 | x8 | x8 | x8 |$ %56
  x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 :| %65
 
-X:87
+X:86
 T:Le chemin de la vie
 C:Patrick Richard
 Z:Fr. Théophile Pemmdu
@@ -3786,7 +3736,7 @@ w: l'en- ne- mi per-|du et|ne pas ap- plau-|dir|
 w: tre dans les pre-|miers, é-|pau- ler les der-|niers.|
 w: pleu- rer l'in- con-|nu, semer|la bon- ne hu-|meur.|
 
-X:88
+X:87
 T:Le vent des prophètes
 C:P-M Gambarelli
 L:1/8
@@ -3821,7 +3771,7 @@ w: ||||||
 w: ||||||
 w: ||||||
 
-X:89
+X:88
 T:Levons les yeux
 C:A. Dumont/A. Fleury
 %%score [ 1 2 ( 3 4 ) ]
@@ -3875,7 +3825,7 @@ V:4
  x2 A,,A,, | A,,3 A,, A,,A,,A,,A,, | D,2 D,2 z D,D,D, | A,,3 A,, C,C,C,C, | D,2 D,2 z2 F,F, |$ %14
  G,3 G, G,G,G,G, | F,2 z2 z F,E,D, | =C,3 C, C,C,C,B,, | A,,4 |] %18
 
-X:90
+X:89
 T:Loué sois-tu
 C:B. Pavageau
 Z:D'après Laudato Si du Pape François
@@ -3929,7 +3879,7 @@ V:2
  C8 | C8 | B,8 | D4 E2 F2 | D6 F2 | E2 E E3 E2 | F8 | E8 ||$ %48
 |: F8 | F4 D4 | D8 | G8 | G8 | G4 D4 | C2 D2 E2 D2 | C8 :| %56
 
-X:91
+X:90
 T:Magnificat
 T:Luc 1.46 - Visitation de Marie
 L:1/8
@@ -3960,7 +3910,7 @@ w: 5.De la pro-|mes- se faite|à nos|pè- res en|fa- veur d'A- bra-|ham et de sa
  c3 B | A2 G2 | F2 z2 | BB BB | AA F2 | G4 | G4 |] %80
 w: fils au|saint es-|prit|pour les siè- cles|des siè- cles|a-|men|
 
-X:92
+X:91
 T:Marie, Toi qui as dit "Oui"
 C:Georges Lefebvre
 L:1/8
@@ -3998,7 +3948,7 @@ w: Jé- sus s'est mon-|tré vi-|vant, res- sus- ci-|té.|
 w: le coeur des a-|mis que|ton fils s'est choi-|si.|
 w: Dieu t'a ap- pe-|lée près|de ton bien- ai-|mé.|
 
-X:93
+X:92
 T:Mendiants d'espérance
 C:Michel Wackenheim
 Z:Benoît Gschwind
@@ -4038,7 +3988,7 @@ V:3
  C,C,C,C, !breath!C,3 C, | A,A,B,B, E,4 | A,A,A,A, G,G,G,G, | F,2 G,2 C,2 ||$ %13
  CB, | A,3 A, B,2 B,,B,, | =B,,4 C,4 | A,2 A,2 G,3 G, | A,2 G,2 C,4 |] %18
 
-X:94
+X:93
 T:Mendiez...
 C:Frère Jean Baptiste du Jonchay
 Z:Père Marie-Joseph, Capucin
@@ -4128,7 +4078,7 @@ w: ||||
 w: |||
 w: |||
 
-X:95
+X:94
 T:Messe de la Trinité - Kyrie
 C:Frère Jean Baptiste du Jonchay
 %%score { ( 1 2 ) | ( 3 4 ) }
@@ -4159,7 +4109,7 @@ V:4
  x24 | x18 | x16 | x16 ||$ %4
 |: B,, | E,2 E,E, D,D, D, C, | B,,2 C,B,, A,,A,, A,, A,, | C,2 D,D, E,3 :| %8
 
-X:96
+X:95
 T:Messe de la Trinité - Gloria - Gloire à Dieu
 C:Frère Jean Baptiste du Jonchay
 %%score { ( 1 2 ) | ( 3 4 ) }
@@ -4200,7 +4150,7 @@ V:4
  G,16 | E,2 G,2 D,4 |$ %6
  B,,16 | C,4 | C,16 | =F,16 | G,2 D,4 |] %11
 
-X:97
+X:96
 T:Messe de la Trinité - Sanctus
 C:Frère Jean Baptiste du Jonchay
 %%score { ( 1 2 ) | ( 3 4 ) }
@@ -4242,7 +4192,7 @@ V:4
 |2 E,E, E,2 E, B,A,G, D,4- || D,2 A,2 A, E,2 C, B,,3 x |$ %10
  x12 | x2 E,3 E,3 B,,3 x :| %12
 
-X:98
+X:97
 T:Messe de la Trinité - Anamnèse
 C:Frère Jean Baptiste du Jonchay
 %%score { ( 1 2 ) | ( 3 4 ) }
@@ -4269,7 +4219,7 @@ V:4
 |: E,2 E,2 B,,3 B,, | E,2 A,,2 B,,4 :: G,,2 G,,2 D,3 D, | G,2 C,2 D,4 :|$ %4
  D,2 ^D,2 E,2 E,E, | A,,B,,C,E, B,,4 | C,3 C, D,2 D,2 | A,,4 | C,3 C, D,2 D,2 | E,4 |] %10
 
-X:99
+X:98
 T:Messe de la Trinité - Agnus - Agneau de Dieu
 C:Frère Jean Baptiste du Jonchay
 %%score { ( 1 2 ) | ( 3 4 ) }
@@ -4299,6 +4249,52 @@ V:3
 V:4
  x3 E, | E,2 E,2 B,,2 B,,A,, | G,,G,,G,,G,, D,D,D,D, | A,,A,,A,,B,, B,,4 |$ %4
  C,3 C, D,D,D,D, | A,,4 | C,3 C, D,D,D,D, | E,4 :| %8
+
+X:99
+T:Messe de St François Xavier - Kyrie
+T:(Pardonne-moi Seigneur)
+C:Communauté du Chemin Neuf
+%%score { ( 1 3 ) | ( 2 4 ) }
+L:1/8
+M:4/4
+I:linebreak $
+K:C
+V:1 clef=
+V:3 clef=
+V:2 clef=bass
+V:4 clef=bass
+V:1
+ AB |^"Am" cc B^"F" A3 Bc |^"G" BA G2 |^"C" E6 DE |^"Dm" F F2 E^"Dm6" D4- |$ %5
+w: 1.Par- don-|ne moi, Sei- gneur j'ai re-|ni- é ton|nom, par- don-|ne moi Sei- gneur|
+w: 2.Par- don-|ne moi, Sei- gneur j'ai sui-|vi d'au- tres|dieux, par- don-|ne moi Sei- gneur,|
+w: 3.Par- don-|ne moi, Sei- gneur je n'ai|pas su ai-|mer, par- don-|ne moi Sei- gneur,|
+ D2 z A AA^GA |^"E" E6 AB |^"Am" ccB^"F"A- A2 Bc |^"G" BA G2 |$ %9
+w: _ _ j'ai quit- té ta mai-|son! J'ai vou-|lu pos- sé- der _ sans at-|ten- dre le|
+w: _ _ j'ai dé- tour- né les|yeux! J'ai choi-|si, loin de toi, la ri- ches-|se et l'hon-|
+w: _ _ je me suis dé- ro-|bé! Je ne|suis pas res- té _ le gar-|dien de mon|
+^"C" E6 DE |^"Dm" F D3- D4 |^"Dm7" z2 z A AA^GA |^"Esus4" E6 z2 |^"E" ^G2 A2 G2 E2 |$ %14
+w: don, par- don-|ne moi, _|_ _ et pu- ri- fie mon|coeur! *|(1.3.Ky- ri- e )|
+w: neur, par- don-|ne moi, _|_ _ et pu- ri- fie mon|coeur! *|(2.Chri- * ste )|
+w: frère par- don-|ne moi, _|_ _ et pu- ri- fie mon|coeur! *||
+|:^"C" G6 E2 |^"G2" D6 E2 |^"Dm" F4 F4 |^"Am" E4 E2 G2 |^"C" G6 E2 |^"G2" D4 D4 |^"Am" E8 ||1 E2 D2 G2 ^F2 :||2 z4 z2 |] %23
+w: |1.3.Ky- ri-|e e-|le- i-|son, Ky- ri-|e e-|le- i-|son|(Ky- ri- e )||
+w: |2.Chri- *|ste e-|le- i-|son, Chri- *|ste e-|le- i-|son|(Chri- * ste )||
+w: ||||||||||
+V:2
+ z2 | z8 | z4 | z8 | z8 |$ %5
+ z8 | z8 | z8 | z4 |$ %9
+ z8 | z8 | z8 | z8 | z8 |$ %14
+|: G,6 G,2 | G,6 G,2 | A,4 F,2 G,2 | A,4 A,2 G,2 | G,6 G,2 | G,4 F,4 | E,8 ||1 z8 :||2 z4 z2 |] %23
+V:3
+ x2 | x8 | x4 | x8 | x8 |$ %5
+ x8 | x8 | x8 | x4 |$ %9
+ x8 | x8 | x8 | x8 | x8 |$ %14
+|: E6 C2 | B,6 B,2 | D4 A,2 B,2 | B,4 C2 D2 | E6 C2 | C4 B,4 | C8 ||1 x8 :||2 x6 |] %23
+V:4
+ x2 | x8 | x4 | x8 | x8 |$ %5
+ x8 | x8 | x8 | x4 |$ %9
+ x8 | x8 | x8 | x8 | x8 |$ %14
+|: C,6 C,2 | G,,6 G,,2 | D,4 D,4 | A,,4 A,,2 B,,2 | C,6 C,2 | G,,4 G,,4 | A,,8 ||1 x8 :||2 x6 |] %23
 
 X:100
 T:Messe du Frat - Kyrie - Prends Pitié
