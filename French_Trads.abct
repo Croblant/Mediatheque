@@ -10,7 +10,7 @@ K:C
 V:1 clef=
 V:1
 |:^"Am""^- La mineur" ([Ace]3/2[Ace]3/2[Ace] [Acf]3/2[Ace]>)(cd/ | ecag fedc) |^"G" ([GBd]3/2[GBd]3/2[GBd] [GBe]3/2[GBd]>)(Bc/ | dB^gf edcB) |^"F" ([FAc]3/2[FAc]3/2[FAc] [FAd]3/2[FAc]>)(AB/ |$ %5
- cAfe dcBA) |^"E" ([E^GB]3/2[EGB]3/2[EGB] [EGc]3/2[EGB]>)(GA/ ||1 B^Ged cBAG) :||2 (B^Ged cBAG)O ||$ %9
+ cAfe dcBA) |^"E" ([E^GB]3/2[EGB]3/2[EGB] [EGc]3/2[EGB]>)(GA/ |[1 B^Ged cBAG) :|[2 (B^Ged cBAG)O ||$ %9
 |:^"Am"{/g} ([cea]4 [Ace]2 c2 |^"Dm"{/c} [FAd]4 e2 [Adf]2 |^"Am"{/d} [Ace]4 c2 A2 |^"Dm"{/c} [FAd]4 [Ac]2 B2) |^"Am"{/g} ([cea]4 [Ace]2 c2 |^"Dm"{/c} [FAd]4 e2 f2 |^"Am"{/d} [Ace]4 c2 A2 |^"E"{/f} [Be^g]4 [egb]2 [egc']2 |^"E7" [de^gb]8)!D.C.! :|$ %18
 O^"F" !fermata![A,CF]8 |^"E" !fermata![^G,B,E]8 |] %20
 
@@ -46,7 +46,7 @@ V:1
 ^"Am7" c4 B2 |^"B" A6 |^"Em" B4 A2 |^"Em7" G6 |^"C7" G2 A2 B2 |^"Am7" A4 G2 |^"B" F6- |^"B" F4 B,2 |^"Em" E4 F2 |^"Em7" G4 B2 |^"C7" A2- AG FE |^"Bm7" F4 B,2 |^"Am7" E2 F2 G2 |^"D" A2 B2 d2 |$ %39
 ^"G" B6- |^"D" B4^"G" B2&x2^"G"x4 |^"Am7" e4 cB |^"B" A4 F2 |^"Em" A2 G2 B,2 |^"Em7" A2 G2 B,2 |^"C7" A2 G2 B,2 |^"B" G2 F2 ^D2 |^"Em" E6- |^"Em" E6 |$ %49
 |:^"Em" [G,E]4 [A,F]2 |^"Em7" [B,G]4 [CA]2 |^"C7" [B,G]6 |^"Bm7" [A,F]6 |^"Am7" [G,E]2 [A,F]2 [B,G]2 |^"D" [CA]4 [CA]2 |^"G" [DB]6- |^"D" [DB]6&x2^"G"x2^"G"x2 |^"Am7" [Ac]4 [GB]2 |^"B" [FA]6 |^"Em" z2 [GB]2 [FA]2 |^"Em7" [EG]6 |$ %61
-|1^"C7" [EG]2 [FA]3 [GB] |^"Am7" [FA]4 [EG]2 |^"B" [A,F]6- |^"B" [A,F]6 :||2^"C7" [B,G]3 [CA] [B,G]2 |^"B" [A,F]4 [A,F]2 |^"Em" [G,E]6- |^"Em" [G,E]4 B,2 :||3^"C7" [B,G]3 [CA] [B,G]2 |^"B" [A,F]4 [A,F]2 |^"Em" !fermata![G,E]6 |] %72
+|1^"C7" [EG]2 [FA]3 [GB] |^"Am7" [FA]4 [EG]2 |^"B" [A,F]6- |^"B" [A,F]6 :|[2^"C7" [B,G]3 [CA] [B,G]2 |^"B" [A,F]4 [A,F]2 |^"Em" [G,E]6- |^"Em" [G,E]4 B,2 :|[3^"C7" [B,G]3 [CA] [B,G]2 |^"B" [A,F]4 [A,F]2 |^"Em" !fermata![G,E]6 |] %72
 
 X:4
 T:L'échappée belle
@@ -61,11 +61,11 @@ V:1 clef=
 V:1
 !mf!"^- Ré mineur" z (b ag fe |:S^"Dm" dc BA GF | ED EF GA |^"Gm"{/E} F4 E2) | z (E FG AB |^"A7" AG FG A=B | ^cA =Bc de |^"Dm" fe fg ab |$ %8
  a)(b ag fe | dc BA GF | ED EF GA |^"Gm"{/E} F4 E2) |$ %12
- z (E FG AB |^"A7" AG FG A=B | ^cA =Bc de |^"Dm" d6) | z (b ag fe) :||2,6 z6 ||$ %18
+ z (E FG AB |^"A7" AG FG A=B | ^cA =Bc de |^"Dm" d6) | z (b ag fe) :|[2,6 z6 ||$ %18
 |:^"A7"!f! (e ^c2 A2 c | eA fA eA) |^"Dm" (f d2 A2 d | fA gA fA) |^"A7" (e ^c2 A2 c | eA fA eA |^"Dm" d)B z A z G |$ %25
  AF DF DF |^"A7" (e ^c2 A2 c | eA fA eA) |^"Dm" (f d2 A2 d | fA gA fA) |$ %30
-^"A7" (e ^c2 A2 c | eA fA eA |^"Dm" d)[GB] [FA][GB] [FA][GB] ||0 [FA]6 :||0 [FA](b ag fe)!D.S.! |]$ %35
-|1 z4 z (^G |^"F" AG FE FG || AG FG AF |^"A7" A6 | E6) |^"D7" (AG ^FG AB | cB AB cd |^"Gm" B3 A G^F | G4) z (F |^"C" GF ED EF |$ %45
+^"A7" (e ^c2 A2 c | eA fA eA |^"Dm" d)[GB] [FA][GB] [FA][GB] |[0 [FA]6 :|[0 [FA](b ag fe)!D.S.! |]$ %35
+|1 z4 z (^G |^"F" AG FE FG |[0 AG FG AF |^"A7" A6 | E6) |^"D7" (AG ^FG AB | cB AB cd |^"Gm" B3 A G^F | G4) z (F |^"C" GF ED EF |$ %45
 ^"C7/Bb" GF EF (3GAB |^"F" A6 | F4) z (F |^"E7" ED ^C=B, CD | (3ED^C (3=B,CD (3EDC |^"A7" A2 =B2 c2 | ^c)(d ef g^g |^"F" ag fe fg |$ %53
  ag fg af |^"A7" a6 | e6) |^"D7" (ag ^fg ab | c'b ab c'd' |^"Gm" b3 a g^f | g4) z (f |^"C" gf ed ef |^"C7/Bb" gf ef (3gab |^"F" a6 |$ %63
  e4) z (f |^"E7" ed ^c=B cd | (3ed^c (3=Bcd (3edc |^"A7" A2 =B2 c2 | ^c)b ag fe!D.S.! |] %68
@@ -83,7 +83,7 @@ V:1 clef=
 V:1
 |:^"C""^- Fa majeur" !>!CCC!>!C CC!>!CC | !>!CCC!>!C CC!>!CC |^"Bb/C" [DFB]3 [DFA]3 [B,DF]2 |^"C" M[CEG]8 |^"C" !>!CCC!>!C CC!>!CC |$ %5
  !>!CCC!>!C CC!>!CC |^"Bb/C" [DFB]3 [DFA]3 [B,DF]2 |^"C" M[CEG]8 |^"Bb/C" [B,DF]3 [B,DE]3 [B,DF]2 |^"C" M[CEG]8 |^"Bb/C" [F,B,D]3 [F,B,C]3 [D,F,B,]2 |^"C" M[E,G,C]8 :|$ %12
-|2^"Bb/C" [F,B,D]3 [F,B,E]3 [B,DF]2 |^"C" M[CEG]8 |^"Bb/C" [F,B,D]3 [F,B,C]3 [D,F,B,]2 |^"C" M[E,G,C]8 :||3^"Bb/C" [B,DF]3 [B,DE]3 [B,DF]2 |^"C" M[CEG]8 |^"Bb/C" [F,B,D]3 [F,B,C]3 [D,F,B,]2 |^"C" [E,G,C]8 |] %20
+|2^"Bb/C" [F,B,D]3 [F,B,E]3 [B,DF]2 |^"C" M[CEG]8 |^"Bb/C" [F,B,D]3 [F,B,C]3 [D,F,B,]2 |^"C" M[E,G,C]8 :|[3^"Bb/C" [B,DF]3 [B,DE]3 [B,DF]2 |^"C" M[CEG]8 |^"Bb/C" [F,B,D]3 [F,B,C]3 [D,F,B,]2 |^"C" [E,G,C]8 |] %20
 
 X:6
 T:Nadiejda
@@ -100,12 +100,12 @@ V:1
 |:^"Am" e2 A3 c |^"Dm" e4 (3Ace |^"Em" d2^"G" B2^"G" G2 |^"Am" E6 |^"F" A>B c4 |^"Dm" c>B A4 |^"Em" B>c d2 g2 |^"Am" e4 e>f |$ %8
 ^"Am" e2 A3 c |^"Dm" e4 (3Ace |^"Em" d2^"G" B2^"G" G2 |^"Am" E6 |^"F" c>B A2- A>d |^"Dm" c>B A2- A>d |^"Em" B2 G2 E2 |^"Am" A6 :|$ %16
 |:^"Am" A>B c2 c2 |^"Dm" A>B c2 c2 |^"Em" B4^"G" G2&x2^"G"x4 |^"Am" E6 |^"F" A>B c3 d |^"Dm" c>B A4 |^"Em" B4^"G" g2&x2^"G"x4 |^"Am" e6 |$ %24
-^"Am" A>B c2 c2 |^"Dm" A>B c2 c2 |^"Em" B4^"G" G2&x2^"G"x4 |^"Am" E6 |^"F" c>B A2- A>d |^"Dm" c>B A4 |^"Em" B2 G2 E2 ||1^"Am" A6 :||2^"Am" !fermata!A6 |] %33
+^"Am" A>B c2 c2 |^"Dm" A>B c2 c2 |^"Em" B4^"G" G2&x2^"G"x4 |^"Am" E6 |^"F" c>B A2- A>d |^"Dm" c>B A4 |^"Em" B2 G2 E2 |[1^"Am" A6 :|[2^"Am" !fermata!A6 |] %33
 V:2
 |: A,, z [C,E,A,] z [C,E,A,] z | D,, z [F,,A,,D,] z [F,,A,,D,] z | E,, z [B,,D,G,] z [B,,D,G,] z | A,, z [C,E,A,] z [C,E,A,] z | F,, z [A,,C,F,] z [A,,C,F,] z | D,, z [F,,A,,D,] z [F,,A,,D,] z | E,, z [G,,B,,E,] z [G,,B,,E,] z | A,, z [C,E,A,] z [C,E,A,] z |$ %8
  A,, z [C,E,A,] z [C,E,A,] z | D,, z [F,,A,,D,] z [F,,A,,D,] z | E,, z [B,,D,G,] z [B,,D,G,] z | A,, z [C,E,A,] z [C,E,A,] z | F,, z [A,,C,F,] z [A,,C,F,] z | D,, z [F,,A,,D,] z [F,,A,,D,] z | E,, z [G,,B,,E,] z [G,,B,,E,] z | A,, z [C,E,A,] z [C,E,A,] z :|$ %16
 |: A,, z [C,E,A,] z [C,E,A,] z | D,, z [F,,A,,D,] z [F,,A,,D,] z | E,, z [B,,D,G,] z [B,,D,G,] z | A,, z [C,E,A,] z [C,E,A,] z | F,, z [A,,C,F,] z [A,,C,F,] z | D,, z [F,,A,,D,] z [F,,A,,D,] z | E,, z [B,,D,G,] z [B,,D,G,] z | A,, z [C,E,A,] z [C,E,A,] z |$ %24
- A,, z [C,E,A,] z [C,E,A,] z | D,, z [F,,A,,D,] z [F,,A,,D,] z | E,, z [B,,D,G,] z [B,,D,G,] z | A,, z [C,E,A,] z [C,E,A,] z | F,, z [A,,C,F,] z [A,,C,F,] z | D,, z [F,,A,,D,] z [F,,A,,D,] z | E,, z [G,,B,,E,] z [G,,B,,E,] z ||1 A,, z [C,E,A,] z [C,E,A,] z :||2 !fermata![A,,C,E,A,]6 |] %33
+ A,, z [C,E,A,] z [C,E,A,] z | D,, z [F,,A,,D,] z [F,,A,,D,] z | E,, z [B,,D,G,] z [B,,D,G,] z | A,, z [C,E,A,] z [C,E,A,] z | F,, z [A,,C,F,] z [A,,C,F,] z | D,, z [F,,A,,D,] z [F,,A,,D,] z | E,, z [G,,B,,E,] z [G,,B,,E,] z |[1 A,, z [C,E,A,] z [C,E,A,] z :|[2 !fermata![A,,C,E,A,]6 |] %33
 
 X:7
 T:Le temps des huit ans
@@ -117,9 +117,9 @@ I:linebreak $
 K:C
 V:1 clef=
 V:1
-|:^"Am" [CA]6 [DB]6 [Ec]4 |^"E" [DB]6 [B,G]6- [B,G]4 ||1^"Am" [CA]6 [DB]6 [Ec]4 |^"E" [Ge]2 [Bg]2 [Ge]2^"C" [Ec]4 [Ge]2 [Ec]2 [DB]2 :||2^"Am" [CA]6 [DB]6 [Ec]4 |^"E" [Ge]6 [G-e]6 [Ge]4 ||$ %6
+|:^"Am" [CA]6 [DB]6 [Ec]4 |^"E" [DB]6 [B,G]6- [B,G]4 |[1^"Am" [CA]6 [DB]6 [Ec]4 |^"E" [Ge]2 [Bg]2 [Ge]2^"C" [Ec]4 [Ge]2 [Ec]2 [DB]2 :|[2^"Am" [CA]6 [DB]6 [Ec]4 |^"E" [Ge]6 [G-e]6 [Ge]4 |[0$ %6
 |:^"Dm" [Fd]2 [Ec]2 [DB]2 [DB]4 [Ec]2 [Ec]2 [Fd]2 | [Fd]2 [Ec]2 [DB]2 [DB]6- [DB]4 |^"Am" [Ec]2 [DB]2 [CA]2 [CA]4 [DB]2 [DB]2 [Ec]2 | [Ec]2 [DB]2 [CA]2 [CA]6- [CA]4 |$ %10
-^"E" [B,^G]4 [B,G]2 [DB]4 [DB]2^"Dm" [FA]2 [FA]2 |^"E" [B,^G]6- [B,G]6- [B,G]4 |^"Am" [CA]4 [CA]2 [DB]4 [Ec]2 [DB]2 [CA]2 ||1 [Ec]6- [Ec]6- [Ec]4 :||2 [CA]6- [CA]6- !fermata![CA]4 |] %15
+^"E" [B,^G]4 [B,G]2 [DB]4 [DB]2^"Dm" [FA]2 [FA]2 |^"E" [B,^G]6- [B,G]6- [B,G]4 |^"Am" [CA]4 [CA]2 [DB]4 [Ec]2 [DB]2 [CA]2 |[1 [Ec]6- [Ec]6- [Ec]4 :|[2 [CA]6- [CA]6- !fermata![CA]4 |] %15
 
 X:8
 T:Son Éphémère Passion
@@ -144,7 +144,7 @@ w: |Les mé- lo-|dies se dé|lient et nous|lient *|De cœur à|corps même quand
  F2 D2 E2 | F4) z2 | (E2 E2 E2 | E4) (E2 | E2 ^C2 D2 | E4) z2 |$ %25
 w: fois je me|lasse *|Elle se fait|muette et|pres- que s'ef-|face *|
 w: on les ou-|blie *|Elle nous ap-|pellent, *|puis nous rap-|pellent *|
- (E2 E2 E2 | E2 G2 F2 | E2 ^C2 D2 ||1 E4) z2 :||2 E4 DF ||$ %30
+ (E2 E2 E2 | E2 G2 F2 | E2 ^C2 D2 |[1 E4) z2 :|[2 E4 DF |[0$ %30
 w: Fait le gros|dos pour que|je la ra-|masse- *|elles Une pe|
 w: Dieu que la|vie se- rait|tris- te sans|||
  A2 G2 F2 | A2 G2 F2 | _E2 E2 E2 |{/C} D4 DD | ^C2 C2 C2 | D4 DF | A2 G2 F2 |$ %37
@@ -183,13 +183,13 @@ w: ||||||
 ^"E7" EEEE F2 EE- |^"A7" E4 z4 |^"Eb" B2 B2 G3 G |^"Dm" A2 AF- F3 F |$ %34
 w: voy- ages et d'a- mour aus- si|_|Elles ra- content les|mêmes his- toires _ de|
 w: ||||
-^"E7" EEEE^"A7" F2 ED- ||1^"Dm" D4 z4 :||2^"Dm" D4^"A7" z4 ||$ %37
+^"E7" EEEE^"A7" F2 ED- |[1^"Dm" D4 z4 :|[2^"Dm" D4^"A7" z4 |[0$ %37
 w: voy- ages et d'a- mour aus- si|_||
 w: |||
 |:^"Dm" a2 a^g a2 b=g |^"A7" z A^ce agfe | g2 g^f g2 a=f |^"Dm" z Ade gfed | f2 fe f2 ge |^"A7" z A^ce fedc |$ %43
 w: |||||||
 w: |||||||
-|1 e2 e^d e f2 e | z A2 A BABA :||2 e2 e^d e f2 e- | e6 z2 ||$ %47
+|1 e2 e^d e f2 e | z A2 A BABA :|[2 e2 e^d e f2 e- | e6 z2 ||$ %47
 w: |||||
 w: |||||
 ^"Dm" D2 DE F2 GA- |^"A7" A2 z2 z4 |^"Dm" D2 DE F2 GA- |^"A7" A6 z2 |^"Eb" B2 B2 G3 G |^"Dm" A2 AF- F3 F |$ %53
@@ -211,8 +211,8 @@ K:C
 V:1 clef=
 V:1
  AB |:^"Am" c2 B2 c2 |^"Am" B2 A2 B2 |^"Am" c6- |^"Am" c2 z2 AB |^"Am" c2 B2 c2 |^"Am" B4 A2 |^"E" ^G6- |^"E" G6 |^"E" ^G4 G2 |^"F" A4 A2 |^"E" B6- |^"E" B2 z2 D2 |^"Dm7" D2 E2 F2 |$ %14
-^"E" E4 D2 ||1^"Am" F2 E4- |^"Am" E2 z2 AB :||2^"Am" A6- |^"Am" A2 B2 c2 |^"F" d4 c2 |^"Dm7" B4 A2 ||^"F" z2 d2 c2 |^"Dm7" B4 A2 |^"F" z2 d2 c2 |^"Dm7" B4 A2 |^"E" c2 B4- |^"E" B2 z2 AB :|$ %27
-|3^"Am" A6- |^"Am" A2 B2 c2 |^"F" d4 c2 |^"Dm7" B4 A2 ||^"F" z2 d2 c2 |^"Dm7" B4 A2 |^"F" z2 d2 c2 |^"Dm7" B4 A2 |^"E" c2 !fermata!B4 |$ %36
+^"E" E4 D2 |[1^"Am" F2 E4- |^"Am" E2 z2 AB :|[2^"Am" A6- |^"Am" A2 B2 c2 |^"F" d4 c2 |^"Dm7" B4 A2 |[0^"F" z2 d2 c2 |^"Dm7" B4 A2 |^"F" z2 d2 c2 |^"Dm7" B4 A2 |^"E" c2 B4- |^"E" B2 z2 AB :|$ %27
+|3^"Am" A6- |^"Am" A2 B2 c2 |^"F" d4 c2 |^"Dm7" B4 A2 |[0^"F" z2 d2 c2 |^"Dm7" B4 A2 |^"F" z2 d2 c2 |^"Dm7" B4 A2 |^"E" c2 !fermata!B4 |$ %36
 ^"Am" AB cd cB |^"Am" AB cd cB |^"Am" AB AB AB |^"Am" !fermata!A6 |] %40
 
 X:11
@@ -226,11 +226,11 @@ K:G
 V:1 clef=
 V:1
  (3BcB |:^"Em" GE GB eg |^"D" f2 B2 f2 |^"C" e2 (3cBA GE |^"B" G2 F2 (3BcB |$ %5
-^"Em" GE GB eg |^"D" f2 B2 f2 |^"C" c(3B/c/B/ AG^"B" FB ||1^"Em" E4 (3BcB :||2^"Em" E4 ga ||$ %10
+^"Em" GE GB eg |^"D" f2 B2 f2 |^"C" c(3B/c/B/ AG^"B" FB |[1^"Em" E4 (3BcB :|[2^"Em" E4 ga |[0$ %10
 |:^"Em" b2 ag fe |^"D" fa d2 a2 |^"C" ge ce ge |^"D" f2 B2 ga |^"Em" b2 ag fe |$ %15
-^"D" fa d2 B2 ||1^"Am" (3ecB A2 GF |^"Em" GB E2 ga :||2^"Am" (3ecB A2 GF |^"Em" E4 B2 ||$ %20
-|:^"Em" Bc B2 B2 |^"Bm" B2 d4 |^"Am" c(3B/c/B/ AB ce |^"Bm" B2 A2 d2 |^"Em" Bc B2 B2 |^"Bm" df d4 |^"Am" (3Ace d2^"B" B2 ||1^"Em" G2 E2 GA :||2^"Em" E4 z2 ||$ %29
-|:^"Em" gB/g/ B4 |^"Bm" fB/f/ B4 |^"Am" eA/e/ A4 |^"Bm" fA/B/ A4 |^"Em" gB/g/ B4 |^"Bm" fB/f/ B4 |^"Am" A2 c2^"B" B2 ||1^"Am" A2^"Em" G4 :||2^"Em" !fermata!e4 z2 |] %38
+^"D" fa d2 B2 |[1^"Am" (3ecB A2 GF |^"Em" GB E2 ga :|[2^"Am" (3ecB A2 GF |^"Em" E4 B2 |[0$ %20
+|:^"Em" Bc B2 B2 |^"Bm" B2 d4 |^"Am" c(3B/c/B/ AB ce |^"Bm" B2 A2 d2 |^"Em" Bc B2 B2 |^"Bm" df d4 |^"Am" (3Ace d2^"B" B2 |[1^"Em" G2 E2 GA :|[2^"Em" E4 z2 |[0$ %29
+|:^"Em" gB/g/ B4 |^"Bm" fB/f/ B4 |^"Am" eA/e/ A4 |^"Bm" fA/B/ A4 |^"Em" gB/g/ B4 |^"Bm" fB/f/ B4 |^"Am" A2 c2^"B" B2 |[1^"Am" A2^"Em" G4 :|[2^"Em" !fermata!e4 z2 |] %38
 
 X:12
 T:Che Bella La Vita
@@ -244,9 +244,9 @@ V:1 clef=
 V:1
  z (A de |:S^"Dm" f2 d2 | f3 b | ag fd) |^"A7" (eA ^cd | e2 ^c2 | e3 b | ag ef) |^"Dm" (dA de | f2 d2 | f3 b |$ %11
  ag fd) |^"A7" (eA ^cd | e2 ^c2 | e3 b | ag ef)O ||$ %16
-|1^"Dm" (d2 d^c ||^"C7" =c3 d || ef g^g) |^"F" a4- | a2 (d^c |^"C7" =c3 d | ef g^g) |^"F" a4- | aa ^ga |^"Bb" (b3 b/b/ |$ %26
+|1^"Dm" (d2 d^c ||^"C7" =c3 d |[0 ef g^g) |^"F" a4- | a2 (d^c |^"C7" =c3 d | ef g^g) |^"F" a4- | aa ^ga |^"Bb" (b3 b/b/ |$ %26
  bb c'b) |^"A" a4- | aa ^ga |^"Bb" (b3 b/b/ | bb c'b) |^"A7" a4- | a(A de) :|$ %33
-|2^"Dm" d2 AG ||^"D7" (^F3 G | A^F GA) |^"Gm" B4- | B2 GF |^"C7" (E3 F | GE FG) |^"F" (A4- | A2 FE) |^"Dm" (D3 F | AA GF) |^"A7" E4- |$ %45
+|2^"Dm" d2 AG |[0^"D7" (^F3 G | A^F GA) |^"Gm" B4- | B2 GF |^"C7" (E3 F | GE FG) |^"F" (A4- | A2 FE) |^"Dm" (D3 F | AA GF) |^"A7" E4- |$ %45
  E2 (ED | ^C3 E | GG FE) |^"Dm" D4- | D2 ag |^"D7" (^f3 g | a^f ga) |^"Gm" b4- | b2 (gf |$ %54
 ^"C7" e3 f | ge fg) |^"F" a4- | a2 fe |^"Dm" d3 (f | aa gf) |$ %60
 ^"A7" e4- | e2 (ed | ^c3 e | gg fe) |^"Dm" d4- | dA de!D.S.! ||$ %66
@@ -301,13 +301,13 @@ w: |||||
 |:^"Dm" (D2 D C4) (A,&x4^"Am"x4 |^"F" F F2 F^"E" E4) |^"Dm" (D2 DC-^"Am" C4) |^"F" (A, C3^"E" B,4) :|$ %35
 w: |J'aime la pluie cou-|ver- te de nuit,|ça m'suf- fit _|pour dor- mir.|
 w: |||||
-|:^"Am"!mf! [A,CE]3/2[A,CE]3/2[A,CE]^"Dm" [CFA]3/2[CFA]3/2[CFA] |^"E" [B,E^G]3/2[B,EA]3/2B^"Am" [EAc]E/E/ EE |^"Am" [A,CE]3/2[A,CE]3/2[A,CE]^"Dm" [A,DF]3 E/D/ ||1^"Am" [A,CE]3/2D3/2C^"E" [^G,B,]E,EE, :||2^"Am" [A,CE]3/2D3/2C^"E" [^G,B,]4 ||$ %40
+|:^"Am"!mf! [A,CE]3/2[A,CE]3/2[A,CE]^"Dm" [CFA]3/2[CFA]3/2[CFA] |^"E" [B,E^G]3/2[B,EA]3/2B^"Am" [EAc]E/E/ EE |^"Am" [A,CE]3/2[A,CE]3/2[A,CE]^"Dm" [A,DF]3 E/D/ |[1^"Am" [A,CE]3/2D3/2C^"E" [^G,B,]E,EE, :|[2^"Am" [A,CE]3/2D3/2C^"E" [^G,B,]4 |[0$ %40
 w: ||||||
 w: ||||||
 ^"A"!f! ([CEA]2 EC- C4) |^"Dm" (3([A,DF]2 G2 A2^"E" [E^GB]3) (A/B/ |^"Am" cBAG FE D2) |^"Dm" B,CDE!>(! FEDD!>)! |^"Dm" [A,DF] E2 D/C/^"E" [^G,B,]E,G,B, |^"Dm" [A,DF] E2 D/C/^"E" [^G,B,]4 |^"Am" A, C2 E ^D2 E2 |^"F" A, C2 B,^"Am" A,4 |$ %48
 w: ||||||||
 w: ||||||||
-|:^"Dm" (D2 D C4) (A,&x4^"Am"x4 |^"F" F F2 F^"E" E4) |^"Dm" (D2 DC-^"Am" C4) ||1^"F" (A, C3^"E" B,4) :||2^"F" (A, C3^"E" B,4) |] %53
+|:^"Dm" (D2 D C4) (A,&x4^"Am"x4 |^"F" F F2 F^"E" E4) |^"Dm" (D2 DC-^"Am" C4) |[1^"F" (A, C3^"E" B,4) :|[2^"F" (A, C3^"E" B,4) |] %53
 w: |J'aime la pluie cou-|ver- te de nuit,|ça m'suf- fit _|pour dor- mir.|pour dor- mir.|
 w: ||||||
 
@@ -324,7 +324,7 @@ V:1 clef=
 V:1
 ^"Am" E2 A c2 e |^"D" ^F3 Ace |^"Am" a2 e c2 A |^"D" ^F6 |^"Am" E2 A c2 e |^"D" ^F3 Ace |^"Am" a2 e a2 e |^"C" g6 |$ %8
 ^"C" g2 e c2 g |^"Dm7" f2 d A2 f |^"Am" e2 c A2 e |^"Em7" d2 B G2 d |^"F" c2 A F2 c |^"Dm7" B2 A F2 c |^"E" B3 ^GcB |^"Am" A3 Eed |$ %16
-|:^"Am" c2 c d2 c |^"Em7" B3^"G" Eed |^"F" c2 c^"E" B2 ^G ||1^"Am" A3 Eed :||2^"Am" A2 z^"G" g2 f ||$ %21
+|:^"Am" c2 c d2 c |^"Em7" B3^"G" Eed |^"F" c2 c^"E" B2 ^G |[1^"Am" A3 Eed :|[2^"Am" A2 z^"G" g2 f |[0$ %21
 ^"C" e2 e g2 e |^"G" d2 f fed |^"Am" c2 e edc |^"Em7" B2 z^"G" Eed |^"F" c2 c^"E" B2 ^G |^"Am" A6- | !fermata!A6 |] %28
 
 X:16
@@ -338,10 +338,10 @@ K:C
 V:1 clef=
 V:1
  z E AB cd |:^"Am" e>A e2 e2 |^"G" e>B e2 e2 |^"F" e>A e2 a2 |^"Dm" f4 z2 |^"Dm" f>A f2 f2 |^"E" e>^G e2 e2 |$ %7
-|1^"Dm" d>c B2 A2 |^"E" c2 B4 :||2^"Dm" dc Bc B2 |^"Am" A6 ||$ %11
+|1^"Dm" d>c B2 A2 |^"E" c2 B4 :|[2^"Dm" dc Bc B2 |^"Am" A6 |[0$ %11
 |:^"Am" A>E A2^"E" B2 |^"Am" c>A c2^"G" d2 |^"C" e>G e2^"G" g2 |^"C" f6 |$ %15
-|1^"Dm" a2 f2 dB |^"Am" e2 c2 (3ABc |^"F" dc B2^"Dm" A2 |^"E" c2 B2 z2 :||2^"Dm" a2 f2 dB |^"Am" e2 c3 E |^"F" FA ce^"Dm" dc |^"E" B4 z2 ||$ %23
-|:^"Am" [Ae]6 |^"G" [Be]6 |^"F" [ce]6 |^"Dm" [Fd]4 z2 |^"Dm" [Af]4 [Af]2 |^"E" [^Ge]4 [Ge]2 ||1^"Dm" [Fd]2 [Ec]3 [DB] |^"Am" [Ec]4 z2 :||2^"Dm" [Fd]2 [Ec]2 [DB]2 |^"Am" [CA]6 |] %33
+|1^"Dm" a2 f2 dB |^"Am" e2 c2 (3ABc |^"F" dc B2^"Dm" A2 |^"E" c2 B2 z2 :|[2^"Dm" a2 f2 dB |^"Am" e2 c3 E |^"F" FA ce^"Dm" dc |^"E" B4 z2 |[0$ %23
+|:^"Am" [Ae]6 |^"G" [Be]6 |^"F" [ce]6 |^"Dm" [Fd]4 z2 |^"Dm" [Af]4 [Af]2 |^"E" [^Ge]4 [Ge]2 |[1^"Dm" [Fd]2 [Ec]3 [DB] |^"Am" [Ec]4 z2 :|[2^"Dm" [Fd]2 [Ec]2 [DB]2 |^"Am" [CA]6 |] %33
 
 X:17
 T:La Valse d'Ania
@@ -357,14 +357,14 @@ V:2 clef=
 V:1
 ^"Dm""^Rubato" [F,-A,-D]6 | [F,A,B,]6 |^"Am" [E,-G,-B,]6 | [E,G,A,]6 |^"E7"{/^G,} [E,-A,]6 | [E,^G,]4 C2 |^"Am" [E,-G,-B,]6 | [E,G,A,]6 |^"Dm" [F,-A,-D]6 | [F,A,B,]6 |^"Am"{/C} [E,-G,-B,]6 | [E,G,A,]6 |^"E7"{/^G,} A,4 G,2- | G,2 B,2 C2 | B,2 E,2 E2- | E6 |$ %16
 |:S^"Am"[Q:1/4=125] A,C EA cd |^"Am" ec de ab |^"F6" c'3 b c'd' |^"F6" Pc'6 |^"F6"{/b} c'b ag fe |^"G7" dc BA DF |^"C"{/E} F6 |$ %23
-^"C" EE ^DE FE |^"E7" B4 c2 |^"Am" AE FE ^DE |^"Dm7" A4 B2 |^"E7" ^GA B4 |^"E7" E3 ^D EF |^"E7" E3 ^D EF |^"E7" ED CB, A,^G, ||1^"E7" E,2 E4 :||2^"Am" A,2 z2 z2O ||$ %33
+^"C" EE ^DE FE |^"E7" B4 c2 |^"Am" AE FE ^DE |^"Dm7" A4 B2 |^"E7" ^GA B4 |^"E7" E3 ^D EF |^"E7" E3 ^D EF |^"E7" ED CB, A,^G, |[1^"E7" E,2 E4 :|[2^"Am" A,2 z2 z2O ||$ %33
 ^"Dm7" [DFc]4 [DFB]2 |^"Dm7" z2 [DFc]3 B |^"Am" P[CEB]4 [EA]2 |^"Am" z2 [EB]3 [EA] |^"E7"{/^G} [EA]4 [EG]2 |^"E7" z2 [E^Gc]3 B |^"Am" [CEB]4 [EA]2 |^"Am" z E AB cd |^"Dm7" [DFc]4 [DFB]2 |$ %42
 ^"Dm7" z2 [DFc]3 B |^"Am" P[CEB]4 [EA]2 |^"Am" z2 [EB]3 [EA] |^"E7"{/^G} [EA]4 [EG]2 |^"E7" z2 [E^GB]2 [EGc]2 |^"E7" [^GB]6- |^"E7" [GB]6!D.S.! ||$ %49
 O^"Am" z6 |^"Dm"[Q:1/4=75] z6 |^"Am"[Q:1/4=40] !fermata![A,CE]6 |] %52
 V:2
  x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | E,6 | E,6- | E,6- | E,6 |$ %16
 |: x6 | x6 | x6 | x6 | x6 | x6 | x6 |$ %23
- x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 ||1 x6 :||2 x6 ||$ %33
+ x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 |[1 x6 :|[2 x6 ||$ %33
  x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 |$ %42
  x6 | x6 | x6 | x6 | x6 | x6 | x6 ||$ %49
  x6 | x6 | x6 |] %52
@@ -381,7 +381,7 @@ K:C
 V:1 clef=
 V:1
  E[ce] [ce][ce] [ce] |:[P:A]^"Am" [ce]3 [ce] [ce][ce] |^"Dm" [df]3 [ce] [df][ce] |^"E7" [ce]2 [Bd]4 |^"E" z E [Bd][Bd] [Bd][Bd] |^"E" [Bd]3 [Bd] [Bd][Bd] |^"E" [ce]3 [Bd] [ce][Bd] |^"Am" [df]2 [ce]4 |$ %8
-^"Am" z E [ce][ce] [ce][ce] |^"Am" [ce]3 [ce] [ce][ce] |^"Dm" [df]3 [ce] [df][ce] |^"E7" [ce]2 [Bd]4 |^"Dm" z2 [df]2 [ce]2 |^"E7" [ce]2 [Bd]4 |^"E7" z2 [ce]2 [Bd]2 |^"Am" [Bd]2 [Ac]4 ||1^"Am" z E [ce][ce] [ce][ce] :|$ %17
+^"Am" z E [ce][ce] [ce][ce] |^"Am" [ce]3 [ce] [ce][ce] |^"Dm" [df]3 [ce] [df][ce] |^"E7" [ce]2 [Bd]4 |^"Dm" z2 [df]2 [ce]2 |^"E7" [ce]2 [Bd]4 |^"E7" z2 [ce]2 [Bd]2 |^"Am" [Bd]2 [Ac]4 |[1^"Am" z E [ce][ce] [ce][ce] :|$ %17
 |:[P:B]^"Am" z2 [Ec]2 [Ec]2 |^"D" [Ec]4^"A" [Ec]2&x2^"A"x4 |^"G" [DB]4 [CA]2 |^"C" [B,G]6-&x2^"E"x2^"E"x2 |^"C" [B,G]2 [EG]2 [DF]2 |^"E7" [CE]2 [B,D]4 |$ %23
 ^"E" z2 [CE]2 [B,D]2 |^"Am" [DF]2 [CE]4 |^"Am" z2 [Ec][Ec] [Ec][Ec] |^"D" [Ec]4^"Am" [Ec]2&x2^"F"x4 |^"G" [DB]4 [CA]2 |^"C" [B,G]6&x2^"E"x2^"E"x2 |$ %29
 ^"C" z2^"E" [B,G]2^"E" [B,G]2 |^"E" [B,^G]4 [B,G]2 |^"E" [B,^G]2 [Ec]2 [DB]2 |^"Am" [CA]6!D.C.! :|$ %33
@@ -416,10 +416,10 @@ V:1 clef=
 V:1
  (A2 |:S^"Dm"!mp! f2 gf ed |^"A7/C#" e2 fe d^c |^"Dm" d2 ed ^cd |^"Dm" A4) (A2 |^"Gm" BA GF ED |^"A7" EF G4) |$ %7
 ^"A7/C#"!<(! A=B ^c4 |^"A7" (^cd ef ga!<)! |^"Dm"!f! f2) (gf ed |^"A7/C#" e2 fe d^c |^"Dm" d2 ed ^cd |^"Dm" A4)^"D7" (^F2 |$ %13
-^"Gm" GA Bc de |^"Dm" fe d^c de |^"A7" ag fe d^c ||1^"Dm" d4) A2 :||2^"Dm" d6 ||$ %18
+^"Gm" GA Bc de |^"Dm" fe d^c de |^"A7" ag fe d^c |[1^"Dm" d4) A2 :|[2^"Dm" d6 |[0$ %18
 |:^"Dm"!p! (a3 b a2) |^"Dm/C#" (a3 b a2) |^"Dm/C" (g3 a g2 |^"G/B" g6) |^"Gm" (3(gag ^fg ag) |^"C7" (3(gag ^fg ag) |^"F" (3(fgf ef gf |^"Dm" f6) |$ %26
 ^"Dm" (3(fgf ef gf) |^"Dm" (3(fgf ef gf) |^"A7/C#" (3(efe ^de fe |^"A7" e6) |^"A7/C#" (3(efe ^de fe) | (3(efe ^de fe) |$ %32
-|1^"Dm"!<(! (d^c de fg!<)! |^"A7/C#"!mf! a6) :||2^"Dm"!>(! (dB AG FE | D4) (A2!>)!!D.S.! ||^"Dm"!mp! f2 gf ed |^"A7/C#" e2 fe d^c |^"Dm" d2 ed ^cd | A4)^"D7/F#" (A2 |$ %40
+|1^"Dm"!<(! (d^c de fg!<)! |^"A7/C#"!mf! a6) :|[2^"Dm"!>(! (dB AG FE | D4) (A2!>)!!D.S.! ||^"Dm"!mp! f2 gf ed |^"A7/C#" e2 fe d^c |^"Dm" d2 ed ^cd | A4)^"D7/F#" (A2 |$ %40
 ^"Gm" BA GF ED |^"A7" EF G4) |^"A7/C#" A=B ^c4 |^"A7/E" (^cd ef ga |^"Dm" f2 gf ed |^"A7/C#" e2 fe d^c |^"Dm" d2 ed ^cd |^"D7" A4) (^F2 |$ %48
 ^"Gm" GA Bc de |^"Dm" fe d^c de |^"A7"!>(! ag fe d^c |^"Dm" d6-)!>)! |!p! d6 |] %53
 
@@ -434,7 +434,7 @@ K:C
 V:1 clef=
 V:1
  z EEA ce |:S^"Am" ee z^"A" e^"E" e2^"E" e2 |^"Am" fe z^"A" e^"Am" f2^"A" e2 |^"Am" dc z^"A" c^"Am" d2^"A" c2 |^"E" B2 z^"E" B^"E" B2^"E" B2 |^"Dm7" dc z d^"E" c2 B2 |$ %6
-^"Am" dc z A ABcd |^"Dm7" cd z c d2 c2 |^"E" B2 z B B2 B2 |^"Dm7" dc z d^"E" c2 B2 ||1^"Am" A2 z E EAceO :||2^"Am" A2 z E EGce ||$ %12
+^"Am" dc z A ABcd |^"Dm7" cd z c d2 c2 |^"E" B2 z B B2 B2 |^"Dm7" dc z d^"E" c2 B2 |[1^"Am" A2 z E EAceO :|[2^"Am" A2 z E EGce ||$ %12
 ^"C" g g2 g^"G" f2 f2 |^"C" e e2 e^"G" d2 d2 |^"C" c c2 c^"G" d2 d2 |^"C" e2 z E EGce |^"C" g g2 g^"G" f2 f2 |^"C" e e2 e^"G" d2 d2 |^"F" c c2 c d2 c2 |^"E" B2 z E EAce!D.S.! |]$ %20
 O^"Am" e2 z2 z2^"E" ^G2 |^"Am" A2 z2 z4 |] %22
 
@@ -469,7 +469,7 @@ K:F
 V:1 clef=
 V:1
 "^- Ré mineur""^Rubato" A, |:^"Dm"!mp! (3D2 D2 E2 | (3F2 F2 G2 | (3A2 A2 F2 | (3:2:2D4 A2 |^"Gm" (3B2 B2 c2 | (3d2 f2 e2 |^"Dm" A4- | A4 |$ %9
-^"Gm" (3d2 B2 ^F2 | (3G2 B2 d2 |^"Dm" (3A2 F2 E2 | (3D2 F2 A2 |^"E7" (3^G2 F2 E2 | (3^G2 =B2 d2 |^"A7" (3^c2 d2 e2 ||1 !fermata!a3 A, :||2^"Dm" !fermata!d4 ||$ %18
+^"Gm" (3d2 B2 ^F2 | (3G2 B2 d2 |^"Dm" (3A2 F2 E2 | (3D2 F2 A2 |^"E7" (3^G2 F2 E2 | (3^G2 =B2 d2 |^"A7" (3^c2 d2 e2 |[1 !fermata!a3 A, :|[2^"Dm" !fermata!d4 |[0$ %18
 |:[K:D]^"D"!mf! [F,A,]3/2[F,A,]3/2[F,A,] |^"Em7" [G,B,]3/2[G,B,]3/2[G,B,] |^"G" [B,G]3/2[B,G]3/2[B,G] |^"D" [A,F]/E/ D3 |^"D" [F,A,]3/2[F,A,]3/2[F,A,] |^"Em7" [G,B,]3/2[G,B,]3/2[G,B,] |^"G" [B,G]3/2[B,G]3/2[B,E] |^"D" [A,F]4 |$ %26
 ^"D" [F,A,]3/2[F,A,]3/2[F,A,] |^"Em7" [G,B,]3/2[G,B,]3/2[G,B,] |^"G" [B,G]3/2[B,G]3/2[B,G] |^"D" [A,F]/E/ D3 |^"D" [F,A,]3/2[F,A,]3/2[F,A,] |^"Em7" [G,B,]3/2[G,B,]3/2[G,B,] |^"G"!<(! [B,G]3/2[B,G]3/2[B,E] |^"D" [A,F]4!<)! |$ %34
 ^"Bm" [DF]3/2[DF]3/2[DF] |^"E" [DFB]3/2[DFB]3/2[DFB] |^"Bm" [DF]3/2[DF]3/2[DF] |^"E" E/D/ B,3 |^"Bm" [DF]3/2[DF]3/2[DF] |^"E" [DFB]3/2[DFB]3/2[DFB] |^"G" [Bd]3/2[Bd]3/2[GB] |^"D" [FA]4 |$ %42
@@ -489,7 +489,7 @@ V:1
 ^"Am""^- La mineur"!mf! (e3 f e2 | a2 b2 c'2 |^"Dm" c'4 b^a | b6-) |^"G" b(b ^ab d'c' | ba gf df |^"C" f4 e^d | e)(e ^de fe |^"E7" B6-) |$ %9
  B(e ^de fe |^"Am" A6-) | A(c Bc dc |^"Bb" _B6 |^"E7" ^G6 |^"Am" A2 c2 e2 | !arpeggio!!fermata![cea]6)!fine! ||$ %16
  z2 (E2 G2 |:S^"C" cG ed cB | AG ^FG AG | E2 E2 E2- |^"C/B" E2) z2 (EG |^"C" cG ed cB | AG ^FG AG |^"G" B2 B2 B2- | B2) z2 (Bc |$ %25
- dc BA GF | ED EF GA | B6) | z2 Bc dc | B6 | z2 d^c d^d ||1^"C" e6 | z2 E2 G2 :||2^"C"!>(! e6- | e6!>)! ||$ %35
+ dc BA GF | ED EF GA | B6) | z2 Bc dc | B6 | z2 d^c d^d |[1^"C" e6 | z2 E2 G2 :|[2^"C"!>(! e6- | e6!>)! |[0$ %35
 ^"Am"!mf! e3 f e2 | a2 b2 c'2 |^"Dm" c'4 b^a | b6- |^"G" bb ^ab d'c' | ba gf df |^"C" f4 e^d | ee ^de fe |$ %43
 ^"E7" BB .B2 .B2 | z e ^de fe |^"Am" AA .A2 .A2 | z c Bc dc |^"Bb" _B6 |^"E7" ^G6 |^"Am" A2 EA CE | A,E FE ^DE |^"E7" F4 E2 |$ %52
  z E FE ^DE |^"Am" B4 A2 | z A BA ^GA |^"Dm" c4 B2 | z B cB A^G |^"Am" B4 A2 | z E FE ^DE |^"Dm" D4 F2 |$ %60
@@ -540,7 +540,7 @@ K:G
 V:1 clef=
 V:1
  z4 B2 |:^"Em" B,2 B2 B,/E/G |^"D" B>c B3 A |^"C" G>F E>F G>A |^"Bm" G2 F4 |^"Am" E>F G>A G>F |^"Bm" G2 F2 D2 |^"Em" E2 B,4- |^"Em" B,4 B2 |$ %9
-^"Em" B,2 B2 B,/E/G |^"D" B>c B3 A |^"C" G>F E>F G>A |^"Bm" G2 F4 |^"Am" E>F^"E" G>A^"E" G>F |^"Bm" G2 F2 D2 |^"Em" E6- ||1^"Em" E4 B2 :||2^"Em" E4 E2 ||$ %18
+^"Em" B,2 B2 B,/E/G |^"D" B>c B3 A |^"C" G>F E>F G>A |^"Bm" G2 F4 |^"Am" E>F^"E" G>A^"E" G>F |^"Bm" G2 F2 D2 |^"Em" E6- |[1^"Em" E4 B2 :|[2^"Em" E4 E2 |[0$ %18
 ^"Em" E>F^"D" F>E^"C" E>F |^"D" F>E^"C" E>F^"D" F>E |^"C" E>F^"D" F>E^"C" E>G |^"C" G2^"B" F4&x4^"B"x2 |^"C" E>F^"D" F>E^"C" E>G |^"C" G2^"B" F4&x4^"B"x2 |^"Em" Bc B4 |^"Em" Bc B2 E2 |$ %26
 ^"Em" E>F^"D" F>E^"C" E>F |^"D" F>E^"C" E>F^"D" F>E |^"C" E>F^"D" F>E^"C" E>G |^"C" G2^"B" F4&x4^"B"x2 |^"C" E>F^"D" F>E^"C" E>G |^"C" G2^"B" F4&x4^"B"x2 |^"Em" Bc B4 |^"Em" Bc B4 |$ %34
 ^"Em" B>c B2 B2 |^"D" B>c B2 B2 |^"C" B>c^"A" B>A^"A" B>c |^"Bm" B2 A4 |^"Am" B>c B2 A2 |^"Bm" d4 d2 |^"Em" B6 |^"Em" B6 |^"Em" B>c B2 B2 |^"D" B>c B2 B2 |$ %44
@@ -586,7 +586,7 @@ K:F
 V:1 clef=
 V:1
 |:^"Dm" (AF DF AF DF |^"Dm" A2 .d2)^"Gm7" .c2 .B2 |^"A7" (AB AG F2 G2 | E8) |$ %4
-^"Dm" A(F DF AF DF |^"Dm" A2) .d2^"Gm7" .c2 .B2 |^"A7" (AB AG F2 E2 ||1^"Dm" D2) FA dA FA :||2^"Dm" D8 ||$ %9
+^"Dm" A(F DF AF DF |^"Dm" A2) .d2^"Gm7" .c2 .B2 |^"A7" (AB AG F2 E2 |[1^"Dm" D2) FA dA FA :|[2^"Dm" D8 |[0$ %9
 |:^"Bb" (d^c de f2 f2) |^"C7" (ef ed^"F" cB A2) |^"Gm" (BA Bc d2 d2) |^"A7" (^cd cB^"Dm" AG F2) |$ %13
 ^"Gm" (G^F GA BA BG) |^"Dm" (FE FG A^G AF) |^"A7" (E^D EF G2 F2O ||^"A7" E8)!D.C.! :|$ %17
 O^"Dm" D8 |] %18
@@ -595,6 +595,7 @@ X:30
 T:Acqua Alta
 T:mazurka
 C:Eric Thézé
+R: Swing
 L:1/8
 Q:3/8=80
 M:6/8
@@ -602,9 +603,9 @@ I:linebreak $
 K:Db
 V:1 clef=
 V:1
-"^Swing" de |^"Bbm" f6 |^"Bbm9#5" e6 |^"Bbm" d6 | z3 cde |^"Bbm" f6 |^"Bbm9#5" e6 |^"Bbm" d6 | z3 z cd |^"Gb" B6 | z3 z cd |^"Ebm" B6 |^"F7" c3 cde |^"Bbm" f6 |^"Ab/C" g4 z a |^"D" =a6 |^"Ebm" b2 a2 g2 |^"B" e6 |$ %18
+ de |^"Bbm" f6 |^"Bbm9#5" e6 |^"Bbm" d6 | z3 cde |^"Bbm" f6 |^"Bbm9#5" e6 |^"Bbm" d6 | z3 z cd |^"Gb" B6 | z3 z cd |^"Ebm" B6 |^"F7" c3 cde |^"Bbm" f6 |^"Ab/C" g4 z a |^"D" =a6 |^"Ebm" b2 a2 g2 |^"B" e6 |$ %18
  =B6 |^"Fb9" c6 |^"F" F4 de |^"Bbm" f6 |^"Bbm9#5" e6 |^"Bbm" d6 | z3 cde |^"Bbm" f6 |^"Bbm9#5" e6 |^"Bbm" d6 | z3 z cd |^"Gb" B6 | z3 z cd |^"Ebm" B6 |^"F" c2 =A2 G2 |$ %33
-|:^"Bbm" F6 |^"Bbm9#5" G6 |^"Bbm" F6- | F6 |^"Bbm" F6 |^"Bbm9#5" G4 z A ||1^"Bbm" F6- | F6 :||2^"Bbm" F6 | z4 de ||^"Bbm" f6 |^"Bbm9#5" e6 |^"Bbm" d6 | z3 cde |^"Bbm" f6 |^"Bbm9#5" e6 |^"Bbm" d6 |$ %50
+|:^"Bbm" F6 |^"Bbm9#5" G6 |^"Bbm" F6- | F6 |^"Bbm" F6 |^"Bbm9#5" G4 z A |[1^"Bbm" F6- | F6 :|[2^"Bbm" F6 | z4 de |[0^"Bbm" f6 |^"Bbm9#5" e6 |^"Bbm" d6 | z3 cde |^"Bbm" f6 |^"Bbm9#5" e6 |^"Bbm" d6 |$ %50
  z3 z cd |^"Gb" B6 | z3 z cd |^"Ebm" B6 |^"F7" !fermata!c6 |^"F" c2 =A2 G2 |^"Bbm" F6 |^"Bbm9#5" G6 |^"Bbm" F6- | F6 |^"Bbm" F6 |^"Bbm9#5" G4 z A |^"Bbm" F6- | !fermata!F6 |] %64
 
 X:31
@@ -636,7 +637,7 @@ K:C
 V:1 clef=
 V:1
 |:[P:A] (^de c ||S^"Am" A)(!tenuto!.E !tenuto!.E F2 E | F2 E)(^d ec |^"E" B)(!tenuto!.E !tenuto!.E F2 E | F2 E)(^d ed |^"E7" e2) (Bc =dc | e2) (Bc de |^"Am" fe e^d ec |$ %8
-^"E" B3) (^d ec |^"Am" A)(!tenuto!.E !tenuto!.E F2 E | F2 E)(^d ec |^"E" B)(!tenuto!.E !tenuto!.E F2 E | F2 E)(^d ed |^"E7" e2) (Bc =dc | ed cB A^G ||1^"Am" A6) | z3!fine! :||2^"Am" A3 (E CB, | A,3) (e fg ||$ %19
+^"E" B3) (^d ec |^"Am" A)(!tenuto!.E !tenuto!.E F2 E | F2 E)(^d ec |^"E" B)(!tenuto!.E !tenuto!.E F2 E | F2 E)(^d ed |^"E7" e2) (Bc =dc | ed cB A^G |[1^"Am" A6) | z3!fine! :|[2^"Am" A3 (E CB, | A,3) (e fg ||$ %19
 [P:B]^"G" a2) (de fg | a2) (de fa |^"C" g)(!tenuto!.c !tenuto!.cB cd | e4) (^de |^"E7" f2) Bc =de | f2 Bc df |^"Am" eA A^G AB | c3 e f=g |$ %27
 ^"G" ad de fg | ad de fa |^"C" gc cB cd | e3 e ^de |^"E7" fe =dc BA | ^GE GB df |^"Am" ef ed^"E7" cB |^"Am" A3 ^d ec!D.S.! |] %35
 
@@ -651,10 +652,10 @@ I:linebreak $
 K:F
 V:1 clef=
 V:1
- fe |:^"Dm" d3 A fd |^"Am" e4 fe |^"Bb" d2 c2 B2 |^"F" A4 GA |^"Gm" B4 AG |^"Dm" F4 F2 |^"Gm" F4 G2 ||1^"A7" E4 fe :||2^"A7" E4 DE ||$ %10
-|:^"Bb" F4 AF |^"C" E4 DE |^"Gm" F2 .A2 z F |^"Am" E4 DE |^"Bb" F2 A2 F2 |^"C" E2 D2 C2 ||1^"Dm" D6- | D4 DE :||2^"Dm9" D6- | D4 fe ||$ %20
-|:[K:F]^"Dm" [df]6 |^"Am" [eg]6 |^"Bb" [df]2 [ce]2 [Bd]2 |^"F" [Ac]4 A2 |^"Gm" [GB][Ac] [Bd]4 |^"Dm" [FA]6 |^"Gm" [GB]4 d2 ||1^"A7" ^cd e A fe :||2^"A7" ^c4 de ||$ %29
-|:^"Bb" [Bd]4 fd |^"C" [Gc]4 Ac |^"Gm" [GBd]2 .f2 z d |^"Am" [Ec]4 Ac |^"Bb" [Fd]2 f2 d2 |^"C" [Ec]2 e2 f2 ||1^"Dm" [FAd]6- | [FAd]4 Ac :||2^"Dm" [FAd]6- | [FAd]6 |] %39
+ fe |:^"Dm" d3 A fd |^"Am" e4 fe |^"Bb" d2 c2 B2 |^"F" A4 GA |^"Gm" B4 AG |^"Dm" F4 F2 |^"Gm" F4 G2 |[1^"A7" E4 fe :|[2^"A7" E4 DE |[0$ %10
+|:^"Bb" F4 AF |^"C" E4 DE |^"Gm" F2 .A2 z F |^"Am" E4 DE |^"Bb" F2 A2 F2 |^"C" E2 D2 C2 |[1^"Dm" D6- | D4 DE :|[2^"Dm9" D6- | D4 fe ||$ %20
+|:[K:F]^"Dm" [df]6 |^"Am" [eg]6 |^"Bb" [df]2 [ce]2 [Bd]2 |^"F" [Ac]4 A2 |^"Gm" [GB][Ac] [Bd]4 |^"Dm" [FA]6 |^"Gm" [GB]4 d2 |[1^"A7" ^cd e A fe :|[2^"A7" ^c4 de |[0$ %29
+|:^"Bb" [Bd]4 fd |^"C" [Gc]4 Ac |^"Gm" [GBd]2 .f2 z d |^"Am" [Ec]4 Ac |^"Bb" [Fd]2 f2 d2 |^"C" [Ec]2 e2 f2 |[1^"Dm" [FAd]6- | [FAd]4 Ac :|[2^"Dm" [FAd]6- | [FAd]6 |] %39
 
 X:34
 T:Babim
@@ -781,7 +782,7 @@ K:Bb
 V:1 clef=
 V:1
 [P:A] D2 G2 B2 |:^"Gm" d8 | ^c2 d2 c2 d2 |^"Gm" B8 | z2 B2 A2 G2 |^"D" A4 c4 | B4 A4 |^"Gm" A2 G4 ^F2 | G2 D2 G2 B2 |^"Gm" d8 |$ %10
- ^c2 d2 e2 d2 |^"Gm" B8 | z2 B2 A2 G2 |^"D" A4 c4 | B4 A4 |^"Gm" G8 ||1 z2 D2 G2 B2 :||2 z2 G2 A2 B2 ||$ %18
+ ^c2 d2 e2 d2 |^"Gm" B8 | z2 B2 A2 G2 |^"D" A4 c4 | B4 A4 |^"Gm" G8 |[1 z2 D2 G2 B2 :|[2 z2 G2 A2 B2 ||$ %18
 [P:B]^"Cm" c2 G2 c2 G2- | G2 G2 c2 G2 |^"Gm" B2 G2 B2 G2- | G2 G2 B2 G2 |^"D7" A4 c4 | B4 A4 |^"Gm" B4 c4 | d2 G2 A2 B2 |^"Cm" c2 G2 c2 G2- |$ %27
  G2 G2 c2 G2 |^"Gm" B2 G2 B2 G2- | G2 G2 B2 G2 |^"D7" A4 c4 | B4 A4 |^"Gm" G8 | z2 D2 G2 B2 ||$ %34
 [P:A']^"Gm" d8 | ^c2 d2 c2 d2 |^"Gm" B8 | A2 B2 A2 B2 |^"D" A8 | c2 d2 A2 c2 |^"Gm" B8 | z2 b2 a2 g2 |^"D" Ma4 d'4 | Ma4 d'4 |^"Gm" b4 g4 | d4 d3 ^c |^"Gm" d8 |$ %47
@@ -801,7 +802,7 @@ K:C
 V:1 clef=
 V:1
 |:^"Am" A4 z B^"Am" c4 z d^"G6" e6^"E" Be-eB- B2 c2 |^"F" A4 z B^"Dm" c4 z f^"G" d6^"E" Bd-dB^"E7" e2 d2 |$ %2
-^"Am" c4 z d^"C" e4 z g^"Dm" f6^"E7" de-ed- d2 e2 ||1^"F" c4 z B^"Dm" A4 z f^"G" d6^"E7" Bd-de- e2 c2 :||2^"F" c4 z B^"Dm" A4 z f^"G" d6^"E7" Bd-de- e2 B2!D.C.! ||^"Am9" B24- B2 |] %6
+^"Am" c4 z d^"C" e4 z g^"Dm" f6^"E7" de-ed- d2 e2 |[1^"F" c4 z B^"Dm" A4 z f^"G" d6^"E7" Bd-de- e2 c2 :|[2^"F" c4 z B^"Dm" A4 z f^"G" d6^"E7" Bd-de- e2 B2!D.C.! ||^"Am9" B24- B2 |] %6
 
 X:42
 T:Eté
@@ -821,6 +822,7 @@ X:43
 T:Für Frederike
 T:Gavotte de l'aven
 C:Eric Thézé
+R: Swing
 L:1/8
 Q:1/4=80
 M:4/4
@@ -828,7 +830,7 @@ I:linebreak $
 K:C
 V:1 clef=
 V:1
-|:[P:A]^"Am""^Swing" [Ec]>B A^"G/B"G^"C" [CE]4 |^"Dm" [DF]>E FA^"E" (^GABE) |^"Am" [Ec]>B A^"G/B"G-^"C" [EG]4 |^"Dm" [DF]>E [DF]A^"E" !tenuto!.[E^G]2 !tenuto!.E2 |^"Am" [Ec]>B A^"G/B"G^"C" [CE]4 |$ %5
+|:[P:A]^"Am" [Ec]>B A^"G/B"G^"C" [CE]4 |^"Dm" [DF]>E FA^"E" (^GABE) |^"Am" [Ec]>B A^"G/B"G-^"C" [EG]4 |^"Dm" [DF]>E [DF]A^"E" !tenuto!.[E^G]2 !tenuto!.E2 |^"Am" [Ec]>B A^"G/B"G^"C" [CE]4 |$ %5
 ^"Dm" [DF]>E FA^"E" (^GABE) |^"Am" [Ec]>B A^"G/B"G-^"C" [EG]4 |^"Dm" [DF]>E [DF]A^"E" [E^G]4 :|$ %8
 [P:B]^"F" [FA]>F Ac^"G13" [GBe]dcB |^"C" !tenuto!.[EGc]2^"G" !tenuto!.[DGB]2^"Am" !tenuto!.[CEA]2 E2 |^"F" [FA]>F Ac^"G13" [GBe]dcB |^"Dm" [FA]8 |^"F" [FA]>F Ac^"G13" [GBe]dcB |^"C" !tenuto!.[EGc]d^"G"!tenuto!.[DGB]c^"Am" [C-E-A]2 [CE]2 |^"F" [FA]>F Ac^"G13" [GBe]dcB |^"Dm" (3A,2 E2 A2- A4 ||$ %16
 [P:A']^"Am" [Ec]>B A^"G/B"G^"C" [CE]4 |^"Dm" [DF]>E FA^"E" ([E^G]ABE) |^"Am" [Ec]>B A^"G/B"G^"C" [CE]4 |^"Dm" [DF]>E FA^"E" !tenuto!.[E^G]2 !tenuto!.E2 |^"Am" [Ec]>B A^"G/B"G^"C" [CE]4 |^"Dm" [DF]>E FA^"E" ([E^G]ABE) |^"Am" [Ec]>B A^"G/B"G^"C" [CE]4 |^"Dm" [DF]>E FA^"E" [E^G]2 E2 |^"Am" !fermata![CA]8 |] %25
@@ -864,7 +866,7 @@ K:Bb
 V:1 clef=
 V:1
 [P:A] A |:^"Gm" B4 z c |^"Ebmaj11" A G3 z A |^"Gm9" B4 z c |^"Ebmaj11" A4 z A |^"Gm9" B4 z c |^"Ebmaj11" A G3 z A |^"C95" G6 | z4 z A |^"Gm" B4 z c |^"Ebmaj11" A G3 z A |^"Gm9" B4 z c |^"Ebmaj11" A G3 z A |^"Gm9" B4 z f |$ %14
-^"Ebmaj11" A G3 z A |^"C95" G6 ||1 z4 z F |^"E5" =E4 z A |^"Eb511" _A4 z E |^"D" D4 z G |^"Db511" _G4 z _D |^"C" C4 z F |^"B511" =E4 z =B, |^"Bb" _B,6 | z4 z A :||2^"C95" G2 A2 B2 ||$ %26
+^"Ebmaj11" A G3 z A |^"C95" G6 |[1 z4 z F |^"E5" =E4 z A |^"Eb511" _A4 z E |^"D" D4 z G |^"Db511" _G4 z _D |^"C" C4 z F |^"B511" =E4 z =B, |^"Bb" _B,6 | z4 z A :|[2^"C95" G2 A2 B2 ||$ %26
 [P:B]^"Bb9" d2 z B d2 |^"C9" =e6 |^"Ebmaj9" e2 z e3 |^"Gm9" d4 z A |^"Eb" B6 |^"Gm9" G6 |^"Eb" B3 c B2 |^"C95" G2 A2 B2 |$ %34
 ^"Bb9" d2 z B d2 |^"C9" =e6 |^"Ebmaj9" g2 z g3 |^"Gm9" d6 |^"Eb" B2 z B3 |^"Gm9" G6 |^"Eb" B2 z c B2 |^"C95" G4 z A |$ %42
 ^"Gm" B4 z A |^"Eb" G2 z A Bc |^"Gb" _d4 B2 |^"Bb9" =d4 z e |^"Ab9" f4 e2 |^"Gm9" d2 z2 B2 |^"Gb" _d2 z d3 |^"Eb" B6- | B6 |] %51
@@ -898,7 +900,7 @@ K:C
 V:1 clef=
 V:1
 |:[P:A]^"Am" e3 A ef | e3 A ef |^"Dm" d6 | z4 c2 |^"E" B4 B2 | B2 c2 d2 |^"Am" f6 | e6 |$ %8
-^"Am" e3 A ef | e3 A ef |^"Dm" d6 | F4 c2 |^"E" B3 E B2 | B2 c3 B |^"Am" A6 ||1 AB c2 d2 :||2 z2 z2 A2 ||$ %17
+^"Am" e3 A ef | e3 A ef |^"Dm" d6 | F4 c2 |^"E" B3 E B2 | B2 c3 B |^"Am" A6 |[1 AB c2 d2 :|[2 z2 z2 A2 ||$ %17
 [P:B]^"Bb" G6 | F6 |^"A" E6 | z2 z2 A2 |^"Bb" G6 | F6 |^"E7" E6- | E6 |$ %25
 |:[P:C]^"Am" c3 B A2 |^"Am" A2 B2 c2 |^"Dm" e6 |^"Dm" d4 c2 |^"E" B3 A ^G2 | ^G2 A2 B2 |^"Am" d6 | c6 |$ %33
 ^"F" c3 B A2 | A2 B2 c2 |^"Dm9" g6 | f4 e2 |^"E" d3 c B2 | B2 c2 d2 |^"E7" e6 | B6 :|$ %41
@@ -916,7 +918,7 @@ K:C
 V:1 clef=
 V:1
 |:[P:A]^"C" (c6 | G6 |^"E" F6 | E6) |^"A" (!tenuto!.E2 !tenuto!.B2 !tenuto!.A2 | ^G2 !tenuto!.A2 !tenuto!.f2 |^"D" e6 | c6) |^"F" (!tenuto!.e2 !tenuto!.c2 !tenuto!.A2 | !tenuto!.E2 !tenuto!.C2 !tenuto!.A,2 |^"G" !tenuto!.B,2) (!tenuto!.e2 !tenuto!.e2 | B2 !tenuto!.c2 !tenuto!.d2 |^"C" B6 | G6 |^"E" E6) |$ %15
- (E2 !tenuto!.^G2 !tenuto!.B2) |^"C" (c6 | G6 |^"E" F6 | E6) |^"A" (!tenuto!.E2 !tenuto!.B2 !tenuto!.A2 | ^G2 !tenuto!.A2 !tenuto!.f2 |^"D" e6 | c6) |^"F" (!tenuto!.e2 !tenuto!.c2 !tenuto!.A2 | !tenuto!.E2 !tenuto!.C2 !tenuto!.A,2 |^"G" !tenuto!.B,2) (!tenuto!.e2 !tenuto!.e2 | B2 !tenuto!.c2 !tenuto!.d2 |^"C" c6- | c6- | c6) ||1 z6 :||2 z2 B2 c2 ||$ %33
+ (E2 !tenuto!.^G2 !tenuto!.B2) |^"C" (c6 | G6 |^"E" F6 | E6) |^"A" (!tenuto!.E2 !tenuto!.B2 !tenuto!.A2 | ^G2 !tenuto!.A2 !tenuto!.f2 |^"D" e6 | c6) |^"F" (!tenuto!.e2 !tenuto!.c2 !tenuto!.A2 | !tenuto!.E2 !tenuto!.C2 !tenuto!.A,2 |^"G" !tenuto!.B,2) (!tenuto!.e2 !tenuto!.e2 | B2 !tenuto!.c2 !tenuto!.d2 |^"C" c6- | c6- | c6) |[1 z6 :|[2 z2 B2 c2 ||$ %33
 [P:B]^"A" ^c6 | e6 | A2 (A2 B2 | ^c2 d2 e2 |^"Dm" f6 | a6 | f6) | f2 e2 d2 |^"G" (B6 | d6 | B2) (G2 A2 | B2 c2 d2 |^"C" e6) | z2 ^d2 e2 |^"E" e6- | e6 |$ %49
 ^"A" (a6 | g6 | e2) (A2 B2 | ^c2 d2 e2 |^"Dm" f6 | g6 | a6) | f2 e2 d2 |^"G" (g6 | f6 | d2) (G2 A2 | B2 c2 d2 |^"C" e6) | z2 ^d2 e2 |^"E" e6- | e6 ||$ %65
 [P:A']^"C" (c6 | G6 |^"E" F6 | E6) |^"A" (!tenuto!.E2 !tenuto!.B2 !tenuto!.A2 | ^G2 !tenuto!.A2 !tenuto!.f2 |^"D" e6 | c6) |^"F" (!tenuto!.e2 !tenuto!.c2 !tenuto!.A2 | !tenuto!.E2 !tenuto!.C2 !tenuto!.A,2 |^"G" !tenuto!.B,2) (!tenuto!.e2 !tenuto!.e2 | B2 !tenuto!.c2 !tenuto!.d2 |^"C" c6- | c6- | c6) | z6 | z6 |] %82
@@ -935,7 +937,7 @@ V:1
 |:[P:A]^"Dm" z2 (D2 E2 F2 A2 |^"F" e6) d2 A2 |^"Gm" z2 (G2 A2 B2 d2 |^"Gm9" a6- a4) |^"Dm" z2 (D2 E2 F2 A2 |^"F" e6) d2 A2 |^"Gm" G8 F2 |^"Gm9" E6- E4 |$ %8
 ^"Dm" z2 (D2 E2 F2 A2 |^"F" e6) d2 A2 |^"Gm" z2 (G2 A2 B2 d2 |^"Gm9" a6 c'4) |^"Dm" z2 (D2 E2 F2 A2 |^"F" e6) d2 A2 |^"Gm" G8- G2- |^"Gm9" G8- G2 ||$ %16
 [P:B]^"Bb" d4 d2 f2 d2 |^"F/A" c6- c4 |^"Gm" B2 A2 B2 d2 B2 |^"Dm/F" A6- A4 |^"Emb5" G2 A2 B2 A2 G2 | G6- G4 |^"Ab9" G2 A2 B2 A2 G2 |^"A7" A6- A4 |$ %24
-^"Bb" d6 f2 d2 |^"F/A" c6 f4 |^"Gm" B2 A2 B2 d2 B2 |^"Dm/F" A6- A4 |^"Emb5" G2 A2 B2 A2 G2 | G2- G2- G6 ||1^"Ab9" G2 A2 B2 A2 G2 |^"A7" A6- A4 :||2^"Ab9" E2 F2 G2 F2 E2 |^"A7" E6 F2 .E2O ||$ %34
+^"Bb" d6 f2 d2 |^"F/A" c6 f4 |^"Gm" B2 A2 B2 d2 B2 |^"Dm/F" A6- A4 |^"Emb5" G2 A2 B2 A2 G2 | G2- G2- G6 |[1^"Ab9" G2 A2 B2 A2 G2 |^"A7" A6- A4 :|[2^"Ab9" E2 F2 G2 F2 E2 |^"A7" E6 F2 .E2O |[0$ %34
 |:[P:C]^"Dm" E2 D2 A,2 E2 D2 | E6- E4 |^"Am/C" E6 A,4 | A,6- A,4 |^"Bb" E6 E2 F2 | D6- D4 |^"A6" E2 F2 E2 E2 A,2 |^"A7" E6- E4 |^"Dm" E2 D2 A,2 E2 D2 | F6- F4 |$ %44
 ^"Am/C" F8 G2 | E6- E4 |^"Bb" F2 D2 B,2 A,2 B,2 | A,8 G,2 |^"A6" B,6 A,2 B,2 |^"A7" A,6- A,4!D.C.! :|$ %50
 O^"Dm9" E8- E2- | E8- E2 |] %52
@@ -953,11 +955,11 @@ V:1 clef=
 V:1
 [P:A] z B |:^"Cmaj7" ce g b2 a |^"Am9" e4 z B |^"Cmaj7" ce g b2 a |^"Am9" d'2 b ^f2 B |^"Cmaj7" ce g b2 a |^"Am9" e2 g e2 B |^"F#m7b5" c e2 A2 B |^"F#m7b5" [Ac]4 z B :|$ %9
 ^"Fmaj7" c e2 A2 B | [Ac]4 z B |^"Dm" [Ac] e2 A2 B | [Ac]2 [Bd] [Ac]3 |^"Cmaj7" [Gce]3 [Gce]3 |^"Bm7b5" [FBe]2 [Fd] [Fc]2 [^GB]- |^"E7" [GB]6 |^"E7" z6 ||$ %17
-|:[P:B]^"Am" [Ace]3 A [ce]A |^"Am/G" [Gce]3 !tenuto!.[Gce]3 |^"Am/F" [Fce]3 A [Fce]A |^"Em11" [ABe]2 [ABd] [Ace]3 |^"Dm" [Adf]3 !tenuto!.[Adf]2 [Adf] |^"Cmaj7" [Gce]2 [Gd] [Gc]3 |^"Bm7b5" [FBd]3 [Fc]3 ||1^"E7" !tenuto!.[E^GB]2 !tenuto!.[Ac]2 !tenuto!.[Bd]2 :||2^"E7" !tenuto!.[E^GB]2 !tenuto!.[ce]2 !tenuto!.[df]2 ||$ %26
+|:[P:B]^"Am" [Ace]3 A [ce]A |^"Am/G" [Gce]3 !tenuto!.[Gce]3 |^"Am/F" [Fce]3 A [Fce]A |^"Em11" [ABe]2 [ABd] [Ace]3 |^"Dm" [Adf]3 !tenuto!.[Adf]2 [Adf] |^"Cmaj7" [Gce]2 [Gd] [Gc]3 |^"Bm7b5" [FBd]3 [Fc]3 |[1^"E7" !tenuto!.[E^GB]2 !tenuto!.[Ac]2 !tenuto!.[Bd]2 :|[2^"E7" !tenuto!.[E^GB]2 !tenuto!.[ce]2 !tenuto!.[df]2 ||$ %26
 [P:C]^"C" [eg]4 z2 |^"Em/B" g2 f e3 |^"Am" [Ac]4 z2 |^"C/G" z2 G2 A2 |^"F" c3 e3 |^"Csus4/E" [cf]2 e2 c2 |^"Dm7" f3 e3 |^"G" [Bd]2 [ce]2 [df]2 |$ %34
 ^"C" [eg]4 z2 |^"Em7/B" g2 f e3 |^"Am" [Ac]4 z2 |^"C/G" G2 A2 c2 |^"F" f3 e3 |^"C/E" c4 z2 |^"Dm7" f3 g3 |^"G" [Bd]4 z2 |$ %42
 ^"Am" [ce]6 |^"G/B" d2 e f3 |^"C" [ce]4 z2 |^"A/C#" [^ce]2 f g3 |^"Dm" [df]4 z2 |^"B/D#" [^d^f]2 g a3 |^"E" [e^g]6 | [e^g]2 [^fa]2 [gb]2 |$ %50
-|:^"Am" [ac']4 z2 |^"G" [gb]4 z2 |^"D/F#" [^fa]4 z2 |^"D" z2 d2 e2 |^"F" [cf]6 ||1 [fa]2 c' [fa]3 |^"G" [Bdg]6- | [Bdg]6!D.C.! :||2 z2 a2 f2 |^"G" [GBd]6- | [GBd]6 |^"Cmaj9" [GBe]6- | [GBe]6 |] %63
+|:^"Am" [ac']4 z2 |^"G" [gb]4 z2 |^"D/F#" [^fa]4 z2 |^"D" z2 d2 e2 |^"F" [cf]6 |[1 [fa]2 c' [fa]3 |^"G" [Bdg]6- | [Bdg]6!D.C.! :|[2 z2 a2 f2 |^"G" [GBd]6- | [GBd]6 |^"Cmaj9" [GBe]6- | [GBe]6 |] %63
 
 X:51
 T:Lisbonne
@@ -971,7 +973,7 @@ K:Bb
 V:1 clef=
 V:1
 [P:A] G2 A2 |:^"Gm" [GB]2 d3 B |^"D/F#" [^FA]6 |^"F6" [=FB]2 c2 d2 |^"C/E" [=EG]4 z A |^"Cm" [CB]3 d cB |^"D" [DA]^G Ac BA |^"Gm" [DGB]2 GD GB |^"D" [D^FB]2 A2 GA |^"Gm" [GB]2 d3 B |^"D/F#" [^FA]6 |$ %11
-^"F6" [=FB]2 c2 d2 |^"C/E" [=EG]4 z A |^"Cm" [CEB]3 d cB |^"D" [D^FA]^G Ac BA ||1^"Gm" [B,DG]6 |^"D" z2 G2 A2 :||2^"Gm" [B,DG]6- |^"D" [B,DG]6 ||$ %19
+^"F6" [=FB]2 c2 d2 |^"C/E" [=EG]4 z A |^"Cm" [CEB]3 d cB |^"D" [D^FA]^G Ac BA |[1^"Gm" [B,DG]6 |^"D" z2 G2 A2 :|[2^"Gm" [B,DG]6- |^"D" [B,DG]6 ||$ %19
 [P:B]^"Gm" [Bd]3 G [Bd]G |^"F#dim" [Ac]6 |^"Gm" [Bd]4 z [ce] |^"F#dim" [Ac]6 |^"Gm" [Bd]3 G [Bd]G |^"F#dim" [Ac]2 B2^"D7" A2 |^"Gm9" [GB]6 |^"D7" [^FA]2 [GB]2 [Ac]2 |^"Gm" [Bd]3 G [Bd]G |^"F#dim" [Ac]4 [ce]2 |^"Gm" [Bd]4 z [ce] |^"F#dim" [Ac]6 |$ %31
 ^"Gm" [Bd]3 G [Bd]G |^"F#dim" [Ac]2 B2^"D7" A2 |^"Gm" G6 | z2 G2 A2 |^"Gm" B2 d2 g2 |^"Gm/Bb" g4 d2 |^"Cm" cd e4 |^"Cm6" A6 |^"Gm" BA Bd BG |^"Gm9" BA Bd cB |^"D" A6 ||$ %42
 [P:A'] z2 G2 A2 |^"Gm" [GB]2 d3 B |^"D/F#" [^FA]6 |^"F6" [FB]2 c2 d2 |^"C/E" [=EG]4 z A |^"Cm" [CB]A Bd cB |^"D" [DA]^G Ac BA |^"Gm" [B,DG]6- | [B,DG]2 z2 z2 |] %51
@@ -987,7 +989,7 @@ I:linebreak $
 K:C
 V:1 clef=
 V:1
-|:[P:A]^"Am" [Ec]3 E2 F/E/ |^"B7" ^D2 [DB]4 |^"E7/G#" [=DB]3 D2 E/D/ |^"Am" [A,C]2 [EA]4 |^"F" [FA]3 C2 D/C/ |^"G" [G,B,]2 [DG]4 ||1^"E" [B,^G]6 |^"E7" [B,^G]2 [CA]2 [DB]2 :||2^"E7" E2 D2 C2 |^"Am" A,6!fine! ||$ %10
+|:[P:A]^"Am" [Ec]3 E2 F/E/ |^"B7" ^D2 [DB]4 |^"E7/G#" [=DB]3 D2 E/D/ |^"Am" [A,C]2 [EA]4 |^"F" [FA]3 C2 D/C/ |^"G" [G,B,]2 [DG]4 |[1^"E" [B,^G]6 |^"E7" [B,^G]2 [CA]2 [DB]2 :|[2^"E7" E2 D2 C2 |^"Am" A,6!fine! ||$ %10
 [P:B]^"Dm" A,B, C3 D |^"G" B,2 C2 D2 |^"E7" [B,E]4 z D |^"Am" [A,C]6 |^"G/B" [DG]4 z F |^"C" [CE]4 c2 |^"B/D#" [^FB]4 A2 |^"E7" ^GA BE =FE!D.C.! |] %18
 
 X:53
@@ -1021,7 +1023,7 @@ K:Bb
 V:1 clef=
 V:1
  D2 |:^"Gm" [GBd][GBd]z[GBd] [GBd]2 [Ac]2 |^"Am7b5" [^FAce]3 [Bd]3 [Ac]2 |^"Bb" [FBd]3 [FBd]3 B2 |^"Cm" [CEG]4 G2 A2 |^"Gm/D" [GB] d3 G2 A2 |^"Ebmaj7" [GB]6 AB |^"Db9/F#" [Ac]6 B2 |^"D7" [^FA]6 D2 |^"Gm" [Bd][Bd]z[Bd] [Bd]2 [Ac]2 |^"Am7b5" [ce]3 [Bd]3 [Ac]2 |^"Bb" [Bd]3 [Bd]3 B2 |$ %12
-^"Ab/C" [E_Ac]4 [Bd]2 [ce]2 |^"Gm" [Bd]2 g[Bd]- [Bd]4 |^"Ab/C" [E_Ac]4 c2{/B} [E=B]2 ||1^"G" [=B,G]8- | [B,G]6 D2 :||2^"G" [=B,DG]8- |^"G" [B,DG]4 z DGA ||$ %19
+^"Ab/C" [E_Ac]4 [Bd]2 [ce]2 |^"Gm" [Bd]2 g[Bd]- [Bd]4 |^"Ab/C" [E_Ac]4 c2{/B} [E=B]2 |[1^"G" [=B,G]8- | [B,G]6 D2 :|[2^"G" [=B,DG]8- |^"G" [B,DG]4 z DGA ||$ %19
 ^"Gm" B3 G3 [B,D]2 |^"Am7b5" [A,C]3 A- A4 |^"Gm/Bb" A [B,DG]3- [B,DG]2 D2 |^"Cm" E4 G2 B2 |^"Gm/D" G2 BG- G4 |^"Ebmaj7" G4 A B3 |^"Gbm7b5" (3c2 e2 ^f2 b2 a2 |^"D7" (3d2 e2 A2 d2 c2 |$ %27
 ^"Gm" d4 [Bg]2 [Gd]2 |^"Am7b5" [Ace]4 [Bd]2 [Ac]2 |^"Bb" [FBd]4 [Bd]2 [FB]2 |^"Ab/C" [Ec]2 _AB c2 de |^"Gm" d [Bg]2 d [GB]2 [DG]2 |^"Ab/C" [E_A]3 A [D=B][FA][EG][C^F] |^"G" [=B,DG]8- | [B,DG]8 ||$ %35
 ^"Gm" [dbd'][dbd']z[dbd'] [dbd']2 [cac']2 |^"Am7b5" [ec'e']3 [dbd']3 [cac']2 |^"Bb" [dbd']3 [dbd']3 [Bb]2 |^"Cm" [Geg]4 [Geg]2 [Aa]2 |^"Gm/D" [Bgb] [dd']2 [Gg]3 [Aa]2 |^"Ebmaj7" [Bgb]6 [Aa][Bb] |^"Gbm7b5" [cac']6 [Bgb]2 |^"D7" [Bgb]2 [A^fa]4 [Dd]2 |$ %43
@@ -1039,7 +1041,7 @@ K:C
 V:1 clef=
 V:1
 |:[P:A]^"Am" cE z c2 d/c/ |^"Dm" [FB]6 |^"E" BA ^GA Bc |^"Am" c2 B2 A2 |^"Am" cE z c2 d/c/ |^"Dm" [FB]6 |^"E" BA ^GA Bc |^"Am" [EA]6 :|$ %8
-|:[P:B]^"C" eG z e fe |^"Dm" [Fd]6 |^"E7" f2 e2 d2 |^"Am" d2 c2 B2 |^"F" cF z c2 d/c/ |^"Dm" [FB]6 ||1^"E7" B2 c2 d2 |^"Am" [ce]6 :||2^"E" BA ^GA Bc |^"Am" [EA]6 ||$ %18
+|:[P:B]^"C" eG z e fe |^"Dm" [Fd]6 |^"E7" f2 e2 d2 |^"Am" d2 c2 B2 |^"F" cF z c2 d/c/ |^"Dm" [FB]6 |[1^"E7" B2 c2 d2 |^"Am" [ce]6 :|[2^"E" BA ^GA Bc |^"Am" [EA]6 ||$ %18
 [P:A]^"Am" cE z c2 d/c/ |^"Dm" [FB]6 |^"E" BA ^GA Bc |^"Am" c2 B2 A2 |^"Am" cE z c2 d/c/ |^"Dm" [FB]6 |^"E" BA ^GA Bc |^"Am" !fermata![CA]6 |] %26
 
 X:56
@@ -1057,7 +1059,7 @@ V:1
 ^"Dm" D^C DE FG |^"A" A^G A=B ^cA |^"Bb" d2 fe dc |^"F" A4 A2 |^"C" G E2 F GA |^"Ab9" _B2 A2 F2 |^"Dm" D6- | D4 FE ||$ %17
 ^"Dm" D^C DE FG |^"A" A^G A=B ^cA |^"Bb" d2 fe dc |^"F" A6 |^"C" GE EF GA |^"Ab9" _B2 A2 G2 |^"Dm" F3 E FG |^"A" E^D EG FE ||$ %25
 ^"Dm" D^C DE FG |^"A" A^G A=B ^cA |^"Bb" d2 fe dc |^"F" A4 A2 |^"C" G E2 F GA |^"Ab9" _B2 A2 F2 |^"Dm" D6- | D4 E2 |$ %33
-|:^"Bb" F2 DE FG |^"C11" F2 E4 |^"F" c2 cd^"F/E" cA |^"Dm" F6 |^"Bb" F2 DE FG |^"C11" F2 E3 F ||1^"Gm9" D6- | D4 E2 :||2^"Gm9" D6- | D4 FE ||$ %43
+|:^"Bb" F2 DE FG |^"C11" F2 E4 |^"F" c2 cd^"F/E" cA |^"Dm" F6 |^"Bb" F2 DE FG |^"C11" F2 E3 F |[1^"Gm9" D6- | D4 E2 :|[2^"Gm9" D6- | D4 FE ||$ %43
 ^"Dm" D^C DE FG |^"A" A^G A=B ^cA |^"Bb" d2 fe dc |^"F" A6 |^"C" GE EF GA |^"Ab9" _B2 A2 G2 |^"Dm" F3 E FG |^"A" E^D EG FE ||$ %51
 ^"Dm" D^C DE FG |^"A" A^G A=B ^cA |^"Bb" d2 fe dc |^"F" A4 A2 |^"C" G E2 F GA |^"Ab9" B2 A2 F2 |^"Dm" D6- | D6 |] %59
 
@@ -1070,7 +1072,7 @@ I:linebreak $
 K:C
 V:1 clef=
 V:1
-|:[P:A]^"F6" A2 !tenuto!.e2 !tenuto!.e>e | A2 c3 d | A2 !tenuto!.e2 !tenuto!.e>e | A2 c3 A |^"Eb" d4 z c | d4 z G |^"F6" A6 ||1 z4 z G :||2 z4 z e ||$ %9
+|:[P:A]^"F6" A2 !tenuto!.e2 !tenuto!.e>e | A2 c3 d | A2 !tenuto!.e2 !tenuto!.e>e | A2 c3 A |^"Eb" d4 z c | d4 z G |^"F6" A6 |[1 z4 z G :|[2 z4 z e ||$ %9
 [P:B]^"Am6" a6 |^"Bb" a2 g2 e2 |^"Am6" Pe6 |^"Bb" A4 z e |^"Am6" a6 |^"Bb" a2 g2 e2 |^"Am6" Pe6 |^"Bb" A4 z G ||$ %17
 [P:A']^"F6" A2 !tenuto!.e2 !tenuto!.e>e | A2 c3 d | A2 !tenuto!.e2 !tenuto!.e>e | A2 c3 A |^"Eb" d4 z c | d4 z G |^"F6" A6- | A4 z A!D.C.! ||$ %25
 ^"Eb" d4 z c | d4 z G |^"F6" A2 e2 e>e | !fermata!A6 |] %29
@@ -1106,12 +1108,12 @@ V:1
 [P:A] f3 e |^"Gm" B8 |^"Gm" z4 f3 e |^"Dm/F" A8 |^"Dm/F" z4 f3 e |^"A7/E" G8 |^"A" z4 A3 B |^"Dm6" B8 |$ %8
 ^"Dm" A2 ^G.A f3 e |^"Gm" B8 |^"Gm" z4 f3 e |^"Dm/F" A8 |^"Dm/F" z4 f3 e |^"A7/E" G8 |^"A" z4 A4 |^"Dm" E8 |^"Dm" z D2 .E/.F/ .G.A.B.c |$ %17
 |:[P:B]^"Gm" d2 z ^c/.d/ e4 | z d z ^c/.d/ e d2 c/.d/ |^"Dm" f A2 ^G/A/ B4 | z A2 ^G/A/ B.A.=G.F |$ %21
-^"A7" .GG z ^F/G/ A4 ||1^"A" z G z ^F/G/ AG=FE |^"Dm" F3 .E F2 G2 | .A.D.E.F .G.A.B.c :||2^"A" z G2 A/G/ F2 E2 |^"Dm" D8 | z8 |] %28
+^"A7" .GG z ^F/G/ A4 |[1^"A" z G z ^F/G/ AG=FE |^"Dm" F3 .E F2 G2 | .A.D.E.F .G.A.B.c :|[2^"A" z G2 A/G/ F2 E2 |^"Dm" D8 | z8 |] %28
 V:2
  z4 | G,3 .B, .D2 .D,2 | G,4 z4 | F,3 .A, .D2 .D,2 | F,4 z4 | E,3 .G, .B,2 .E,2 | A,,4 z4 | D,3 .F, .A,2 .A,,2 |$ %8
  D,6 z2 | G,3 .B, .D2 .D,2 | G,4 z4 | F,3 .A, .D2 .D,2 | F,4 z4 | E,3 .G, .B,2 .G,2 | A,,4 z4 | D,3 .F, .A,2 .A,,2 | D,4 z4 |$ %17
 |: G,.[B,D] z .[B,D] .D,.[B,D].D,.[B,D] | G,.[B,D] z .[B,D] .G,.[B,D] z .[B,D] | .D,.[A,C] z .[A,C] .A,,.[A,C].A,,.[A,C] | .D,.[A,C] z .[A,C] .D,.[A,C] z .[A,C] |$ %21
- .A,,.[G,^C] z .[G,C] .^C,.[G,C].C,.[G,C] ||1 .A,,.[G,^C] z .[G,C] .A,,.[G,C] z .[G,C] | .D,.[A,C] z .[A,C] .A,,.[A,C].A,,.[A,C] | .D,2 z2 z4 :||2 .A,,.[G,^C] z .[G,C] .A,,.[G,C] z .[G,C] | .D,.[A,C] z .[A,C] .A,,.[A,C].A,,.[A,C] | .D,2 z2 z4 |] %28
+ .A,,.[G,^C] z .[G,C] .^C,.[G,C].C,.[G,C] |[1 .A,,.[G,^C] z .[G,C] .A,,.[G,C] z .[G,C] | .D,.[A,C] z .[A,C] .A,,.[A,C].A,,.[A,C] | .D,2 z2 z4 :|[2 .A,,.[G,^C] z .[G,C] .A,,.[G,C] z .[G,C] | .D,.[A,C] z .[A,C] .A,,.[A,C].A,,.[A,C] | .D,2 z2 z4 |] %28
 
 X:60
 T:Rosa
@@ -1126,11 +1128,11 @@ K:C
 V:1 clef=
 V:1
 ^"Am" c6 e6 e4 | A12 B2 c2 |^"Dm" d6 f6 f4 | A12 B2 c2 |^"G" B6 d6 d4 | G12 g2 f2 |^"C" e12 d2 c2 |^"E7" B12 c2 d2 |$ %8
-|:[P:A]^"Am" !tenuto!.e2 !tenuto!.c2 !tenuto!.c2 B6 A4 | E12 !tenuto!.F2 !tenuto!.E2 |^"Dm" !tenuto!.f2 !tenuto!.d2 !tenuto!.d2 c6 B4 | F16 |^"E" (!tenuto!.F2 !tenuto!.E2 !tenuto!.E2 B8) z2 | !tenuto!.F2 !tenuto!.E2 !tenuto!.E2 d6 c4 ||1^"Am" (d2 !tenuto!.c2 !tenuto!.B2 c6 d4 |^"E7" B12) !tenuto!.c2 !tenuto!.d2 :||2^"Am" A16 | z12 !tenuto!.B2 !tenuto!.c2 ||$ %18
+|:[P:A]^"Am" !tenuto!.e2 !tenuto!.c2 !tenuto!.c2 B6 A4 | E12 !tenuto!.F2 !tenuto!.E2 |^"Dm" !tenuto!.f2 !tenuto!.d2 !tenuto!.d2 c6 B4 | F16 |^"E" (!tenuto!.F2 !tenuto!.E2 !tenuto!.E2 B8) z2 | !tenuto!.F2 !tenuto!.E2 !tenuto!.E2 d6 c4 |[1^"Am" (d2 !tenuto!.c2 !tenuto!.B2 c6 d4 |^"E7" B12) !tenuto!.c2 !tenuto!.d2 :|[2^"Am" A16 | z12 !tenuto!.B2 !tenuto!.c2 |[0$ %18
 |:[P:B]^"G" d6 G6 !tenuto!.G4 | g12 !tenuto!.f4 |^"C" f16 | e12 !tenuto!.B2 !tenuto!.c2 |^"E" !tenuto!.B2 E4 E6 E4 |$ %23
-|1 e12 !tenuto!.d4 |^"Am" d16 | c12 !tenuto!.B2 !tenuto!.c2 :||2 e12 !tenuto!.B2 !tenuto!.c2 |^"Am" A16- | A16 ||$ %29
+|1 e12 !tenuto!.d4 |^"Am" d16 | c12 !tenuto!.B2 !tenuto!.c2 :|[2 e12 !tenuto!.B2 !tenuto!.c2 |^"Am" A16- | A16 ||$ %29
 |:[P:C]^"Am" (!tenuto!.e2 d2 e2 f4) e2 !tenuto!.c2 !tenuto!.e2 |^"Dm" (!tenuto!.d2 A2 F2 c8) z2 |^"E7" (!tenuto!.B2 E2 E2 B6) !tenuto!.d4 |^"Am" (!tenuto!.d2 c2 B2 c6) !tenuto!.d4 |$ %33
-^"Am" (!tenuto!.e2 d2 e2 f4) e2 !tenuto!.c2 !tenuto!.e2 |^"Dm" (!tenuto!.d2 A2 F2 c8) z2 |^"E" (!tenuto!.B2 E2 E2 B6) !tenuto!.c4 ||1^"Am" A8 z4 !tenuto!.B2 !tenuto!.c2 :||2^"Am" !fermata!A16 |] %38
+^"Am" (!tenuto!.e2 d2 e2 f4) e2 !tenuto!.c2 !tenuto!.e2 |^"Dm" (!tenuto!.d2 A2 F2 c8) z2 |^"E" (!tenuto!.B2 E2 E2 B6) !tenuto!.c4 |[1^"Am" A8 z4 !tenuto!.B2 !tenuto!.c2 :|[2^"Am" !fermata!A16 |] %38
 
 X:61
 T:Rue de la Truie qui File
@@ -1144,7 +1146,7 @@ K:C
 V:1 clef=
 V:1
 |:^"Am" E3 A c2 e2 |^"D" ^F8 |^"B" z2 A2 B2 c2 |^"E" B2 A2 ^G2 B2 |^"Am" E2 c2 z2 B2 |^"D" A8 |^"B" ^F3 A B2 c2 |^"E" B8 :|$ %8
-|:^"F" F3 A c2 d2 |^"G" d2 c2 z2 d2 |^"C" e4^"G/B" d4 |^"Am" c4 A4 |^"F" F3 A c2 e2 ||1^"G" d2 c2 z2 d2 |^"C" e2 g6 |^"E" ^g8 :||2^"G" d2 c2 z2 B2 |^"F" c8- | c8 |] %19
+|:^"F" F3 A c2 d2 |^"G" d2 c2 z2 d2 |^"C" e4^"G/B" d4 |^"Am" c4 A4 |^"F" F3 A c2 e2 |[1^"G" d2 c2 z2 d2 |^"C" e2 g6 |^"E" ^g8 :|[2^"G" d2 c2 z2 B2 |^"F" c8- | c8 |] %19
 
 X:62
 T:Samuel scottish
@@ -1160,9 +1162,9 @@ V:1
 |:[P:A]^"Dm" z ABA !tenuto!.dABA |^"Gm" c !tenuto!.B2 B- B4 |^"A" .A2 BA- AG F2 |^"A7" E2 F2 G2 B2 |$ %4
 ^"Dm" z ABA !tenuto!.dABA |^"Gm" c !tenuto!.B2 B- B4 |^"A" .A2 BA- AG !tenuto!.F2 |^"A7" E8 :|$ %8
 |:[P:B]^"Dm" F3 D- D4 |^"Gm" c3 B- B4 |^"A" .A2 B.A z G F2 |^"A7" E2 F2 G2 E2 |$ %12
-^"Dm" F3 D- D4 |^"Gm" c3 B- B4 |||1^"A" .A2 B.A z G F2 |^"A7" E8 :||2^"A" .A2 BA- AB A2 |^"A7" B2 AB- B2 .A2 ||$ %18
+^"Dm" F3 D- D4 |^"Gm" c3 B- B4 ||[1^"A" .A2 B.A z G F2 |^"A7" E8 :|[2^"A" .A2 BA- AB A2 |^"A7" B2 AB- B2 .A2 |[0$ %18
 |:[P:C]^"Dm" A2 z d- d2 e2 |^"E" f3 e- e2 d2 |^"A" ^c3 e-^"A/G" e2 A2 |^"A/F" A3 B-^"A/E" B2 A2 |$ %22
-^"Dm" F4 DE F2 |^"Gm" G4 F4 |||1^"A" E2 .AA- AA .A2 |^"A7" A2 A2 B2 .A2 :||2^"A" E2 .A.A z .A.A.A | z8 |] %28
+^"Dm" F4 DE F2 |^"Gm" G4 F4 ||[1^"A" E2 .AA- AA .A2 |^"A7" A2 A2 B2 .A2 :|[2^"A" E2 .A.A z .A.A.A | z8 |] %28
 
 X:63
 T:Si Jamais
@@ -1206,7 +1208,7 @@ K:C
 V:1 clef=
 V:1
 |:[P:A]^"Am" !tenuto!A4 e2 |^"E/B" !tenuto!^G4 e2 |^"C"{/A} !tenuto!=G6 | z4 E2 |^"Dm" F2 A2 c2 |^"E#9" g2 z2 f2 |^"Am9" PB6 | z2 c2 B2 |$ %8
-^"Am" !tenuto!A2 .e2 .e2 |^"E/B" !tenuto!^G2 .e2 .e2 |^"C"{/A} !tenuto!=G6 | z4 E2 |^"Dm" F2 A2 e2 |^"E#9" d2 B2 G2 ||1^"Am9" B6 | z6 :||2^"Am9" B6 | z4 E2 ||$ %18
+^"Am" !tenuto!A2 .e2 .e2 |^"E/B" !tenuto!^G2 .e2 .e2 |^"C"{/A} !tenuto!=G6 | z4 E2 |^"Dm" F2 A2 e2 |^"E#9" d2 B2 G2 |[1^"Am9" B6 | z6 :|[2^"Am9" B6 | z4 E2 ||$ %18
 [P:B]^"Dm" F2 A2 c2 |^"Em" g4 f2 |^"Fmaj7" e4 z2 | Ma4 g2 |^"Cmaj7" e6 |^"Dm" f4 e2 |^"E7" B6 | z2 c2 B2 |$ %26
 ^"Dm" A2 c2 a2 |^"Em" g2 z2 d2 |^"Fmaj7" Me4 z2 | c'4 b2 |^"C" e6 |^"Dm" f2 z2 e2 |^"E" B6- | B6 ||$ %34
 [P:A']^"Am" !tenuto!A4 e2 |^"E/B" !tenuto!P^G4 e2 |^"Cmaj7" !tenuto!=G6 | z4 E2 |^"Dm" F2 A2 c2 |^"E#9" g4 f2 |^"Am9" B6 | z6 |$ %42
@@ -1227,15 +1229,15 @@ V:2 clef=bass
 V:1
 |:[P:A]^"Gm"!mf! (D2 G2 B2 d2 c2) | (e2 d2) d2 c2 B2 |^"D" c6 c2 d2 | c6- c4 |^"Gm"!p! D2 G2 B2 d2 c2 | e2 (d2 d2) c2 B2 |^"D" c6 c2 d2 | c6- c4 |^"Bb"!mf! [DFB]6 B2 c2 | [DFB]6- [DFB]4 |$ %10
 ^"Am7b5"!mp! [C^FA]6 A2 B2 | [C^FA]6- [CFA]4 |^"Eb/G"!p! [B,EG]6 G2 A2 | [B,EG]6- [B,EG]4 |^"D7/F#" [CD^FA]6 A2 B2 | A2!mp! D2 D2 E2 D2 :|$ %16
-|:[P:B]^"Gm7" d2 e2 d2 e2 d2 | e2 d2 d2 c2 B2 |^"Cm/G" c6 c2 d2 | c6- c4 |^"D/G" c2 d2 c2 d2 c2 | d2 c2 c2 B2 A2 |^"Gm" B6 B2 c2 | B6- B4 |^"Gm/F" B2 c2 B2 c2 B2 ||1 d6 B4 |$ %26
-^"Gm/Eb" G6 G2 A2 | G6- G4 |^"Dm11" A2 B2 c2 A2 B2 | A6- A4 |^"D" [^FA]6- [FA]4- | [FA]6- [FA]4 :||2 d6 a4 |^"Gm/Eb" g6 d2 B2 | G6- G4 ||^"Dm11" A2 B2 c2 A2 B2 | A6 z2 G2 |$ %37
+|:[P:B]^"Gm7" d2 e2 d2 e2 d2 | e2 d2 d2 c2 B2 |^"Cm/G" c6 c2 d2 | c6- c4 |^"D/G" c2 d2 c2 d2 c2 | d2 c2 c2 B2 A2 |^"Gm" B6 B2 c2 | B6- B4 |^"Gm/F" B2 c2 B2 c2 B2 |[1 d6 B4 |$ %26
+^"Gm/Eb" G6 G2 A2 | G6- G4 |^"Dm11" A2 B2 c2 A2 B2 | A6- A4 |^"D" [^FA]6- [FA]4- | [FA]6- [FA]4 :|[2 d6 a4 |^"Gm/Eb" g6 d2 B2 | G6- G4 |[0^"Dm11" A2 B2 c2 A2 B2 | A6 z2 G2 |$ %37
 ^"D" [^FA]6- [FA]4- | [FA]6- [FA]4 ||[P:A']^"Gm"!f! (D2 G2 B2 d2 c2) | (e2 d2) d2 c2 B2 |^"D7" c6 c2 d2 | c6- c4 |^"Gm"!mp! D2 G2 B2 d2 c2 | e2 (d2 d2) c2 B2 |^"D7" c6 c2 d2 | c6- c4 |^"Bb"!f! [DFB]6 [DFB]2 c2 |$ %48
  [DFB]6- [DFB]4 |^"Gbm7b5"!mf! [C^FA]6 [CFA]2 B2 | [C^FA]6- [CFA]4 |^"Eb"!mp! [B,EG]6 [B,EG]2 A2 | [B,EG]6- [B,EG]4 |^"D7""^rit." [CD^FA]6[Q:1/4=200] A2[Q:1/4=190] B2[Q:1/4=220][Q:1/4=210] |[Q:1/4=180] [CD^F]6-[Q:1/4=150] [CDF]4[Q:1/4=170][Q:1/4=160][Q:1/4=140] |^"Gm"[Q:1/4=130] !fermata![B,DG]6-[Q:1/4=100] [B,DG]4 |] %56
 V:2
 |: G,,2 D,2 G,2 B,2 A,2 | C2 B,2 B,2 A,2 G,2 | D,2 A,2 C2 E2 ^F2 | E2 C2 A,2 ^F,2 D,2 | G,,2 D,2 G,2 B,2 A,2 | C2 B,2 B,2 A,2 G,2 | D,2 A,2 C2 E2 ^F2 | E2 C2 A,2 ^F,2 D,2 | (B,,2 F,2 B,6) | B,,2 F,2 B,2 B,,2 F,2 |$ %10
  (A,,2 ^F,2 A,6) | A,,2 ^F,2 A,2 A,,2 F,2 | (G,,2 E,2 G,6) | G,,2 E,2 G,2 G,,2 E,2 | (^F,,2 D,2 A,6) | ^F,,2 D,2 A,2 D,,2 A,,2 :|$ %16
-|: G,2 [FG]2 [FG]2 G,2 [FG]2 | G,2 [FG]2 [FG]2 G,2 [FG]2 | G,2 [EG]2 [EG]2 G,2 [EG]2 | G,2 [EG]2 [EG]2 G,2 [EG]2 | G,2 [D^F]2 [DF]2 G,2 [DF]2 | G,2 [D^F]2 [DF]2 G,2 [DF]2 | G,2 [DG]2 [DG]2 G,2 [DG]2 | G,2 [DG]2 [DG]2 G,2 [DG]2 | F,2 [DG]2 [DG]2 F,2 [DG]2 ||1 F,2 [DG]2 [DG]2 F,2 [DG]2 |$ %26
- E,2 D2 G2 E,2 D2 | E,2 D2 G2 E,2 D2 | D,2 [DG]2 [DG]2 D,2 [DG]2 | D,2 [DG]2 [DG]2 D,2 [DG]2 | D,2 D2 D2 D,2 D2 | D,2 D2 D2 D,2 D2 :||2 F,2 [DG]2 [DG]2 F,2 [DG]2 | E,2 D2 G2 E,2 D2 | E,2 D2 G2 E,2 D2 || D,2 D2 G2 D,2 D2 | D,2 D2 G2 D,2 D2 |$ %37
+|: G,2 [FG]2 [FG]2 G,2 [FG]2 | G,2 [FG]2 [FG]2 G,2 [FG]2 | G,2 [EG]2 [EG]2 G,2 [EG]2 | G,2 [EG]2 [EG]2 G,2 [EG]2 | G,2 [D^F]2 [DF]2 G,2 [DF]2 | G,2 [D^F]2 [DF]2 G,2 [DF]2 | G,2 [DG]2 [DG]2 G,2 [DG]2 | G,2 [DG]2 [DG]2 G,2 [DG]2 | F,2 [DG]2 [DG]2 F,2 [DG]2 |[1 F,2 [DG]2 [DG]2 F,2 [DG]2 |$ %26
+ E,2 D2 G2 E,2 D2 | E,2 D2 G2 E,2 D2 | D,2 [DG]2 [DG]2 D,2 [DG]2 | D,2 [DG]2 [DG]2 D,2 [DG]2 | D,2 D2 D2 D,2 D2 | D,2 D2 D2 D,2 D2 :|[2 F,2 [DG]2 [DG]2 F,2 [DG]2 | E,2 D2 G2 E,2 D2 | E,2 D2 G2 E,2 D2 |[0 D,2 D2 G2 D,2 D2 | D,2 D2 G2 D,2 D2 |$ %37
  D,2 A,2 D2 D,2 A,2 | D,2 A,2 D2 D,2 A,2 || G,,2 D,2 G,2 B,2 A,2 | C2 B,2 B,2 A,2 G,2 | D,2 A,2 C2 E2 ^F2 | E2 C2 A,2 ^F,2 D,2 | G,,2 D,2 G,2 B,2 A,2 | C2 B,2 B,2 A,2 G,2 | D,2 A,2 C2 E2 ^F2 | E2 C2 A,2 ^F,2 D,2 | (B,,2 F,2 B,6) |$ %48
  B,,2 F,2 B,2 B,,2 F,2 | (^F,,2 E,2 A,6) | ^F,,2 E,2 A,2 F,,2 E,2 | (E,,2 B,,2 G,6) | E,,2 B,,2 G,2 E,,2 B,,2 | (D,,2 A,,2 ^F,6) | D,,2 A,,2 ^F,2 D,,2 A,,2 | !fermata![G,,,G,,]6- [G,,,G,,]4 |] %56
 
@@ -1256,8 +1258,8 @@ V:1
 ^"Cm" [eg]4 e2^"Cm6" [df]2 d2 |^"Cm7" ([ce]2 !tenuto!.c2 !tenuto!.c2 !tenuto!.c2 !tenuto!.c2) |^"Am7b5/C" [ceg]4 e2^"Cm6" [df]2 d2 |^"Cm" c8 z2 ||$ %17
 |:[P:B]^"Cm10" z2 c2 e2 g2 b2 |^"Ab6/C" a6 a2 b2 |^"Cm710" g6 g4 |^"Cm69" f8 z2 |$ %21
 ^"Cm10" z2 c2 e2 g2 b2 |^"Ab6/C" a6 a2 b2 |^"Cm710" g6 e4 |^"Cm69" d8 z2 :|$ %25
-|:[P:C]^"Cm10" z2 !tenuto!.[Gc]2 !tenuto!.[Gc]2 !tenuto!.[Gc]2 !tenuto!.[Gc]2 |^"C9sus4" [Gc]2 !tenuto!.[FB]2 !tenuto!.[FB]2 !tenuto!.[FB]2 [Gc]2 |^"Cm" [EG]6 [EG]4 ||1^"Cm2" [DF]8 z2 :||2^"C7sus4" [FB]8 z2 ||$ %30
-|:^"Cm10" z2 !tenuto!.[ce]2 !tenuto!.[ce]2 !tenuto!.[ce]2 !tenuto!.[ce]2 |^"C9sus4" [ce]2 !tenuto!.[Bd]2 !tenuto!.[Bd]2 !tenuto!.[Bd]2 [ce]2 |^"Cm" [Gc]6 [Gc]4 ||1^"C272sus4" [FB]8 z2 :||2^"C272sus4" [Fd]8 z2 ||$ %35
+|:[P:C]^"Cm10" z2 !tenuto!.[Gc]2 !tenuto!.[Gc]2 !tenuto!.[Gc]2 !tenuto!.[Gc]2 |^"C9sus4" [Gc]2 !tenuto!.[FB]2 !tenuto!.[FB]2 !tenuto!.[FB]2 [Gc]2 |^"Cm" [EG]6 [EG]4 |[1^"Cm2" [DF]8 z2 :|[2^"C7sus4" [FB]8 z2 ||$ %30
+|:^"Cm10" z2 !tenuto!.[ce]2 !tenuto!.[ce]2 !tenuto!.[ce]2 !tenuto!.[ce]2 |^"C9sus4" [ce]2 !tenuto!.[Bd]2 !tenuto!.[Bd]2 !tenuto!.[Bd]2 [ce]2 |^"Cm" [Gc]6 [Gc]4 |[1^"C272sus4" [FB]8 z2 :|[2^"C272sus4" [Fd]8 z2 |[0$ %35
 ^"Gm7" [FGd]8 z2 | z2 D2 D2 D2 D2 |^"Gsus4" [CDG]8- [CDG]2- | [CDG]8 z2!D.C.! ||$ %39
 O^"Cm" z2 c2 e2 g2 b2 |^"Ab/C" a6 a2 b2 |^"Cm7" g6 g4 |^"F/C" [=Af]8 z2 |^"Ab/C" [Ace]6 [Ace]4 |^"G/C" [G=Bd]8 z2 |^"Gb/C" [_G_B_d]6 [GBd]4 |^"Cm5" [=Gc]8- [Gc]2- | [Gc]8- [Gc]2- |^"Cm9" [Gc]8- [Gc]2- | [Gc]8- [Gc]2 |] %50
 
@@ -1273,7 +1275,7 @@ K:C
 V:1 clef=
 V:1
 |:^"Am" A2 !tenuto!.e2 !tenuto!.e2 f3 e |^"Dm" d8 z2 |^"E7" d2 !tenuto!.B2 !tenuto!.B2 c3 d |^"Am" c8 z2 |^"F6" A2 !tenuto!.c2 !tenuto!.c2 d3 c |^"Dm" B8 z2 |$ %6
-|1,3^"E7" B2 !tenuto!.B2 !tenuto!.B2 c3 d |^"Am" e8 z2 :||2,4^"E7" B2 !tenuto!.^G2 !tenuto!.G2 A3 B |^"Am" A8 z2!fine! :|$ %10
+|1,3^"E7" B2 !tenuto!.B2 !tenuto!.B2 c3 d |^"Am" e8 z2 :|[2,4^"E7" B2 !tenuto!.^G2 !tenuto!.G2 A3 B |^"Am" A8 z2!fine! :|$ %10
 ^"Am" A6 E4 |^"Dm" F6 G2 A2 |^"Am" c6 E4 |^"Dm" D6 E2 F2 |^"Am" A6 E4 |^"Dm" F6 G2 A2 |^"Am" c6 c4 |^"E7" B8 z2!D.C.! |] %18
 
 X:69
@@ -1289,10 +1291,10 @@ V:1 clef=
 V:1
  z E FE ^DE |:^"Am" c3 E cE | c3 E cd |^"E7" c2 B^A B2- | BD ED ^CD | B3 E BE |$ %6
  B3 E Bc |^"Am" B2 A^G A2- | AE FE ^DE |^"A7" A3 ^G A_B | A2 G2 F2 |^"Dm" E2 DE F2- |$ %12
-^"Dm" FF ED CB, |^"Am" A,B, CD EF |^"E7" EF ED CB, |^"Am" A,A, CA, EA, ||1 AE FE ^DE :||2 A2 z E EE ||$ %18
+^"Dm" FF ED CB, |^"Am" A,B, CD EF |^"E7" EF ED CB, |^"Am" A,A, CA, EA, |[1 AE FE ^DE :|[2 A2 z E EE |[0$ %18
 |:^"E7" ed Ee dE | ed Ee dE |^"Am" dc Ed cE | dc Ed cE |^"E7" cB Ec BE | cB Ec BE |$ %24
 ^"Am" BA EB AE | BA EB AE |^"A7" AG EA GE | AG EA GE |^"Dm" G2 FE F2 | z F ED CB, |$ %30
-^"Am" A,B, CD EF |^"E7" EF ED CB, ||1^"Am" A,2 CA, EA, | AE FE ^DE :||2^"Am" A,2 (3CA,C (3ECE || A4 z2 |] %36
+^"Am" A,B, CD EF |^"E7" EF ED CB, |[1^"Am" A,2 CA, EA, | AE FE ^DE :|[2^"Am" A,2 (3CA,C (3ECE |[0 A4 z2 |] %36
 
 X:70
 T:Venyvalse
@@ -1305,8 +1307,8 @@ I:linebreak $
 K:C
 V:1 clef=
 V:1
- A2 B2 |:^"F#m7b5" c6- c4 |^"Fmaj7" B8 z2 |^"Am9/E" B2 A2 E2 B2 A2 | B4 A2 A2 B2 |^"F#m7b5" c8 z2 |^"Fmaj7" B8 c2 |^"Am/E" A8 z2 ||1 z6 A2 B2 :||2 z6 e2 d2 ||$ %10
+ A2 B2 |:^"F#m7b5" c6- c4 |^"Fmaj7" B8 z2 |^"Am9/E" B2 A2 E2 B2 A2 | B4 A2 A2 B2 |^"F#m7b5" c8 z2 |^"Fmaj7" B8 c2 |^"Am/E" A8 z2 |[1 z6 A2 B2 :|[2 z6 e2 d2 |[0$ %10
 |:^"F#m7b5" e8 z2 |^"Fmaj7" d6 c2 B2 |^"Am9/E" d2 c2 A2 d2 c2 | c6 e2 d2 |$ %14
-^"F#m7b5" e8 z2 |^"Fmaj7" d6 c2 B2 |^"Am/E" c8 z2 ||1 z6 e2 d2 :||2 z6 A2 B2 ||$ %19
+^"F#m7b5" e8 z2 |^"Fmaj7" d6 c2 B2 |^"Am/E" c8 z2 |[1 z6 e2 d2 :|[2 z6 A2 B2 |[0$ %19
 ^"F#m7b5" c8 z2 |^"E7/G#" d6 c2 d2 |^"Am" e8 z2 |^"G7/B" d2 e2 f2 e2 d2 |^"C" e8 z2 |^"Dm11" g6 f4 |^"E" B8 z2 | z6 e2 g2 |^"Am" a8 z2 |^"E7/G#" g6 e4 |^"C/G" c2 d2 e2 c4 |^"F#m7b5" A6 A2 B2 |$ %31
 ^"Fmaj7" c2 d2 e2 A4 |^"Dm" A6 B2 c2 |^"E" B8 z2 |^"E7" z6 A2 B2 |^"F#m7b5" c8 z2 |^"Fmaj7" B8 z2 |^"Am9/E" B2 A2 E2 B2 A2 | B4 A2 A2 B2 |^"F#m7b5" c8 z2 |^"Fmaj7" B6 B2 c2 |^"Am/E" A8- A2- |^"Am" A8- A2 |] %43
