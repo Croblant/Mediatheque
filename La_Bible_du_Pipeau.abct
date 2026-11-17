@@ -654,7 +654,6 @@ V:1
 X:27
 T:Britches full of stiches
 T:Polka
-Z:G=G
 L:1/8
 M:2/4
 I:linebreak $
@@ -980,7 +979,7 @@ V:1
  (D3 F) | (GD) F(G/D/) |{/d} F4 | ((A3 D)) | F4 |$ %28
  (F2 (c)G) | A4 | (c2 (GA)) | A (c2 A) | (G2 (DF) | G4) |$ %34
  (A>c) D2 | (F3 G) | D2 (FG) |{/G} A4 | (G>A) GF | (G2 D2) |$ %40
-{/d} F2 (GF) | (D3 F) | (G>A) GF | G2 D2 | F>A (GD) | (F4 | F4) |] %47
+{/d} F2 (GF) | (D3 F) | (G>A) GF | G2 D2 | F>A (GD) | F4- | F4 |] %47
 
 X:42
 T:Chinois : Le paon doré danse doucement / 金孔雀轻轻跳
@@ -1423,7 +1422,6 @@ X:58
 T:Du rhum des femmes
 T:Album "Première Bordée" (1988)
 C:Soldat louis
-Z:Soldat louis
 L:1/8
 M:4/4
 I:linebreak $
@@ -1919,7 +1917,6 @@ X:74
 T:Djelem, Djelem / Gelem, Gelem
 T:Hymne rom
 C:Žarko Jovanović
-Z:G=
 L:1/8
 M:4/4
 I:linebreak $
@@ -1943,7 +1940,6 @@ X:75
 T:Ging Gang Gooli
 T:Traditionnel Scout
 C:Robert Baden Powell
-Z:G=
 L:1/8
 M:2/4
 I:linebreak $
@@ -2019,7 +2015,6 @@ I:linebreak $
 K:F
 V:1 clef=
 V:2 clef=perc stafflines=1
-K:none
 I:percmap E B 45 normal
 V:1
 ^"Dm""^Marche alerte"!p! F6 F2 |^"A7" G2^"Dm" F2^"A7" E2^"Dm" D2 |^"A7" ^C2^"Dm" D2^"A7" E4- | E6 .E2 |^"A7" !tenuto!G6 G2 |^"A7"!<(! B2^"Dm" A2^"A7" G2^"Dm" F2!<)! |^"A7" !tenuto!G4^"F"!f! !>!A4- |$ %7
@@ -2027,7 +2022,7 @@ V:1
 ^"F"!f! A6 !>!A2 |^"C" G6 !>!G2 |^"A7" E6 !>!E2 |^"Dm" F6 !>!G2 |^"F" A6!p! A2 |^"A7" !tenuto!c8 |^"F" c4^"Gm"!<(! (d2 c2)!<)! | (B2 A2)^"F" c4 |^"Gm"!f! B8- | B2 B2^"Dm" c4- |$ %26
  c2^"Gm" B2 A2 G2 |^"C7" B4^"F" A4 |^"A7"!<(! !tenuto!A4^"Dm" !tenuto!A4!<)! |^"Gm" !>!A4^"A7" G4- | G4^"F" !>!A2 G2 | F2 E2^"Dm" F4 |^"Gm" E8 |^"Dm" D4 D4 |^"Dm" !>!d6 z2 |^"Dsus4" D6 z2!D.C.! |] %36
 V:2
-[K:C] E2 EE E2 E2 | E4 E4 | E2 EE E2 E2 | E4 E4 | E2 EE E2 E2 | E4 E4 | E2 EE E2 E2 |$ %7
+[K:none] E2 EE E2 E2 | E4 E4 | E2 EE E2 E2 | E4 E4 | E2 EE E2 E2 | E4 E4 | E2 EE E2 E2 |$ %7
  E4 E4 | E2 EE E2 E2 | E4 E4 | E2 EE E2 E2 | E4 E4 | E2 EE E2 E2 | E4 E4 | E2 EE E2 E2 | E4 E4 |$ %16
  E2 EE E2 E2 | E4 E4 | E2 EE E2 E2 | E4 E4 | E2 EE E2 E2 | E4 E4 | E2 EE E2 E2 | E4 E4 | E2 EE E2 E2 | E4 E4 |$ %26
  E2 EE E2 E2 | E4 E4 | E2 EE E2 E2 | E4 E4 | E2 EE E2 E2 | E4 E4 | E2 EE E2 E2 | E4 E4 | E2 EE E2 E2 | E4 E4 |] %36
@@ -2127,7 +2122,6 @@ X:83
 T:Hocu babo da se zenim
 T:Traditionnel Serbe - "Je veux me marier, grand-mère"
 T:Interprété notamment par Dusan Kostic en 1979
-Z:G=
 L:1/8
 M:2/2
 I:linebreak $
@@ -2895,7 +2889,6 @@ w: qui ja-|mais ne l'ou- bli-|a|mais ne l'ou- bli-|a|
 
 X:109
 T:Kerry Polka
-Z:G=G
 L:1/8
 M:2/4
 I:linebreak $
@@ -2909,7 +2902,6 @@ X:110
 T:Kiz Neman
 T:Chant d'amour arménien
 C:Sayat Nova
-Z:G=Gb
 L:1/8
 M:3/4
 I:linebreak $
@@ -3291,7 +3283,6 @@ T:La Ballade Nord Irlandaise
 T:Album "Marchand de cailloux" (1991)
 T:Adaptation du traditionnel irlandais " Water is deep"
 C:Renaud Séchan
-Z:G=F
 L:1/8
 M:4/4
 I:linebreak $
@@ -3929,7 +3920,6 @@ T:Le Baiser du Vampire
 T:Chanson de colo issue de l'album
 T:"Les chansons qui balançent vol. 1 & 2"
 C:Jean Yves LE DUC
-Z:Il n'avaiT qu'un denTier
 L:1/8
 M:6/8
 I:linebreak $
@@ -4197,7 +4187,6 @@ T:Le Temps des Cerises
 T:Cette chanson de 1866, bien qu'antérieure, est fortement associée à la Commune de Paris de 1871,
 T:l'auteur étant lui-même un communard ayant combattu pendant la Semaine sanglante.
 C:Antoine Renard
-Z:Jean Baptiste Clément
 %%score 1 2
 L:1/8
 Q:3/8=50
@@ -4659,8 +4648,6 @@ X:165
 T:L'histoire d'un amour
 T:Boléro - Interprété par Dalida en 1957
 C:Carlos Almaran
-Z:Tempo de Bolero
-Z:JMiB
 %%score [ 1 2 ]
 L:1/8
 M:2/2
@@ -5201,7 +5188,6 @@ w: _ les hom- mes|sont des frè- res|quand la joie u-|nit les coeurs.|
 
 X:184
 T:Off She Goes Jig
-Z:G=G
 L:1/8
 M:6/8
 I:linebreak $
@@ -5904,7 +5890,6 @@ X:212
 T:Sanie Cu Zurgulai / Johnny tu n'es pas un ange
 T:Traditionnel roumain
 C:Richard Stein
-Z:G=
 L:1/8
 Q:1/4=210
 M:4/4
@@ -6263,7 +6248,6 @@ I:linebreak $
 K:F
 V:1 clef=
 V:2 clef=perc stafflines=1
-K:none
 I:percmap E B 45 normal
 V:1
 "^Andantino"!p! z8 | z2 D2 F2 G2 |{/F} A4 G/A/G/A/(3GFG | A2 G2 F2 E2 | F2 D6- |$ %5
@@ -6272,7 +6256,7 @@ V:1
  !tenuto!d4 !arpeggio![Adf]4 ed ^cd e2 || d4 (B3 B/B/) | A4 GAFG | A2 F2 E2 F2 |{D} d8 | d4 GA B2 | d !>!A3- A4 |$ %24
 {A} G4 EF G2 | A !>!F3- F4- | FzDE F2 G2 | E2 F2- F3 E | D8 | [Dd]8- :|!pp! [Dd]4 z4 |] %31
 V:2
-[K:C] E2 EE E2 E2 | E2 EE E2 E2 | E2 EE E2 E2 | E2 EE E2 E2 | E2 EE E2 E2 |$ %5
+[K:none] E2 EE E2 E2 | E2 EE E2 E2 | E2 EE E2 E2 | E2 EE E2 E2 | E2 EE E2 E2 |$ %5
  E2 EE E2 E2 | E2 EE E2 E2 | E2 EE E2 E2 || z12 || E2 EE E2 E2 | E2 EE E2 E2 |$ %11
  E2 EE E2 E2 | E2 EE E2 E2 | E2 EE E2 E2 | E2 EE E2 E2 | E4 z4 || z12 ||$ %17
  z14 || E2 EE E2 E2 | E2 EE E2 E2 | E2 EE E2 E2 | E2 EE E2 E2 | E2 EE E2 E2 | E2 EE E2 E2 |$ %24
@@ -6554,7 +6538,6 @@ V:1
 
 X:234
 T:The Galway Belle Polka
-Z:G=G
 L:1/8
 M:2/4
 I:linebreak $
@@ -6841,7 +6824,6 @@ w: ||||
 X:242
 T:Chevaliers de la table ronde
 T:Chanson à boire traditionnelle française
-Z:G=G
 L:1/8
 M:4/4
 I:linebreak $
