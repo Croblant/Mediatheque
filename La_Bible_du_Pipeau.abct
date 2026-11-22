@@ -1747,20 +1747,15 @@ X:67
 T:Far Away
 T:Valse
 C:Pete Jung
-%%score [ 1 2 ]
 L:1/8
 Q:1/4=128
 M:3/4
 I:linebreak $
 K:D
 V:1 clef=
-V:2 clef=bass
 V:1
 |: A FA |^"Bm" B3 A Bd |^"A" cA F2 FA |^"G" B3 A Bd |^"A" c4 dc |^"Bm" B3 A Bd |^"A" cB A2 de |^"G" fe d^"A"c BA |^"Bm" B3 :|$ %9
 |:^"Bm" c de |^"D" f3 e fa |^"A" ec A2 de |^"D" f3 e fa |^"A" e4 de |^"Bm" fd B^"A"e cA |^"G" dB Gd BG |^"F#m" F2 B2 A2 |^"Bm" B3 :| %18
-V:2
-|: z2 z | B,,2 [D,F,B,] z [D,F,B,]/ z3/2 | A,,2 [E,A,C] z [E,A,C]/ z3/2 | G,,2 [D,G,B,] z [D,G,B,]/ z3/2 | A,,2 [E,A,C] z [E,A,C]/ z3/2 | B,,2 [D,F,B,] z [D,F,B,]/ z3/2 | A,,2 [E,A,C] z [E,A,C]/ z3/2 | G,,3 A,,3 | B,,2 [D,F,B,] :|$ %9
-|: B,,2 [D,F,B,] | D,,2 [D,F,A,] z [D,F,A,]/ z3/2 | A,,2 [E,A,C] z [E,A,C]/ z3/2 | D,,2 [D,F,A,] z [D,F,A,]/ z3/2 | A,,2 [E,A,C] z [E,A,C]/ z3/2 | B,,3 A,,3 | G,,2 [D,G,B,] z [D,G,B,]/ z3/2 | F,,2 [F,A,C] z [F,A,C]/ z3/2 | B,,2 [D,F,B,] :| %18
 
 X:68
 T:Farandole de l'olivier
@@ -5532,21 +5527,12 @@ X:201
 T:Prendre un enfant
 T:Album "Yves Duteil" (1977)
 C:Yves Duteil
-%%score 1 2
 L:1/8
 M:4/4
 I:linebreak $
 K:F
 V:1 clef=
-V:2 clef=
 V:1
-^"F" (3[Acf]2 [Bfg]2 [cfa]2 (3[cfa]2 [Bfg]2 [cfa]2 | [F,f] c F,/ f/ A [F,a] [Af] C/ c/ A | [Fcf] F,/ B/- B [cfa] [Ccfa] C/ [cfb]/ C c' |^"C7" [Cg] G C/ B/ G e C/ B/ G/ e/ C |$ %4
- [Beb] C/ [Beb]/ G^"C13" [Bea]^"C7" [CBeg] G/ [Beg]/ G^"Csus4" [Bf] |^"C7" [Be] G/ [Be]/ G [Bd] [Gce] C G/ c/ C | [GBe] C/ [Be]/ C [Bd] [ce] C/ c/ C B |^"F" [F,cf] A C/ c/ A [cfa]4 |$ %8
- (3[Acf]2 [Bfg]2 [cfa]2 (3[cfa]2 [Bfg]2{[Bfg]} [cfa]2 | [F,f] c F,/ f/ A [F,a] [Af] C/ c/ A |^"F13" [F,_ead'] F/ [ead']/ F [ead'] [F,ead'] F/^"Fb13" [ea^c']/ F^"F9" [ea=c'] |^"Bb" [B,F] [dfb] B,/ d/ F [Fdfb] B, F/ d/ F |$ %12
-^"Bb6" [B,Bdg] F/^"Bbmaj7" [Bda]/ F^"Bb5" [Bdb] [B,Bdb] F/ [Bda]/ F^"Bb6" [Bdg] |^"F" [Ccfa] F/^"Fsus4" [cfb]/ F^"Fpower" [cfc'] [Ccfc'] F C/ f/ c |[1^"C7" [CBeg] G/ [Beg]/ C^"C13" [Bea]^"C7" [CBeb] G/ [Bea]/ C [Beg] |^"F" [F,cf] A C/ c/ A [F,Acf]4 :|$ %16
-|2^"C7" [CBeg] G/ [Beg]/ C^"C13" [Bea]^"C7" [CBeb] G/ [Bea]/ C [Beg] |^"F" [F,cf] A C/ c/ A [F,Acf]4 :|[3^"C7" [CBec']3/2 [Bec']/ C [Bec'] [CBec']3/2 [Be_c']/ C [Beb] |^"F" [F,cfa] F/ [cfa]/ F [Bfg] [F,Acf] F,/ [Acf]/ F, [Fc_e] |[0$ %20
-^"Bb6" [B,Bdg] F/^"Bbmaj7" [Bda]/ F^"Bb5" [Bdb] [B,Bdb] F/ [Bda]/ F^"Bb6" [Bdg] |^"F" [Ccfa] F/^"Fsus4" [cfb]/ F^"Fpower" [cfc'] [Ccfc'] F C/ f/ c |^"C7" [CBeg] G/ [Beg]/ C^"C13" [Bea]^"C7" [CBeb] G/ [Bea]/ C [Beg] |^"F" [F,cf] A C/ c/ A [F,Acf]4 |] %24
-V:2
 ^"F" (3F2 G2 A2 (3A2 G2 A2 | F6 z2 | F3/2G3/2A A3/2B3/2c |^"C7" G4 z4 |$ %4
 w: 1.~Prendr' un en- fant par la|main *|pour l'em- me- ner vers de-|main *|
 w: 2.~Prendr' un en- fant par le|coeur *|pour sou- la- ger ses mal-|heurs *|
@@ -6806,13 +6792,11 @@ X:247
 T:Veinte años
 T:Habanera de 1935
 C:María Teresa VERA
-%%score 1 2
 L:1/8
 M:4/4
 I:linebreak $
 K:G
 V:1 clef=
-V:2 clef=bass
 V:1
 ^"B7" z2 BB cB^AB |^"Em" ee- e4 z2 | z2 BB cBAG |^"B7" F4 z4 | z2 BB cB^AB |$ %5
 w: * ¿Qué te~im por- ta que te|a- me * *|* Si tú no me quie- res|ya? *|* El a- mor que ya~ha pa|
@@ -6830,15 +6814,6 @@ w: mis- mo * * Que|vein- te a- ños a-|trás * * Con qué|tris- te- za mi-|ra- m
 w: mor que se nos|va * * Es|* un pe- da- zo del-|al- ma * Que~ se~ar-|ran- ca sin- pie-|
 ^"Em" E4 z4 |^"Am" z ABc^"B7" e ^d2 f |^"Em" e3 B2 z [GB][GB] |^"F#7" [Gg]3 [Ge]^"B7" [Ff]3 [F^d] |^"Em" [Ee]4 z4 |] %40
 w: dad *|* Es un pe- da- zo del|al- ma * Que se~ar-|ran- ca sin pie-|dad *|
-V:2
- z2 G, G, G, G, G, G, | G, G,- G,4 z2 | z2 G, G, A, G, F, E, | ^D,4 z4 | z2 F, G, F, F, G, ^G, |$ %5
- A,3 C- C B,2 A, | G, F,- F,2 z B,,2 B,, | G,4 z2 z2 | z2 E, E, F, E, E, E, | ^G, G,2 z z2 B,2 |$ %10
- C B,- B,2 z E, F, ^G, | A,4 z2 z2 | z G, G, F, A,2 B, A, | G,2 E,2 z2 C, C, | B,,3 B,, _E,3 E, |$ %15
- E,2 z2 z4 | z A, A, A, A,2 G, F, | G,2 E,2 z2 C, C, | B,,3 B,, ^D,3 D, | E,4 z2 D, D, |$ %20
- F, E,- E,2 z2 A, A, | C F,- F,2 z2 D, D, | C3 C2 B, A,2 | G,2 z2 z2 B,, B,, | ^D,3 D,2 F,2 E, |$ %25
- E, ^D,- D,2 z2 z B,, | F,3 F, F,2 E, F, | G,2 z2 z E,2 E, | ^G,3 G,2 B,2 A, | A, ^G,- G,2 z E,2 E, |$ %30
- E,3 E,2 A, B,2 | C4 z2 z G,- | (3G,2 F,2 G,2 A,2 B, A, | G,2 E,2 z2 B,, B,, | ^A,,3 B,, ^D,3 B,, |$ %35
- G,,4 z4 | z [F,A,] [F,A,] [G,A,] A,2 G, F, | G,3 E,- E, z [B,,G,] [B,,G,] | [^A,,B,]3 [B,,G,] [^D,A,]3 [D,F,] | [E,G,]4 z4 |] %40
 
 X:248
 T:Walking in the Air
@@ -7003,8 +6978,7 @@ w: |||||
 X:254
 T:Yesterday
 T:Album Help! (1965)
-C:The Beatles
-John Lennon and Paul McCartney
+C:The Beatles - John Lennon and Paul McCartney
 L:1/8
 M:2/2
 I:linebreak $
