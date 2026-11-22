@@ -2015,17 +2015,17 @@ I:linebreak $
 K:F
 V:1 clef=
 V:2 clef=perc stafflines=1
-I:percmap E B 45 normal
+I:percmap B B 45 normal
 V:1
 ^"Dm""^Marche alerte"!p! F6 F2 |^"A7" G2^"Dm" F2^"A7" E2^"Dm" D2 |^"A7" ^C2^"Dm" D2^"A7" E4- | E6 .E2 |^"A7" !tenuto!G6 G2 |^"A7"!<(! B2^"Dm" A2^"A7" G2^"Dm" F2!<)! |^"A7" !tenuto!G4^"F"!f! !>!A4- |$ %7
  A4^"A7" A4 |^"Gm" d4^"C7" c2^"Gm" B2 |^"C7" A2^"Gm" G2^"C7" B4 |^"F" !>!A4^"A7" !>!A4 |^"Gm" !>!A4^"A7" !>!G4- | G4^"Dm" .A2^"A7" .G2 |^"Dm"!>(! .F2^"A7" .E2^"Dm" !tenuto!D4!>)! |^"A7"!p! E6 E2 |^"F" F8 |$ %16
 ^"F"!f! A6 !>!A2 |^"C" G6 !>!G2 |^"A7" E6 !>!E2 |^"Dm" F6 !>!G2 |^"F" A6!p! A2 |^"A7" !tenuto!c8 |^"F" c4^"Gm"!<(! (d2 c2)!<)! | (B2 A2)^"F" c4 |^"Gm"!f! B8- | B2 B2^"Dm" c4- |$ %26
  c2^"Gm" B2 A2 G2 |^"C7" B4^"F" A4 |^"A7"!<(! !tenuto!A4^"Dm" !tenuto!A4!<)! |^"Gm" !>!A4^"A7" G4- | G4^"F" !>!A2 G2 | F2 E2^"Dm" F4 |^"Gm" E8 |^"Dm" D4 D4 |^"Dm" !>!d6 z2 |^"Dsus4" D6 z2!D.C.! |] %36
 V:2
-[K:none] E2 EE E2 E2 | E4 E4 | E2 EE E2 E2 | E4 E4 | E2 EE E2 E2 | E4 E4 | E2 EE E2 E2 |$ %7
- E4 E4 | E2 EE E2 E2 | E4 E4 | E2 EE E2 E2 | E4 E4 | E2 EE E2 E2 | E4 E4 | E2 EE E2 E2 | E4 E4 |$ %16
- E2 EE E2 E2 | E4 E4 | E2 EE E2 E2 | E4 E4 | E2 EE E2 E2 | E4 E4 | E2 EE E2 E2 | E4 E4 | E2 EE E2 E2 | E4 E4 |$ %26
- E2 EE E2 E2 | E4 E4 | E2 EE E2 E2 | E4 E4 | E2 EE E2 E2 | E4 E4 | E2 EE E2 E2 | E4 E4 | E2 EE E2 E2 | E4 E4 |] %36
+[K:none] B2 BB B2 B2 | B4 B4 | B2 BB B2 B2 | B4 B4 | B2 BB B2 B2 | B4 B4 | B2 BB B2 B2 |$ %7
+ B4 B4 | B2 BB B2 B2 | B4 B4 | B2 BB B2 B2 | B4 B4 | B2 BB B2 B2 | B4 B4 | B2 BB B2 B2 | B4 B4 |$ %16
+ B2 BB B2 B2 | B4 B4 | B2 BB B2 B2 | B4 B4 | B2 BB B2 B2 | B4 B4 | B2 BB B2 B2 | B4 B4 | B2 BB B2 B2 | B4 B4 |$ %26
+ B2 BB B2 B2 | B4 B4 | B2 BB B2 B2 | B4 B4 | B2 BB B2 B2 | B4 B4 | B2 BB B2 B2 | B4 B4 | B2 BB B2 B2 | B4 B4 |] %36
 
 X:79
 T:Hallelujah
@@ -3022,14 +3022,11 @@ X:115
 T:L'Élan
 T:Polka
 C:Philippe Plard
-%%score 1 2 3
 L:1/8
 M:2/4
 I:linebreak $
 K:C
 V:1 clef=
-V:2 clef=
-V:3 clef=bass
 V:1
 |:^"Am" z .e2 c- | c.A c2 |^"F" z .f2 c- | .c.A c2 |$ %4
 ^"Dm" z .f2 d- | .d.A .df- |^"F" .f.c .A.c |^"E7" e/d/B/d/ e/d/B/d/ :|$ %8
@@ -3037,20 +3034,6 @@ V:1
 ^"Dm" c/d/c/B/ .A.^G | .A.B .c.A |^"F" c/d/c/B/ .A.c |^"E7" e2 e2 :|$ %16
 |:^"F" f>e .dc |^"G" Bc dG |^"C" e>d .cB |^"Em" cd eg |$ %20
 ^"F" f>e .dc |^"G" Bc dG |^"C" [ce]2 [ce]2 |^"E7" [Be]4!D.S.! :| %24
-V:2
-|: z4 | z4 | z4 | z4 |$ %4
- z4 | z4 | z4 | z4 :|$ %8
-|: z .e c2 | .A c- c .e | z .f c2 | .A c- c .e |$ %12
- z .f d2 | .A d- d f- | f .c .A .c | e/ d/ B/ d/ e/ d/ B/ d/ :|$ %16
-|: .c A2 .f | .G .B .d2 | .c G2 .e | .B .G .e .B |$ %20
- .c A2 .f | .G .B d2 | e/ c/ .G e/ c/ .G | e/ d/ B/ d/ e/ d/ B/ d/ :| %24
-V:3
-|:^"Am" .A,, .[E,A,C] z .[E,A,C] | .A,, .[A,CE] z .[A,CE] |^"F" .F,, .[F,A,C] z .[F,A,C] | .F,, .[F,A,C] z .[F,A,C] |$ %4
-^"Dm" .D, .[F,A,D] z .[F,A,D] | .D, .[F,A,D] z .[F,A,D] |^"F" .F,, .[F,A,C] z .[F,A,C] |^"E7" .E,, .[D,E,^G,B,] z .[D,E,G,B,] :|$ %8
-|:^"Am" .A,, .[E,A,C] z .[E,A,C] | .A,, .[A,CE] z .[A,CE] |^"F" .F,, .[F,A,C] z .[F,A,C] | .F,, .[F,A,C] z .[F,A,C] |$ %12
-^"Dm" .D, .[F,A,D] z .[F,A,D] | .D, .[F,A,D] z .[F,A,D] |^"F" .F,, .[F,A,C] z .[F,A,C] |^"E7" .E,, .[D,E,G,B,] z .[D,E,G,B,] :|$ %16
-|:^"F" .F,, .[F,A,C] z .[F,A,C] |^"G" .G,, .[G,B,D] z .[G,B,D] |^"C" .C,, .[G,CE] z .[G,CE] |^"Em" .E,, .[E,G,B,] z .[E,G,B,] |$ %20
-^"F" .F,, .[F,A,C] z .[F,A,C] |^"G" .G,, .[G,B,] z .[G,B,D] |^"C" .C,, .[E,G,C] z .[E,G,C] |^"E7" .E,, .[D,E,G,B,] z .[D,E,G,B,] :| %24
 
 X:116
 T:L'estaca (Le pieu)
@@ -3375,38 +3358,13 @@ X:128
 T:La Chenille
 T:Tube de la Bande à Basile de 1977
 C:Raymond Jeannot
-%%score { 1 | ( 2 3 ) } 4
 L:1/8
 M:2/2
 I:linebreak $
 K:F
 V:1 clef=
-V:2 clef=bass
-V:3 clef=bass
-V:4 clef=
 V:1
- C4- [CE]4- | [CEG]4- [CEGB]4 |:S"^Refrain" F2 .G .A F2 .G .A | F4 z4 | F2 .G .A c B .A .B | G4 z4 |$ %6
- E2 .F .G E2 .F .G | E4 z4 | E2 .F .G B A .G .A | F4 z4 :|$ %10
-"^Couplets" z f f f f2 d c- | c f f f f2 d c- | c A G F G2 A2 | G A2 G- G2 z2 |$ %14
- z e e g e2 d c- | c e e g e2 d c- | c G G G F2 F2 | G A2 A- A4 |$ %18
- z f f f f2 d c- | c f f f f2 d c- | c c c d G2 G2 | G A2 D- D2 z2 |$ %22
- z e e e e2 d c- | c e e e e2 d c | z c c c c2 c2 | d e2 f- f4 |] %26
-V:2
- C,4 C,4 | C,4 C,4 |: .F,, z .C, z .F,, z .C, z | .F,, z .C, z .F,, z .C, z | .F,, z .C, z .F,, z .C, z | .C, .[C,E,G,B,] .G,, .[C,E,G,B,] .C, .[C,E,G,B,] .G,, .[C,E,G,B,] |$ %6
- .C, .[C,E,G,B,] .G,, .[C,E,G,B,] .C, .[C,E,G,B,] .G,, .[C,E,G,B,] | .C, .[C,E,G,B,] .G,, .[C,E,G,B,] .C, .[C,E,G,B,] .G,, .[C,E,G,B,] | .C, .[C,E,G,B,] .G,, .[C,E,G,B,] .C, .[C,E,G,B,] .G,, .[C,E,G,B,] | .F,, z .C, z .F,, z .C, z :|$ %10
- z4 .F,, z .C, z | .F,, z .C, z .F,, z .C, z | .F,, z .C, z .G,, z .D,, z | .G,, z .D,, z .G,, z .D,, z |$ %14
- .G,, z .D,, z .C, .[C,E,G,B,] .G,, .[C,E,G,B,] | .C, .[C,E,G,B,] .G,, .[C,E,G,B,] .C, .[C,E,G,B,] .G,, .[C,E,G,B,] | .C, .[C,E,G,B,] .G,, .[C,E,G,B,] .B,, z .F,, z | .B,, z .F,, z .F,, z .C, z |$ %18
- .F,, z .C, z .F,, z .C, z | .F,, z .C, z .F,, z .C, z | .F,, z .C, z .G,, z .D,, z | .G,, z .D,, z .G,, z .D,, z |$ %22
- .G,, z .D,, z .C, .[C,E,G,B,] .G,, .[C,E,G,B,] | .C, .[C,E,G,B,] .G,, .[C,E,G,B,] .C, .[C,E,G,B,] .G,, .[C,E,G,B,] | .C, .[C,E,G,B,] .G,, .[C,E,G,B,] .C, .[C,E,G,B,] .G,, .[C,E,G,B,] | .C, .[C,E,G,B,] .G,, .[C,E,G,B,] .F,, z .C, z |] %26
-V:3
- x8 | x8 |: z .[F,A,C] x .[F,A,C] x .[F,A,C] x .[F,A,C] | x .[F,A,C] x .[F,A,C] x .[F,A,C] x .[F,A,C] | x .[F,A,C] x .[F,A,C] x .[F,A,C] x .[F,A,C] | x8 |$ %6
- x8 | x8 | x8 | z .[F,A,C] x .[F,A,C] x .[F,A,C] x .[F,A,C] :|$ %10
- z4 z .[F,A,C] x .[F,A,C] | x .[F,A,C] x .[F,A,C] x .[F,A,C] x .[F,A,C] | x .[F,A,C] x .[F,A,C] x .[G,B,D] x .[G,B,D] | x .[G,B,D] x .[G,B,D] x .[G,B,D] x .[G,B,D] |$ %14
- x .[G,B,D] x .[G,B,D] z4 | x8 | z4 z .[F,B,D] x .[F,B,D] | x .[F,B,D] x .[F,B,D] x .[F,A,C] x .[F,A,C] |$ %18
- x .[F,A,C] x .[F,A,C] x .[F,A,C] x .[F,A,C] | x .[F,A,C] x .[F,A,C] x .[F,A,C] x .[F,A,C] | x .[F,A,C] x .[F,A,C] x .[G,B,D] x .[G,B,D] | x .[G,B,D] x .[G,B,D] x .[G,B,D] x .[G,B,D] |$ %22
- x .[G,B,D] x .[G,B,D] z4 | x8 | x8 | z4 z .[F,A,C] x .[F,A,C] |] %26
-V:4
- C4 E4 | G4 B4 |:^"F" F2 .G.A F2 .G.A |^"F" F4 z4 |^"F" F2 .G.A cB.A.B |^"C" G4 z4 |$ %6
+ C4 E4 | G4 B4 |:S^"F""^Refrain" F2 .G.A F2 .G.A |^"F" F4 z4 |^"F" F2 .G.A cB.A.B |^"C" G4 z4 |$ %6
 w: ||Pose tes deux pieds en ca-|nard *|C'est la che- nille qui 1.se pré-|pare *|
 w: ||||* * * * * 2.3.re- dé-|marre *|
 w: ||Ac- croche tes mains à ma|taille *|Pour pas que la che- nille dé-|raille *|
@@ -3414,7 +3372,7 @@ w: ||Ac- croche tes mains à ma|taille *|Pour pas que la che- nille dé-|raille 
 w: En voi- ture les voy- a-|geurs *|La che- nille part tou- jours à|l'heure *|
 w: ||||
 w: Tout i- ra bien~et si tu|veux *|Prie la che- nille et le bon|Dieu *|
-^"F" z f ff f2 dc- | cf ff f2 dc- | cA GF^"C" G2 A2 | G A2 G3 z2 |$ %14
+^"F""^Couplets" z f ff f2 dc- | cf ff f2 dc- | cA GF^"C" G2 A2 | G A2 G3 z2 |$ %14
 w: * Si tu crois qu'j't'ai pas vue|_ Faire ta p'tite in- gé- nue|_ a- vec Pier- rot dans|le tun- nel *|
 w: * Re- garde l'é- lé- phant bleu|_ Qui danse sur l'arc en ciel|_ Sous les bra- vos des|hi- ron- delles *|
 w: ||||
@@ -4187,14 +4145,12 @@ T:Le Temps des Cerises
 T:Cette chanson de 1866, bien qu'antérieure, est fortement associée à la Commune de Paris de 1871,
 T:l'auteur étant lui-même un communard ayant combattu pendant la Semaine sanglante.
 C:Antoine Renard
-%%score 1 2
 L:1/8
 Q:3/8=50
 M:3/8
 I:linebreak $
 K:C
 V:1 clef=
-V:2 clef=treble-8
 V:1
  x2 G |^"C" ccc |^"Am" c2 c |^"Dm" ddd |^"G7" ddd |^"C" eee |$ %6
 w: * Quand|nous chan- te-|rons le|temps des ce-|ri- ses, Et|gai ros- si-|
@@ -4221,12 +4177,6 @@ w: fle- ra bien|mieux le|mer- le mo-|queur!|
 w: dants de co-|rail qu'on|cueille en rê-|vant!|
 w: au- rez aus-|si des|pei- nes d'a-|mour!|
 w: le sou- ve-|nir que|je garde au|coeur!|
-V:2
- z3 | [ceg]3 | [Ace]3 | [dfa]3 | [GBdf]3 | [ceg]3 |$ %6
- [Ace]3 | [dfa]3 | [GBdf]3 | [ceg]3- | [ceg]3 | [GBdf]3 | [ceg]3 |$ %13
- [FAc]3- | [FAc]3 | [FAc]3 | [ceg]3 | [ceg]3 | [Ace]3 |$ %19
- [dfa]3 | [GBdf]3- | [GBdf]3 | [ceg]3 | [Ace]3 | [dfa]3 | [GBdf]3 |$ %26
- [ceg]3 | [Ace]3 | [GBdf]3 | [ceg]3 |] %30
 
 X:152
 T:Le Temps des Fleurs / Дорогой длинною
@@ -4648,13 +4598,11 @@ X:165
 T:L'histoire d'un amour
 T:Boléro - Interprété par Dalida en 1957
 C:Carlos Almaran
-%%score [ 1 2 ]
 L:1/8
 M:2/2
 I:linebreak $
 K:F
 V:1 clef=
-V:2 clef=bass
 V:1
 |: z2 AA aaag |^"A7" beef g4- | g2 AA gggf |$ %3
 w: |* Mon his- toi- re c'est l'his-|toi- re d'un a- mour|* Ma com- plain- te c'est la|
@@ -4665,12 +4613,12 @@ w: rê- ve sans dor- mir|* Un grand ar- bre qui se|dres- se, * plein de force et
 |1^"Bb" fd z B/c/ ddd^c |^"A7" e8 :|[2^"Bb" fd z B/c/^"A7" d^cfe |[0^"Dm" d8- | d z fe defe |$ %11
 w: |vô- tre * gens d'i- ci ou bien d'ail-|leurs.|* * * Vers le jour qui va ve-|nir.|* * C'est l'his- toi- re d'un a-|
 w: |||dres- se * * * * * * *|||
-^"Gm" g2 gf e2 ed |^"A7" ^c2 z g/f/ efge |^"Dm" a2 ag f2 fe | d2 ag fgaf |^"Gm" b4 b4- |$ %16
-w: mour é- ter- nel et ba-|nal. * Qui ap- por- te cha- que|jour tout le bien tout le|mal. A- vec l'heure où l'on s'en-|la- ce|
-w: |||||
-^"C7" b2 gf efge |^"F" a8- |^"Bb" a z fe defd |^"Gm" g4 g4- |^"E7" g2 gf^"Edim" ed^cB |^"A7" A8- |$ %22
-w: * celle où l'on se dit~: A-|dieu|* * A- vec les soi- rées d'an-|gois- se|* Et les ma- tins mer- veil-|leux...|
-w: ||||||
+^"Gm" g2 gf e2 ed |^"A7" ^c2 z g/f/ efge |^"Dm" a2 ag f2 fe | d2 ag fgaf |$ %15
+w: mour é- ter- nel et ba-|nal. * Qui ap- por- te cha- que|jour tout le bien tout le|mal. A- vec l'heure où l'on s'en-|
+w: ||||
+^"Gm" b4 b4- |^"C7" b2 gf efge |^"F" a8- |^"Bb" a z fe defd |^"Gm" g4 g4- |^"E7" g2 gf^"Edim" ed^cB |^"A7" A8- |$ %22
+w: la- ce|* celle où l'on se dit~: A-|dieu|* * A- vec les soi- rées d'an-|gois- se|* Et les ma- tins mer- veil-|leux...|
+w: |||||||
  A z AA aaag |^"A7" beef g4- | g2 AA gggf |^"Dm" adde f4- |$ %26
 w: * * Mon his- toi- re c'est l'his-|toi- re qu'on con- nait|* Ceux qui s'ai- ment jouent la|mê- me je le sais|
 w: ||||
@@ -4680,15 +4628,6 @@ w: ||||
  d z Ac defg |^"A7" a2- a(3b/a/g/ a2- a(3b/a/g/ | a4- aa/b/ a/g/f/e/ |^"Dm" d2 z2 [fad']2 z2 | [fad']4 z4 |] %35
 w: * * C'est l'his- toi- re d'un a-|mour * * * * * * * * *||||
 w: |||||
-V:2
-|: z8 | A,2 [^CEGA]/ z/ [CEGA]/ z/ A, [CEGA]/ z/ E, [CEGA]/ z/ | A,2 [^CEGA]/ z/ [CEGA]/ z/ A, [CEGA]/ z/ E, [CEGA]/ z/ |$ %3
- D,2 [DFA]/ z/ [DFA]/ z/ D, [DFA]/ z/ A, [DFA]/ z/ | D,2 [DFA]/ z/ [DFA]/ z/ D, [DFA]/ z/ A, [DFA]/ z/ | C,2 [CEG]/ z/ [CEG]/ z/ C, [CEG]/ z/ G, [CEG]/ z/ |$ %6
-|1 B,2 [DFB]/ z/ [DFB]/ z/ B, [DFB]/ z/ F, [DFB]/ z/ | A,2 [^CEGA]/ z/ [CEGA]/ z/ A, [CEGA]/ z/ E, [CEGA]/ z/ :|[2 B,2 [DFB]/ z/ [DFB]/ z/ A, [^CEGA]/ z/ E, [CEGA]/ z/ |[0 D,2 [DFA]/ z/ [DFA]/ z/ D, [DFA]/ z/ A, [DFA]/ z/ | D,2 [DFA]/ z/ [DFA]/ z/ D, [DFA]/ z/ A, [DFA]/ z/ |$ %11
- G,2 [DGB]/ z/ [DGB]/ z/ G, [DGB]/ z/ D, [DGB]/ z/ | A,2 [^CEGA]/ z/ [CEGA]/ z/ A, [CEGA]/ z/ E, [CEGA]/ z/ | D,2 [DFA]/ z/ [DFA]/ z/ D, [DFA]/ z/ A, [DFA]/ z/ | D,2 [DFA]/ z/ [DFA]/ z/ D, [DFA]/ z/ A, [DFA]/ z/ | G,2 [DGB]/ z/ [DGB]/ z/ G, [DGB]/ z/ D, [DGB]/ z/ |$ %16
- C,2 [CEGB]/ z/ [CEGB]/ z/ C, [CEGB]/ z/ G, [CEGB]/ z/ | F,2 [CFA]/ z/ [CFA]/ z/ F, [CFA]/ z/ C, [CFA]/ z/ | B,2 [DFB]/ z/ [DFB]/ z/ B, [DFB]/ z/ F, [DFB]/ z/ | G,2 [DGB]/ z/ [DGB]/ z/ G, [DGB]/ z/ D, [DGB]/ z/ | E,2 [DE_A=B]/ z/ [DEAB]/ z/ E, [EG_B]/ z/ B, [EGB]/ z/ | A,2 [^CEGA]/ z/ [CEGA]/ z/ A, [CEGA]/ z/ E, [CEGA]/ z/ |$ %22
- A,2 [^CEGA]/ z/ [CEGA]/ z/ A, [CEGA]/ z/ E, [CEGA]/ z/ | A,2 [^CEGA]/ z/ [CEGA]/ z/ A, [CEGA]/ z/ E, [CEGA]/ z/ | A,2 [^CEGA]/ z/ [CEGA]/ z/ A, [CEGA]/ z/ E, [CEGA]/ z/ | D,2 [DFA]/ z/ [DFA]/ z/ D, [DFA]/ z/ A, [DFA]/ z/ |$ %26
- D,2 [DFA]/ z/ [DFA]/ z/ D, [DFA]/ z/ A, [DFA]/ z/ | C,2 [CEG]/ z/ [CEG]/ z/ C, [CEG]/ z/ G, [CEG]/ z/ | B,2 [DFB]/ z/ [DFB]/ z/ A, [^CEGA]/ z/ E, [CEGA]/ z/ | D,2 [DFA]/ z/ [DFA]/ z/ D, [DFA]/ z/ A, [DFA]/ z/ ||$ %30
- D,2 [DFA]/ z/ [DFA]/ z/ D, [DFA]/ z/ A, [DFA]/ z/ | A,2 [^CEGA]/ z/ [CEGA]/ z/ A, [CEGA]/ z/ E, [CEGA]/ z/ | A,2 [^CEGA]/ z/ [CEGA]/ z/ A, [CEGA]/ z/ E, [CEGA]/ z/ | D,2 [DFA]/ z/ [DFA]/ z/ D, [DFA]/ z/ A, [DFA]/ z/ | [D,DFA]4 z4 |] %35
 
 X:166
 T:Ma Liberté
@@ -5929,18 +5868,11 @@ w: John- ny|_|John- ny|_|Il faut tout vous|par- don-|* ner|_|
 X:213
 T:Santiano
 C:Hugues Aufrey
-%%score 1 { 2 | ( 3 4 ) } 5 ( 6 7 )
 L:1/8
 M:2/4
 I:linebreak $
 K:G
 V:1 clef=
-V:2 clef=
-V:3 clef=bass
-V:4 clef=bass
-V:5 clef=
-V:6 clef=bass
-V:7 clef=bass
 V:1
  z2 B2 |^"Em" E>E EF | G2 GA |^"Em" B2 B2 |^"D" A2 dd |^"Em" B4- |$ %6
 w: * C'est|un fa- meux trois|mâts fin comm'|un oi-|seau, his- sez|ho!|
@@ -5967,42 +5899,6 @@ w: Si Dieu|veut, tou- jours|droit de- *|vant, nous i-|rons jus-|qu'à San|Fran- 
 w: ||||||||
 w: ||||||||
 w: ||||||||
-V:2
- z2!f! B2 | E3/2 E/ E F | G2 G A | B2 B2 | A2 d d | B4- |$ %6
- B2 (E F | G A A2-) | A4 | A2 A2 | A2 F G | A2 (F E) | .D2 E F |$ %13
- G2 G2 | F2 D2 | !>!E2 !>!E2 | .E2 B2 | E3 F | G2 G A | B2 B2 |$ %20
- A2 d d | B4- | B2 (E F | G A A2-) | A4 |$ %25
- A2 A2 | A2 F G | A2 (F E) | .D2 E F | G2 G2 | F2 D2 | !>!E2 !>!E2 | E4 |] %33
-V:3
- z2 B,,2 | [G,,E,]3/2 [G,,E,]/ [G,,E,] [B,,G,] | [E,G,]2 [B,,E,] [B,,E,] | [E,G,]2 [E,G,]2 | [A,,D,F,]2 F, F, | [D,F,]4- |$ %6
- [D,F,]2 G,, G,, | A,, A,, A,,2- | A,,4 | [E,A,]2 [E,A,]2 | [E,A,]2 [C,E,] [C,A,] | [F,A,]2 [D,A,] [D,F,] | [A,,D,]2 [D,F,] [D,A,] |$ %13
- [G,B,]2 [G,B,]2 | [F,B,]2 [D,F,]2 | [E,G,]2 [E,G,]2 | [E,,B,,E,G,]2 B,,2 | [G,,E,]3 [B,,G,] | [E,G,]2 [B,,E,] [B,,E,] | [E,G,]2 [E,G,]2 |$ %20
- [A,,D,F,]2 F, F, | [D,F,]4- | [D,F,]2 G,, G,, | A,, A,, A,,2- | A,,4 |$ %25
- [E,A,]2 [E,A,]2 | [E,A,]2 [C,E,] [C,A,] | [F,A,]2 [D,A,] [D,F,] | [A,,D,]2 [D,F,] [D,A,] | [G,B,]2 [G,B,]2 | [F,B,]2 [D,F,]2 | [E,G,]2 [E,G,]2 | [E,,B,,E,G,]4 |] %33
-V:4
- x4 | E,,4 | E,,4 | E,,4 | D,,4 | E,,4 |$ %6
- E,,4 | D,,4 | D,,4 | A,,,4 | A,,,4 | D,,4 | D,,4 |$ %13
- E,,4 | B,,,4 | E,,4 | x4 | E,,4 | E,,4 | E,,4 |$ %20
- D,,4 | E,,4 | E,,4 | D,,4 | D,,4 |$ %25
- A,,,4 | A,,,4 | D,,4 | D,,4 | E,,4 | B,,,4 | E,,4 | x4 |] %33
-V:5
- z2!ff! B2 | E3/2 E/ E F | G2 G A | B2 B2 | A2 d d | B4- |$ %6
- B2 (E F | G A A2-) | A4 | A2 A2 | A2 F G | A2 (F E) | .D2 E F |$ %13
- G2 G2 | F2 D2 | !>!E2 !>!E2 | .E2 B2 | E3 F | G2 G A | B2 B2 |$ %20
- A2 d d | B4- | B2 (E F | G A A2-) | A4 |$ %25
- A2 A2 | A2 F G | A2 (F E) | .D2 E F | G2 G2 | F2 D2 | !>!E2 !>!E2 | E4 |] %33
-V:6
- z2!mf! B,,2 | [G,,E,]3/2 [G,,E,]/ [G,,E,] [B,,G,] | [E,G,]2 [B,,E,] [B,,E,] | [E,G,]2 [E,G,]2 | [A,,D,F,]2 F, F, | [D,F,]4- |$ %6
- [D,F,]2 G,, G,, | A,, A,, A,,2- | A,,4 | [E,A,]2 [E,A,]2 | [E,A,]2 [C,E,] [C,A,] | [F,A,]2 [D,A,] [D,F,] | [A,,D,]2 [D,F,] [D,A,] |$ %13
- [G,B,]2 [G,B,]2 | [F,B,]2 [D,F,]2 | [E,G,]2 [E,G,]2 | [E,,B,,E,G,]2 B,,2 | [G,,E,]3 [B,,G,] | [E,G,]2 [B,,E,] [B,,E,] | [E,G,]2 [E,G,]2 |$ %20
- [A,,D,F,]2 F, F, | [D,F,]4- | [D,F,]2 G,, G,, | A,, A,, A,,2- | A,,4 |$ %25
- [E,A,]2 [E,A,]2 | [E,A,]2 [C,E,] [C,A,] | [F,A,]2 [D,A,] [D,F,] | [A,,D,]2 [D,F,] [D,A,] | [G,B,]2 [G,B,]2 | [F,B,]2 [D,F,]2 | [E,G,]2 [E,G,]2 | [E,,B,,E,G,]4 |] %33
-V:7
- x4 | E,,4 | E,,4 | E,,4 | D,,4 | E,,4 |$ %6
- E,,4 | D,,4 | D,,4 | A,,,4 | A,,,4 | D,,4 | D,,4 |$ %13
- E,,4 | B,,,4 | E,,4 | x4 | E,,4 | E,,4 | E,,4 |$ %20
- D,,4 | E,,4 | E,,4 | D,,4 | D,,4 |$ %25
- A,,,4 | A,,,4 | D,,4 | D,,4 | E,,4 | B,,,4 | E,,4 | x4 |] %33
 
 X:214
 T:Sarà perchè ti amo
@@ -6091,27 +5987,16 @@ V:1
 X:217
 T:Scottish à Émilie
 C:Jean-Michel Bencetti
-%%score [ 1 ( 2 3 ) ]
 L:1/8
 Q:1/4=160
 M:4/4
 I:linebreak $
 K:D
 V:1 clef=
-V:2 clef=bass
-V:3 clef=bass
 V:1
 |:^"Bm" F2 B2 d4 |^"F#7/A#" e2 d2 c3 F |^"A" GABc dBed |^"E7/G#" d2 c2 B2 ^A2 |^"G" G2 B2 d4 |^"F#7" c2 B2 ^A4 |^"Em" G=ABc dBcd |^"F#7" e4 f4 :|$ %8
 |:^"Bm" fg f2 efed |^"F#7/A#" efed z c^AF |^"A" Bcdc cBed |^"E7/G#" dcB^A Bcde |$ %12
 ^"G" fg f2 ef e2 |^"F#7" efed z c^AF |^"Em" Bcdc^"F#7" cBed |^"F#7/A#" dc^AF B4!D.C.! :| %16
-V:2
-|: z2 [D,F,B,]/ z3/2 z2 [D,F,B,]/ z3/2 | z2 [E,F,^A,C]/ z3/2 z2 [E,F,A,C]/ z3/2 | z2 [E,A,C]/ z3/2 z2 [E,A,C]/ z3/2 | z2 [D,E,^G,B,]/ z3/2 z2 [D,E,G,B,]/ z3/2 | z2 [D,G,B,]/ z3/2 z2 [D,G,B,]/ z3/2 | z2 [E,F,^A,C]/ z3/2 z2 [E,F,A,C]/ z3/2 | z2 [E,G,B,]/ z3/2 z2 [E,G,B,]/ z3/2 | z2 [E,F,^A,C]/ z3/2 z2 [E,F,A,C]/ z3/2 :|$ %8
-|: z2 [D,F,B,]/ z3/2 z2 [D,F,B,]/ z3/2 | z2 [E,F,^A,C]/ z3/2 z2 [E,F,A,C]/ z3/2 | z2 [E,A,C]/ z3/2 z2 [E,A,C]/ z3/2 | z2 [D,E,^G,B,]/ z3/2 z2 [D,E,G,B,]/ z3/2 |$ %12
- z2 [D,G,B,]/ z3/2 z2 [D,G,B,]/ z3/2 | z2 [E,F,^A,C]/ z3/2 z2 [E,F,A,C]/ z3/2 | z2 [E,G,B,]/ z3/2 F,,2 [E,F,^A,C]/ z3/2 | z2 [E,F,^A,C]/ z3/2 B,,2 [D,F,B,]/ z3/2 :| %16
-V:3
-|: B,,4 x4 | ^A,,4 x4 | A,,4 x4 | ^G,,4 x4 | G,,4 x4 | F,,4 x4 | E,,4 x4 | F,,4 x4 :|$ %8
-|: B,,4 x4 | ^A,,4 x4 | A,,4 x4 | ^G,,4 x4 |$ %12
- G,,4 x4 | F,,4 x4 | E,,4 x4 | ^A,,4 x4 :| %16
 
 X:218
 T:Septembre
@@ -6248,7 +6133,7 @@ I:linebreak $
 K:F
 V:1 clef=
 V:2 clef=perc stafflines=1
-I:percmap E B 45 normal
+I:percmap B B 45 normal
 V:1
 "^Andantino"!p! z8 | z2 D2 F2 G2 |{/F} A4 G/A/G/A/(3GFG | A2 G2 F2 E2 | F2 D6- |$ %5
  D2 D2 F2 G2 | !arpeggio![FA]4{/A} B2 A2 | G2 F2 E2 F2 || D4 D2!mp! c2 B2{AB} A2 || G2 F2 E2 F2 |{/D} (d8- |$ %11
@@ -6256,11 +6141,11 @@ V:1
  !tenuto!d4 !arpeggio![Adf]4 ed ^cd e2 || d4 (B3 B/B/) | A4 GAFG | A2 F2 E2 F2 |{D} d8 | d4 GA B2 | d !>!A3- A4 |$ %24
 {A} G4 EF G2 | A !>!F3- F4- | FzDE F2 G2 | E2 F2- F3 E | D8 | [Dd]8- :|!pp! [Dd]4 z4 |] %31
 V:2
-[K:none] E2 EE E2 E2 | E2 EE E2 E2 | E2 EE E2 E2 | E2 EE E2 E2 | E2 EE E2 E2 |$ %5
- E2 EE E2 E2 | E2 EE E2 E2 | E2 EE E2 E2 || z12 || E2 EE E2 E2 | E2 EE E2 E2 |$ %11
- E2 EE E2 E2 | E2 EE E2 E2 | E2 EE E2 E2 | E2 EE E2 E2 | E4 z4 || z12 ||$ %17
- z14 || E2 EE E2 E2 | E2 EE E2 E2 | E2 EE E2 E2 | E2 EE E2 E2 | E2 EE E2 E2 | E2 EE E2 E2 |$ %24
- E2 EE E2 E2 | E2 EE E2 E2 | E2 EE E2 E2 | E2 EE E2 E2 | E2 EE E2 E2 | E2 EE E2 E2 :| E4 z4 |] %31
+[K:none] B2 BB B2 B2 | B2 BB B2 B2 | B2 BB B2 B2 | B2 BB B2 B2 | B2 BB B2 B2 |$ %5
+ B2 BB B2 B2 | B2 BB B2 B2 | B2 BB B2 B2 || z12 || B2 BB B2 B2 | B2 BB B2 B2 |$ %11
+ B2 BB B2 B2 | B2 BB B2 B2 | B2 BB B2 B2 | B2 BB B2 B2 | B4 z4 || z12 ||$ %17
+ z14 || B2 BB B2 B2 | B2 BB B2 B2 | B2 BB B2 B2 | B2 BB B2 B2 | B2 BB B2 B2 | B2 BB B2 B2 |$ %24
+ B2 BB B2 B2 | B2 BB B2 B2 | B2 BB B2 B2 | B2 BB B2 B2 | B2 BB B2 B2 | B2 BB B2 B2 :| B4 z4 |] %31
 
 X:224
 T:Sous le Ciel de Paris

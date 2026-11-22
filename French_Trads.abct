@@ -89,23 +89,16 @@ X:6
 T:Nadiejda
 T:Mazurka - Album "La compagnie des anges" (1997)
 C:Stephane Delicq
-%%score { 1 2 }
 L:1/8
 M:3/4
 I:linebreak $
 K:C
 V:1 clef=
-V:2 clef=bass
 V:1
 |:^"Am" e2 A3 c |^"Dm" e4 (3Ace |^"Em" d2^"G" B2^"G" G2 |^"Am" E6 |^"F" A>B c4 |^"Dm" c>B A4 |^"Em" B>c d2 g2 |^"Am" e4 e>f |$ %8
 ^"Am" e2 A3 c |^"Dm" e4 (3Ace |^"Em" d2^"G" B2^"G" G2 |^"Am" E6 |^"F" c>B A2- A>d |^"Dm" c>B A2- A>d |^"Em" B2 G2 E2 |^"Am" A6 :|$ %16
 |:^"Am" A>B c2 c2 |^"Dm" A>B c2 c2 |^"Em" B4^"G" G2&x2^"G"x4 |^"Am" E6 |^"F" A>B c3 d |^"Dm" c>B A4 |^"Em" B4^"G" g2&x2^"G"x4 |^"Am" e6 |$ %24
 ^"Am" A>B c2 c2 |^"Dm" A>B c2 c2 |^"Em" B4^"G" G2&x2^"G"x4 |^"Am" E6 |^"F" c>B A2- A>d |^"Dm" c>B A4 |^"Em" B2 G2 E2 |[1^"Am" A6 :|[2^"Am" !fermata!A6 |] %33
-V:2
-|: A,, z [C,E,A,] z [C,E,A,] z | D,, z [F,,A,,D,] z [F,,A,,D,] z | E,, z [B,,D,G,] z [B,,D,G,] z | A,, z [C,E,A,] z [C,E,A,] z | F,, z [A,,C,F,] z [A,,C,F,] z | D,, z [F,,A,,D,] z [F,,A,,D,] z | E,, z [G,,B,,E,] z [G,,B,,E,] z | A,, z [C,E,A,] z [C,E,A,] z |$ %8
- A,, z [C,E,A,] z [C,E,A,] z | D,, z [F,,A,,D,] z [F,,A,,D,] z | E,, z [B,,D,G,] z [B,,D,G,] z | A,, z [C,E,A,] z [C,E,A,] z | F,, z [A,,C,F,] z [A,,C,F,] z | D,, z [F,,A,,D,] z [F,,A,,D,] z | E,, z [G,,B,,E,] z [G,,B,,E,] z | A,, z [C,E,A,] z [C,E,A,] z :|$ %16
-|: A,, z [C,E,A,] z [C,E,A,] z | D,, z [F,,A,,D,] z [F,,A,,D,] z | E,, z [B,,D,G,] z [B,,D,G,] z | A,, z [C,E,A,] z [C,E,A,] z | F,, z [A,,C,F,] z [A,,C,F,] z | D,, z [F,,A,,D,] z [F,,A,,D,] z | E,, z [B,,D,G,] z [B,,D,G,] z | A,, z [C,E,A,] z [C,E,A,] z |$ %24
- A,, z [C,E,A,] z [C,E,A,] z | D,, z [F,,A,,D,] z [F,,A,,D,] z | E,, z [B,,D,G,] z [B,,D,G,] z | A,, z [C,E,A,] z [C,E,A,] z | F,, z [A,,C,F,] z [A,,C,F,] z | D,, z [F,,A,,D,] z [F,,A,,D,] z | E,, z [G,,B,,E,] z [G,,B,,E,] z |[1 A,, z [C,E,A,] z [C,E,A,] z :|[2 !fermata![A,,C,E,A,]6 |] %33
 
 X:7
 T:Le temps des huit ans
@@ -1232,7 +1225,7 @@ V:1
 |:[P:B]^"Gm7" d2 e2 d2 e2 d2 | e2 d2 d2 c2 B2 |^"Cm/G" c6 c2 d2 | c6- c4 |^"D/G" c2 d2 c2 d2 c2 | d2 c2 c2 B2 A2 |^"Gm" B6 B2 c2 | B6- B4 |^"Gm/F" B2 c2 B2 c2 B2 |[1 d6 B4 |$ %26
 ^"Gm/Eb" G6 G2 A2 | G6- G4 |^"Dm11" A2 B2 c2 A2 B2 | A6- A4 |^"D" [^FA]6- [FA]4- | [FA]6- [FA]4 :|[2 d6 a4 |^"Gm/Eb" g6 d2 B2 | G6- G4 |[0^"Dm11" A2 B2 c2 A2 B2 | A6 z2 G2 |$ %37
 ^"D" [^FA]6- [FA]4- | [FA]6- [FA]4 ||[P:A']^"Gm"!f! (D2 G2 B2 d2 c2) | (e2 d2) d2 c2 B2 |^"D7" c6 c2 d2 | c6- c4 |^"Gm"!mp! D2 G2 B2 d2 c2 | e2 (d2 d2) c2 B2 |^"D7" c6 c2 d2 | c6- c4 |^"Bb"!f! [DFB]6 [DFB]2 c2 |$ %48
- [DFB]6- [DFB]4 |^"Gbm7b5"!mf! [C^FA]6 [CFA]2 B2 | [C^FA]6- [CFA]4 |^"Eb"!mp! [B,EG]6 [B,EG]2 A2 | [B,EG]6- [B,EG]4 |^"D7""^rit." [CD^FA]6[Q:1/4=200] A2[Q:1/4=190] B2[Q:1/4=220][Q:1/4=210] |[Q:1/4=180] [CD^F]6-[Q:1/4=150] [CDF]4[Q:1/4=170][Q:1/4=160][Q:1/4=140] |^"Gm"[Q:1/4=130] !fermata![B,DG]6-[Q:1/4=100] [B,DG]4 |] %56
+ [DFB]6- [DFB]4 |^"Gbm7b5"!mf! [C^FA]6 [CFA]2 B2 | [C^FA]6- [CFA]4 |^"Eb"!mp! [B,EG]6 [B,EG]2 A2 | [B,EG]6- [B,EG]4 |^"D7""^rit." [CD^FA]6 A2 B2 | [CD^F]6- [CDF]4 |^"Gm" !fermata![B,DG]6- [B,DG]4 |] %56
 V:2
 |: G,,2 D,2 G,2 B,2 A,2 | C2 B,2 B,2 A,2 G,2 | D,2 A,2 C2 E2 ^F2 | E2 C2 A,2 ^F,2 D,2 | G,,2 D,2 G,2 B,2 A,2 | C2 B,2 B,2 A,2 G,2 | D,2 A,2 C2 E2 ^F2 | E2 C2 A,2 ^F,2 D,2 | (B,,2 F,2 B,6) | B,,2 F,2 B,2 B,,2 F,2 |$ %10
  (A,,2 ^F,2 A,6) | A,,2 ^F,2 A,2 A,,2 F,2 | (G,,2 E,2 G,6) | G,,2 E,2 G,2 G,,2 E,2 | (^F,,2 D,2 A,6) | ^F,,2 D,2 A,2 D,,2 A,,2 :|$ %16
