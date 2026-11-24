@@ -4079,6 +4079,357 @@ w: |||
 w: |||
 
 X:94
+T:Messe de Saint Boniface - Alleluia
+C:Chants de l'Emmanuel (M. Wittal)
+%%score [ ( 1 2 ) ( 3 4 ) ]
+L:1/8
+M:3/4
+I:linebreak $
+K:D
+V:1 clef=
+V:2 clef=
+V:3 clef=bass
+V:4 clef=bass
+V:1
+ A2 |^"D" (A2 F2) A2 |^"G" B4 A2 |^"D" (A3 G) F2 |^"A" E6 |^"D" D4 F2 |^"G" G2 F2 D2 |^"A" D2 E4 |^"D" D6 |] %9
+w: |||* * lu-||||le- *||
+V:2
+ D2 | D4 F2 | G4 F2 | D4 D2 | C6 | D4 D2 | D2 D2 D2 | B,2 C4 | A,6 |] %9
+w: Al-|le- lu-|ia, Al-|le- *|ia!|Al- le-|lu- ia, Al-|* lu-|ia!|
+V:3
+ A,2 | A,4 D2 | D2 D2 D2 | (A,2 B,2 D2) | A,6 | (A,2 D2) A,2 | D2 D2 B,2 | B,2 (A,2 G,2) | F,6 |] %9
+w: ||* Al- le-|lu- * *|ia!|||||
+V:4
+ D,2 | D,4 D,2 | G,4 D,2 | (F,2 E,2 D,2) | A,6 | F,4 D,2 | B,,2 B,,2 B,,2 | A,,4 A,,2 | D,6 |] %9
+
+X:95
+T:Messe de Saint Boniface - Gloria
+C:Chants de l'Emmanuel (M. Wittal)
+%%score [ ( 1 2 ) ( 3 4 ) ] [ ( 5 6 ) ( 7 8 ) ]
+L:1/8
+M:6/8
+I:linebreak $
+K:D
+V:1 clef=
+V:2 clef=
+V:3 clef=bass
+V:4 clef=bass
+V:5 clef=
+V:6 clef=
+V:7 clef=bass
+V:8 clef=bass
+V:1
+[P:Refrain]^"D""_1er Choeur" d A/A/A/A/^"G" (Bc) d |^"A" A3^"D" A3 |^"C" =c c/c/c/c/^"G" B G2 |^"D" A3^"Am" z2 z |$ %4
+w: ||* * a * o * *||
+^"D""_1er Choeur" d A/A/A/A/^"G" (Bc) d |^"A" A3^"D" A3 |^"C" =c c/c/c/c/^"G" B G2 |^"D" A3 z2 z |]$ %8
+w: Glo- ri- * * * cel- * sis||||
+[P:1] F |^"D" FFF^"A" EEE |^"F#m" FFF^"Bm" DDF |^"G" G2 G GFD |^"A" E2 E E2 z |$ %13
+w: |||||
+^"D" AAA^"A" ABc |^"Bm" d2 d d3 |^"F#m" c2 c^"G" (BA)G |^"D" A3 A2 A |^"C" =c2 c (cB)G |^"A" A3 A3 ||$ %19
+w: |* ri- *|||||
+[P:2]^"D" F2 F^"A" E3 |^"F#m" F2 F^"B" D3 |^"G" G2 G (GF)D |^"A" E2^"A" D^"A" E2 A |^"D" AAA^"A" (AB)c |$ %24
+w: |* * ciel,||* * sant. Sei-|gneur * * * * *|
+^"Bm" d2 d (dc)B |^"Em" B3^"Em7" B2 B |^"C" =ccc cBG |^"A" A3 A3 ||$ %28
+w: ||||
+[P:3]^"D" FFF^"A" EEE |^"F#m" FFF^"B" D2 D |^"G" G2 G (GF)D |^"A" E3- E3 |^"F#m" AAA^"Bm" FFF |^"G" BBB^"D" AAA |$ %34
+w: ||* pi- tié _ _|_ _|||
+^"G" G3 GFD |^"A" E3 E2 A |^"D" AAA^"A6" ABc |^"B" ddd^"G" d2 B |^"C" =c2 c (cB)G |^"A" (A3 A3) ||$ %40
+w: ||||* pi- tié _ _|_ _|
+[P:4] F |^"D" FFF^"A" E2 E |^"F#m" FFF^"Bm" D2 F |^"G" G3 GFD |^"A" EED E2 A |$ %45
+w: ||||* * * * a-|
+^"D" A2 A^"A" (AB)c |^"Bm" d3 d2 d |^"F#m" c2 c^"G" BAG |^"D" A3 A3 |^"C" (=c3- cBG) |^"A" A3- A3 |] %51
+w: * * Saint _ _|_ _ _|* * * Dieu le||||
+V:2
+ F F/F/F/F/ G2 F | E3 F3 | G G/G/G/G/ G E2 | F3 x3 |$ %4
+w: Glo- ri- a in ex- cel- sis|De- o!|Glo- ri- * De- * Do- mi-|no!|
+w: ||||
+ F F/F/F/F/ G2 F | E3 F3 | G G/G/G/G/ G E2 | F3 x3 |]$ %8
+w: * * a in ex- * *|De- o!|Glo- ri- a De- o Do- mi-|no!|
+w: ||||
+ D | DDD CCC | CCC B,B,D | D2 D DDD | C2 C C2 x |$ %13
+w: 1.~~~Et|paix sur la ter- re aux|hom- mes qu'il ai- me. Nous|te lou- ons, nous te|bé- nis- sons,|
+w: |||||
+ FFF EEE | F2 F F3 | A2 A G-GG | F3 F2 F | G2 G E-EE | E3 E3 ||$ %19
+w: nous t'a- do- rons, nous te|glo- * fions,|nous te ren- * dons|grâ- ce pour|ton im- men- * se|gloi- re.|
+w: ||||||
+ D2 D C3 | C2 C B,3 | D2 D D2 D | C2 D E3 | FFF E2 E |$ %24
+w: 2.~~~Sei- gneur Dieu,|Roi du *|Dieu le Pè- re|tout puis *|* Fils u- ni- que|
+w: |||||
+ F2 F F2 F | G3 G2 G | GGG GGE | E3 E3 ||$ %28
+w: Jé- sus Christ, Sei-|gneur Dieu, A-|gneau de Dieu, le Fils du|Pè- re.|
+w: ||||
+ DDD CCC | CCC B,2 D | D2 D D2 D | C3- C3 | FFF DDD | GGG FFF |$ %34
+w: 3.~~~Toi qui en- lè- ves le|pé- ché du mon- de,|prends * * de|nous. _|Toi qui en- lè- ves le|pé- ché du mon- de re-|
+w: ||||||
+ D3 DDD | C3 C2 E | FFF EEE | FFG G2 G | E2 E E2 E | E3- E3 ||$ %40
+w: çois no- tre pri-|è- re; toi|qui es as- sis à la|droi- te du pè- re|prends * * de|nous. _|
+w: ||||||
+ D | DDD C2 C | CCC B,2 D | D3 DDD | CCB, C2 E |$ %45
+w: 4.~~~Car|toi seul es Saint, toi|seul es Sei- gneur, toi|seul es le très|haut Jé- sus Christ, *|
+w: |||||
+ F2 F E2 E | F3 F2 F | A2 A GGG | F3 F3 | G2 F E3 | E3- E3 |] %51
+w: vec le * Es-|prit, dans la|gloi- re de * *|Pè- re.|A- men. A-|men. *|
+w: ||||A- * *|men. _|
+V:3
+ A, A,/A,/A,/A,/ B,2 B, | C3 D3 | E E/E/E/E/ D D2 | D3 z2 z |$ %4
+ A, A,/A,/A,/A,/ B,2 B, | C3 D3 | E E/E/E/E/ D D2 | D3 z2 z |]$ %8
+ A, | A,A,A, A,A,A, | A,A,A, F,F,B, | B,2 B, G,G,G, | A,2 A, A,2 z |$ %13
+ A,A,A, A,A,A, | F,2 F, B,3 | C2 C D-DB, | A,3 A,2 D | E2 E (ED)=C | ^C3 C3 ||$ %19
+ A,2 A, A,3 | A,2 A, F,3 | B,2 B, G,2 G, | A,2 A, A,3 | A,A,A, A,2 A, |$ %24
+ B,2 B, B,2 B, | (B,2 E) E2 E | EEE ED=C | C3 C3 ||$ %28
+ A,A,A, A,A,A, | A,A,A, F,2 F, | B,2 B, G,2 G, | A,3- A,3 | CCC B,B,B, | DDD DDD |$ %34
+ B,3 G,G,G, | A,3 A,2 A, | A,A,A, A,A,A, | F,F,F, B,2 B, | G,2 G, G,2 =C | ^C3- C3 ||$ %40
+ A, | A,A,A, A,2 A, | A,A,A, B,2 B, | B,3 G,G,G, | A,A,A, A,2 A, |$ %45
+ A,2 A, A,2 A, | F,3 B,2 B, | C2 C DDB, | A,3 D3 | (E3- ED=C) | ^C3- C3 |] %51
+V:4
+ D, D,/D,/D,/D,/ G,2 G, | A,3 D,3 | =C, C,/C,/C,/C,/ G, G,2 | D,3 x3 |$ %4
+ D, D,/D,/D,/D,/ G,2 G, | A,3 D,3 | =C, C,/C,/C,/C,/ G, G,2 | D,3 x3 |]$ %8
+ D, | D,D,D, A,A,A, | F,F,F, B,,B,,B,, | G,,2 G,, B,,B,,B,, | A,,2 A,, A,,2 x |$ %13
+ D,D,D, C,C,C, | B,,2 B,, B,,3 | F,,2 F,, G,,-G,,B,, | D,3 D,2 D, | =C,2 C, C,-C,C, | A,,3 A,,3 ||$ %19
+ D,2 D, A,3 | F,2 F, B,,3 | G,,2 G,, B,,2 B,, | A,,2 B,, C,3 | D,D,D, C,2 C, |$ %24
+ B,,2 B,, (B,,C,)D, | E,3 D,2 D, | =C,C,C, C,C,C, | A,,3 A,,3 ||$ %28
+ D,D,D, A,A,A, | F,F,F, B,,2 B,, | G,,2 G,, B,,2 B,, | A,,3- A,,3 | F,,F,,F,, B,,B,,B,, | G,,G,,G,, D,D,D, |$ %34
+ G,,3 B,,B,,B,, | A,,3 A,,2 C, | D,D,D, C,C,C, | B,,B,,B,, G,,2 G,, | =C,2 C, C,2 C, | A,,3- A,,3 ||$ %40
+ D, | D,D,D, A,2 A, | F,F,F, B,,2 B,, | G,,3 B,,B,,B,, | A,,A,,A,, A,,2 C, |$ %45
+ D,2 D, C,2 C, | B,,3 B,,2 B,, | F,,2 F,, G,,G,,B,, | D,3 D,3 | =C,3- C,3 | A,,3- A,,3 |] %51
+V:5
+"_2ème Choeur" z6 | [Ac] [Ac]/[Ac]/[Ac]/[Ac]/ d2 d | e3 d3 | d A/A/A/A/ G =c2 |$ %4
+w: |* ri- * * * * *|||
+"_2ème Choeur" d3 z2 z | [Ac] [Ac]/[Ac]/[Ac]/[Ac]/ d2 d | e2 e d2 B | d3 z2 z |]$ %8
+w: ||||
+ z | z6 | z6 | z6 | z6 |$ %13
+w: |||||
+ z6 | z6 | z6 | z6 | z6 | z6 ||$ %19
+w: ||||||
+ z6 | z6 | z6 | z6 | z6 |$ %24
+w: |||||
+ z6 | z6 | z6 | z6 ||$ %28
+w: ||||
+ z6 | z6 | z6 | z6 | z6 | z6 |$ %34
+w: ||||||
+ z6 | z6 | z6 | z6 | z6 | z6 ||$ %40
+w: ||||||
+ z | z6 | z6 | z6 | z6 |$ %45
+w: |||||
+ z6 | z6 | z6 | z6 | z6 | x6 |] %51
+w: ||||||
+V:6
+ x6 | E E/E/E/E/ F2 F | G3 B3 | A F/F/F/F/ E E2 |$ %4
+w: |Glo- * a in ex- cel- sis|De- o!|Glo- ri- a De- o Do- mi-|
+ F3 x3 | E E/E/E/E/ F2 A | G2 G B2 G | F3 x3 |]$ %8
+w: no!|Glo- ri- a in ex- cel- sis|De- o! Do- mi-|no!|
+ x | x6 | x6 | x6 | x6 |$ %13
+w: |||||
+ x6 | x6 | x6 | x6 | x6 | x6 ||$ %19
+w: ||||||
+ x6 | x6 | x6 | x6 | x6 |$ %24
+w: |||||
+ x6 | x6 | x6 | x6 ||$ %28
+w: ||||
+ x6 | x6 | x6 | x6 | x6 | x6 |$ %34
+w: ||||||
+ x6 | x6 | x6 | x6 | x6 | x6 ||$ %40
+w: ||||||
+ x | x6 | x6 | x6 | x6 |$ %45
+w: |||||
+ x6 | x6 | x6 | x6 | x6 | x6 |] %51
+w: ||||||
+V:7
+ z6 | A, A,/A,/A,/A,/ [A,D]2 [DF] | [EG]3 [DG]3 | [DF] D/D/D/A,/ =C C2 |$ %4
+ A,3 z2 z | A, A,/A,/A,/A,/ [A,D]2 [DF] | [EG]2 [EG] [DG]2 D | D3 z2 z |]$ %8
+ z | z6 | z6 | z6 | z6 |$ %13
+ z6 | z6 | z6 | z6 | z6 | z6 ||$ %19
+ z6 | z6 | z6 | z6 | z6 |$ %24
+ z6 | z6 | z6 | z6 ||$ %28
+ z6 | z6 | z6 | z6 | z6 | z6 |$ %34
+ z6 | z6 | z6 | z6 | z6 | z6 ||$ %40
+ z | z6 | z6 | z6 | z6 |$ %45
+ z6 | z6 | z6 | z6 | z6 | x6 |] %51
+V:8
+ x6 | A, A,/A,/A,/A,/ D,2 D, | =C,3 G,3 | D, D,/D,/D,/D,/ A,, A,,2 |$ %4
+ D,3 x3 | A, A,/A,/A,/A,/ D,2 D, | =C,2 C, G,2 G, | D,3 x3 |]$ %8
+ x | x6 | x6 | x6 | x6 |$ %13
+ x6 | x6 | x6 | x6 | x6 | x6 ||$ %19
+ x6 | x6 | x6 | x6 | x6 |$ %24
+ x6 | x6 | x6 | x6 ||$ %28
+ x6 | x6 | x6 | x6 | x6 | x6 |$ %34
+ x6 | x6 | x6 | x6 | x6 | x6 ||$ %40
+ x | x6 | x6 | x6 | x6 |$ %45
+ x6 | x6 | x6 | x6 | x6 | x6 |] %51
+
+X:96
+T:Messe de la Réconciliation - Agnus Dei
+C:Michel Wackenheim
+Z:AL 137
+%%score { ( 1 2 ) | ( 3 4 ) }
+L:1/8
+M:4/4
+I:linebreak $
+K:F
+V:1 clef=
+V:2 clef=
+V:3 clef=bass
+V:4 clef=bass
+V:1
+|: z2^"F" c2^"C7" B2 B2 |^"F" A6 cc |^"Bb" F2^"F" F2^"C7" GG^"F" AA |^"C7" B4^"F" A4 |^"F" c2 c2^"C7" B2 B2 |^"F" A8 |$ %6
+w: |* 1.2.~A- gneau de|Dieu, qui en-|lè- ves le pé- ché du|mon- de,|prends pi- tié de|nous,|
+w: |* 3.~A- gneau de|Dieu, qui en-|lè- ves le pé- ché du|mon- de,|don- ne nous la|paix,|
+|1,2^"Bb" F2^"F" F2^"Csus4" G2^"C7" G2 |^"F" A8 :|[3^"Bb" F2^"F" F2^"Csus4" G2^"C7" G2 |^"F" F8 |] %10
+w: |1.2.~prends pi- tié de|nous.|||
+w: |||3.~don- ne nous la|paix.|
+V:2
+|: x2 F2 E2 E2 | F6 FF | F2 F2 EE FF | E4 F4 | F2 F2 E2 E2 | F8 |$ %6
+|1,2 F2 F2 F2 E2 | F8 :|[3 F2 F2 F2 E2 | C8 |] %10
+V:3
+|: z2 C2 C2 C2 | C6 CC | D2 C2 B,B, CC | C4 C4 | C2 C2 C2 C2 | C8 |$ %6
+|1,2 D2 C2 B,2 B,2 | C8 :|[3 D2 C2 B,2 B,2 | A,8 |] %10
+V:4
+|: x2 A,2 G,2 G,2 | F,6 A,A, | B,2 A,2 G,G, F,F, | G,4 F,4 | A,2 A,2 G,2 G,2 | F,8 |$ %6
+|1,2 B,2 A,2 G,2 G,2 | F,8 :|[3 B,2 A,2 G,2 C,2 | F,8 |] %10
+
+X:97
+T:Messe de la Réconciliation - Anamnèse
+C:Michel Wackenheim
+Z:AL 137
+%%score { ( 1 3 ) | ( 2 4 ) }
+L:1/8
+M:4/4
+I:linebreak $
+K:F
+V:1 clef=
+V:3 clef=
+V:2 clef=bass
+V:4 clef=bass
+V:1
+ AA | A2 AA BB AB | c8 ||^"F" A2 A2^"C7" G3 G |^"F" F2^"C7" G2^"F" A4 |$ %5
+w: Pro- cla-|mons le mys- tè- re de la|foi.|Gloi- re~à toi qui|é- tais mort,|
+^"F" A2 A2^"C7" B3 B |^"F" A2^"C7" B2^"F" c4 |^"F" c2 cc^"C7" B3 B |^"F" c2^"C7" B2^"F" A4 |^"C7" G3 G^"F" A2^"C7" G2 |^"F" F8 |] %11
+w: gloi- re~à toi qui|es vi- vant,|no- tre Sau- veur et|no- tre Dieu.|Viens, Sei- gneur Jé-|sus!|
+V:2
+ z2 | z8 | z8 || C2 C2 B,3 B, | C2 B,2 C4 |$ %5
+ C2 C2 C3 C | C2 C2 C4 | C2 CC C3 C | C2 C2 C4 | B,3 B, C2 B,2 | A,8 |] %11
+V:3
+ x2 | x8 | x8 || F2 F2 E3 E | F2 E2 F4 |$ %5
+ F2 F2 E3 E | F2 E2 F4 | F2 FF E3 E | F2 E2 F4 | E3 E F2 E2 | C8 |] %11
+V:4
+ x2 | x8 | x8 || A,2 A,2 G,3 G, | A,2 G,2 F,4 |$ %5
+ F,2 F,2 G,3 G, | F,2 G,2 A,4 | A,2 A,A, G,3 G, | A,2 G,2 F,4 | C,3 C, F,2 C,2 | F,8 |] %11
+
+X:98
+T:Messe de la Réconciliation - Credo
+C:Michel Wackenheim
+Z:AL 137
+%%score { ( 1 2 ) | ( 3 4 ) }
+L:1/8
+M:4/4
+I:linebreak $
+K:F
+V:1 clef=
+V:2 clef=
+V:3 clef=bass
+V:4 clef=bass
+V:1
+ C2 |^"F" F2 F2^"C7" G2 G2 |^"F" A3 F A2^"C7" B2 |^"F" c3 A^"Bb" F2^"Csus4" G^"C7"G |^"F" F6 |] %5
+w: Je|crois en toi, Sei-|gneur, tu es ma|vie, tu es mon a-|mour-|
+V:2
+ C2 | F2 F2 E2 E2 | F3 F F2 E2 | F3 F F2 FE | C6 |] %5
+V:3
+ C2 | C2 C2 B,2 B,2 | C3 C C2 C2 | C3 C DC B,B, | A,6 |] %5
+V:4
+ C2 | A,2 A,2 G,2 G,2 | F,3 A, F,2 G,2 | A,3 F, B,A, G,C, | F,6 |] %5
+
+X:99
+T:Messe de la Réconciliation - Gloria
+C:Michel Wackenheim
+Z:AL 137
+%%score { ( 1 2 ) | ( 3 4 ) }
+L:1/8
+M:4/4
+I:linebreak $
+K:F
+V:1 clef=
+V:2 clef=
+V:3 clef=bass
+V:4 clef=bass
+V:1
+[P:Refrain]^"F" F2 F2 c4 |^"Bb" dd cB^"F" c3 c |^"C7" B2 cB^"F" A3 A |^"C7" G2 FG^"F" A2 A2 |$ %4
+w: Gloi- re~à Dieu,|au plus haut des cieux, et|paix sur la terre aux|hom- mes qu'il ai- me.|
+^"F" F2 F2 c4 |^"Bb" dd cB^"F" c4 |^"C7" B2 B2^"F" A4 |^"Csus4" G2^"C7" G2^"F" F4 ||$ %8
+w: Gloi- re~à Dieu,|au plus haut des cieux,|gloi- re~à Dieu,|gloi- re~à Dieu.|
+[P:1]^"F""^Soliste" F2 FF^"C7" G4 |^"F" FF^"C7" GG^"F" A4 |^"F""^Choeur" F2 FF^"C7" G4 |^"F" FF^"C7" GG^"F" A4 |$ %12
+w: 1.~Nous te lou- ons,|nous te bé- nis- sons,|nous t'a- do- rons,|nous te glo- ri- fions,|
+^"F""^Soliste" AA AA^"C7" B2 B B |^"F" AA^"C7" BB^"F" c2 c2 |^"F""^Choeur" AA A2^"C7" BB B2 |^"F" AA^"C7" BB^"F" cc^"C7" c2 |] %16
+w: nous te ren- dons grâ- ce, pour|ton im- men- se gloi- re.|Sei- gneur Dieu, roi du ciel,|Dieu le Pè- re tout puis- sant.|
+V:2
+ F2 F2 F4 | FF FF F3 F | E2 EE F3 F | E2 FE F2 F2 |$ %4
+ F2 F2 F4 | FF FF F4 | E2 E2 F4 | F2 E2 C4 ||$ %8
+ F2 FF E4 | FF EE F4 | F2 FF E4 | FF EE F4 |$ %12
+ FF FF E2 E E | FF EE F2 F2 | FF F2 EE E2 | FF EE FF E2 |] %16
+V:3
+ C2 C2 C4 | B,B, CD C3 C | C2 CC C3 C | B,2 B,B, C2 C2 |$ %4
+ C2 C2 C4 | B,B, CD C4 | C2 C2 C4 | B,2 B,2 A,4 ||$ %8
+ C2 CC B,4 | CC B,B, C4 | C2 CC B,4 | CC B,B, C4 |$ %12
+ CC CC C2 C C | CC CC C2 C2 | CC C2 CC C2 | CC CC CC B,2 |] %16
+V:4
+ A,2 A,2 A,4 | B,B, B,B, A,3 A, | G,2 G,G, F,3 F, | G,2 G,G, F,2 F,2 |$ %4
+ A,2 A,2 A,4 | B,B, B,B, A,4 | G,2 G,2 F,4 | C,2 C,2 F,4 ||$ %8
+ A,2 A,A, G,4 | A,A, G,G, F,4 | A,2 A,A, G,4 | A,A, G,G, F,4 |$ %12
+ F,F, F,F, G,2 G, G, | F,F, G,G, A,2 A,2 | F,F, F,2 G,G, G,2 | F,F, G,G, A,A, G,2 |] %16
+
+X:100
+T:Messe de la Réconciliation - Kyrie
+C:Michel Wackenheim
+Z:AL 137
+%%score { ( 1 2 ) | ( 3 4 ) }
+L:1/8
+M:4/4
+I:linebreak $
+K:F
+V:1 clef=
+V:2 clef=
+V:3 clef=bass
+V:4 clef=bass
+V:1
+^"F" A2 |^"C7" G4^"F" F2^"C7" G2 |^"F" A6^"F" c2 |^"C7" B4^"F" A2^"C7" B2 |^"F" c6^"F" A2 |^"C7" G4^"F" F2^"C7" G2 |^"F" F6 |] %7
+w: Sei-|gneur, prends pi-|tié. O|Christ, prends pi-|tié. Sei-|gneur, prends pi-|tié.|
+V:2
+ F2 | E4 C2 E2 | F6 F2 | E4 F2 E2 | F6 F2 | E4 C2 E2 | C6 |] %7
+V:3
+ C2 | B,4 A,2 B,2 | C6 C2 | C4 C2 C2 | C6 C2 | B,4 A,2 B,2 | A,6 |] %7
+V:4
+ F,2 | C,4 F,2 C,2 | F,6 A,2 | G,4 F,2 G,2 | A,6 F,2 | C,4 F,2 C,2 | F,6 |] %7
+
+X:101
+T:Messe de la Réconciliation - Sanctus
+C:Michel Wackenheim
+Z:AL 137
+%%score { ( 1 2 ) | ( 3 4 ) }
+L:1/8
+M:4/4
+I:linebreak $
+K:F
+V:1 clef=
+V:2 clef=
+V:3 clef=bass
+V:4 clef=bass
+V:1
+^"F" A4^"C7" B4 |^"F" A2^"C7" BB^"F" c4 |^"Bb" F2^"F" F2^"Csus4" G2^"C7" G2 |^"F" A6 F2 |$ %4
+w: 1.~Saint! Saint!|Saint, le Sei- gneur,|Dieu de l'u- ni-|vers! 1.~Le|
+w: 2.~Saint! Saint!|Saint, le Sei- gneur,|Dieu de l'u- ni-|vers! 2.~Bé-|
+^"Bb" d2 cB^"F" cc FF |^"C7" G2 FG^"F" A3 F |^"Bb" d2 cB^"F" cc FF |^"Csus4" G2^"C7" G2^"F" F4 |] %8
+w: ciel et la ter- re sont rem-|plis de ta gloire. Ho-|san- na, ho- san- na au plus|haut des cieux!|
+w: nis soit ce- lui qui vient au|nom du Sei- gneur. *|||
+V:2
+ F4 E4 | F2 EE F4 | F2 F2 F2 E2 | F6 F2 |$ %4
+ F2 FF FF FF | E2 FE F3 F | F2 FF FF FF | F2 E2 C4 |] %8
+V:3
+ C4 C4 | C2 CC C4 | D2 C2 B,2 B,2 | C6 C2 |$ %4
+ B,2 CD CC CC | B,2 B,B, C3 C | B,2 CD CC CC | B,2 B,2 A,4 |] %8
+V:4
+ F,4 G,4 | F,2 G,G, A,4 | B,2 A,2 G,2 G,2 | F,6 A,2 |$ %4
+ B,2 B,B, A,A, A,A, | G,2 G,G, F,3 A, | B,2 B,B, A,A, A,A, | G,2 C,2 F,4 |] %8
+
+X:102
 T:Messe de la Trinité - Kyrie
 C:Frère Jean Baptiste du Jonchay
 %%score { ( 1 2 ) | ( 3 4 ) }
@@ -4109,7 +4460,7 @@ V:4
  x24 | x18 | x16 | x16 ||$ %4
 |: B,, | E,2 E,E, D,D, D, C, | B,,2 C,B,, A,,A,, A,, A,, | C,2 D,D, E,3 :| %8
 
-X:95
+X:103
 T:Messe de la Trinité - Gloria - Gloire à Dieu
 C:Frère Jean Baptiste du Jonchay
 %%score { ( 1 2 ) | ( 3 4 ) }
@@ -4150,7 +4501,7 @@ V:4
  G,16 | E,2 G,2 D,4 |$ %6
  B,,16 | C,4 | C,16 | =F,16 | G,2 D,4 |] %11
 
-X:96
+X:104
 T:Messe de la Trinité - Sanctus
 C:Frère Jean Baptiste du Jonchay
 %%score { ( 1 2 ) | ( 3 4 ) }
@@ -4192,7 +4543,7 @@ V:4
 |2 E,E, E,2 E, (B,A,)G, D,4- |[0 D,2 A,2 A, E,2 C, B,,3 x |$ %10
  x12 | x2 E,3 E,3 B,,3 x :| %12
 
-X:97
+X:105
 T:Messe de la Trinité - Anamnèse
 C:Frère Jean Baptiste du Jonchay
 %%score { ( 1 2 ) | ( 3 4 ) }
@@ -4219,7 +4570,7 @@ V:4
 |: E,2 E,2 B,,3 B,, | E,2 A,,2 B,,4 :: G,,2 G,,2 D,3 D, | G,2 C,2 D,4 :|$ %4
  D,2 ^D,2 E,2 E,E, | A,,B,,C,E, B,,4 | C,3 C, D,2 D,2 | A,,4 | C,3 C, D,2 D,2 | E,4 |] %10
 
-X:98
+X:106
 T:Messe de la Trinité - Agnus - Agneau de Dieu
 C:Frère Jean Baptiste du Jonchay
 %%score { ( 1 2 ) | ( 3 4 ) }
@@ -4250,7 +4601,730 @@ V:4
  x3 E, | E,2 E,2 B,,2 (B,,A,,) | G,,G,,G,,G,, D,D,D,D, | A,,A,,A,,B,, B,,4 |$ %4
  C,3 C, D,D,D,D, | A,,4 | C,3 C, D,D,D,D, | E,4 :| %8
 
-X:99
+X:107
+T:Messe de Rangueil - Agnus
+%%score { ( 1 2 ) | ( 3 4 ) }
+L:1/8
+Q:1/4=120
+M:none
+I:linebreak $
+K:F
+V:1 clef=
+V:2 clef=
+V:3 clef=bass
+V:4 clef=bass
+V:1
+^"F" A16 A4 | A16^"C7" B2 B2^"F" A4^"C" G4 |^"Bb" B2 B2^"Gm/Bb" G2^"C7" G2^"F" !fermata!A4 |] %3
+w: Agneau~de Dieu|qui~enlèves~le~pé- ché du mon de,|1.&2.~prends pi- tié de nous~!|
+w: ||3.~don- ne nous la paix~!|
+V:2
+ F16 F4 | F16 G2 E2 F4 E4 | F2 F2 D2 E2 F4 |] %3
+V:3
+ C16 C4 | C16 C2 C2 C4 C4 | D2 D2 B,2 B,2 !fermata!C4 |] %3
+V:4
+ F,16 F,4 | F,16 E,2 G,2 F,4 C,4 | B,,2 B,,2 B,,2 C,2 F,4 |] %3
+
+X:108
+T:Messe de Saint Boniface - Agnus
+C:Marcus Wittal
+%%score { ( 1 2 ) | ( 3 4 ) }
+L:1/8
+M:3/4
+I:linebreak $
+K:D
+V:1 clef=
+V:2 clef=
+V:3 clef=bass
+V:4 clef=bass
+V:1
+^"D" F6 |^"Em7" (G4^"D" F2) |^"A" A4^"G" G2 |^"D" F4 F2 |^"A" A2 B2 c2 |^"Bm" d4^"A" c2 |^"E" B6 |^"A" A6 ||$ %8
+w: A-|gnus *|De- *|i, qui|tol- lis pec-|ca- ta|mun-|di.|
+w: ||||||||
+^"D" A4 A2 |^"Em7" G4^"D" F2 |[1,2^"G6" E6 |^"A" E6 :|[3^"G6" E6&x4^"A"x2 |^"D" D6 |] %14
+w: 1.&2.~Mi- se-|re- re|no-|bis|||
+w: 3.~Do- na|no- bis|||pa-|cem~!|
+V:2
+ D6 | D6 | (E2 D2) D2 | D4 D2 | E2 E2 E2 | F4 E2 | E6 | C6 ||$ %8
+ F4 F2 | (D2 C2) D2 |[1,2 D6 | C6 :|[3 (D4 C2) | A,6 |] %14
+V:3
+ A,6 | G,4 A,2 | A,4 G,2 | A,4 A,2 | A,2 A,2 A,2 | F,4 A,2 | (A,4 ^G,2) | A,6 ||$ %8
+ A,4 A,2 | A,4 A,2 |[1,2 B,6 | A,6 :|[3 B,4 A,2 | F,6 |] %14
+V:4
+ D,6 | D,6 | A,,4 B,,2 | D,4 D,2 | C,2 C,2 C,2 | B,,4 C,2 | E,6 | A,,6 ||$ %8
+ D,4 D,2 | E,4 F,2 |[1,2 G,6 | A,6 :|[3 G,4 A,2 | D,6 |] %14
+
+X:109
+T:Messe de Saint Boniface - Anamnèse
+C:Marcus Wittal
+%%score { ( 1 2 ) | ( 3 4 ) }
+L:1/8
+M:3/4
+I:linebreak $
+K:D
+V:1 clef=
+V:2 clef=
+V:3 clef=bass
+V:4 clef=bass
+V:1
+^"D" F4 F2 |^"Em7" E4^"D" F2 |^"A" A4 G2 |^"D" F6 |^"A" (A2 B2) c2 |^"Bm" d4^"A" c2 |^"E" B4 B2 |^"A" A6 |$ %8
+w: Gloire à|Toi qui|é- tais|mort,|Gloi- * re~à|Toi qui|est vi-|vant,|
+^"D" A2 A2 A2 |^"Em" G4^"D" F2 |^"G" E4^"A" E2 |^"D" F6 |^"Em" G4^"D" F2 |^"G" E4^"A" E2 |^"D" D6 |] %15
+w: No- tre Sau-|veur et|no- tre|Dieu,|Viens, Sei-|gneur Jé-|sus~!|
+V:2
+ D4 D2 | D4 D2 | E2 D4 | D6 | E4 E2 | F4 E2 | E4 E2 | C6 |$ %8
+ F2 F2 F2 | E4 D2 | D4 C2 | D6 | E4 D2 | D4 C2 | A,6 |] %15
+V:3
+ A,4 A,2 | G,4 A,2 | C2 B,4 | A,6 | A,4 A,2 | F,4 A,2 | A,4 ^G,2 | A,6 |$ %8
+ A,2 A,2 D2 | B,4 A,2 | B,4 A,2 | A,6 | B,4 A,2 | B,4 A,2 | F,6 |] %15
+V:4
+ D,4 D,2 | D,4 D,2 | D,4 D,2 | D,6 | C,4 C,2 | B,,4 C,2 | E,4 E,2 | A,,6 |$ %8
+ D,2 D,2 D,2 | E,4 F,2 | G,4 A,2 | F,6 | E,4 F,2 | G,4 A,2 | D,6 |] %15
+
+X:110
+T:Messe de Saint Boniface - Kyrie
+C:Marcus Wittal
+%%score { ( 1 2 ) | ( 3 4 ) }
+L:1/8
+M:3/4
+I:linebreak $
+K:D
+V:1 clef=
+V:2 clef=
+V:3 clef=bass
+V:4 clef=bass
+V:1
+|:^"D" F4 F2 |^"Em7" E4^"D" F2 |^"A" A4 G2 |^"D" F6 |^"A" (A2 B2) c2 |^"Bm" d4^"A" c2 |^"Esus4" B4 B2 |^"A" A6 |^"D" A4 A2 |^"Em" G4^"D" F2 |^"Em" E4^"A" E2 |^"D" D6 :| %12
+w: |1.&3.~Ky- ri-|e e-|le- i-|son,|Ky- * ri-|e e-|le- i-|son,|Ky- ri-|e e-|le- i-|son.|
+w: |2.~Chris- *|te e-|le- i-|son,|Chris- * *|te e-|le- i-|son,|Chris- *|te e-|le- i-|son.|
+V:2
+|: D4 D2 | D4 D2 | E2 D4 | D6 | E4 E2 | F4 E2 | E4 E2 | C6 | F4 F2 | E4 D2 | D4 C2 | A,6 :| %12
+V:3
+|: A,4 A,2 | G,4 A,2 | C2 B,4 | A,6 | A,4 A,2 | F,4 A,2 | A,4 ^G,2 | A,6 | A,4 D2 | B,4 A,2 | B,4 A,2 | F,6 :| %12
+V:4
+|: D,4 D,2 | D,4 D,2 | D,4 D,2 | D,6 | C,4 C,2 | B,,4 C,2 | E,4 E,2 | A,,6 | D,4 D,2 | E,4 F,2 | G,4 A,2 | D,6 :| %12
+
+X:111
+T:Messe de Saint Boniface - Sanctus
+C:Marcus Wittal
+%%score { ( 1 2 ) | ( 3 4 ) }
+L:1/8
+M:6/8
+I:linebreak $
+K:D
+V:1 clef=
+V:2 clef=
+V:3 clef=bass
+V:4 clef=bass
+V:1
+|:^"D" F2 F E2 F |^"G" (GAB)^"D" A3 |^"C" =c2 c^"G" (B>A)G |^"D" A3 z3 :|$ %4
+w: |Sanc- tus, sanc- tus,|* sanc- * tus~!|De- us Sa- * ba-|oth~! *|
+w: |||||
+S^"D" FFF^"F#m" FFF |^"Bm" F3^"D" F2 F |^"G" FED^"C" E2 E |^"A" E3- E2 ||$ %8
+w: Ple- ni sunt cae- li et|ter- ra _|glo- ri- a tu- *|a~! *|
+w: Be- * ne- dic- tus qui|ve- nit in|no mi ni do- mi-|ni~! *|
+|: A |^"D" dAA/A/^"G" (Bc)d |^"A" A3^"D" A2 A |^"C" =ccc/c/^"G" (B G2) |^"D" A3 z2!D.S.! :| %13
+w: |Ho-|san- na in ex- cel- * sis|De- o~! Ho-|san- na in ex- cel- *|sis~! *|
+w: ||||||
+V:2
+|: D2 D D2 D | (D2 E) F3 | G2 G G2 G | F3 x3 :|$ %4
+ DDD EEE | D3 D2 D | B,B,B, B,=CD | ^C3- C2 ||$ %8
+|: A | FFF/F/ G2 F | E3 F2 F | GGG/G/ (G E2) | F3 x2 :| %13
+V:3
+|: A,2 A, G,2 A, | (B,2 D) D3 | E2 E (D>=C)B, | A,3 z3 :|$ %4
+ A,A,A, A,A,A, | (B,2 F,) F,2 F, | G,G,G, G,2 G, | A,3- A,2 ||$ %8
+|: A, | A,A,A,/A,/ B,2 B, | C3 D2 D | EEE/E/ D3 | D3 z2 :| %13
+V:4
+|: D,2 D, D,2 D, | D,3 D,3 | =C,2 C, G,2 G, | D,3 x3 :|$ %4
+ D,D,D, C,C,C, | B,,3 A,,2 A,, | G,,G,,G,, =C,2 C, | A,,3- A,,2 ||$ %8
+|: A, | D,D,D,/D,/ G,2 G, | A,3 D,2 D, | =C,C,C,/C,/ G,3 | D,3 x2 :| %13
+
+X:112
+T:Messe de Saint Paul - Agnus
+C:Chants de l'Emmanuel (L.E. de Labarthe)
+Z:A.E.L.F.
+%%score [ ( 1 2 ) ( 3 4 ) ]
+L:1/8
+Q:1/4=80
+M:4/4
+I:linebreak $
+K:C
+V:1 clef=
+V:2 clef=
+V:3 clef=bass
+V:4 clef=bass
+V:1
+^"Am" (A4 B2) c2 |^"Em" B4^"F" A2 z A | A2 BA^"C" G2 G2 |^"Dm" F4^"E" E2 z2 |$ %4
+^"C" E2 E2^"F" F2^"C6" G2 |^"Dm" F4^"C" E2 z2 |^"Em" G3 G^"Dm" A2 B2 |^"Am" A4 A2 z2 |] %8
+V:2
+ E6 E2 | G4 F2 x F | F2 FD E2 C2 | D2 C2 B,2 x2 |$ %4
+w: 1.2.3.~A- gnus|De\-~- i qui|tol- lis pec- ca- ta|mun- * di,|
+w: ||||
+ C2 C2 C2 C2 | D4 C2 x2 | E3 E F2 F2 | E4 E2 x2 |] %8
+w: 1.2.Mi- se- re- re|no- bis,|mi- se- re- re|no- bis.|
+w: 3.Do- na no- bis|pa- cem,|do- na no- bis|pa- cem.|
+V:3
+ (C4 D2) E2 | (E2 D2) C2 z C | C2 DD C2 G,2 | A,4 ^G,2 z2 |$ %4
+ G,2 G,2 A,2 G,2 | A,2 B,2 C2 z2 | B,3 B, D2 D2 | (D2 B,2) C2 z2 |] %8
+V:4
+ A,6 A,2 | E,4 F,2 x F, | F,2 F,F, E,2 E,2 | D,4 E,2 x2 |$ %4
+ C,2 C,2 F,2 E,2 | D,4 C,2 x2 | E,3 E, D,2 D,2 | A,4 A,2 x2 |] %8
+
+X:113
+T:Messe de Saint Paul - Alléluia
+C:Chants de l'Emmanuel (L.E. de Labarthe)
+Z:A.E.L.F.
+%%score [ ( 1 2 ) ( 3 4 ) ]
+L:1/8
+Q:1/4=117
+M:4/4
+I:linebreak $
+K:C
+V:1 clef=
+V:2 clef=
+V:3 clef=bass
+V:4 clef=bass
+V:1
+ z4"^Célébrant" z2 AA | A2 AA c2 Ac | B8 ||$ %3
+w: * * Ac- cla-|mons la Pa- ro- le de|Dieu!|
+^"Am" A2 A2^"F" c2 c2 |^"Em" B3 c^"Am" (BA) A2 |^"F" c2^"Dm" d2^"G" B2 G2 |^"Em" B B2 c^"Am" A4 |] %7
+w: Al- le- * *||||
+V:2
+ x8 | x8 | x8 ||$ %3
+w: |||
+w: |||
+ E2 E2 F2 F2 | G3 G E2 E2 | A2 F2 G2 E2 | G G2 G E4 |] %7
+w: * * lu- ia,|Al- le- lu- ia!|Al- le- lu- ia,|Al- le- lu- ia!|
+w: Fin:~Al- le- lu- ia,|Al- le- lu- ia!|Lou- ange à toi,|Sei- gneur Jé- sus!|
+V:3
+ z8 | z8 | z8 ||$ %3
+ C2 C2 A,2 D2 | B,3 D D2 C2 | A,2 A,2 D2 B,2 | E2 (B,D) C4 |] %7
+V:4
+ x8 | x8 | x8 ||$ %3
+ A,,2 (A,G,) F,2 (F,D,) | E,3 E, A,2 A,2 | (F,E,) D,2 G,2 G,2 | E, E,2 E, A,4 |] %7
+
+X:114
+T:Messe de Saint Paul - Anamnèse
+C:Chants de l'Emmanuel (L.E. de Labarthe)
+Z:A.E.L.F.
+%%score [ ( 1 2 ) ( 3 4 ) ]
+L:1/8
+M:4/4
+I:linebreak $
+K:C
+V:1 clef=
+V:2 clef=
+V:3 clef=bass
+V:4 clef=bass
+V:1
+"^Célébrant" z4 z2 AA | A2 AA cc Ac | B8 ||$ %3
+w: * * Pro- cla-|mons le mys- tè re de la|foi!|
+^"Am"[Q:1/4=80]"^Tous" A3 G^"F" A3 G |^"Dm" A2 G2^"Em" E4 |^"Am" A3 G^"F" A3 G |^"Dm" A2 B2^"Am" c4 |$ %7
+w: ||* * * qui|es vi- vant!|
+^"Am" c2 cB^"Am/G" c3 B |^"F" c2^"Em" B2^"Dm" A4 |^"Em" G3 G^"Dm" F2^"Em" G2 |^"Am" [EA]8 |] %11
+w: ||* * * Jé-|sus!|
+V:2
+ x8 | x8 | x8 ||$ %3
+w: |||
+ E3 G F3 F | F2 D2 B,4 | E3 G F3 F | F2 (FD) E4 |$ %7
+w: Gloire à Toi qui|é- tais mort!|Gloire à Toi *||
+ A2 EE E3 E | A2 E2 F4 | E3 E D2 E2 | x8 |] %11
+w: No- tre Sau- veur et|no- tre Dieu,|Viens Sei- gneur *||
+V:3
+ z8 | z8 | z8 ||$ %3
+ C3 B, C3 D | D2 B,2 B,4 | C3 B, C3 D | D2 D2 C4 |$ %7
+ E2 ED C3 G, | C2 (EB,) (C2 D2) | E3 B, (DA,) (B,D) | [A,,C]8 |] %11
+V:4
+ x8 | x8 | x8 ||$ %3
+ A,,3 A,, F,3 F, | D,2 D,2 E,4 | A,,3 A,, F,3 F, | D,2 D,2 A,,4 |$ %7
+ A,2 A,A, G,3 G, | F,2 F,2 D,4 | E,3 E, F,2 E,2 | x8 |] %11
+
+X:115
+T:Messe de Saint-Paul - Gloria
+C:Chants de l'Emmanuel (L.E. de Labarthe)
+Z:A.E.L.F.
+%%score { ( 1 2 ) | ( 3 4 ) }
+L:1/8
+Q:1/2=63
+M:4/4
+I:linebreak $
+K:C
+V:1 clef=
+V:2 clef=
+V:3 clef=bass
+V:4 clef=bass
+V:1
+|:[P:Refrain]^"Am" A3 B^"F" c4 |^"Dm" dc^"G" Bc^"C/E" c2 G2 |^"Dm" A2^"C/E" G2^"F" A2 Ac |[1^"G" B3 A B4 :|[2^"G" B3 c^"C" c4 ||$ %5
+w: |* ri- *||* * a * *|* mi- *||
+[P:1]^"Am" E3 E^"F" F2 FF |^"Em" G2 G2^"Am" E4 |^"Dm/F" DD DD^"Dm" F2 F2 |^"Em" E2 ED^"E4" E2^"E" E2 |^"Am" E2 EE^"F" F2 FF |$ %10
+w: ||* * * * * re~aux|hom- * * * *||
+^"Em" G2 G2^"Am" E4 |^"Dm/F" D4^"Dm" F2 D2 |^"Em" E8&x4^"E4"x4 |^"Am" EE EE^"F" F4 |^"Em" GG GG^"Am" E2 E2 |^"Dm/F" F F2 F^"Em" G2 G2 |$ %16
+w: ||rons,||||
+^"F" A4 A4 |^"Dm" A2 A2^"G" B4 |^"C/E" c2 c2 G2 GG |^"F" A3 A^"Dm6" B2 c2 |^"E" [^GB]8 ||$ %21
+w: ||* * * * le||sant.|
+[P:2]^"Am" EE EE^"F" F2 F2 |^"Em" G2 G2^"Am" E2 EE |^"Dm/F" DD DD^"Dm" F3 F |^"Em" E2 D2^"E4" E2^"E" E2 |^"Am" E2 EE^"F" F2 F2 |$ %26
+w: * * Fils u- * *|* * Christ, * *|* * * * Dieu, le|Fils * * *||
+^"Em" GG GG^"Am" E2 E2 |^"Dm/F" D2 D2^"Dm" F2 D2 |^"Em" E8&x4^"E4"x4 |^"Am" E2 EE^"F" F2 F2 |^"Em" GG GG^"Am" E2 E2 |^"F" F F3^"Em" G2 G G |$ %32
+w: ||nous:||||
+^"F" A4 A4 |^"Dm" AA AA^"G" B2 BB |^"C/E" c2 cc G2 G2 |^"F" A2 A2^"Dm6" B2 c2 |^"E" [^GB]8 ||$ %37
+w: ||||nous.|
+[P:3]^"Am" EE EE^"F" F4 |^"Em" GG GG^"Am" E4 |^"Dm/F" F F2 F^"Em" G2 G2 |^"F" A8 |^"Dm" A2 A2^"G" B3 B |$ %42
+w: ||||* * * a-|
+^"C/E" cc cc G2 GG |^"F" A2 AA^"Dm6" B2 c2 |^"E" B4 B4 |] %45
+w: * * * * * * la|* re de * le||
+V:2
+|: E3 E F4 | FF GF G2 G2 | F2 E2 F2 FF |[1 G3 G G4 :|[2 G3 G G4 ||$ %5
+w: |Glo- * a|in ex- cel- cis De- o!|Glo- ri- * De- o|Do- * no!|Do- mi- no!|
+ C3 C C2 CD | E2 E2 C4 | DD DD D2 D2 | D2 CD B,2 B,2 | C2 CC C2 CD |$ %10
+w: 1.~Gloi- re~à Dieu, au plus|haut des cieux,|et paix sur la ter- *|* mes qu'il ai- me.|Nous te lou- ons, nous te|
+ E2 E2 C4 | D4 D2 D2 | (D2 C2 B,4) | CC CC C4 | EE EE C2 C2 | D D2 D E2 E2 |$ %16
+w: bé- nis- sons,|nous t'a- do-||nous te glo- ri- fions,|nous te ren- dons grâ- ce,|pour ton im- men- se|
+ (F2 G2) A4 | F2 F2 D4 | G2 G2 G2 CC | C3 C F2 A2 | x8 ||$ %21
+w: gloi- * re.|Sei- gneur Dieu,|Roi du ciel, Dieu *|Pè- re tout- puis-||
+ CC CC C2 D2 | E2 E2 C2 CC | DD DD D3 D | (DC) D2 B,2 B,2 | C2 CC C2 D2 |$ %26
+w: 2.~Sei- gneur, * * ni- que,|Jé- sus * Sei- gneur|Dieu, A- gneau de * *|* * du Pè- re;|Toi qui en- lè- ves|
+ EE EE C2 C2 | D2 D2 D2 D2 | (D2 C2 B,4) | C2 CC C2 D2 | EE EE C2 C2 | D D3 E2 E E |$ %32
+w: le pé- ché du mon- de,|prends pi- tié de||Toi qui en- lè- ves|le pé- ché du mon- de,|re- çois no- tre pri-|
+ (F2 G2 A4) | FF FF D2 DD | G2 GG G2 C2 | C2 C2 F2 A2 | x8 ||$ %37
+w: è- * re:|Toi qui es as- sis à la|droi- te du Pé- re,|prends pi- tié de||
+ CC CC (C2 D2) | EE EE C4 | D D2 D E2 E2 | (F2 G2 A4) | F2 F2 D3 D |$ %42
+w: 3.~Car toi seul es saint, *|toi seul es Sei- gneur,|toi seul es le Très-|Haut: * *|Jé- sus- Christ, *|
+ GG GG G2 CC | C2 CC F2 A2 | ^G4 G4 |] %45
+w: vec le Saint- Es- prit dans *|gloi- * * Dieu *|Pè- re.|
+V:3
+|: C3 C A,4 | A,D DD C2 C2 | D2 D2 C2 CD |[1 D3 C D4 :|[2 (D2 E) F E4 ||$ %5
+w: ||||||
+ A,3 C A,2 A,A, | B,2 B,2 A,4 | A,A, A,A, A,2 A,2 | A,2 A,A, A,2 ^G,2 | A,2 A,C A,2 A,A, |$ %10
+w: ||* * * * * re~aux|hom- * * * *||
+ B,2 B,2 A,4 | A,4 A,2 A,2 | (A,4 ^G,4) | A,A, A,C A,4 | B,B, B,B, A,2 A,2 | A, A,2 A, B,2 B,2 |$ %16
+w: ||||||
+ (C2 DE) F4 | F2 E2 D4 | C2 C2 C2 CC | A,2 C2 D2 F2 | E8 ||$ %21
+w: |||||
+ A,A, CC A,2 A,2 | B,2 B,2 A,2 A,A, | A,A, A,A, A,3 A, | A,2 A,2 A,2 ^G,2 | A,2 A,C A,2 A,2 |$ %26
+w: |||||
+ B,B, B,B, A,2 A,2 | A,2 A,2 A,2 A,2 | (A,4 ^G,4) | A,2 A,C A,2 A,2 | B,B, B,B, A,2 A,2 | A, A,3 B,2 B, B, |$ %32
+w: ||||||
+ (C2 DE F4) | FF EE D2 DD | C2 CC C2 C2 | A,2 C2 D2 F2 | E8 ||$ %37
+w: |||||
+ A,A, A,C A,4 | B,B, B,B, A,4 | A, A,2 A, B,2 B,2 | (C2 DE F4) | F2 E2 D3 D |$ %42
+w: |||||
+ CC CC C2 CC | A,2 CC D2 F2 | E4 E4 |] %45
+w: |||
+V:4
+|: (A,,2 A,) G, (F,3 E,) | D,D, G,G, E,2 E,2 | D,2 E,2 F,2 E,D, |[1 G,3 G, G,4 :|[2 G,3 G, C,4 ||$ %5
+ A,,2 A, G, F,2 F,F, | E,2 G,2 A,4 | F,F, F,E, D,2 D,2 | E,2 E,E, E,2 E,2 | A,,2 A,G, F,2 F,F, |$ %10
+ E,2 G,2 A,4 | F,2 E,2 D,2 D,2 | E,8 | A,,A,, A,G, F,4 | E,E, E,D, C,B,, A,,2 | F, F,2 F, E,2 E,2 |$ %16
+ F,4 F,4 | D,2 D,2 G,4 | E,2 E,2 E,2 E,E, | F,2 E,2 D,2 D,2 | E,8 ||$ %21
+ A,,A,, A,G, F,2 F,2 | E,2 G,2 A,2 A,A, | F,F, F,E, D,3 D, | E,2 E,2 E,2 E,2 | A,,2 A,G, F,2 F,2 |$ %26
+ E,E, G,G, A,2 A,2 | F,2 E,2 D,2 D,2 | E,8 | A,,2 A,G, F,2 F,2 | E,E, G,G, A,2 A,2 | F, F,3 E,2 E, E, |$ %32
+ F,4 F,4 | D,D, D,D, G,2 G,G, | E,2 E,E, E,2 E,2 | F,2 E,2 D,2 D,2 | E,8 ||$ %37
+ A,,A,, A,G, F,4 | E,E, E,G, A,4 | F, F,2 F, E,2 E,2 | F,8 | D,2 D,2 G,3 G, |$ %42
+ E,E, E,E, E,2 E,E, | F,2 E,E, D,2 D,2 | E,4 E,4 |] %45
+
+X:116
+T:Messe de Saint Paul - Kyrie
+C:Chants de l'Emmanuel (L.E. de Labarthe)
+Z:A.E.L.F.
+%%score [ 1 ( 2 3 ) ( 4 5 ) ]
+L:1/8
+M:23/8
+I:linebreak $
+K:C
+V:1 clef=
+V:2 clef=
+V:3 clef=
+V:4 clef=bass
+V:5 clef=bass
+V:1
+"^Kyrie""^Célébrant" A16 GAB c4 | c16 Bc A4 | G2 G2 F2 G2 A4 ||$ %3
+w: Seigneur~Jésus~envo- yé par le Père|pour~guérir~et~sau- ver les hommes,|prends pi- tié de nous.|
+w: O~Christ~ve- nu dans le monde|appeler~tous les pé- cheurs,||
+w: Seigneur~Jésus~élevé~dans~la gloi\-- ~re du Père|où~tu~intercè- des pour nous,||
+[Q:1/4=80] z8 | z8 | z8 | z8 | z8 | z8 |] %9
+w: ||||||
+w: ||||||
+w: ||||||
+V:2
+ [EA]16- x x x x x x x | [EA]16- x x x x x x | [EA]12 ||$ %3
+w: |||
+w: |||
+^"Am""^Tous" A3 G^"F" A3 G |^"Dm" A2 B2^"Am" c4 |^"Am" c3 B^"Am/G" c3 B |^"F" c2^"Em" B2^"F" A4 |^"Em" G3- G^"Dm/F" FF^"Em7"GG |^"Am" A6 z2 |] %9
+w: 1~~3.~Ky- ri- e e-|le- i- son,|* * * e-|le- i- son|||
+w: 2.~Chris- * te e-|le- i- son;|* * * e-|le- i- son|||
+V:3
+ x23 | x22 | x12 ||$ %3
+w: |||
+w: |||
+ E3 G F3 F | F2 FD E4 | A3 E E3 E | A2 E2 F4 | E3- E DDEE | E6 x2 |] %9
+w: ||Ky- ri- e *||Ky- ri- e e- le- i-|son.|
+w: ||Chris- * te *||Chris- * te e- le- i-|son.|
+V:4
+"^B.F." [A,,A,]16- x x x x x x x | [A,,A,]16- x x x x x x | [A,,A,]12 ||$ %3
+ C3 B, C3 D | D2 D2 C4 | E3 D C3 G, | C2 (EB,) (C2 D2) | (E3 B,) DA,B,D | C6 z2 |] %9
+V:5
+ x23 | x22 | x12 ||$ %3
+ A,,3 A,, F,3 F, | D,2 D,2 A,,4 | A,3 A, G,3 x | F,2 G,2 F,4 | E,3- E, F,F,E,E, | A,,6 x2 |] %9
+
+X:117
+T:Messe de Saint Paul - Sanctus
+C:Chants de l'Emmanuel (L.E. de Labarthe)
+Z:A.E.L.F.
+%%score [ ( 1 2 ) ( 3 4 ) ]
+L:1/8
+Q:1/4=117
+M:4/4
+I:linebreak $
+K:C
+V:1 clef=
+V:2 clef=
+V:3 clef=bass
+V:4 clef=bass
+V:1
+^"Am" A2 A2^"F" c2 c2 |^"Em" B3 c^"Am" BA A2 |^"F" c2^"Dm" dc^"G" B2 G2 |^"Em" B3 c^"Am" A2 z2 |]$ %4
+w: ||||
+^"Am" E2 EE^"F" F2 FF |^"Em" G4^"Am" E4 |^"Dm/F" F F2 F^"Em" G4 |^"Am" A6 z c |^"F" c4^"G" BA^"Em" G2 |^"Am" A4 A2 z c |^"F" c4^"G" B x^"Em" G2 |^"Am" A4 A2 z2 ||$ %12
+w: |ter- *|* ri- a tu-|a. * *|* * in *||||
+^"Am" E2 E2^"F" F2 FF |^"Em" G4^"Am" E3 E |^"Dm/F" F F2 F^"Em" G3 A |^"Am" A6 z c |^"F" c4^"G" B x^"Em" G2 |^"Am" A4 A2 z c |^"F" c4^"G" B x^"Em" G2 |^"Am" A4 A4 |] %20
+w: ||||||||
+V:2
+ E2 E2 F2 F2 | G3 G EE E2 | A2 FF G2 E2 | G3 G E2 x2 |]$ %4
+w: Sanc- tus, Sanc- tus,|Sanc- tus Do- mi- nus!|Do- mi- nus De- us|Sa- ba- oth!|
+ C2 CC C2 CD | E4 C4 | D D2 D E4 | E6 x E | (AG) F2 GG E2 | E4 E2 x E | (AG F2) GG E2 | E4 E2 x2 ||$ %12
+w: Ple- ni sunt cae- li et|* ra|glo * * *|* Ho-|san- * * na * ex-|cel- sis, Ho-|san- * * na in ex-|cel- sis!|
+ C2 C2 C2 CD | E4 C3 C | D D2 D E3 E | E6 x E | (AG) F2 GG E2 | E4 E2 x E | (AG) F2 GG E2 | E4 E4 |] %20
+w: Be- ne- dic- tus qui|ve- nit in|No- mi- ne Do- mi-|ni. Ho-|san- * * na in ex-|cel- sis. Ho-|san- * * na in ex-|cel- sis!|
+V:3
+ C2 C2 A,2 D2 | B,3 D DD C2 | A,2 A,D D2 B,2 | (E B,2) D C2 z2 |]$ %4
+w: ||||
+ A,2 A,C A,2 A,A, | B,4 A,2 x2 | A, D2 A, B,4 | C (C2 D) E2 z C | (C2 D2) B,B, B,2 | C4 C2 z C | (C2 D2) B,B, B,2 | C4 C2 z2 ||$ %12
+w: ||||||||
+ A,2 (A,C) A,2 A,A, | B,4 A,3 A, | A, D2 A, B,3 D | C C2 D E2 z C | (C2 D2) B,B, B,2 | C4 C2 z C | (C2 D2) B,B, B,2 | C4 C4 |] %20
+w: ||No- mi- ne Do- mi-|ni, Do- mi- ni. * *|||||
+V:4
+ A,,2 (A,G,) F,2 (F,D,) | E,3 E, A,A, A,2 | (F,E,) D,D, G,2 G,2 | E,3 E, A,2 x2 |]$ %4
+w: ||||
+ A,,2 A,G, F,2 F,F, | E,4 A,2 A,G, | F,4 E,4 | A,, (A,2 B,) C2 x G, | (F,E, D,2) G,G, E,2 | A,,4 A,,2 x G, | (F,E, D,2) G,G, E,2 | A,,4 A,,2 x2 ||$ %12
+w: |* * glo- ri-|a tu|a, tu- * a. *|||||
+ A,,2 (A,G,) F,2 F,F, | E,4 A,2 (A,G,) | F, F,2 F, E,3 E, | A,, A,2 B, C2 x G, | (F,E, D,2) G,G, E,2 | A,,4 A,,2 x G, | (F,E, D,2) G,G, E,2 | A,,4 A,,4 |] %20
+w: ||||||||
+
+X:118
+T:Messe de San Lorenzo - Agnus Dei
+C:C-E Hauguel
+Z:AL595
+%%score { ( 1 2 ) | ( 3 4 ) }
+L:1/8
+M:4/4
+I:linebreak $
+K:Bb
+V:1 clef=
+V:2 clef=
+V:3 clef=bass
+V:4 clef=bass
+V:1
+^"Gm" G4 G4 |^"D" ^F4 F4 |^"D7" A2 A2 A2 A2 |^"Gm" G2 G2 G2^"Fm" A2 |$ %4
+w: A- gnus|De- i|qui tol- lis pec-|ca- ta mun- di,|
+w: ||||
+^"Bb" d2 d2 d2 d2 |^"Fm" c4 c4 |[1,2^"Gm" B2 B2 B2 B2 |^"Dsus4" A4^"D" A4 :|[3^"Gm" B2 B2 B2 B2 |^"D" d4 d4 |] %10
+w: 1.2.~mi- se- re- re|no- bis|mi- se- re- re|no- bis|||
+w: 3.~do- na no- bis|pa- cem|||3.~do- na no- bis|pa- cem|
+V:2
+ D4 D4 | D4 D4 | ^F2 F2 F2 F2 | D2 D2 D2 =F2 |$ %4
+ F2 F2 F2 F2 | F4 F4 |[1,2 G2 G2 G2 G2 | G4 ^F4 :|[3 G2 G2 G2 G2 | ^F4 F4 |] %10
+V:3
+ B,4 B,4 | A,4 A,4 | C2 C2 C2 C2 | B,2 B,2 B,2 C2 |$ %4
+ B,2 B,2 B,2 B,2 | A,4 A,4 |[1,2 D2 D2 D2 D2 | D4 D4 :|[3 D2 D2 D2 D2 | D4 D4 |] %10
+V:4
+ G,4 G,4 | D,4 D,4 | D,2 D,2 D,2 D,2 | G,2 G,2 G,2 F,2 |$ %4
+ B,2 B,2 B,2 B,2 | F,4 F,4 |[1,2 G,2 G,2 G,2 G,2 | D,4 D,4 :|[3 G,2 G,2 G,2 G,2 | [D,A,]4 [D,A,]4 |] %10
+
+X:119
+T:Messe de San Lorenzo - Alléluia
+C:C-E Hauguel
+Z:AL595
+%%score { ( 1 2 ) | ( 3 4 ) }
+L:1/8
+M:4/4
+I:linebreak $
+K:Bb
+V:1 clef=
+V:2 clef=
+V:3 clef=bass
+V:4 clef=bass
+V:1
+^"Gm" (3GG^F G2^"Bb" (3BBA B2 |^"Cm" c2^"Gm" B>B^"D" A4 |] %2
+w: Al- lé lu- ia, Al- lé lu- ia,|Al- lé- lu- ia~!|
+V:2
+ (3DDD D2 (3^FFF F2 | E2 G>G ^F4 |] %2
+V:3
+ (3B,B,A, B,2 (3DDC D2 | C2 D>D D4 |] %2
+V:4
+ (3G,G,D, G,2 (3B,B,F, B,2 | G,2 G,>G, D,4 |] %2
+
+X:120
+T:Messe de San Lorenzo - Amen
+T:(de la doxologie du canon)
+C:C-E Hauguel
+Z:AL595
+%%score { ( 1 2 ) | ( 3 4 ) }
+L:1/8
+M:4/4
+I:linebreak $
+K:Bb
+V:1 clef=
+V:2 clef=
+V:3 clef=bass
+V:4 clef=bass
+V:1
+^"Gm" (G2^"D" ^F2)^"Gm" G4 |^"Bb" (B2^"F" A2)^"Bb" B4 |^"Cm" (c4^"Gm" B4) |^"D" A8 |] %4
+w: A- * men~!|A- * men~!|A- *|men~!|
+V:2
+ D4 D4 | F4 F4 | (G4 G4) | ^F8 |] %4
+V:3
+ (B,2 A,2) B,4 | (D2 C2) D4 | (C4 D4) | D8 |] %4
+V:4
+ (G,2 D,2) G,4 | (B,2 F,2) B,4 | G,8 | D,8 |] %4
+
+X:121
+T:Messe de San Lorenzo - Anamnèse
+C:C-E Hauguel
+Z:AL595
+%%score { ( 1 3 ) | ( 2 4 ) }
+L:1/8
+M:8/4
+I:linebreak $
+K:Bb
+V:1 clef=
+V:3 clef=
+V:2 clef=bass
+V:4 clef=bass
+V:1
+"^Célébrant" G8 ^F2 F2 G4 ||^"Gm""^Choeur, Assemblée" G8^"D" ^F2 F2^"Gm" G4 |$ %2
+w: Il~est~grand~le~mystère de la foi.|Nous~proclamons~ta~mort~Sei\- gneur Jé- sus,|
+w: Mysterium fi- de- i.|Mortem~tuam~annuntiamus Do- mi- ne,|
+^"Bb" B8^"F" A2 A2^"Bb" B4 |^"Cm" c8^"Gm" B2 B2^"D" A4 |] %4
+w: nous~célébrons~ta~ré- sur- rec- tion,|nous~attendons~ta~venue dans la gloire.|
+w: et~tuam~resurrectionem~con- fi- te- mur,|donec ve- ni- as.|
+V:2
+ z16 || B,8 A,2 A,2 B,4 |$ %2
+ D8 C2 C2 D4 | C8 D2 D2 D4 |] %4
+V:3
+ x16 || D8 D2 D2 D4 |$ %2
+ F8 F2 F2 F4 | E8 G2 G2 ^F4 |] %4
+V:4
+ x16 || G,8 D,2 D,2 G,4 |$ %2
+ B,8 F,2 F,2 B,4 | G,8 G,2 G,2 D,4 |] %4
+
+X:122
+T:Messe de San Lorenzo - Gloria
+C:C-E Hauguel
+Z:AL595
+%%score { ( 1 2 ) | ( 3 4 ) }
+L:1/8
+M:4/4
+I:linebreak $
+K:Bb
+V:1 clef=
+V:2 clef=
+V:3 clef=bass
+V:4 clef=bass
+V:1
+^"Gm" G3 G G4 |^"Cm" c3 d B4 |^"Gm" B2 B2 B2 B2 |^"D" A4 A4 |] %4
+w: S.~&~T.~Glo- ri- a,|Glo- ri- a|in ex- cel- sis|De- o.|
+V:2
+ z4 D3 D | G2 G2 G2 G2 | F2 F2 G2 G2 | ^F4 F4 |] %4
+w: ||||
+w: * A~&~B.~Glo- ri-|a, Glo- ri- a|in ex- cel- sis|De- o.|
+V:3
+ B,3 B, B,4 | C3 C C4 | D2 D2 G,2 G,2 | A,4 A,4 |] %4
+V:4
+ z4 G,3 G, | E,2 E,2 E,2 E,2 | F,2 F,2 D,2 D,2 | D,4 D,4 |] %4
+
+X:123
+T:Messe de San Lorenzo - Kyrie
+C:C-E Hauguel
+Z:AL595
+%%score { ( 1 2 ) | ( 3 4 ) }
+L:1/8
+M:4/4
+I:linebreak $
+K:Bb
+V:1 clef=
+V:2 clef=
+V:3 clef=bass
+V:4 clef=bass
+V:1
+^"Gm" G2 G2 G2 G2 |^"D" ^F2 F2^"Gm" G4 |^"Bb" B2 B2 B2 B2 |^"Fm" A2 A2^"Bb" B4 |^"Cm" c2 c2 c2 c2 |^"Gm" B4 B4 |^"D" A8 |] %7
+w: 1.~&~3.~Ky ri- e e-|le- i- son,|Ky- ri- e e-|le- i- son,|Ky- ri- e e-|le- i-|son.|
+w: 2.~Chris- * te e-|le- i- son,|Chris- * te e-|le- i- son,|Chri- ste- e *|le- i-|son.|
+V:2
+ D2 D2 D2 D2 | D2 D2 D4 | F2 F2 F2 F2 | F2 F2 F4 | E2 E2 E2 E2 | G4 G4 | ^F8 |] %7
+V:3
+ B,2 B,2 B,2 B,2 | A,2 A,2 B,4 | D2 D2 D2 D2 | C2 C2 D4 | C2 C2 C2 C2 | D4 D4 | D8 |] %7
+V:4
+ G,2 G,2 G,2 G,2 | D,2 D,2 G,4 | B,2 B,2 B,2 B,2 | F,2 F,2 B,4 | G,2 G,2 G,2 G,2 | G,4 G,4 | D,8 |] %7
+
+X:124
+T:Messe de San Lorenzo - Sanctus
+C:C-E Hauguel
+Z:AL595
+%%score { ( 1 2 ) | ( 3 4 ) }
+L:1/8
+M:4/4
+I:linebreak $
+K:Bb
+V:1 clef=
+V:2 clef=
+V:3 clef=bass
+V:4 clef=bass
+V:1
+^"Gm" G2 G2^"D" ^F2 F2 |^"Gm" G3 G G4 |^"Bb" B2 B2^"Fm" A2 A2 |^"Bb" B3 B B4 |^"Cm" c2 c2^"Gm" B2 B2 |^"D" A8 :|$ %6
+w: Sanc- tus, Sanc- tus,|Do- mi- nus,|Sanc- tus, Sanc- tus,|Do- mi- nus,|De- us sa- ba-|oth~!|
+w: ||||||
+^"Gm" B8 | B2 B2 B2 B2 |^"D" A6 |:^"Gm" z G |^"Gm" (G2^"D" ^F2)^"Gm" G3^"Bb" B |^"Fm" (B2^"Bb" A2) B4 |^"Gm" c2 c2 B4 |^"D" A8 :| %14
+w: 1.~Pleni~sunt~coeli~et~terra|glo- ri- a tu-|a.|* Ho-|san- * na, Ho-|sa- * na,|in ex- cel-|cis.|
+w: 2.~Benedictus~qui~venit~in~nomine|Do- * mi- *|ni.||||||
+V:2
+ D2 D2 D2 D2 | D3 D D4 | F2 F2 F2 F2 | F3 F F4 | E2 E2 G2 G2 | ^F8 :|$ %6
+ G8 | G2 G2 G2 G2 | ^F6 |: x D | D4 D3 =F | F4 F4 | E2 E2 G4 | ^F8 :| %14
+V:3
+ B,2 B,2 A,2 A,2 | B,3 B, B,4 | D2 D2 C2 C2 | D3 D D4 | C2 C2 D2 D2 | D8 :|$ %6
+ B,8 | D2 D2 D2 D2 | D6 |: z B, | (B,2 A,2) D3 D | CB, D6 | C2 C2 D4 | D8 :| %14
+V:4
+ G,2 G,2 D,2 D,2 | G,3 G, G,4 | B,2 B,2 F,2 F,2 | B,3 B, B,4 | G,2 G,2 G,2 G,2 | D,8 :|$ %6
+ G,8 | G,2 G,2 G,2 G,2 | D,6 |: x G, | (G,2 D,2) G,3 B, | F,F, B,6 | G,2 G,2 G,4 | D,8 :| %14
+
+X:125
+T:Anamnèse - Messe de St François-Xavier
+%%score { ( 1 3 ) | ( 2 4 ) }
+L:1/8
+Q:1/4=126
+M:4/4
+I:linebreak $
+K:C
+U:s=!stemless!
+V:1 clef=
+V:3 clef=
+V:2 clef=bass
+V:4 clef=bass
+V:1
+ A16 G A2 |$ %1
+w: Il~est~grand,~le~mystère~de la foi.|
+|:^"Am" z2 AB cAAG |^"G2" G4 z4 |^"Am" z2 AB cBAB- |^"G2" B B3 z4 |$ %5
+w: |* Gloire à Toi, qui é- tais|mort~! *|* Gloire à toi qui est vi-|* vant *|
+^"Am" z A AB cBAG |^"G2" G4 z4 |^"Dm7" F2 FA- A A2^"E" E- | E8 :|$ %9
+w: * No- tre sau- veur et no- tre|Dieu *|Viens Sei- gneur * Jé- sus||
+^"C" sE8 |^"G2" sD8 |^"Dm" sF8 |^"Am" sE8 |^"C" (E6 G2) |^"G2" (sD8 |^"Am" sE8- | sE8) |] %17
+w: A-|men|A-|men|A- *|men|_||
+V:2
+ z19 |$ %1
+|: z2 CD EDCC | B,4 z4 | z2 CD EDCD- | D D3 z4 |$ %5
+ z C CD EDCC | B,4 z4 | A,2 A,D- D C2 ^G,- | s[B,,G,]8 :|$ %9
+ sG,8 | sG,8 | sA,8 | sA,8 | (G,6 A,2) | sG,8 | sA,8- | sA,8 |] %17
+V:3
+ x19 |$ %1
+|: x2 EE AEEE | D4 x4 | x2 EE AEEG- | G G3 x4 |$ %5
+ x E EE AEEE | D4 x4 | D2 DF- F F2 E- | E8 :|$ %9
+ C8 | B,8 | D8 | C8 | sC8 | B,8 | C8- | C8 |] %17
+V:4
+ x19 |$ %1
+|: x2 A,A, A,E,A,A, | G,4 x4 | x2 A,A, A,E,A,G,- | G, G,3 x4 |$ %5
+ x A, A,A, A,E,A,A, | G,4 x4 | D,2 D,D,- D, D,2 B,,- | x8 :|$ %9
+ C,8 | G,,8 | D,8 | A,,8 | sC,8 | (G,,8 | A,,8- | A,,8) |] %17
+
+X:126
+T:Gloria - Messe de St François-Xavier
+%%score { ( 1 2 ) | ( 3 4 ) }
+L:1/8
+Q:1/4=126
+M:4/4
+I:linebreak $
+K:C
+U:s=!stemless!
+V:1 clef=
+V:2 clef=
+V:3 clef=bass
+V:4 clef=bass
+V:1
+|:[P:Refrain]^"Am" z2 AB c^"F"BA^"G2"B- | B G2 E3 z2 |^"Am" z2 AB c3 A |^"G2" BB c B2 B2 z :|$ %4
+w: |* Gloi- re~à Dieu, au plus haut|* des cieux. *|* Paix sur terre, aux|hom- mes qu'il ai- me *|
+[P:1]^"Am" z E GA A2 GE |^"F" GA A4 z2 |^"G2" z G GA B2 AG |^"E" E2 F2 E4 |^"Am" z A AB c A2 A |$ %9
+w: * 1.~Nous te lou- ons, nous te|bé- nis- sons *|* Nous t'a- do- rons, nous te|glo- ri- fions.|* Nous te ren- dons grâce pour|
+^"F" AcBA A2 A2 |^"G2" (3z2 G2 A2 (3B2 A2 G2 |^"E" E8 |^"Am" (3z2 A2 A2 (3A2 G2 E2 |^"F" F8 |$ %14
+w: ton im- men- se gloi- re.|* Sei- gneur Dieu, Roi du|ciel.|* Dieu le Père tout puis-|sant.|
+^"G2" z G2 A BAGF |^"E" E2 F2 E4 |^"Am" z A2 B c2 z A |^"F" B2 c A2 z2 A |^"G2" B6 A2 |^"Esus4" B4^"E" B4 ||$ %20
+w: * Sei- gneur, Fils u- ni- que|Jé- sus Christ.|* Sei- gneur Dieu, * A-|gneau de Dieu, * le|Fils du|Pè- re.|
+[P:2]^"Am" z A AB cBAG |^"F" B2 A A4 z |^"G2" B2 cB- B G2 E- |^"E" sE8 |^"Am" z A AB cBAG |^"F" B2 A A4 G |$ %26
+w: * Toi qui en- lè- ves le pé-|ché du monde, *|Prends pi- tié * de nous|_|* Toi qui en- lè- ves le pé-|ché du monde, re-|
+^"G" B2 cB- B A2 A- |^"E" A4 ^G4 |^"Am" z A AB cBAG |^"F" B2 AG G A2 z |^"G" B2 cB- B A2 B- |^"Esus4" B4^"E" B4 ||$ %32
+w: çois no- tre * pri- è-|* re.|* Toi qui es as- sis à la|droi- te du Pè- re, *|Prends pi- tié * de nous|_ _|
+[P:3] z E^"Am" GA G A2 z | z A^"F" Ac B c3 | z A^"Gsus2" B2 cB- BG- |GE-^"E" E4 z2 |$ %36
+w: * 3.~Car toi seul es Saint, *|* Toi seul es Sei- gneur|* Toi seul es le * Très|* Haut * *|
+^"Am" (3z2 A2 A2 A3 A |^"F" BcBA c2 AA |^"G2" B2 Bc B3 A |^"Esus4" B4^"E" B4 ||$ %40
+w: * Jé- sus Christ, A-|vec le Saint Es- prit Dans la|gloi- re de Dieu le|Pè- re.|
+[P:4]^"F" A3 A3 z2 |^"G2" B3 B3 z2 |^"A" s^c8 | !fermata!s^c8 |] %44
+w: A- men *|A- men *|A-|men.|
+V:2
+|: x2 EE AAFG- | G D2 B,3 x2 | x2 EE A3 E | GG G G2 G2 x :|$ %4
+ x8 | x8 | x8 | x8 | x8 |$ %9
+ x8 | x8 | x8 | x8 | x8 |$ %14
+ x8 | x8 | x8 | x8 | x8 | x8 ||$ %20
+ x8 | x8 | x8 | x8 | x8 | x8 |$ %26
+ x8 | x8 | x8 | x8 | x8 | x8 ||$ %32
+ x8 | x8 | x8 | x8 |$ %36
+ x8 | x8 | x8 | x8 ||$ %40
+ (F2 G) F3 x2 | (G2 F) G3 x2 | A8 | A8 |] %44
+V:3
+|: z2 CD EDCD- | D B,2 B,3 z2 | z2 CD E3 C | DD D D2 D2 z :|$ %4
+ z8 | z8 | z8 | z8 | z8 |$ %9
+ z8 | z8 | z8 | z8 | z8 |$ %14
+ z8 | z8 | z8 | z8 | z8 | z8 ||$ %20
+ z8 | z8 | z8 | z8 | z8 | z8 |$ %26
+ z8 | z8 | z8 | z8 | z8 | z8 ||$ %32
+ z8 | z8 | z8 | z8 |$ %36
+ z8 | z8 | z8 | z8 ||$ %40
+ (C2 B,) A,3 x2 | (D2 C) B,3 z2 | sE8 | !fermata!sE8 |] %44
+V:4
+|: x2 A,A, A,F,F,G,- | G, G,2 G,3 x2 | x2 A,A, A,3 A, | G,G, G, G,2 G,2 x :|$ %4
+ x8 | x8 | x8 | x8 | x8 |$ %9
+ x8 | x8 | x8 | x8 | x8 |$ %14
+ x8 | x8 | x8 | x8 | x8 | x8 ||$ %20
+ x8 | x8 | x8 | x8 | x8 | x8 |$ %26
+ x8 | x8 | x8 | x8 | x8 | x8 ||$ %32
+ x8 | x8 | x8 | x8 |$ %36
+ x8 | x8 | x8 | x8 ||$ %40
+ F,3 F,3 x2 | F,3 G,3 x2 | A,8 | A,8 |] %44
+
+X:127
+T:Messe de St François-Xavier - Agnus
+%%score 1 [ 2 3 ]
+L:1/8
+Q:1/4=112
+M:4/4
+I:linebreak $
+K:C
+V:1 clef=
+V:2 clef=
+V:3 clef=bass
+V:1
+^"C" z2 GG (GF)ED- |^"G2" D4 z4 |^"Dm" z2 AA A G2 F |^"Am" EAAA- A2 z2 |[0$ %4
+w: * Toi l'A- gneau * de Dieu|_|* qui en- lè- ves le|pé- ché du monde * *|
+|1^"C" z2 GG (GF)ED- |[0^"G2" D2 DD (D E2) F |^"Am" E8- | E4 z4 :|$ %8
+w: |* Prends pi- tié _ de nous.|_ prends pi- tié _ de|nous||
+|3^"C" z2 GG G A2 G- |[0^"G2" G2 GG G A2 A- |^"Am" !fermata!A8 |] %11
+w: |* Don- ne nous la paix|_ don- ne nous la paix!|_|
+V:2
+ [EG]8 | [DG]8 | [FA]8 | [EA]8 |[0$ %4
+w: A-|gneau|de|Dieu|
+|1 z2 [EG][EG] [EG][DF][CE][B,D]- |[0 [B,D]2 [B,D][B,D] (([B,D] [CE]2)) [DF] | [CE]8- | [CE]4 z4 :|$ %8
+w: |* Prends pi- tié _ de nous.|_ prends pi- tié _ de|nous||
+|3 z2 [EG][EG] [EG] [EA]2 [DG]- |[0 [DG]2 [DG][DG] [DG] [FA]2 [EA]- | !fermata![EA]8 |] %11
+w: |* Don- ne nous la paix|_ don- ne nous la paix!|_|
+V:3
+ [C,C]8 | [G,,B,]8 | [D,D]8 | [A,,C]8 |[0$ %4
+|1 z2 [C,C][C,C] [C,C]2 [C,C][G,,B,]- |[0 [G,,B,]2 [G,,B,][G,,B,] [G,,B,]3 [G,,B,] | [A,,A,]8- | [A,,A,]4 z4 :|$ %8
+|3 z2 [C,C][C,C] [C,C] [C,C]2 [G,,B,]- |[0 [G,,B,]2 [G,,B,][G,,B,] [G,,B,] [G,,B,]2 [A,,C]- | !fermata![A,,C]8 |] %11
+
+X:128
 T:Messe de St François Xavier - Kyrie
 T:(Pardonne-moi Seigneur)
 C:Communauté du Chemin Neuf
@@ -4296,7 +5370,279 @@ V:4
  x8 | x8 | x8 | x8 | x8 |$ %14
 |: C,6 C,2 | G,,6 G,,2 | D,4 D,4 | A,,4 A,,2 B,,2 | C,6 C,2 | G,,4 G,,4 | A,,8 |[1 x8 :|[2 x6 |] %23
 
-X:100
+X:129
+T:Messe de Saint François-Xavier : Sanctus
+C:Communauté du Chemin Neuf
+Z:AELF
+%%score 1 [ ( 2 3 ) ( 4 5 ) ]
+L:1/8
+Q:1/4=126
+M:4/4
+I:linebreak $
+K:C
+V:1 clef=
+V:2 clef=
+V:3 clef=
+V:4 clef=bass
+V:5 clef=bass
+V:1
+|: z8 | z8 | z8 | z8 :|$ %4
+w: |||||
+w: |||||
+|:S^"Am" EAAG A2 z2 |^"F" EAAG A2 z2 |^"G2" BcBG D2 z2 |[1 BcBG D2 z2 :|[2 BcBG D2 z2O ||$ %9
+w: |Saint est le Sei- gneur, *|Saint est le Sei- gneur, *|Dieu de l'u- ni- vers, *|Dieu de l'u- ni- vers! *|Dieu de l'u- ni- vers! *|
+w: ||||||
+|:^"Am" EEEE E2 EE |^"F" FGFE F2- F2 |^"G2" GD D2 GD D2 |^"Dm7" EFED^"Esus4" E2 z2!D.S.! :|$ %13
+w: |1.Le ciel et la ter- re sont|rem- plis de ta gloi- re!|Ho- san- na, ho- san- na,|au plus haut des cieux! *|
+w: |2.Bé- ni soit ce- lui qui vient|au nom du Sei- gneur! _|Ho- san- na, ho- san- na,|au plus haut des cieux! *|
+|:O z8 | z8 | z8 | z8 :| z8 |] %18
+w: ||||||
+w: ||||||
+V:2
+|:^"Am" E4 E4 |^"F" F4 F4 |^"G2" D4 D4 | D4 D4 :|$ %4
+w: |Sanc- tus,|Sanc- tus,|Sanc- tus,|Sanc- tus.|
+|: E4 E4 | F4 F4 | D4 D4 |[1 D4 D4 :|[2 E4 E2 z2 ||$ %9
+w: |Sanc- tus,|Sanc- tus,|Sanc- tus,|Sanc- tus.|Sanc- tus. *|
+|: z8 | z8 | z8 | z8 :|$ %13
+w: |||||
+|:^"Am" E4 E4 |^"F" F4 F4 |^"G2" D4 D4 | D4 D4 :|^"Am" E4 !fermata!E4 |] %18
+w: |Sanc- tus,|Sanc- tus,|Sanc- tus,|Sanc- tus.|Sanc- tus.|
+V:3
+|: C4 C4 | C4 C4 | B,4 B,4 | B,4 B,4 :|$ %4
+|: C4 C4 | C4 C4 | B,4 B,4 |[1 B,4 B,4 :|[2 C4 C2 x2 ||$ %9
+|: x8 | x8 | x8 | x8 :|$ %13
+|: C4 C4 | C4 C4 | B,4 B,4 | B,4 B,4 :| C4 C4 |] %18
+V:4
+|: A,4 A,4 | A,4 A,4 | G,4 G,4 | G,4 G,4 :|$ %4
+w: |Sanc- tus,|Sanc- tus,|Sanc- tus,|Sanc- tus.|
+|: A,4 A,4 | A,4 A,4 | G,4 G,4 |[1 G,4 G,4 :|[2 A,4 A,2 z2 ||$ %9
+w: |Sanc- tus,|Sanc- tus,|Sanc- tus,|Sanc- tus.|Sanc- tus. *|
+|: z8 | z8 | z8 | z8 :|$ %13
+w: |||||
+|: A,4 A,4 | A,4 A,4 | G,4 G,4 | G,4 G,4 :| A,4 !fermata!A,4 |] %18
+w: |Sanc- tus,|Sanc- tus,|Sanc- tus,|Sanc- tus.|Sanc- tus.|
+V:5
+|: E,4 E,4 | C,4 C,4 | D,4 D,4 | D,4 D,4 :|$ %4
+|: E,4 E,4 | C,4 C,4 | D,4 D,4 |[1 D,4 D,4 :|[2 E,4 E,2 x2 ||$ %9
+|: x8 | x8 | x8 | x8 :|$ %13
+|: E,4 E,4 | C,4 C,4 | D,4 D,4 | D,4 D,4 :| E,4 E,4 |] %18
+
+X:130
+T:Messe de Saint Jean - Agnus
+C:M. Hagemann
+Z:A.E.L.F.
+%%score { ( 1 2 ) | ( 3 4 ) }
+L:1/8
+M:4/4
+I:linebreak $
+K:F
+V:1 clef=
+V:2 clef=
+V:3 clef=bass
+V:4 clef=bass
+V:1
+^"Dm" (D2 E2) (F2 D2) |^"Gm" (G2 F2)^"C" E3 G | G2 GG c2 G2 |^"F" A4^"A" A4 |$ %4
+w: A- * gnus _|De- * i, qui|tol- lis pec- ca- ta|mun- di.|
+|1,2^"Dm" F2 F2 E2 D2 |^"Asus4" E4 E4 :|[3^"Dm" F2 F2 E2 D2 |^"Asus4" E4^"Dm" D4 |] %8
+w: |mi- se- re- re|no- bis.|do- na no- bis|pa- cem.|
+V:2
+ A,4 D4 | D4 C3 E | E2 EE G2 G2 | (F2 D2) ^C4 |$ %4
+|1,2 D2 D2 D2 D2 | D4 ^C4 :|[3 D2 D2 D2 D2 | D2 ^C2 D4 |] %8
+V:3
+ (F,2 G,2) (A,2 F,2) | B,4 G,3 C | C2 CC C2 C2 | (C2 =B,2) A,4 |$ %4
+|1,2 A,2 A,2 G,2 F,2 | A,4 A,4 :|[3 A,2 A,2 G,2 F,2 | A,4 A,4 |] %8
+V:4
+ D,4 D,4 | G,,4 C,3 C, | C,2 C,C, E,2 E,2 | (F,2 G,2) A,4 |$ %4
+|1,2 D,2 D,2 D,2 D,2 | A,,4 A,,4 :|[3 D,2 D,2 D,2 D,2 | A,,4 D,4 |] %8
+
+X:131
+T:Messe de Saint Jean - Alléluia
+C:M. Hagemann
+Z:A.E.L.F.
+%%score { ( 1 2 ) | ( 3 4 ) }
+L:1/8
+M:4/4
+I:linebreak $
+K:F
+V:1 clef=
+V:2 clef=
+V:3 clef=bass
+V:4 clef=bass
+V:1
+^"Dm" A2 A2^"Bb" B2 A2 |^"C" G2 (cB)^"F" (AG) F2 |^"C" G2 (c4 G2) |^"F" A8&x2^"G"x2^"A"x4 |$ %4
+w: Al- le- lu- ia,|Al- le- * lu- * ia|Al- le- lu-|ia.|
+^"Dm" A2 A2^"Bb" B2 A2 |^"C" G2 (cB)^"F" (AG) F2 |^"Dm" A2 B2^"Asus4" A4 |^"Dm" A8 |] %8
+w: Al- le- lu- ia,|Al- le- * lu- * ia|Al- le- lu-|ia.|
+V:2
+ F2 F2 F2 F2 | E2 G2 F2 F2 | E2 G4 G2 | (F2 D2) ^C4 |$ %4
+ F2 F2 F2 F2 | E2 G2 F2 F2 | D2 D2 (D2 ^C2) | D8 |] %8
+V:3
+ D2 D2 D2 D2 | C2 C2 (CB,) A,2 | C2 C4 C2 | (C2 =B,2) A,4 |$ %4
+ D2 D2 D2 D2 | C2 C2 (CB,) A,2 | F,2 G,2 (E,2 A,2) | F,8 |] %8
+V:4
+ D,2 C,2 B,,2 B,,2 | C,2 E,2 F,2 F,2 | C,2 E,4 E,2 | (F,2 G,2) A,4 |$ %4
+ D,2 C,2 B,,2 B,,2 | C,2 E,2 F,2 F,2 | D,2 G,,2 A,,4 | D,8 |] %8
+
+X:132
+T:Messe de Saint Jean - Anamnèse
+C:M. Hagemann
+Z:A.E.L.F.
+%%score { ( 1 3 ) | ( 2 4 ) }
+L:1/8
+M:4/4
+I:linebreak $
+K:F
+V:1 clef=
+V:3 clef=
+V:2 clef=bass
+V:4 clef=bass
+V:1
+ D2 E2 F2 EF | G2 G2 FG A4 |$ %2
+w: Pro- cla- mons le mys-|tè- re de la foi~!|
+^"Dm" D3 E F2 D2 |^"Gm" G2 F2 E4 | G3 G c2 G2 |^"F" A2^"G" A2^"A" A4 |$ %6
+w: Gloire à Toi qui|é- tais mort,|gloire à Toi qui|es vi- vant,|
+^"Dm" A2 AG A2 B2 | G2 c2 A4 | A3 B A2 A2 |^"Dm" A8 |] %10
+w: no- tre Sau- veur et|no- tre Dieu~:|viens, Sei- gneur Jé-|sus~!|
+V:2
+ z8 | z8 z2 |$ %2
+ F,3 G, A,2 F,2 | B,2 B,2 G,4 | C3 C C2 C2 | C2 =B,2 A,4 |$ %6
+ D2 DD D2 D2 | C2 C2 C4 | F,3 G, E,2 A,2 | F,8 |] %10
+V:3
+ x8 | x10 |$ %2
+ A,3 A, D2 D2 | D2 D2 C4 | E3 E G2 G2 | F2 D2 ^C4 |$ %6
+ D2 DE F2 F2 | E2 G2 F4 | D3 D D2 ^C2 | D8 |] %10
+V:4
+ x8 | x10 |$ %2
+ D,3 D, D,2 D,2 | G,,2 G,,2 C,4 | C,3 C, E,2 E,2 | F,2 G,2 A,4 |$ %6
+ F,2 F,E, D,2 D,2 | C,2 E,2 F,4 | D,3 G,, A,,2 A,,2 | D,8 |] %10
+
+X:133
+T:Messe de Saint Jean - Gloria
+C:M. Hagemann
+Z:A.E.L.F.
+%%score { ( 1 2 ) | ( 3 4 ) }
+L:1/8
+M:4/4
+I:linebreak $
+K:F
+V:1 clef=
+V:2 clef=
+V:3 clef=bass
+V:4 clef=bass
+V:1
+|:^"Dm" D3 D D2 z2 |^"Gm" G3 G G2 z2 |[1^"C" G2 G2 c2 G2 |^"F" A4^"A" A2 z2 :|[2^"Dm" AA AB^"Asus4" A4 |^"Dm" A4 z4 ||$ %6
+w: |Glo- ri- a, *|glo- ri- a, *|in ex- cel- sis|De- o. *|in ex- cel- sis De-|o. *|
+^"Dm" DD DE F2 D2 |^"Gm" GG GF^"C" E2 E2 | G2 GG c2 GG |^"F" A2 A2^"A" A4 |^"Dm" A2 AA^"Gm" B4 |$ %11
+w: Et paix sur la ter- re|aux hom- mes qu'il ai- me~!|Nous Te lou- ons, nous Te|bé- nis- sons,|nous T'a- do- rons,|
+^"C" GG cG^"F" A4 |^"Dm" AA AA^"Bb" d2 dd |^"C" cd cB^"F" AG F2 |^"C" G2 c4 G2 |^"F" A2 A2^"A" A4 |^"Dm" D3 E F2 D2 |$ %17
+w: nous Te glo- ri- fions,|nous Te ren- dons grâ- ce pour|ton im- men- se gloi- * re,|Sei- gneur Dieu,|Roi du ciel,|Dieu le Pè- re|
+^"Gm" G2 F2^"C" E4 | GG GG c2 G2 |^"F" A2 A2^"A" A4 |^"Dm" A2 A2^"Bb" B2 A2 |^"C" G2 c2^"F" A3 A |^"C" G4 (F2 G2) |$ %23
+w: tout puis- sant.|Sei- gneur Fils u- ni- que,|Jé- sus Christ,|Sei- gneur Dieu, A-|gneau de Dieu, Le|Fils du *|
+^"F" A4^"A" A4 |^"Dm" D2 DE F2 D2 |^"Gm" GG GF^"C" E2 E2 | G2 G2 c2 G2 |^"F" A8&x4^"A"x4 |^"Dm" A2 AA B2 A2 |$ %29
+w: Pè- re;|Toi qui en- lè- ves|le pé- ché du mon- de,|prends pi- tié de|nous.|Toi qui en- lè- ves|
+^"C" GG AB^"F" AG F2 |^"C" G2 G2 G2 FG |^"F" A4^"A" A4 |^"Dm" AA AA^"Bb" d2 dd |^"C" cd cB^"F" AG F2 |^"C" G2 G2 c2 G2 |$ %35
+w: le pé- ché du mon- * de,|re- çois no- tre pri-|è- re.|Toi qui es as- sis à la|droi- * te du Pè- * re,|prends pi- tié de|
+^"F" A8&x4^"A"x4 |^"Dm" DD DE F4 |^"Gm" GG GF^"C" E4 | G2 c4 G2 |^"F" A2 A2^"A" A4 |^"Dm" A2 A2 B2 A2 |$ %41
+w: nous.|Car toi seul es Saint,|Toi seul es Sei- gneur,|Toi seul es|le Très Haut;|Jé- sus Christ, a-|
+^"C" GG cG^"F" A2 Ad |^"C" cd cB^"F" AG FF |^"C" G2 G2 c2 G2 |^"F" A4^"A" A4 |] %45
+w: vec le Saint Es- prit, dans la|gloi- * * * * * re de|Dieu le Pè- re.|A- men~!|
+V:2
+|: A,3 A, A,2 x2 | D3 D D2 x2 |[1 E2 E2 G2 G2 | F2 D2 ^C2 x2 :|[2 DD DD (D2 ^C2) | D4 x4 ||$ %6
+ A,A, A,A, D2 D2 | DD DD C2 C2 | E2 EE G2 GG | F2 D2 ^C4 | D2 DD D4 |$ %11
+ EE GG F4 | DD DD D2 DD | EE EE F2 F2 | E2 G4 E2 | F2 D2 ^C4 | A,3 A, D2 D2 |$ %17
+ D2 D2 C4 | EE EE G2 G2 | F2 D2 ^C4 | D2 D2 D2 D2 | E2 G2 F3 F | E4 (D2 E2) |$ %23
+ (F2 D2) ^C4 | A,2 A,A, D2 D2 | DD DD C2 C2 | E2 E2 G2 G2 | (F2 D2) ^C4 | D2 DD D2 D2 |$ %29
+ EE FG F2 F2 | E2 E2 E2 DE | (F2 D2) ^C4 | DD DD D2 DD | E2 EE F2 F2 | E2 E2 G2 G2 |$ %35
+ (F2 D2) ^C4 | A,A, A,A, D4 | DD DD C4 | E2 G4 G2 | F2 D2 ^C4 | D2 D2 D2 D2 |$ %41
+ EE GG F2 FF | (E4 F2) FF | E2 E2 G2 G2 | (F2 D2) ^C4 |] %45
+V:3
+|: F,3 F, F,2 z2 | B,3 B, B,2 z2 |[1 C2 C2 C2 C2 | C2 =B,2 A,2 z2 :|[2 F,F, F,G, (E,2 A,2) | F,4 z4 ||$ %6
+ F,F, F,G, A,2 F,2 | B,B, B,B, G,2 G,2 | C2 CC C2 CC | C2 =B,2 A,4 | F,2 F,F, F,4 |$ %11
+ CC CC C4 | F,F, F,F, B,2 B,A, | G,G, G,G, F,2 A,2 | C2 C4 C2 | C2 =B,2 A,4 | F,3 G, A,2 F,2 |$ %17
+ B,2 B,2 G,4 | CC CC C2 C2 | C2 =B,2 A,4 | F,2 F,2 F,2 F,2 | C2 C2 C3 C | C4 C4 |$ %23
+ (C2 =B,2) A,4 | F,2 F,G, A,2 F,2 | B,B, B,B, G,2 G,2 | C2 C2 C2 C2 | (C2 =B,2) A,4 | F,2 F,F, F,2 F,2 |$ %29
+ CC CC CB, A,2 | C2 C2 C2 CC | (C2 =B,2) A,4 | F,F, F,F, B,2 B,B, | G,2 G,G, F,2 A,2 | C2 C2 C2 C2 |$ %35
+ (C2 =B,2) A,4 | F,F, F,G, A,4 | B,B, B,B, G,4 | C2 C4 C2 | C2 =B,2 A,4 | F,2 F,2 F,2 F,2 |$ %41
+ CC CC C2 F,F, | (G,4 F,2) A,A, | C2 C2 C2 C2 | (C2 =B,2) A,4 |] %45
+V:4
+|: D,3 D, D,2 x2 | G,,3 G,, G,,2 x2 |[1 C,2 C,2 E,2 E,2 | F,2 G,2 A,2 x2 :|[2 D,D, D,G,, A,,4 | D,4 x4 ||$ %6
+ D,D, D,D, D,2 D,2 | G,,G,, G,,G,, C,2 C,2 | C,2 C,C, E,2 E,E, | F,2 G,2 A,4 | D,2 C,C, B,,4 |$ %11
+ C,C, E,E, F,4 | D,D, D,C, B,,2 B,,B,, | C,C, C,C, F,2 F,2 | C,2 E,4 E,2 | F,2 G,2 A,4 | D,3 D, D,2 D,2 |$ %17
+ G,,2 G,,2 C,4 | C,C, C,C, E,2 E,2 | F,2 G,2 A,4 | D,2 C,2 B,,2 D,2 | C,2 E,2 F,3 F, | C,4 C,4 |$ %23
+ (F,2 G,2) A,4 | D,2 D,D, D,2 D,2 | G,,G,, G,,G,, C,2 C,2 | C,2 C,2 E,2 E,2 | (F,2 G,2) A,4 | D,2 D,C, B,,2 D,2 |$ %29
+ C,C, C,C, F,2 F,2 | C,2 C,2 C,2 C,C, | (F,2 G,2) A,4 | D,D, D,C, B,,2 B,,B,, | C,2 C,C, F,2 F,2 | C,2 C,2 E,2 E,2 |$ %35
+ (F,2 G,2) A,4 | D,D, D,D, D,4 | G,,G,, G,,G,, C,4 | C,2 E,4 E,2 | F,2 G,2 A,4 | D,2 C,2 B,,2 D,2 |$ %41
+ C,C, E,E, F,2 D,D, | (C,4 F,2) F,F, | C,2 C,2 E,2 E,2 | (F,2 G,2) A,4 |] %45
+
+X:134
+T:Messe de Saint Jean - Kyrie
+C:M. Hagemann
+Z:A.E.L.F.
+%%score { ( 1 2 ) | ( 3 4 ) }
+L:1/8
+M:4/4
+I:linebreak $
+K:F
+V:1 clef=
+V:2 clef=
+V:3 clef=bass
+V:4 clef=bass
+V:1
+^"Dm" D3 E F2 D2 |^"Gm" (G2 F2)^"C" E4 | G2 c4 G2 |^"F" A8&x2^"G"x2^"A"x4 |$ %4
+w: 1.~et~3.~Ky- ri- e e-|le- i- son,|e- le- i-|son|
+w: 2.~Chris- * te e-|le- i- son,|e- le- i-|son|
+^"Dm" A3 G A2 B2 |^"C" G2 c2^"F" A4 |^"Dm" AA A^"Asus4"B A2 A2 |^"Dm" A8 |] %8
+w: Ky- ri- e e-|le- i- son.|Ky- ri- e e- le- i-|son.|
+w: Chris- * te e-|le- i- son,|Chris- * te e- le- i-|son.|
+V:2
+ A,3 A, D2 D2 | D2 D2 C4 | E2 G4 G2 | (F2 (D2) ^C4) |$ %4
+ D3 E F2 F2 | E2 G2 F4 | DD DD D2 ^C2 | D8 |] %8
+V:3
+ F,3 G, A,2 F,2 | B,2 B,2 G,4 | C2 C4 C2 | (C2 =B,2) A,4 |$ %4
+ D3 D D2 D2 | C2 C2 C4 | F,F, F,G, E,2 A,2 | F,8 |] %8
+V:4
+ D,3 D, D,2 D,2 | G,,2 G,,2 C,4 | C,2 E,4 E,2 | (F,2 G,2) A,4 |$ %4
+ F,3 E, D,2 D,2 | C,2 E,2 F,4 | D,D, D,G,, A,,2 A,,2 | D,8 |] %8
+
+X:135
+T:Messe de Saint Jean - Sanctus
+C:M. Hagemann
+Z:A.E.L.F.
+%%score { ( 1 2 ) | ( 3 4 ) }
+L:1/8
+M:4/4
+I:linebreak $
+K:F
+V:1 clef=
+V:2 clef=
+V:3 clef=bass
+V:4 clef=bass
+V:1
+^"Dm" A2 A2^"Bb" d2 d2 |^"C" cd cB^"F" AG F2 |[1^"C" G2 GG c2 G2 |^"F" A2^"G" A2^"A" A4 :|[2^"Dm" A2 AB^"Asus4" A2 A2 |^"Dm" A8 ||$ %6
+w: Sanc- tus, Sanc- tus,|Sanc- * * * * * tus|Do- mi- nus De- us|Sa- ba- oth.|De- us _ Sa- ba-|oth.|
+^"Dm" D2 DE F2 DD |^"Gm" (G2 F2)^"C" E4 | (G2 c4) GG |^"F" A4^"A" A3 |$ %10
+w: 1.~Ple- ni sunt cae- li et|ter- * ra|glo- * ri- a|tu- a.|
+|:S A |^"Dm" A2 AA^"Bb" d2 dd |^"C" (cd cB^"F" AG) F2 |[1^"C" (G2 c4) G2 |^"F" A4^"A" A3&x2^"G"x5 :|[2^"Dm" A2 B2^"A" A4 |^"Dm" A8!fine! ||$ %17
+w: |Ho-|san- na, ho- san- na, ho-|san- * * * * * na|in _ ex-|cel- sis.|in ex- cel-|sis.|
+^"Dm" D2 (DE) F2 DD |^"Gm" (G2 F2)^"C" E2 E2 | (G2 c4) GG |^"F" A2 A2^"A" A3!D.S.! |] %21
+w: 2.~Be- ne- * dic- tus qui|ve- * nit in|no- * mi- ne|Do- mi- ni.|
+V:2
+ D2 D2 D2 D2 | (E4 F2) F2 |[1 E2 EE G2 G2 | F2 D2 ^C4 :|[2 D2 D2 D2 ^C2 | D8 ||$ %6
+ A,2 A,A, D2 DD | D4 C4 | (E2 G4) GG | (F2 D2) ^C3 |$ %10
+|: ^C | D2 DD D2 DD | (E4 F2) F2 |[1 (E2 G4) G2 | (F2 D2) ^C3 :|[2 D2 D2 (D2 ^C2) | D8 ||$ %17
+ A,2 A,2 D2 DD | D4 C2 C2 | (E2 G4) GG | F2 D2 ^C3 |] %21
+V:3
+ F,2 F,2 B,2 B,2 | (G,4 F,2) A,2 |[1 C2 CC C2 C2 | C2 =B,2 A,4 :|[2 F,2 F,G, E,2 A,2 | F,8 ||$ %6
+ F,2 F,G, A,2 F,F, | B,4 G,4 | C6 CC | (C2 =B,2) A,3 |$ %10
+|: A, | F,2 F,F, B,2 B,B, | (G,4 F,2) A,2 |[1 C6 C2 | (C2 =B,2) A,3 :|[2 F,2 G,2 (E,2 A,2) | F,8 ||$ %17
+ F,2 (F,G,) A,2 F,F, | B,4 G,2 G,2 | C6 CC | C2 =B,2 A,3 |] %21
+V:4
+ D,2 C,2 B,,2 B,,2 | (C,4 F,2) F,2 |[1 C,2 C,C, E,2 E,2 | F,2 G,2 A,4 :|[2 D,2 D,G,, A,,2 A,,2 | D,8 ||$ %6
+ D,2 D,D, D,2 D,D, | G,,4 C,4 | (C,2 E,4) E,E, | (F,2 G,2) A,3 |$ %10
+|: A, | D,2 D,C, B,,2 B,,B,, | (C,4 F,2) F,2 |[1 (C,2 E,4) E,2 | (F,2 G,2) A,3 :|[2 D,2 G,,2 A,,4 | D,8 ||$ %17
+ D,2 D,2 D,2 D,D, | G,,4 C,2 C,2 | (C,2 E,4) E,E, | F,2 G,2 A,3 |] %21
+
+X:136
 T:Messe du Frat - Kyrie - Prends Pitié
 C:Benjamin et Thomas POUZIN
 L:1/8
@@ -4312,7 +5658,7 @@ w: * 2.~Prends pi-|tié * Ô|Christ * Ô _|Christ Prends _ pi-|tié * Prends pi-
 w: gneur * Ô Sei-|gneur Prends _ pi-|tié. *|* * Prend pi||
 w: Christ * Ô _|Christ Prends _ pi-|tié. *|* * Prends pi||
 
-X:101
+X:137
 T:Messe du Frat - Agnus - Agneau de Dieu
 C:Benjamin et Thomas POUZIN
 L:1/8
@@ -4328,7 +5674,7 @@ w: * 3.~Toi l'A-|gneau * de|Dieu * qui en-|lè- ves le pé- ché du|monde. * Don
 w: nous * Prends pi-|tié de|nous. *|* * Toi l'A||
 w: paix. * Don- ne|nous la|paix *|||
 
-X:102
+X:138
 T:Messe du Frat - Gloria - Gloire à Dieu
 C:Benjamin et Thomas POUZIN
 L:1/8
@@ -4356,7 +5702,7 @@ w: 4.~Car~toi seul es saint, toi|seul es Sei- gneur,|toi seul es le très- haut,
 ^"C#m" GFG^"A" A3 |^"E" EFG^"B" F3 |^"C#m" G3^"A" A3 |^"B" B6- |^"B" B6 |] %51
 w: et dans la gloire,|de Dieu le Père|A- A-|men|_|
 
-X:103
+X:139
 T:Messe du Frat - Alléluia
 C:Benjamin et Thomas POUZIN
 L:1/8
@@ -4368,7 +5714,7 @@ V:1
  FF dcBA |:^"G" B4 BcBA |^"D" F2 FF F2 A2 |^"A" c4 cdcA |[1^"Bm" B2 FF dcBA :|[2^"Bm" B4 z4 |] %6
 w: Ta pa- role est é- ter-|nelle Al- lé- lu- *|ia La bon- ne nou-|velle Al- lé- lu- *|ia. Ta pa- role est é- ter|ia *|
 
-X:104
+X:140
 T:Messe du Frat - Sanctus - Saint le Seigneur
 C:Benjamin et Thomas POUZIN
 L:1/8
@@ -4390,7 +5736,7 @@ w: |||||
 w: san- na au plus haut des|cieux.|* * Bé- ni||
 w: ||||
 
-X:105
+X:141
 T:Messe du Frat - Anamnèse
 C:Benjamin et Thomas POUZIN
 L:1/8
@@ -4402,7 +5748,278 @@ V:1
  EF |^"C#m" G3 GFE |^"A" A3 z GA |^"E" B3 GFE |^"B" F3 EEF |^"C#m" G3 z EE |^"A" A3 z DE |^"B" F3 D3 |^"E" E3 z3 |] %9
 w: Gloire à|Toi qui é- tais|mort. * Gloire à|Toi qui es vi-|vant, no- tre sau-|veur, * no- tre|Dieu. * Viens Sei-|gneur Jé-|sus. *|
 
-X:106
+X:142
+T:Messe du partage - Agnus
+C:Pascal & Étienne Daniel
+Z:AELF
+%%score { ( 1 2 ) | ( 3 4 ) }
+L:1/8
+Q:1/4=85
+M:4/4
+I:linebreak $
+K:C
+V:1 clef=
+V:2 clef=
+V:3 clef=bass
+V:4 clef=bass
+V:1
+|: E2 A2 | c2 B2 AG AA | Bc dc B2 B2 |$ %3
+w: |A- gneau|de Dieu, qui en- lè- ves|le pé- ché du mon- de,|
+ AA G2 F2 E6 :| Bc A2 G2 A8 |] %5
+w: prends pi- tié de nous.|don- ne nous la paix.|
+V:2
+|: E2 E2 | F2 G2 AG FE | DG FE D2 D2 |$ %3
+w: ||||
+w: ||||
+ CD (EC) (A,B,) C6 :| z2 CC FF E8 |] %5
+w: ||
+w: |* don- ne nous la paix.|
+V:3
+|: C2 B,2 | A,2 D2 ED CB, | A,G, A,A, G,2 G,2 |$ %3
+ A,B, (CE,) (F,G,) A,6 :| z2 A,G, A,B, C8 |] %5
+V:4
+|: A,2 C,2 | D,2 E,2 CB, A,G, | F,E, D,D, E,2 E,2 |$ %3
+ F,F, C,2 D,2 A,,6 :| x2 F,E, D,D, A,,8 |] %5
+
+X:143
+T:Messe du partage - Anamnèse
+C:Pascal & Étienne Daniel
+Z:AELF
+%%score { ( 1 3 ) | ( 2 4 ) }
+L:1/8
+M:2/4
+I:linebreak $
+K:C
+V:1 clef=
+V:3 clef=
+V:2 clef=bass
+V:4 clef=bass
+V:1
+"^Célébrant" EE | A2 AA | AA AA | G2 z2 ||"^Assemblée" c2 B2 | AA GA | E4 |$ %7
+w: Pro- cla-|mons le mys-|tè- re de la|foi. *|Gloire à|toi qui é- tais|mort~!|
+ c2 B2 | AA GA | B4 | A2 B2 | c2 Bd | c2 B2 | A4 |] %14
+w: Gloire à|toi qui es vi-|vant~!|Dieu sau-|veur, viens, Sai-|gneur Jé-|sus.|
+V:2
+ z2 | z4 | z4 | z4 || A,2 B,2 | CC CC | B,4 |$ %7
+ A,2 B,2 | CC CC | D4 | D2 D2 | C2 EE | E2 D2 | C4 |] %14
+V:3
+ x2 | x4 | x4 | x4 || E2 E2 | AA EE | E4 |$ %7
+ E2 E2 | AA EE | G4 | F2 F2 | E2 GG | A2 G2 | E4 |] %14
+V:4
+ x2 | x4 | x4 | x4 || A,2 G,2 | F,F, C,C, | E,4 |$ %7
+ A,2 G,2 | F,F, C,C, | G,4 | D,2 D,2 | A,2 E,E, | F,2 G,2 | A,4 |] %14
+
+X:144
+T:Messe du partage - Gloria
+C:Pascal & Étienne Daniel
+Z:AELF
+%%score { ( 1 3 ) | ( 2 4 ) }
+L:1/8
+Q:1/4=84
+M:3/4
+I:linebreak $
+K:C
+V:1 clef=
+V:3 clef=
+V:2 clef=bass
+V:4 clef=bass
+V:1
+"^Célébrant""^(pas moins)" EE A2 GG | cB A4 ||"^Assemblée" E2 A2 BA | G2 GE (Ac) | BA G2 A2 ||$ %5
+w: Gloire à Dieu au plus|haut des cieux|Et paix sur la|ter- re aux hom- *|mes qu'il ai- me.|
+"^Choeur" E2 GA G4 | EG AB A4 | c2 BA B4 ||"^Assemblée" EE GA G4 | EG AB A2 AG |$ %10
+w: Nous te lou- ons,|nous te bé- nis- sons,|nous t'a- do- rons.|Nous te glo- ri- fions,|nous te ren- dons grâ- ce, pour|
+ Ac BA G2 A2 ||"^Choeur" GG c2 BB A2 | BA GE FG E2 ||"^Assemblée" G2 c2 BB AA | BG A4 ||$ %15
+w: ton im- men- se gloi- re.|Sei- gneur Dieu, Roi du ciel,|Dieu le Pè- re tout- puis- sant.|Sei- gneur, Fils u- ni- que,|Jé- sus- Christ.|
+"^Choeur" A2 B2 c3 A | B2 c2 d3 d | e2 c2 B2 A2 ||"^Assemblée" E2 AA A2 G2 | Ac BA G2 E2 | AA BG A4 ||$ %21
+w: Sei- gneur Dieu, A-|gneau de Dieu, le|Fils du Pè- re.|Toi qui en- lè ves|la pé- ché du mon- de,|prends pi- tié de nous.|
+"^Choeur" E2 AA A2 G2 | Ac BA G2 EE | AA GA B2 B2 ||"^Assemblée" EE GA G2 EE | (Ac) BA G2 E2 |$ %26
+w: Toi qui en- lè ves|le pé- ché du mon- de, re-|çois no- tre pri- è re.|Toi qui es as- sis à la|droi- * te du Pè- re,|
+ AA BG A4 |"^Choeur" AA Bc"^Assemblée" d3 A | A2 Bc d3"^Choeur" d | dB cd e2 cB |$ %30
+w: prends pi- tié de nous.|Car toi seul es saint. Toi|seul es Sei- gneur. *|seul es le Trés haut, Jé- sus-|
+ A3 A Ac BA | G2"^Assemblée & Choeur" EE A2 Gc | BA G2 A2 (Ac | BG) A4 |] %34
+w: Christ, a- vec le Saint- Es-|prit. Dans la gloi- re de|Dieu le Pè- re. A- *|* * men.|
+V:2
+ z6 | z6 || z6 | z6 | z6 ||$ %5
+ B,2 A,A, B,4 | B,B, E,E, A,4 | G,2 CC B,4 || z8 | z8 |$ %10
+ z8 || CC C2 ED C2 | A,A, B,G, A,G, G,2 || z8 | z4 z2 ||$ %15
+ E2 D2 C2 B,2 | A,2 G,2 A,3 A, | B,2 A,2 D2 C2 || z8 | z8 | z8 ||$ %21
+ E,2 E,C B,2 B,2 | EE DC B,2 A,A, | A,B, CC B,2 B,2 || z8 | z8 |$ %26
+ z8 | A,A, G,G, A,3 z | z4 z3 A, | B,G, A,A, (B,A,) ED |$ %30
+ C3 C CE DC | B,2 E,E, A,2 G,C | B,A, G,2 A,2 (A,G, | A,B,) C4 |] %34
+V:3
+ x6 | x6 || x6 | x6 | x6 ||$ %5
+ C2 DD E4 | EE EE E2 D2 | C2 FF D4 || x8 | x8 |$ %10
+ x8 || EE (EF) GG (GF) | DD EE DD C2 || x8 | x6 ||$ %15
+ F2 F2 E2 E2 | D2 G2 G2 F2 | E2 F2 GF E2 || x8 | x8 | x8 ||$ %21
+ (CD) EF E2 E2 | AA FF (ED) CC | CD EE D2 D2 || x8 | x8 |$ %26
+ x8 | CC GG F3 x | x7 F | GG FF EF GG |$ %30
+ G2 G2 FF FF | E2 EE A2 Gc | BA G2 A2 (C2 | G2) E4 |] %34
+V:4
+ x6 | x6 || x6 | x6 | x6 ||$ %5
+ G,2 F,F, E,4 | C,C, C,C, F,4 | E,2 D,D, G,4 || x8 | x8 |$ %10
+ x8 || CB, G,2 E,E, F,2 | F,F, E,E, C,B,, C,2 || x8 | x6 ||$ %15
+ x4 A,2 G,2 | F,2 E,2 D,2 D,2 | C,2 D,2 E,2 A,2 || x8 | x8 | x8 ||$ %21
+ (A,,B,,) C,D, E,3 D, | C,C, D,D, E,2 A,G, | F,F, C,C, G,2 G,2 || x8 | x8 |$ %26
+ x8 | F,F, E,E, D,3 z | x7 D, | G,G, G,G, (C,D,) E,E, |$ %30
+ F,2 E,2 D,D, D,D, | E,2 E,E, A,2 G,C | B,A, G,2 A,2 (F,E, | D,2) A,,4 |] %34
+
+X:145
+T:Messe du partage - Kyrie
+C:Pascal & Étienne Daniel
+Z:AELF
+%%score { ( 1 3 ) | ( 2 4 ) }
+L:1/8
+Q:1/4=80
+M:2/4
+I:linebreak $
+K:G
+V:1 clef=
+V:3 clef=
+V:2 clef=bass
+V:4 clef=bass
+V:1
+"^SOLISTE" B,B, |^"Em" EE FG |^"Am" AB AG |^"Bm" F2 FE |^"C" G2 ED |$ %5
+w: De ton|peu- ple ras- sem-|blé par ta pa-|ro- le, Sei-|gneur, prends pi-|
+^"Em" E3"^ASSEMBLEE" E |^"C" G2 ED |^"Em" !breath!E2 EE |^"Am" AA Bc |^"Em" BA GA |^"G" B3 B |$ %11
+w: tié! Sei-|gneur prends pi-|tié! De ton|peu- ple sanc- ti-|fié par ton Es-|prit, O|
+^"Bm7" d2 BA |^"Em" B3"^ASSEMBLEE" B |^"Bm7" d2 BA |^"Em" B2 BB | ee BA | G2 AB |$ %17
+w: Christ, prends pi-|tié! O|Christ, prends pi-|tié! De ton|peu- ple ra- che-|té par ton|
+ F3 E | G2 ED | E3"^ASSEMBLEE" E |^"C" G2 ED |^"Em" E4 |] %22
+w: sang, Sei-|gneur, prends pi-|tié. Sei-|gneur prends pi-|tié!|
+V:2
+ z2 | z4 | z4 | z4 | z4 |$ %5
+ z3 G, | E,2 F,F, | G,2 z2 | z4 | z4 | z4 |$ %11
+ z4 | z3 D | B,2 ^CC | D2 z2 | z4 | z4 |$ %17
+ z4 | z4 | z3 G, | E,2 F,F, | G,4 |] %22
+V:3
+ x2 | x4 | x4 | x4 | x4 |$ %5
+ x3 B, | B,2 A,A, | B,2 x2 | x4 | x4 | x4 |$ %11
+ x4 | x3 B, | B,2 A,A, | F2 x2 | x4 | x4 |$ %17
+ x4 | x4 | x3 B, | B,2 A,A, | B,4 |] %22
+V:4
+ x2 | x4 | x4 | x4 | x4 |$ %5
+ x3 E, | C,2 B,,B,, | E,2 x2 | x4 | x4 | x4 |$ %11
+ x4 | x3 B, | G,2 F,F, | B,2 x2 | x4 | x4 |$ %17
+ x4 | x4 | x3 E, | C,2 B,,B,, | E,4 |] %22
+
+X:146
+T:Messe du partage - Sanctus
+C:Pascal & Étienne Daniel
+Z:AELF
+%%score { ( 1 2 ) | ( 3 4 ) }
+L:1/8
+Q:1/2=66
+M:2/2
+I:linebreak $
+K:C
+V:1 clef=
+V:2 clef=
+V:3 clef=bass
+V:4 clef=bass
+V:1
+ c4 B4 | A4 G2 A2 | E4 E2 A2 A2 G2 | A8 ||$ %4
+w: Saint~! Saint~!|Saint, le Sei-|gneur, Dieu de l'u- ni-|vers~!|
+w: ||||
+|: G4 | c4 B2 A2 | G2 G2 E2 E2 | A4 G2 F2 | E4- E4 | A4 B4 | c4 B2 d2 | c4 B4 | A8 :| %13
+w: |1.~Le|ciel et la|ter- re sont rem-|plis de ta|gloi- re.|Ho- san-|na au plus|haut des|cieux.|
+w: |2.~Bé-|ni soit ce-|lui qui vient au|nom, du Sei-|gneur. *|Ho- san-|na au plus|haut des|cieux.|
+V:2
+ A4 G4 | F4 E2 D2 | C4 C2 D2 E2 F2 | E8 ||$ %4
+|: E4 | A2 G2 F2 F2 | E2 D2 C2 C2 | (F2 E2) D2 D2 | (D4 C4) | E4 G4 | A4 G2 G2 | A4 G4 | E8 :| %13
+V:3
+ E4 D4 | C4 B,2 A,2 | B,4 A,2 A,2 B,2 B,2 | C8 ||$ %4
+|: C4 | E4 D2 C2 | B,2 B,2 A,2 A,2 | C4 B,2 A,2 | G,4- G,4 | C4 D4 | E4 D2 E2 | (F2 E2) D4 | C8 :| %13
+V:4
+ A,4 A,,4 | D,4 E,2 F,2 | G,4 F,2 F,2 E,2 E,2 | A,8 ||$ %4
+|: C2 B,2 | A,4 D,2 D,2 | E,2 E,2 A,2 G,2 | F,4 G,2 G,2 | C,4- C,4 | A,4 G,4 | F,4 G,2 G,2 | D,4 E,4 | A,8 :| %13
+
+X:147
+T:Messe du Peuple de Dieu - Agnus
+C:C.-E. Hauguel
+Z:AELF
+%%score { ( 1 2 ) | ( 3 4 ) }
+L:1/8
+M:4/4
+I:linebreak $
+K:C
+V:1 clef=
+V:2 clef=
+V:3 clef=bass
+V:4 clef=bass
+V:1
+|:^"C" E4^"F" F4 |^"G" D4^"C" E4 |^"C" E2 G2^"F" c2 c2 |^"G" BBBB^"C" c2 c2 |$ %4
+w: |A- gneau|de Dieu|qui en- lè- ves|le pé- ché du mon- de|
+w: |||||
+^"C" c2 c2^"F" A4 |^"G" (G2 D2)^"C" E4 |^"C" E2 G2 E4 |^"G" D4^"C" C4 :| %8
+w: 1.~&~2.~Prends pi- tié|de * nous,|prends pi- tié|de nous.|
+w: 3.~Don- ne nous|la * paix,|don- ne nous|la paix.|
+V:2
+|: C4 C4 | B,4 C4 | C2 E2 F2 F2 | DDDD E2 E2 |$ %4
+ E2 E2 F4 | D4 C4 | C2 D2 C4 | B,4 G,4 :| %8
+V:3
+|: G,4 A,4 | G,4 G,4 | G,2 C2 A,2 A,2 | G,G,G,G, G,2 G,2 |$ %4
+ G,2 G,2 A,4 | B,4 G,4 | G,2 G,2 G,4 | F,4 E,4 :| %8
+V:4
+|: C,4 F,,4 | G,,4 C,4 | C,2 C,2 C,2 C,2 | G,G,G,G, C,2 C,2 |$ %4
+ C,2 C,2 C,4 | G,,4 C,4 | C,2 B,,2 C,4 | G,,4 C,4 :| %8
+
+X:148
+T:Messe du Peuple de Dieu - Alléluia
+C:C.-E. Hauguel
+Z:AELF
+%%score { ( 1 2 ) | ( 3 4 ) }
+L:1/8
+M:6/8
+I:linebreak $
+K:C
+V:1 clef=
+V:2 clef=
+V:3 clef=bass
+V:4 clef=bass
+V:1
+^"C" EEE^"F" F3 |^"G" DDD^"C" E3 |^"C" EEG^"F" c2 c |^"G" B2 B^"C" c3 |$ %4
+w: Al- lé- lu- ia,|Al- lé- lu- ia,|Al- lé- lu- ia, Al-|lé- lu- ia,|
+^"C" ccc^"F" A3 |^"G" GGD^"C" E3 |^"C" EEG E2 E |^"G" D2 D^"C" C3 |] %8
+w: Al- lé- lu- ia,|Al- lé- lu- ia,|Al- lé- lu- ia, Al-|lé- lu- ia~!|
+V:2
+ CCC C3 | B,B,B, C3 | CCE F2 F | D2 D E3 |$ %4
+ EEE F3 | DDD C3 | CCD C2 C | B,2 B, G,3 |] %8
+V:3
+ G,G,G, A,3 | G,G,G, G,3 | G,G,C A,2 A, | G,2 G, G,3 |$ %4
+ G,G,G, A,3 | B,B,B, G,3 | G,G,G, G,2 G, | G,2 F, E,3 |] %8
+V:4
+ C,C,C, F,,3 | G,,G,,G,, C,3 | C,C,C, C,2 C, | G,,2 G,, C,3 |$ %4
+ C,C,C, C,3 | G,,G,,G,, C,3 | C,C,B,, C,2 C, | G,,2 G,, C,3 |] %8
+
+X:149
+T:Messe du Peuple de Dieu - Anamnèse
+C:C.-E. Hauguel
+Z:AELF
+%%score { ( 1 2 ) | ( 3 4 ) }
+L:1/8
+M:6/8
+I:linebreak $
+K:C
+V:1 clef=
+V:2 clef=
+V:3 clef=bass
+V:4 clef=bass
+V:1
+^"C" E2 E^"F" F3 |^"G" DDD^"C" E3 |^"C" E2 G^"F" c2 c |^"G" B2 B^"C" c3 |$ %4
+w: Gloire à Toi|qui é- tait mort,|Gloire à Toi qui|es vi- vant,|
+^"C" ccc^"F" A2 A |^"G" G2 D^"C" E3 |^"C" E2 G^"F" c3 |^"G" B3^"C" c3 |] %8
+w: no- tre Sau- veur et|no- tre Dieu.|viens Sei- gneur|Jé- sus.|
+V:2
+ C2 C C3 | B,B,B, C3 | C2 E F2 F | D2 D E3 |$ %4
+ EEE F2 F | D2 D C3 | C2 E F3 | D3 E3 |] %8
+V:3
+ G,2 G, A,3 | G,G,G, G,3 | G,2 C A,2 A, | G,2 G, G,3 |$ %4
+ G,G,G, A,2 A, | B,2 B, G,3 | G,2 C A,3 | G,3 G,3 |] %8
+V:4
+ C,2 C, F,,3 | G,,G,,G,, C,3 | C,2 C, C,2 C, | G,2 G, C,3 |$ %4
+ C,C,C, C,2 C, | G,,2 G,, C,3 | C,2 C, C,3 | G,,3 C,3 |] %8
+
+X:150
 T:Messe du peuple de Dieu - Gloria (AL 597)
 C:CH-E. HAUGUEL (AELF)
 L:1/8
@@ -4430,7 +6047,60 @@ w: droi- te du Pè- re,|prends pi- tié|de nous.|Car toi seul es saint.|Toi seul
 ^"G" B2 B2^"C" c4 |^"C" c2 c2^"F" A3 A |^"G" GGGD^"C" E4 | E2 G2^"F" cccc |^"G7" B2 B2^"C" c4 |] %40
 w: le très haut|Jé- sus Christ, a-|vec le saint es- prit,|dans la gloire de Dieu le|Père A- men!|
 
-X:107
+X:151
+T:Messe du Peuple de Dieu - Kyrie
+C:C.-E. Hauguel
+Z:AELF
+%%score { ( 1 2 ) | ( 3 4 ) }
+L:1/8
+M:4/4
+I:linebreak $
+K:C
+V:1 clef=
+V:2 clef=
+V:3 clef=bass
+V:4 clef=bass
+V:1
+|:^"C" E2 E2^"F" F2 F2 |^"G" D2 D2^"C" E4 |^"C" E2 G2^"F" c2 c2 |^"G" B2 B2^"C" c4 |^"C" c2 c2^"F" A2 A2 |^"G" G2 D2^"C" E4 |^"C" E2 G2 E2 E2 |^"G" D2 D2^"C" C4 :| %8
+w: |Ky- ri- e e-|le- i- son,|Ky- ri- e e-|le- i- son,|Ky- ri- e e-|le- i- son,|Ky- ri- e e-|le- i- son.|
+V:2
+|: C3 C C4 | B,3 B, B,4 | C3 E F4 | D3 D E4 | E3 E F4 | D3 D C4 | C2 D2 C2 C2 | B,2 B,2 G,4 :| %8
+w: |||||||||
+w: |Ky- ri- e,|Ky- ri- e,|Ky- ri- e|Ky- ri- e,|Ky- ri- e,|Ky- ri- e,|Ky- ri- e e-|le- i- son.|
+V:3
+|: G,2 G,2 A,2 A,2 | G,2 G,2 G,4 | G,2 C2 A,2 A,2 | G,2 G,2 G,4 | G,2 G,2 A,2 A,2 | B,2 B,2 G,4 | G,2 G,2 G,2 G,2 | G,2 F,2 E,4 :| %8
+V:4
+|: C,3 C, F,,4 | G,,3 G,, C,4 | C,3 C, C,4 | G,,3 G,, C,4 | C,3 C, C,4 | G,,3 G,, C,4 | C,2 B,,2 C,2 C,2 | G,,2 G,,2 C,4 :| %8
+
+X:152
+T:Messe du Peuple de Dieu - Sanctus
+C:C.-E. Hauguel
+Z:AELF
+%%score { ( 1 2 ) | ( 3 4 ) }
+L:1/8
+M:4/4
+I:linebreak $
+K:C
+V:1 clef=
+V:2 clef=
+V:3 clef=bass
+V:4 clef=bass
+V:1
+^"C" c4^"F" A4 |^"G" G2 GD^"C" E4 |^"C" E2 G2^"F" c4 |^"G" B4^"C" c4 |^"C" EEEE^"F" FFFF |^"G" D2 DD^"C" E4 |$ %6
+w: Saint, Saint,|Saint le Sei- gneur,|Dieu de l'U-|ni- vers~!|Le ciel et la ter- re sont rem-|plis de ta Gloire.|
+^"C" E2 G2^"F" c2 cc |^"G" B2 B2^"C" c4 |^"C" cccc^"F" AAAA |^"G" G2 GD^"C" E4 |^"C" E2 G2 E2 EE |^"G" D2 D2^"C" C4 |] %12
+w: Ho- san- na au plus|haut des cieux~!|Bé- ni soit ce- lui qui vient au|nom du Sei- gneur.|Ho- san- na au plus|haut des cieux~!|
+V:2
+ E4 F4 | D2 DD C4 | C2 E2 F4 | D4 E4 | CCCC CCCC | B,2 B,B, C4 |$ %6
+ C2 E2 F2 FF | D2 D2 E4 | EEEE FFFF | D2 DD C4 | C2 D2 C2 CC | B,2 B,2 G,4 |] %12
+V:3
+ G,4 A,4 | B,2 B,B, G,4 | G,2 C2 A,4 | G,4 G,4 | G,G,G,G, A,A,A,A, | G,2 G,G, G,4 |$ %6
+ G,2 C2 A,2 A,A, | G,2 G,2 G,4 | G,G,G,G, A,A,A,A, | B,2 B,B, G,4 | G,2 G,2 G,2 G,G, | G,2 F,2 E,4 |] %12
+V:4
+ C,4 C,4 | G,,2 G,,G,, C,4 | C,2 C,2 C,4 | G,,4 C,4 | C,C,C,C, F,,F,,F,,F,, | G,,2 G,,G,, C,4 |$ %6
+ C,2 C,2 C,2 C,C, | G,2 G,2 C,4 | C,C,C,C, C,C,C,C, | G,,2 G,,G,, C,4 | C,2 B,,2 C,2 C,C, | G,,2 G,,2 C,4 |] %12
+
+X:153
 T:Mets ta joie dans le seigneur
 C:Communauté du chemin neuf
 L:1/8
@@ -4460,7 +6130,7 @@ w: Grâce à son a- mour, ta|foi ap- pa- rai- tra|comme un so- leil _ en plein|j
 w: Grâce à son a- mour, ton|pas est as- su- ré,|et ton che- min _ _ lui|plait|
 w: Grâce à son a- mour, ils|ob- ser- vent sa voiee,|ils met- tent leur es- poir en|lui.|
 
-X:108
+X:154
 T:Mon Père, je m'abandonne à Toi
 T:T : d'après Charles de Foucauld et Thérèse de Lisieux
 C:M : Jean-François Léost
@@ -4499,7 +6169,7 @@ V:4
  E,2 E,E, | D,2 D,2 | C,C, D,E, | D,4 | B,,^D, E,F, | G,4 | G,2 A,G, | A,2 ||$ %17
  B,A, | G,2 F,2 | E, E,2 E, | A,,A,, B,,C, | D,2 D,D, | G,2 F,2 | E, E,2 E, | A,,A,, D,D, | G,4 :| %26
 
-X:109
+X:155
 T:Ne crains pas
 C:Fr. Jean Baptiste
 Z:d'après Isaie 43
@@ -4553,7 +6223,7 @@ V:4
  x8 | x8 | x8 | x8 |$ %20
  x8 | x8 | x8 | x8 |] %24
 
-X:110
+X:156
 T:Notre dieu s'est fait homme
 T:"Dieu s’est fait homme pour que l’homme se fasse Dieu" Saint Irénée
 C:M. Dannaud
@@ -4601,7 +6271,7 @@ V:4
  A,,2 A,,2 x2 | x A,, A,,A,, A,,A,, | G,,4 x2 | x G,, G,,G,, G,G, | E,2 E,2 x2 | x E, E,E, E,E, |$ %11
  A,,4 x2 | x A,, A,,A,, A,,A,, | C,2 C,2 x2 | C,2 C,2 G,,2 | B,,2 B,,2 E,2 |] %16
 
-X:111
+X:157
 T:Notre Père
 C:Glorious
 L:1/8
@@ -4623,7 +6293,7 @@ w: toi * qua ppar tiennent * le|règne la puis sance et la gloi re,|pour les si�
 ^"Am" x6^"Em" x6 |^"F" z6^"G" z3 z c>B |:^"Am" A3 z c>A^"Em" G3 z c>B |^"F" A3 z c>A^"C" G3^"Em/B" z c>B |^"Am" A3 z c>A^"Em" G3 z2 G |^"F" A3 z2 G^"G" B3 z c3/2B3/4 :|^"C" G3 z3 z6 |] %33
 w: |||||||
 
-X:112
+X:158
 T:Nous t’honorons, glorieux saint Joseph
 T:Hymne
 C:Chant de l'Emmanuel (L. Brodin)
@@ -4661,7 +6331,7 @@ V:4
  A,,2 A,,A,, G,,2 E,E, | F,4 x F,F,F, | D,2 D,C, B,,B,,B,,B,, | E,4 x E,E,E, |$ %13
  A,,2 A,,A,, G,,2 E,E, | F,3 F, C,2 C,C, | D,3 D, B,,B,,E,E, | A,,8 |] %17
 
-X:113
+X:159
 T:Nous annonçons le roi
 C:Ph. Decourroux
 L:1/8
@@ -4692,7 +6362,7 @@ w: ||* * nous é- le- vons le|
 w: |dons de son Es- * prit.|* * Nous an- non- çons le|||
 w: |||nom de Jé- sus Christ.||
 
-X:114
+X:160
 T:Nous te rendons grâce
 C:C.E. Hauguel
 %%score [ 1 2 ( 3 4 ) ]
@@ -4757,7 +6427,7 @@ V:4
 |: D,2 D,2 D,2 D,2 | A,,4- A,,4 | ^C,2 C,2 C,2 C,2 | D,4- D,4 |$ %15
 |1 D,4 D,2 D,2 |[0 D,4- D,4 | E,2 E,2 E,2 E,2 | E,4- E,4 :|[2 x2 G,2 G,2 F,2 |[0 D,8 | A,4 A,2 A,2 | D,8 |] %23
 
-X:115
+X:161
 T:Ô Seigneur à toi la gloire
 C:E. Baranger
 %%score [ ( 1 2 ) ( 3 4 ) ]
@@ -4814,7 +6484,7 @@ V:4
 |: B,,2 B,,B,, C,2 C,2 :: F,F, F,E, A,2 A,2 :: D,D, D,D, G,2 G,2 :|$ %11
  B,,3 B,, C,2 F,2 | E,3 E, A,,4 |] %13
 
-X:116
+X:162
 T:O prends mon âme
 T:151
 C:Traditionnel Hébraïque
@@ -4863,7 +6533,7 @@ V:4
  D2 DD B,2 B,2 | C2 CC C4 | D2 DD B,2 B,2 | C2 CC C4 |$ %8
  D2 A,A, A,2 A,2 | B,2 G,C C4 | D2 A,A, A,2 A,2 | (G,B,) A,G, F,4 |] %12
 
-X:117
+X:163
 T:Oh! Happy day!
 T:Arrangement Gospel (1967)
 T:provenant d'un hymne du XVIIIe siècle
@@ -4886,7 +6556,7 @@ w: He taugh me how|_|* to watch|_|* fight and pray|_|* fight and pray. *||
 ^"Bb/C" B2 B2 B2^"F" A2- | A8- | A4 A2^"Bb" B2- | B8- | B2 B B2^"F" A3- | A6 z2 | z2 B B2 c z2 |] %29
 w: and live re- joi-||* cing ev|_|* ev'- ry- day||* ev'- ry- day *|
 
-X:118
+X:164
 T:Ouvrez tous ces verrous fermés
 C:Debruynne-Grzybowski
 L:1/8
@@ -4921,7 +6591,7 @@ w: * En équi- pe, on ar- rive à|tout|* Se par- ler nous re- met de-|bout.|
 w: * Le poids des mots est tou- jours|vrai|* Se par- ler ne nous ment ja-|mais.|
 w: * Nous fai- sons le- ver le so-|leil.|* Se par- ler nous sert de ré-|veil.|
 
-X:119
+X:165
 T:Par toute la terre
 C:Communauté de l'Emmanuel - A. Lavardez
 %%score { ( 1 3 ) | ( 2 4 ) }
@@ -4980,7 +6650,182 @@ V:4
  G,4 G,2 F,2 | E,8 | F,2 F,F, D,2 D,2 | G,8 | G,4 G,2 F,2 | E,8 | F,F,F,F, D,2 D,2 | G,8 |$ %24
  C,4 C,2 C,2 | G,8 | D, D,2 D, D,2 D,2 | G,,8 | C,4 C,2 C,2 | G,8 | D, D,2 D, D,2 D,2 | G,,8 |] %32
 
-X:120
+X:166
+T:Petite Messe - Agnus - Agneau de Dieu
+C:Jo AKEPSIMAS
+%%score { ( 1 2 ) | ( 3 4 ) }
+L:1/8
+Q:1/4=76
+M:2/4
+I:linebreak $
+K:C
+V:1 clef=
+V:2 clef=
+V:3 clef=bass
+V:4 clef=bass
+V:1
+[P:Couplets]^"Am" z A AA | A3 A | AA AA |^"Dm6" A2^"G" G2 | z G GG |^"Em7" GG GG |^"Am7" G2^"Dm7" F2 |$ %7
+w: * 1.~A- gneau de|Dieu, Tu|as ou- vert le|li- vre.|* Tu es ve-|nu sé- cher nos|lar- mes|
+w: * 2.~A- gneau de|Dieu, Tu|ras- sem- bles les|peu- ples|* com- me les|grains sur les col-|li- nes|
+w: * 3.~A- gneau de|Dieu, Tu|nous as ren- dus|li- bres|* et tu nous|as don- né la|vi- e|
+^"G7" z F FF |^"C7" E3 E |^"F7" E2^"Dother" D2 |^"E4" E4- | E4 ||$ %12
+w: * Tu don- nes|sens à|no- tre|vie~!|_|
+w: * vien- nent se|fondre au|mê- me|pain~!|_|
+w: * pour mieux nous|di- re|ton a-|mour~!|_|
+[P:Refrain] z E EF |^"Am" E4- | !breath!E2 CD |^"F#mb7" EA Bc |^"Bb7" B3 A |^"Em7" (G2^"Dm7" F2) |^"C7" E4 |^"F7" E2^"Am7" G2 |^"Em7" E2^"Dm7" D2 |^"A7" =E4- | E4 |] %23
+w: * A- gneau de|Dieu|* qui en-|lè- ves le pé-|ché du|mon- *|de|Prends pi-|tié de|nous~!|_|
+w: |||||||Don- ne|nous la|paix|_|
+w: |||||||||||
+V:2
+ x A AA | G3 G | FF EE | D2 D2 | x D DD | DD DD | C2 C2 |$ %7
+ x B, B,B, | B,3 B, | A,2 B,2 | B,4- | B,4 ||$ %12
+ x E ED | C4- | C2 CD | EE EE | ^D3 D | (=D2 C2) | C4 | C2 C2 | B,2 A,2 | [^G,^C]4- | [G,C]4 |] %23
+V:3
+ z A, A,A, | A,3 A, | CC CC | B,2 B,2 | z B, B,B, | B,B, B,B, | A,2 A,2 |$ %7
+ z G, G,G, | G,3 G, | F,2 A,2 | (A,4 | ^G,4) ||$ %12
+ z E, A,A, | (B,4 | A,2) A,B, | =CC CA, | A,3 A, | A,4 | B,4 | A,2 A,2 | G,2 F,2 | E,4- | E,4 |] %23
+V:4
+ x A, A,A, | A,3 A, | A,A, A,A, | A,2 A,2 | x A, A,A, | E,E, E,E, | E,2 D,2 |$ %7
+ x D, D,D, | C,3 C, | C,2 F,2 | E,4- | E,4 ||$ %12
+ x E, E,E, | A,,4- | A,,2 A,G, | ^F,F, F,F, | =F,3 F, | (E,2 D,2) | C,4 | F,2 E,2 | D,2 C,2 | A,,4- | A,,4 |] %23
+
+X:167
+T:Petite Messe - Anamnèse
+C:Jo AKEPSIMAS
+%%score { ( 1 2 ) | ( 3 4 ) }
+L:1/8
+Q:1/4=100
+M:4/4
+I:linebreak $
+K:F
+V:1 clef=
+V:2 clef=
+V:3 clef=bass
+V:4 clef=bass
+V:1
+|:^"F" A2 A2 A3 G | B A3^"Gm7" G4 ::^"C4" G2 G2^"C7" G3 F |^"A7" A G3^"Dm" F4 :|$ %4
+w: |Gloire à toi, qui|é- tais mort!|Gloire à toi qui|es vi- vant~!|
+|:^"Bb" F2 FF F3 D |^"Am" E2^"G4" F2^"C" G4 ::^"Gm" B4^"F" AF^"C7" G2 |^"F" F8 :| %8
+w: |No- tre Sau- veur et|no- tre Dieu|Viens, Sei- gneur Jé-|sus~!|
+V:2
+|: F2 F2 F3 F | F F3 F4 :: F2 F2 E3 E | E E3 D4 :|$ %4
+|: D2 DD D3 D | C2 C2 (F2 E2) :: F4 FF E2 | C8 :| %8
+V:3
+|: C2 C2 E3 D | D C3 D4 :: B,2 B,2 B,3 B, | A, A,3 A,4 :|$ %4
+|: B,2 A,A, _A,3 A, | G,2 G,2 D4 :: D4 CA, B,2 | [F,A,]8 :| %8
+V:4
+|: F,2 F,2 F,3 F, | G, G,3 B,4 :: C,2 C,2 C,3 C, | ^C, C,3 D,4 :|$ %4
+|: B,,2 B,,B,, B,,3 B,, | A,,2 D,2 C,4 :: G,,4 C,C, C,2 | F,,8 :| %8
+
+X:168
+T:Petite Messe - Gloria
+%%score { ( 1 2 ) | ( 3 4 ) }
+L:1/8
+Q:1/4=96
+M:4/4
+I:linebreak $
+K:G
+V:1 clef=
+V:2 clef=
+V:3 clef=bass
+V:4 clef=bass
+V:1
+^"G" B2 B2^"C" c4 |^"G" B3 c B2^"D" A2 |[1^"B7" B3 A^"Em" G2 AB |^"Dsus4" d4^"D7" d4 ::[2^"B7" B3 A^"Em" G2^"Am" AB |^"Dsus4" A4^"G" G4 ||$ %6
+w: Gloire à Dieu,|Paix aux hom- mes,|Joie du ciel sur la|ter- re~!|Joie du ciel sur la|ter- re~!|
+w: ||||||
+w: ||||||
+w: ||||||
+^"G" B2 Bc^"Bm" d2 d2 |^"E7" c2 B2^"Am" A4 |^"D" A2 B2^"Em" G2^"Am" EG |^"D7" A4- A4 ||$ %10
+w: 1.~Pour tes mer- veil- les,|Sei- gneur Dieu,|Ton peu- ple te rend|grâ- ce~:|
+w: 2.~A- mi des hom- mes|sois bé- ni|Pour ton rè- gne qui|vient~! *|
+w: 4.~Sau- veur du mon- de|Jé- sus Christ,|E- cou- te nos pri-|è- res~;|
+w: 5.~A- gneau de Dieu, vain|queur du mal,|Sau ve- nous du pé-|ché~! *|
+^"G" B2 B3^"Bm" c dd |^"E7" (c2 B2)^"Am" A2 AA |^"D" A2 BB^"Em" G2^"Am" EG |^"D7" A8 |] %14
+w: 3.~A Toi les chants de|fê- * te Par ton|Fils bien ai- mé, dans l'Es-|prit.|
+w: 6.~Dieu Saint, splen- deur du|Pè- * re, Dieu vi-|vant, le Très- Haut le Sei-|gneur.|
+w: ||||
+w: ||||
+V:2
+ G2 G2 G4 | G3 G G2 F2 |[1 F3 F E2 EE | (E2 G2) F4 ::[2 F3 F E2 EE | ([EG]2 [DF]2) D4 ||$ %6
+ G2 GG F2 F2 | ^G2 G2 A4 | F2 F2 E2 CE | F4- F4 ||$ %10
+ G2 G3 G FF | ^G4 A2 =GG | F2 FF E2 CE | F8 |] %14
+V:3
+ D2 D2 E4 | D3 E D2 C2 |[1 B,3 B, B,2 CC | C4 C4 ::[2 B,3 B, B,2 CC | C4 B,4 ||$ %6
+ D2 DD D2 D2 | D2 D2 C4 | C2 C2 B,2 B,C | C4- C4 ||$ %10
+ D2 D3 D DD | D4 C2 CC | C2 CC B,2 B,C | C8 |] %14
+V:4
+ G,2 G,2 C,4 | G,3 G, G,2 D,2 |[1 ^D,3 D, E,2 =D,D, | (G,2 E,2) D,4 ::[2 ^D,3 D, E,2 A,,A,, | D,4 G,,4 ||$ %6
+ G,2 F,E, B,,2 B,,2 | E,2 E,2 A,,4 | D,2 D,2 E,2 G,A, | D,4- D,4 ||$ %10
+ G,2 F,3 E, B,,B,, | E,4 A,,2 A,,A,, | D,2 D,D, E,2 G,A, | D,8 |] %14
+
+X:169
+T:Petite Messe - Kyrie - Seigneur, Prends Pitié
+C:Jo AKEPSIMAS
+%%score { ( 1 4 ) | ( 2 3 ) }
+L:1/8
+Q:1/4=76
+M:2/4
+I:linebreak $
+K:F
+V:1 clef=
+V:4 clef=
+V:2 clef=bass
+V:3 clef=bass
+V:1
+^"Dm""^Soliste" D2 A2 |^"G" G2 F2 |^"C" G2 A2 |^"Dm" D4 ||^"Dm""^Choeur" D2 A2 |^"G" G2 F2 |^"C" G2 A2 |^"Dm" D4 ||^"Dm""^Assemblée + Choeur" D2 A2 |^"G" G2 F2 |^"C" G2 A2 |^"Dm" D4 ||$ %12
+w: Sei- gneur,|prends pi-|tié de|nous.|Sei- gneur|prends pi-|tié de|nous.|Sei- gneur,|prends pi-|tié de|nous.|
+^"Dm""^Soliste" d2 c2 |^"G" =B2 A2 |^"C" =B2 c2 |^"Dm" A4 ||^"Dm""^Choeur" d2 c2 |^"G" =B2 A2 |^"C" =B2 c2 |^"Dm" A4 ||^"Dm""^Assemblée + Choeur" d2 c2 |^"G" =B2 A2 |^"C" =B2 c2 |^"Dm" A4 ||$ %24
+w: O Christ,|prends pi-|tié de|nous.|O Christ,|prends pi-|tié de|nous.|O Christ,|prends pi-|tié de|nous.|
+^"Dm""^Soliste" D2 A2 |^"G" G2 F2 |^"C" G2 A2 |^"Dm" D4 ||^"Dm""^Choeur" D2 A2 |^"G" G2 F2 |^"C" G2 A2 |^"Dm" D4 ||^"Dm""^Assemblée + Choeur" A2 d2 |^"G" d2 c2 |^"C" e2 c2 |^"Dm" !fermata!d4 |] %36
+w: Sei- gneur,|prends pi-|tié de|nous.|Sei- gneur|prends pi-|tié de|nous.|Sei- gneur,|prends pi-|tié de|nous.|
+V:2
+ z4 | z4 | z4 | z4 || D,2 E,2 | E,2 D,2 | C,2 E,2 | D,4 || D2 C2 | =B,2 A,2 | =B,2 C2 | A,4 ||$ %12
+ z4 | z4 | z4 | z4 || D,2 E,2 | E,2 D,2 | C,2 E,2 | D,4 || D2 C2 | =B,2 A,2 | =B,2 C2 | A,4 ||$ %24
+ z4 | z4 | z4 | z4 || D2 C2 | =B,2 A,2 | =B,2 C2 | A,4 || D2 C2 | =B,2 A,2 | =B,2 C2 | !fermata!A,4 |] %36
+V:3
+ x4 | x4 | x4 | x4 || x4 | x4 | x4 | x4 || D,2 E,2 | E,2 D,2 | C,2 E,2 | D,4 ||$ %12
+ x4 | x4 | x4 | x4 || x4 | x4 | x4 | x4 || D,2 E,2 | E,2 D,2 | C,2 E,2 | D,4 ||$ %24
+ x4 | x4 | x4 | x4 || D,2 E,2 | E,2 D,2 | C,2 E,2 | D,4 || D,2 E,2 | E,2 D,2 | C,2 E,2 | D,4 |] %36
+V:4
+ x4 | x4 | x4 | x4 || x4 | x4 | x4 | x4 || x4 | x4 | x4 | x4 ||$ %12
+ x4 | x4 | x4 | x4 || x4 | x4 | x4 | x4 || D2 A2 | G2 F2 | G2 A2 | D4 ||$ %24
+ x4 | x4 | x4 | x4 || x4 | x4 | x4 | x4 || D2 A2 | G2 F2 | G2 A2 | D4 |] %36
+
+X:170
+T:Petite Messe - Sanctus - Saint le Seigneur
+C:Jo AKEPSIMAS
+Z:ABACA
+%%score { ( 1 2 ) | ( 3 4 ) }
+L:1/8
+Q:1/4=96
+M:4/4
+I:linebreak $
+K:C
+V:1 clef=
+V:2 clef=
+V:3 clef=bass
+V:4 clef=bass
+V:1
+|:[P:A]^"G" G |^"C" c4^"G" B3 G |^"Am" A4^"Em" G3 G |[1^"C" cc^"G" BA^"Em" G2^"Dm" F2 |^"E" E6 z :|[2^"C" cc^"G" BA^"Em" G2^"Dm" A2 |^"C" !fermata!c8 ||$ %7
+w: |Ho-|san- na, Ho-|san- na Ho-|san- na au plus haut des|cieux~! *|san- na au plus haut des|cieux~!|
+[P:B]^"C" !breath!G4^"F" A4 |^"G4" G3 F^"C7" E2^"F6" D2 |^"Am" C3 D E2^"F7" A2 |^"G4" G6 z G |^"Eb" G2 G_B^"Bb" B2 BB |^"Cm7" c2^"Bb" c2^"Eb7" G2^"Ab7" c2 |^"Gm7" (_B4^"Fm7" _A4) |^"G" G6 z ||$ %15
+w: Saint~! Saint~!|Saint le Sei- gneur|Dieu de l'u- ni-|vers. * Le|ciel et la ter- re sont|rem- plis de ta|gloi- *|re. *|
+[P:C]^"C" EE EE^"Bb" GG GG |^"A" A2^"Dm" FA^"G" G3 |] %17
+w: Bé- ni soit ce- lui qui vient au|nom du Sei- gneur.|
+V:2
+|: G | G4 G3 G | E4 E3 E |[1 GG FF D2 C2 | B,6 x :|[2 GG FF D2 F2 | E8 ||$ %7
+ E4 F4 | D3 D C2 C2 | A,3 C C2 E2 | D6 x D | _E2 EF F2 FF | _E2 F2 D2 G2 | (F4 _E4) | D6 x ||$ %15
+ CC CC DD DD | ^C2 DF D3 |] %17
+V:3
+|: G, | E4 D3 D | C4 B,3 B, |[1 EE DC B,2 A,2 | ^G,6 z :|[2 EE DC B,2 C2 | !fermata![G,C]8 ||$ %7
+ !breath!C4 C4 | C3 A, B,2 A,2 | G,3 A, A,2 C2 | C6 z C | _B,2 B,B, B,2 B,B, | _B,2 B,2 B,2 _E2 | (D4 C4) | =B,6 z ||$ %15
+ G,G, G,G, G,G, G,G, | G,2 A,=C =B,3 |] %17
+V:4
+|: G, | C,4 G,3 E, | A,,4 E,3 E, |[1 C,C, D,D, E,2 D,2 | E,6 x :|[2 C,C, D,D, E,2 D,2 | C,8 ||$ %7
+ C,4 F,4 | G,3 G, C,2 F,2 | E,3 F, G,2 F,2 | G,6 x G, | _E,2 E,E, D,2 D,D, | C,2 D,2 _E,2 _A,2 | (G,4 F,4) | G,6 x ||$ %15
+ C,C, C,C, _B,,B,, B,,B,, | A,,2 D,D, G,3 |] %17
+
+X:171
 T:Peuple de l'alliance
 C:Michel SCOUARNEC
 Z:Jo AKEPSIMAS
@@ -5020,7 +6865,7 @@ V:4
  D,2 F,2 E,3 E, | F,4 | G,G,G,G, F,3 F, | E,E,C,A,, D,2 C,2 |$ %6
  B,,3 B, ^A,B,CD | B,2 F,2 B,,4 |] %8
 
-X:121
+X:172
 T:Plonge-moi dans ta rivière
 C:Chris Bowater
 %%score 1 [ 2 ( 3 4 ) ]
@@ -5058,7 +6903,7 @@ V:4
  A,,4 D,4 | G,4 C,4 | F,,4 B,,4 | E,4 E,,4 | A,,4 D,4 |$ %13
  G,4 C,4 | x8 | x8 |] %16
 
-X:122
+X:173
 T:Pour les hommes et pour les femmes
 C:P.M Gambarelli
 L:1/8
@@ -5089,7 +6934,7 @@ w: 4.Tu es ve- nu por-|ter l'a- mour|Ta mort nous ap- prend|le par- don|
 w: 5.Au- près de la vier-|ge Ma- rie|Lors- que vient le temps|de la mort|
 w: 6.A- vec ton fils no-|tre sei- gneur|A- vec l'es- prit ton|mes- sa- ger|
 
-X:123
+X:174
 T:Prière scoute
 C:Gaston Schindler
 Z:Saint Ignace de LOYOLA
@@ -5108,7 +6953,7 @@ w: ler sans cher- cher le re-|pos, * à nous|dé- pen- ser sans at-|ten- dre d'a
 ^"Dm" f2 f2^"Am" e2^"G7" d2 |^"C" cG GG^"Am" c2^"G7" de |^"F" c2 c2^"G" B3 c |^"C" c8 |] %19
 w: cel- le de sa-|voir que nous fai- sons vo- tre|sain- te vo- lon-|té.|
 
-X:124
+X:175
 T:Prière simple
 T:Seigneur, fais de nous
 C:Noël COLOMBIER
@@ -5158,7 +7003,7 @@ V:4
  x8 | x8 | x8 | x8 |$ %12
  x8 | x8 | x8 | x8 |] %16
 
-X:125
+X:176
 T:Prière universelle : Accueille au creux de tes mains
 L:1/8
 M:4/4
@@ -5169,7 +7014,7 @@ V:1
 ^"Em" z E | B3 B^"Am" cB A2 |^"Em" B6 EF |^"C" G3 G^"Bm" F2 D2 |^"Em" E6 |] %5
 w: * Ac-|cueille au creux de tes|mains, la pri-|ère de tes en-|fants.|
 
-X:126
+X:177
 T:Prière universelle : Entends nos prières
 L:1/8
 M:2/4
@@ -5180,7 +7025,7 @@ V:1
 ^"E" BB GE |^"A" c2^"E" B2 | B G2 E |^"B7" F4 |^"E" BB GE |^"A" c2^"E" B2 |^"B7" B E2 F |^"E" E4 |] %8
 w: En- tends nos pri-|è- res,|en- tends nos|voix.|En- tends nos pri-|è- res,|mon- ter vers|toi.|
 
-X:127
+X:178
 T:Prière universelle : Jésus, sauveur du monde
 %%score ( 1 2 )
 L:1/8
@@ -5195,7 +7040,7 @@ w: Jé-|sus, sau- veur du|mon- de, é-|coute et prends * pi-|tié.|
 V:2
  D2 | D2 D2 E2 A,2 | (B,2 A,2) A,2 F2 | F2 F2 F2 FE | D6 |] %5
 
-X:128
+X:179
 T:Prière universelle : Seigneur, entends la prière
 L:1/8
 M:3/4
@@ -5206,7 +7051,7 @@ V:1
 ^"G" D2 G2 A2 |^"C" B2 A2 c2 |^"G" B6 | G6 |^"C" B2 A2 G2 |^"D7" E4 D2 |^"G" G6- | G6 |] %8
 w: Sei- gneur, en-|tends la pri-|è-|re|qui mon- te|de nos|coeurs|_|
 
-X:129
+X:180
 T:Prière universelle : Seigneur, nous avons tant besoin de toi
 C:Laurent Rafignon
 L:1/8
@@ -5220,7 +7065,7 @@ w: * Sei-|gneur, * nous a- vons tant be- soin de|toi Tu nous|ai- mes * nous som-
 ^"Em" GF/ E2 F/ G F<E D |^"C" E4 z EEF |^"G" G2 z/ G/G/G/^"D" F E<D E |^"Em" E6 |] %9
 w: mê- me coeur et d'u- ne mê- me|voix * nous te pri-|ons * et nous sa- vons que tu en-|tends.|
 
-X:130
+X:181
 T:Psaume de la création
 C:Patrick Richard
 %%score { 1 2 }
@@ -5275,7 +7120,7 @@ V:2
  d'2 z d3 | d3 fed | g3 dcB | GAB cde | c3- c2 z | B3 d2 e | f3 Acd |$ %33
  c3 Acd | d3 B2 A | G3 z3 | z3 G3 | A4 cd |] %38
 
-X:131
+X:182
 T:Puisque tu fais miséricorde
 T:Z 44-71 - Psaumes 129 (1 à 4) & 50 (5 à 9)
 C:Marcel Dannaud
@@ -5326,7 +7171,7 @@ w: 7.~Dé- tour- ne toi ô Dieu, de|mon pé- ché, tou- tes mes|fau- tes, * ef- 
 w: 8.~Ou- vre mes lè- vres, que je|loue ton nom, et que ma|bou- che * chan- te pour|toi. *|
 w: 9.~Tu ne re- jet- tes pas le|coeur broy- é, re- çois ma|vie, * * pour la com-|bler. *|
 
-X:132
+X:183
 T:Qu'exulte tout l'univers
 C:L. Cordin
 %%score { ( 1 2 ) | ( 3 4 ) }
@@ -5380,7 +7225,7 @@ V:4
 [K:A] C,2 C, C,2 ^D, =F,2 | F,6 x2 | C,2 C, G,2 =F, C,2 | D,6 x2 |$ %13
  E,2 E, E,2 F, E,2 | F,6 F,E, | D,2 D, D,2 C, B,,2 | E,6 x2 |] %17
 
-X:133
+X:184
 T:Qu'il est formidable d'aimer
 C:Jean-claude GIANADDA
 %%score 1 2
@@ -5429,7 +7274,7 @@ V:2
  z8 | z8 | z8 | z8 |$ %30
  z8 | z8 | z8 | z8 |] %34
 
-X:134
+X:185
 T:Quand Tu poses Ta main
 T:Album "Promesse" (2018)
 C:Glorious
@@ -5458,7 +7303,7 @@ w: ||||
 w: * Quand tu po- * ses ta main|* Oh|Oh Oh|Oh *|* Quand tu po- * ses ta main|* Oh|Oh Oh|Oh|_|
 w: |||||||||
 
-X:135
+X:186
 T:Que soit béni le nom de Dieu
 T:Dn 2, 20
 C:B. Melois
@@ -5501,7 +7346,7 @@ V:4
  B,, | B,B,B, A,A,A, | G,3 F,3 | E,E,E, G,2 G, | F,3 F,3 |$ %9
  E,E,E, D,D,D, | C,3 E,E,E, | (F,3 (E,3) | F,6) |] %13
 
-X:136
+X:187
 T:Que ma bouche chante ta louange
 C:Chants de l'Emmanuel (F. Deboeuf)
 %%score { ( 1 2 ) | ( 3 4 ) }
@@ -5566,7 +7411,7 @@ V:4
  A,G, | F,3 F, C,4 | G,>G,- G,G, A,2 A,G, | F,3 F, C,>C,- C,C, | G,6 A,G, | F,3 F, C,4 |$ %14
  G,>G,- G,G, A,2 A,G, | F,3 F, C,>C,- C,C, | G,6 G,G, | C,2 E,2 F,G, A,F, | G,2 G,,2 C,4 |] %19
 
-X:137
+X:188
 T:Que vive mon âme à te louer
 C:Bénédicte Ducatel
 %%score [ ( 1 2 ) ( 3 4 ) ]
@@ -5619,7 +7464,7 @@ V:4
  x8 | x8 | x8 | x8 | x8 |$ %15
  x8 | x8 | x4 | x8 |] %19
 
-X:138
+X:189
 T:Recevez le Christ
 C:Chants de l'Emmanuel (B. Laplaize)
 %%score [ ( 1 2 ) ( 3 4 ) ]
@@ -5672,7 +7517,7 @@ V:4
  E,E, | E,3 E, E,4 | E,3 E, E,2 D,2 | C,3 B,, A,,A,, F,,F,, | B,,6 B,,B,, |$ %14
  C,3 C, D,D, B,,D, | E,3 D, C,C, C,C, | F,,3 F,, B,,B,, B,,B,, | E,4 x2 |] %18
 
-X:139
+X:190
 T:Regarde l'étoile
 C:C. Blanchard
 Z:D'après hymne de Saint Bernard
@@ -5745,7 +7590,7 @@ w: |Re-|gar- de l'é- toile, * in-|vo- que Ma- rie, *|||
 w: |||||
 w: |||||
 
-X:140
+X:191
 T:Regardez l'humilité de Dieu
 T:(2015)
 C:Anne-Sophie Rahm
@@ -5788,7 +7633,7 @@ V:4
  x6 G,,G,, | C,3 C, C,C,C,B,, | A,,4 A,,2 A,,2 | E,3 E, E,E,G,E, | B,,4 x2 B,,B,, | C,2 C,2 E,E,G,G, |$ %15
  A,2 x A,, B,,B,,B,,B,, | E,2 C,2 F,2 G,,2 | C,6 x2 :| %18
 
-X:141
+X:192
 T:Relever le faible
 T:1000 Echos (2016)
 C:Glorious
@@ -5824,7 +7669,7 @@ w: ||
 w: * * Pas- sé de l'ombre à ta * lu- mière|* * J'ai mis mon es- poir * en toi|_||||
 w: ||||||
 
-X:142
+X:193
 T:Resucito, resucito
 C:Kiko Argüello (1939-...)
 %%score { ( 1 4 5 ) | ( 2 3 ) }
@@ -5867,7 +7712,7 @@ V:5
  x4 | x8 | x8 | x8 |$ %14
  x8 | x8 | x8 | x4 .c.c.c.B .c2 |] %18
 
-X:143
+X:194
 T:Réjouis toi fille de Sion
 C:David Loden
 L:1/8
@@ -5893,7 +7738,7 @@ w: * A- do- naï _ _|_ est ve- nu vers toi,|* ne crains pas _ _|
 w: * Si- on, Si- on _|_ re- lè- ve tes bras,|* car voi- ci ton roi.|
 w: * il te ré- joui- ra.|* Il fe- ra de toi,|* sa plus gran- de joie.|
 
-X:144
+X:195
 T:Saint le Seigneur
 T:CNA 249
 L:1/8
@@ -5909,7 +7754,7 @@ w: Le ciel et la ter- re sont rem-|plis de ta gloi- re|Ho- * san- * na au plus|h
 ^"Em" EDEF GFEE |^"D" A2 GA^"B" F4 |:^"Em" (EF)GA^"G" B2 AG |^"D" A2 GF^"Em" E4 :| %11
 w: Bé- ni soit ce- lui qui vient au|nom du sei- gneur|Ho- * san- * na au plus|haut des * Cieux.|
 
-X:145
+X:196
 T:Seigneur, nous avons tant besoin de toi
 T:prière universelle
 C:Laurent Rafignon
@@ -5924,7 +7769,7 @@ w: Sei-|gneur, * nous a- vons tant be- soin de|toi Tu nous|ai- mes * nous som- m
 ^"Em" GF/ E2 F/ GF<ED |^"C" E4 z EEF |^"G" G2 z/ G/G/G/^"D" FE<DE |^"Em" E6 z B, :| %9
 w: mê- me coeur et d'u- ne mê- me|voix * nous te pri-|ons * et nous sa- vons que tu en-|tends. * *|
 
-X:146
+X:197
 T:Si le père vous appelle
 C:Musique:Jacques Berthier
 Z:Texte:Didier Rimaud
@@ -5971,7 +7816,7 @@ w: ||||
 w: ||||
 w: ||||
 
-X:147
+X:198
 T:Souffle impévisible
 C:Jo Akepsimas
 Z:Claude Bernard
@@ -6037,7 +7882,7 @@ V:4
  E, E,2 E, A,,A,, A,,2 | D,D,D,D, G,4 | C, C,2 C, F,F, F,2 | B,,B,,B,,B,, E,4 |$ %12
  E, E,2 E, A,,B,, C,2 | D,D,D,D, G,4 | C, C,2 C, F,G, A,2 | B,2 B,,2 ^C,2 ^D,2 | E,8 |] %17
 
-X:148
+X:199
 T:Tiens ma lampe allumée
 C:Jean-Claude Gianadda
 L:1/8
@@ -6072,7 +7917,7 @@ w: sûr Et que dans mon re-|gard ta clar- té vien- ne|poin- * dre _|
 w: fou Et que puis- sent mes|bras sa- voir en- co- re|étrein- * dre _|
 w: veaux Que puis- se mon che-|min par- ve- nir à t'at-|tein- * dre _|
 
-X:149
+X:200
 T:Tournez les yeux vers le seigneur
 C:Ch. Guerret-Fourneau
 L:1/8
@@ -6100,7 +7945,7 @@ w: 3.Ceux qui cher- chent le sei-|gneur ne se-|ront pri- vés de|rien. *|
 ^"D" A2 A A2 A A2 |^"F#m" A4 z2 AA |^"G" D3 D E E3 |^"D" D8 |] %34
 w: S'ils lui ou- vrent leur|coeur, * ils se-|ront com- blés de|bien.|
 
-X:150
+X:201
 T:Trouver dans ma vie ta présence
 C:Jean-claude GIANADDA
 L:1/8
@@ -6126,7 +7971,7 @@ w: _ Res-|ter pour le|pain de la|rou-|te, Sa-|voir re- con-|naî- tre ton|pas|_|
 w: _ Choi-|sir de don-|ner sans re-|pren-|dre Fê-|ter le re-|tour d'un en-|fant|_|
 w: _ Sa-|voir tout ce|que tu m'ap-|por-|tes Res-|ter et de-|ve- nir veil-|leur|_|
 
-X:151
+X:202
 T:Tu seras la louange
 T:Album "Promesse" (2018)
 C:Glorious
@@ -6161,7 +8006,7 @@ w: _ _ Tu fends la|* mer * * Tu me sai-|* sis. * Sans peur je|* marche a- vec co
 w: |||||
 w: |||||
 
-X:152
+X:203
 T:Tu as porté celui qui porte tout
 C:Chants de l'Emmanuel - L. Cordin
 %%score { ( 1 2 ) | ( 3 4 ) }
@@ -6214,7 +8059,7 @@ V:4
  A,,2 A,D,- D,3 D, | E,E,E,A,,- A,,4 | B,,4 B,,2 B,,2 | E,6 x2 |$ %12
  A,,2 A,D,- D,3 D, | E,E,E,F,- (F,2 E,2) | (D,2 C,2) B,,2 B,,2 | E,4- E,2 x2 |] %16
 
-X:153
+X:204
 T:Tu entends mon cri
 C:Communauté du chemin neuf
 %%score [ 1 ( 2 3 ) 4 ]
@@ -6263,7 +8108,7 @@ V:4
  z8 | z8 | z8 | z8 |$ %12
  z8 | z8 | z8 | z8 |] %16
 
-X:154
+X:205
 T:Tu es devenu enfant de Dieu
 C:A. Gouzes
 Z:J-P Revel & D. Bourgeois
@@ -6326,7 +8171,7 @@ w: B.~Al-|lé- lu- ia al-|lé- lu- ia, al-|lé- lu- ia. Al-|lé- lu- ia. Al-|
  D,>D, D,D, | G,>G, G,G, | D,>D, D,D, | G,>G, !fermata!G,2 |] %17
 w: lé- lu- ia. Al-|lé- lu- ia Al-|lé- lu- ia. Al-|lé- lu- ia!|
 
-X:155
+X:206
 T:Tu fais ta demeure en nous
 C:Chants de l'emmanuel (S.-M. Drouineau)
 %%score [ 1 2 ( 3 4 ) ]
@@ -6375,7 +8220,7 @@ V:4
  x E, | C,C,C,C, D,3 D, | B,,B,,B,,B,, E,4 | A,,2 B,,2 C,2 C,C, | B,,6 z B,, |$ %13
  A,,A,,A,,A,, A,,3 E, | E,E,E,F, G,4 | A,A,C,C, B,,B,,B,,B,, | E,8 |] %17
 
-X:156
+X:207
 T:Venez approchons-nous
 C:A. Dumont
 %%score [ 1 2 ( 3 4 ) ]
@@ -6420,7 +8265,7 @@ V:4
  x2 G,,/G,,/ | G,,G,,G,, B,,A,,G,, | F,,F,,^C, B,,2 B,,/B,,/ | E,E,E, C,C,C,/C,/ | F,G,E, B,,2 G,,/G,,/ |$ %14
  G,,G,,G,, B,,B,,A,,/G,,/ | F,,F,,^C, B,,2 B,,/B,,/ | E,E,E, C,2 C,/C,/ | F,F,E, B,,3 |] %18
 
-X:157
+X:208
 T:Venez chantons notre Dieu
 C:G.Dedillon
 %%score [ 1 ( 2 3 ) ]
@@ -6479,7 +8324,7 @@ V:3
 |: x4 | x4 | x4 | x2 ||$ %22
  EE | EE B,B, | C2 C2 | C B,3 | E4 :| %27
 
-X:158
+X:209
 T:Venez, divin Messie
 C:Abbé Lambert
 Z:Abbé Pellegrin (1663-17745)
@@ -6548,7 +8393,7 @@ V:4
  D,2 F, B,2 B, | E,3 B,2 F, | G,2 D, E,2 =E, | F,2 C, F,2 E, |$ %21
  D,2 F, B,2 B, | E,3 B,2 A, | B,2 B, F,G,F, | [B,,F,]3 x3 |] %25
 
-X:159
+X:210
 T:Viens, Saint Esprit
 C:Elisabeth Bourbouze
 %%score { ( 1 2 ) | ( 3 4 ) }
@@ -6586,7 +8431,7 @@ V:4
  B,,4- B,,B,, B,,>A,, | A,,4- A,,A,,A,,A,, | E,E,<E,E, B,,4 | =C,C,<C,C, =D,D,<D,D, |$ %9
  E,4 E,4 | =C,C,<C,C, =D,D,<D,D, | E,4 E,4 | =C,C,<C,C, =D,D,<D,D, | E,8 |] %14
 
-X:160
+X:211
 T:Vivre comme le Christ
 C:Fr Jean-Baptiste du Jonchay
 Z:D'après le Bienheureux P. Brottier
@@ -6641,7 +8486,7 @@ V:4
  F,F, F,F,- F,2 F,2 | F,2 F,C,- C,2 D,E, | D,2 D,D,- D,D, E,2 | A,,8 |$ %14
  A,A, A,A,- A,2 A,2 | A,2 A,E,- E, E, E,E, | B,,6 ^A,,2 | C,6 C,2 | F,8- | F,8 |] %20
 
-X:161
+X:212
 T:Vivre d'amour
 C:Frère Ephraïm
 Z:Ste Thérèse de l'Enfant-Jésus
@@ -6684,7 +8529,7 @@ V:4
  B,,4 x B,,3 | E,8 | A,4 x F,3 | D,8 | B,,4 x3 B,, |$ %15
  x8 | x8 | x8 | x8 | C,4 x4 |] %20
 
-X:162
+X:213
 T:Voici le corps et le sang du seigneur
 C:M. Dannaud
 %%score [ 1 2 ( 3 4 ) ]
@@ -6733,7 +8578,7 @@ V:4
  D,D, | D,2 D,2 C,2 | B,,2 B,,2 B,,2 | A,,6 | A,,2 z2 B,,B,, | B,,2 B,,2 A,,2 | G,,2 G,,2 G,,2 | A,,6- | A,,2 z2 ^A,,A,, |$ %25
  B,,2 B,,2 A,,2 | G,,2 G,,2 G,,2 | B,,6 | B,,2 z2 B,,A,, | D,2 D,2 C,2 | B,,2 B,,2 B,,2 | A,,6- | A,,4 z2 |] %33
 
-X:163
+X:214
 T:When the saints go marching in
 T:Gospel
 L:1/8
@@ -6748,7 +8593,7 @@ w: * 1.Oh when the|saints|* Oh when the|saints|* Oh when the|saints go|mar- chin
  z2 F2 F2 E2 |^"D" D6 D2 |^"D7" F4 A4 |^"G" A2 G6 | z2 G2 F2 G2 |^"D" A4 F4 | D4^"A7" E4 |^"D" D8 |] %16
 w: * I want to|be a-|mong the|num- ber|* Oh when the|saints go|mar- ching|in|
 
-X:164
+X:215
 T:Ô Père, Dieu du ciel et de la terre
 C:Communauté de l’Emmanuel (R. Lobo)
 %%score { ( 1 2 ) | ( 3 4 ) }
